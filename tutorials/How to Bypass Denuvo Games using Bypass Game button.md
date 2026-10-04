@@ -1,7 +1,7 @@
 ---
 id: how-to-bypass-denuvo-games-using-bypass-game-button
 title: How to Bypass Denuvo Games using Bypass Game button?
-game: How to  Denuvo Games using  Game button?
+game: How to Bypass Denuvo Games using Bypass Game button?
 author: The Weekdys
 version: 1.0
 desc: Before Downloading game at steam make sure game already lock version at SUO

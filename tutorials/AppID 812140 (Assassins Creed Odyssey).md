@@ -1,7 +1,7 @@
 ---
 id: appid-812140-assassins-creed-odyssey
 title: AppID : 812140 (Assassins Creed Odyssey)
-game: AppID  (Assassins Creed Odyssey)
+game: AppID (Assassins Creed Odyssey)
 appid: 812140
 author: The Weekdys
 version: 1.0

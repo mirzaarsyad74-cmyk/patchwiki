@@ -1,7 +1,7 @@
 ---
 id: paper-bride-series-from-1-6-online-check-bypass
 title: Paper Bride Series from 1 - 6 online check bypass
-game: Paper Bride Series from 1 - 6  check
+game: Paper Bride Series from 1 - 6 check
 author: The Weekdys
 version: 1.0
 desc: Download the attached, extract and copy all the folders and paste into Appdata/Roaming

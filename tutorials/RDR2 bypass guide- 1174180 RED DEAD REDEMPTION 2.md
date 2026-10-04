@@ -1,7 +1,7 @@
 ---
 id: rdr2-bypass-guide-1174180-red-dead-redemption-2
 title: RDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2
-game: RDR2   RED DEAD REDEMPTION 2
+game: RDR2 RED DEAD REDEMPTION 2
 appid: 1174180
 author: MinamiRX20
 version: 1.0

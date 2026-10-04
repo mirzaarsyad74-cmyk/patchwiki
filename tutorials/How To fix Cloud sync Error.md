@@ -1,7 +1,7 @@
 ---
 id: how-to-fix-cloud-sync-error
 title: How To fix Cloud sync Error
-game: How To  Cloud sync Error
+game: How To fix Cloud sync Error
 author: MinamiRX20
 version: 1.0
 desc: Steam  setting  Cloud  Enable Steam Cloud  off/disable

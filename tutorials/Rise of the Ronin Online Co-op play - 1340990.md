@@ -1,7 +1,7 @@
 ---
 id: rise-of-the-ronin-online-co-op-play-1340990
 title: Rise of the Ronin Online Co-op play - 1340990
-game: Rise of the Ronin  play
+game: Rise of the Ronin play
 appid: 1340990
 author: The Weekdys
 version: 1.0

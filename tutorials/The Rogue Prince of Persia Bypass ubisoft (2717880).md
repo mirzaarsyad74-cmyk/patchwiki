@@ -1,7 +1,7 @@
 ---
 id: the-rogue-prince-of-persia-bypass-ubisoft-2717880
 title: The Rogue Prince of Persia Bypass ubisoft (2717880)
-game: The Rogue Prince of Persia  ubisoft
+game: The Rogue Prince of Persia ubisoft
 appid: 2717880
 author: MinamiRX20
 version: 1.0
