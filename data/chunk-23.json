@@ -1,33 +1,5 @@
 [
   {
-    "id": "hypercharge-unboxed-523660",
-    "appId": 523660,
-    "title": "HYPERCHARGE: Unboxed Online Fix",
-    "game": "HYPERCHARGE: Unboxed",
-    "desc": "HYPERCHARGE: Unboxed Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# HYPERCHARGE: Unboxed Online Fix\n\n# HYPERCHARGE: Unboxed Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "satisfactory-526870",
-    "appId": 526870,
-    "title": "Satisfactory Online Fix",
-    "game": "Satisfactory",
-    "desc": "Satisfactory Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Satisfactory Online Fix\n\n# Satisfactory Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
     "id": "dying-light-2-reloaded-edition-534380",
     "appId": 534380,
     "title": "Dying Light 2: Reloaded Edition Online Fix",
@@ -279,5 +251,33 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Zombie Army 4: Dead War Bypass\n\n# Zombie Army 4: Dead War Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "folklore-hunter-696220",
+    "appId": 696220,
+    "title": "Folklore Hunter Online Fix",
+    "game": "Folklore Hunter",
+    "desc": "Folklore Hunter Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Folklore Hunter Online Fix\n\n# Folklore Hunter Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "dynasty-warriors-9-730310",
+    "appId": 730310,
+    "title": "DYNASTY WARRIORS 9 Bypass",
+    "game": "DYNASTY WARRIORS 9",
+    "desc": "DYNASTY WARRIORS 9 Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# DYNASTY WARRIORS 9 Bypass\n\n# DYNASTY WARRIORS 9 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

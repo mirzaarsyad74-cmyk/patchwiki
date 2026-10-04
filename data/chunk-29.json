@@ -1,5 +1,19 @@
 [
   {
+    "id": "2340870-rugby-25-bypass",
+    "appId": 2340870,
+    "title": "2340870 RUGBY 25 BYPASS",
+    "game": "RUGBY 25",
+    "desc": "Tutorial and guide for RUGBY 25.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 2340870 RUGBY 25 BYPASS\n\n-After patching\n\n-Run game from Steam.\n"
+  },
+  {
     "id": "2622380-elden-ring-nightreign-co-op-patch-to-v-1-1-0",
     "appId": 2622380,
     "title": "2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
@@ -97,6 +111,22 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# Black Myth: Wukong - 2358720\n\n# Updated crack using voices38 crack\n- Download game, no need manifest pinning\n*- if you ever tried bypassing using hypervisor, delete game folder and uninstall from steam\n- reinstall game*- Bypass game and play from Steam.\n"
+  },
+  {
+    "id": "borderlands-4-1285190",
+    "appId": 1285190,
+    "title": "Borderlands® 4 - 1285190",
+    "game": "Borderlands® 4",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# Borderlands® 4 - 1285190\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
   },
   {
     "id": "star-wars-outlaws-2842040",
@@ -254,33 +284,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 2077750 RENNSPORT\n\nno bypass needed but u need to register account and login using the account in the game\nyou will be able to play online with official server\n"
-  },
-  {
-    "id": "2191500-vampire-bloodlord-rising",
-    "appId": 2191500,
-    "title": "2191500 VAMPIRE: BLOODLORD RISING",
-    "game": "VAMPIRE: BLOODLORD RISING",
-    "desc": "Start game from Steam and then login to epic games",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 2191500 VAMPIRE: BLOODLORD RISING\n\n-After patch\n-Start game from Steam and then login to epic games\n"
-  },
-  {
-    "id": "287700-metal-gear-solid-v-the-phantom-pain",
-    "appId": 287700,
-    "title": "287700 METAL GEAR SOLID V: THE PHANTOM PAIN",
-    "game": "METAL GEAR SOLID V: THE PHANTOM PAIN",
-    "desc": "Patch and then play from steam",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 287700 METAL GEAR SOLID V: THE PHANTOM PAIN\n\nExclusive for Onennabe\n\nPatch and then play from steam\n\n![Attached Image](assets/287700-metal-gear-solid-v-the-phantom-pain_1500854126832255158.png)\n"
   }
 ]

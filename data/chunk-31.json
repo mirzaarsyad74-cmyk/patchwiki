@@ -1,5 +1,47 @@
 [
   {
+    "id": "1088850-marvel-s-guardians-of-the-galaxy-denuv-bypass",
+    "appId": 1088850,
+    "title": "(1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS",
+    "game": "MARVEL'S GUARDIANS OF THE GALAXY",
+    "desc": "tested on win11 build 26100.6725",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS\n\n-run game from steam,\n-tested on win11 build 26100.6725\n"
+  },
+  {
+    "id": "1262560-need-for-speed-most-wanted-ea-bypass",
+    "appId": 1262560,
+    "title": "(1262560) NEED FOR SPEED MOST WANTED EA BYPASS",
+    "game": "NEED FOR SPEED MOST WANTED",
+    "desc": "After patch, open folder and run the game from NFS13.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (1262560) NEED FOR SPEED MOST WANTED EA BYPASS\n\n-After patch, open folder and run the game from NFS13.exe\n"
+  },
+  {
+    "id": "1677280-company-of-heroes-3-denuv-bypass",
+    "appId": 1677280,
+    "title": "(1677280) COMPANY OF HEROES 3 DENUV BYPASS",
+    "game": "COMPANY OF HEROES 3",
+    "desc": "Tutorial and guide for COMPANY OF HEROES 3.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (1677280) COMPANY OF HEROES 3 DENUV BYPASS\n\n-Run game from Steam\n"
+  },
+  {
     "id": "1693980-dead-space-remake-denu-bypass",
     "appId": 1693980,
     "title": "(1693980) DEAD SPACE REMAKE DENU BYPASS",
@@ -251,47 +293,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# (1413480) SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER DENU BYPASS\n\n-run game from steam\n"
-  },
-  {
-    "id": "1430190-killing-floor-3",
-    "appId": 1430190,
-    "title": "(1430190) KILLING FLOOR 3",
-    "game": "KILLING FLOOR 3",
-    "desc": "Run Killing Floor 3 from inside folder after patching bypass, its inside Binaries/Win64 folder,",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# (1430190) KILLING FLOOR 3\n\n-Run Killing Floor 3 from inside folder after patching bypass, its inside Binaries/Win64 folder, \n\n-run Nightfallclient_win64_shipping.exe\n\n![Attached Image](assets/1430190-killing-floor-3_1499095294632263750.png)\n\n---\n\n- Use Manifest Pinning from CloudRedirect in order to use bypass the online requirements\n\n---\n\n- or use entirely standalone\n"
-  },
-  {
-    "id": "228200-company-of-heroes-bypass",
-    "appId": 228200,
-    "title": "(228200) COMPANY OF HEROES BYPASS",
-    "game": "COMPANY OF HEROES",
-    "desc": "Open folder after patch and run from RelicCOH.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# (228200) COMPANY OF HEROES BYPASS\n\n-Open folder after patch and run from RelicCOH.exe\n"
-  },
-  {
-    "id": "2951630-total-war-pharaoh-dynasties-denu-bypass",
-    "appId": 2951630,
-    "title": "(2951630) TOTAL WAR: PHARAOH DYNASTIES DENU BYPASS",
-    "game": "TOTAL WAR: PHARAOH DYNASTIES",
-    "desc": "Tutorial and guide for TOTAL WAR: PHARAOH DYNASTIES.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# (2951630) TOTAL WAR: PHARAOH DYNASTIES DENU BYPASS\n\n-run game from steam\n"
   }
 ]

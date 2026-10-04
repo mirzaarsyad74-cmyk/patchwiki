@@ -1,32 +1,17 @@
 [
   {
-    "id": "no-man-s-sky-275850",
-    "appId": 275850,
-    "title": "No Man's Sky - 275850",
-    "game": "No Man's Sky",
-    "desc": "To be able to play this game, since there are no online patch or bypass.",
+    "id": "responding-2658040",
+    "appId": 2658040,
+    "title": "Responding - 2658040",
+    "game": "Responding",
+    "desc": "To be able to play this game, go to the SUO  Library  find the game Responding  Enable Online Function",
     "tags": [
-      "online",
-      "bypass"
+      "general"
     ],
     "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-08-02",
-    "content": "\n# No Man's Sky - 275850\n\nTo be able to play this game, since there are no online patch or bypass.\n\nGo to SUO > Library > No Man Sky > Enable Online Function.\n\nFully unlock but single player only.\n"
-  },
-  {
-    "id": "red-dead-redemption-2668510",
-    "appId": 2668510,
-    "title": "Red Dead Redemption - 2668510",
-    "game": "Red Dead Redemption",
-    "desc": "After Bypass, run game from SUO, choose .exe, choose PlayRDR.exe, or open folder and run game from the folder.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-08-02",
-    "content": "\n# Red Dead Redemption - 2668510\n\nAfter Bypass, run game from SUO, choose .exe, choose PlayRDR.exe, or open folder and run game from the folder.\n\n![Attached Image](assets/red-dead-redemption-2668510_1533374516762382407.png)\n"
+    "content": "\n# Responding - 2658040\n\nTo be able to play this game, go to the SUO > Library > find the game Responding > Enable Online Function\n\n-# but this game is shit\n"
   },
   {
     "id": "the-dark-pictures-anthology-house-of-ashes-1281590",
@@ -74,7 +59,7 @@
     "id": "how-to-fix-cloud-sync-error",
     "appId": null,
     "title": "How To fix Cloud sync Error",
-    "game": "How To Cloud sync Error",
+    "game": "How To fix Cloud sync Error",
     "desc": "Steam  setting  Cloud  Enable Steam Cloud  off/disable",
     "tags": [
       "general"
@@ -97,6 +82,20 @@
     "version": "1.0",
     "date": "2026-07-18",
     "content": "\n# Assassin's Creed Shadows - 3159330\n\nIf you ever use Hypervisor version of the game, please go to **Steam Unlock Onennabe -> Library -> REMOVE HYPERVISOR PATCH** first\n\n1. Click Update Game or Unlock Game\n2. Install game in steam\n3. Then **Steam Unlock Onennabe -> Library -> Bypass Game\n4. Press 2nd time Bypass Game after it add to exclusion\n5. Play the game from Steam Unlock > Choose .exe.\n\n![Attached Image](assets/assassin-s-creed-shadows-3159330_1527925551627767898.png)\n"
+  },
+  {
+    "id": "ea-sports-college-football-27-4032350",
+    "appId": 4032350,
+    "title": "EA SPORTS™ College Football 27 - 4032350",
+    "game": "EA SPORTS™ College Football 27",
+    "desc": "\"Tools Game Auto Update  Smart Apply\" is completed",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-07-16",
+    "content": "\n# EA SPORTS™ College Football 27 - 4032350\n\nInstall Game, Make sure \n\"**Tools> Game Auto Update > Smart Apply**\" is completed\nApply Bypass Game from Library in SUO.\nPlay from SUO, choose exe and select CollegeFB27.exe\n\n![Attached Image](assets/ea-sports-college-football-27-4032350_1527179897452368004.png)\n"
   },
   {
     "id": "unravel-two-1225570",
