@@ -1,736 +1,349 @@
 [
   {
-    "id": "1722840",
-    "title": "Everdell Bypass",
-    "game": "Everdell (1722840)",
-    "desc": "Tutorial: Everdell Bypass",
+    "id": "beamng-drive-284160-multiplayer-mod-tutorial",
+    "appId": 284160,
+    "title": "BeamNG.Drive - 284160 Multiplayer mod tutorial",
+    "game": "BeamNG.Drive",
+    "desc": "Tutorial for BeamNG.Drive",
     "tags": [
+      "general",
+      "coop"
+    ],
+    "author": "Community",
+    "version": "Unknown",
+    "date": "2026-04-29",
+    "content": "# BeamNG.Drive - 284160 Multiplayer mod tutorial\n\n1. Launch the game in single player first, play for a bit.\n2. Then next step is go to game installation folder, launch `BeamMP-Launcher.exe`\n3. It will do some installation for Multiplayer mod.\n4. Then the normal BeamNG.drive game launcher will show up.\n5. Play the game! Enjoy!\n"
+  },
+  {
+    "id": "call-of-duty-black-ops-cold-war-1985810",
+    "appId": 1985810,
+    "title": "Call of Duty: Black Ops Cold War - 1985810",
+    "game": "Call of Duty Black Ops Cold War",
+    "desc": "Tutorial for Call of Duty Black Ops Cold War",
+    "tags": [
+      "general",
       "bypass"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Everdell Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+    "date": "2026-04-29",
+    "content": "# Call of Duty: Black Ops Cold War - 1985810\n\n1. Bypass Game\n2. From Steam Unlock, click Play, choose exe\n3. Launch using  BlackOpsColdWar.exe\n"
   },
   {
-    "id": "1722870",
-    "title": "Clank! Online Fix",
-    "game": "Clank! (1722870)",
-    "desc": "Tutorial: Clank! Online Fix",
+    "id": "call-of-duty-modern-warfare-iii-3595270",
+    "appId": 3595270,
+    "title": "Call of Duty: Modern Warfare III - 3595270",
+    "game": "Call of Duty Modern Warfare III",
+    "desc": "![Attached Image](assets/call-of-duty-modern-warfare-iii---3595270_1499023253304246353.png)",
     "tags": [
-      "online-fix",
+      "general",
+      "bypass",
       "coop",
-      "multiplayer",
-      "online"
+      "drm"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Clank! Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+    "date": "2026-04-29",
+    "content": "# Call of Duty: Modern Warfare III - 3595270\n\n- Firstly, make sure the path on where you put the game folder is short and doesn't contain non latin characters or symbols to avoid issues with game launching.\n- Extract everything in this archive into where you installed the game.\n- Start the game ONLY FROM !start_cod23.bat (for MP) or !start_sp23.bat (for SP) and keep the console window open until it closes by itself when you close the game.\n- If running either *.bat doesn't do anything, read the 1st step again (or check bootstrapper.log).\n\n![Attached Image](assets/call-of-duty-modern-warfare-iii---3595270_1499023253304246353.png)\n\n---\n\n## **How To Bypass**\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n\n## **Launch Option (From Folder Only)**\n1) !start_cod23.bat (for MP)\n2) !start_sp23.bat (for SP)\n\nMP: Multiplayer (online)\n​SP: Singleplayer \n\n```keep the console window open until it closes```\n"
   },
   {
-    "id": "1726130",
-    "title": "Pathless Woods Online Fix",
-    "game": "Pathless Woods (1726130)",
-    "desc": "Tutorial: Pathless Woods Online Fix",
+    "id": "carx-street-1114150",
+    "appId": 1114150,
+    "title": "CarX Street - 1114150",
+    "game": "CarX Street",
+    "desc": "Tutorial for CarX Street",
     "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Pathless Woods Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1729140",
-    "title": "Hired 2 Die Online Fix",
-    "game": "Hired 2 Die (1729140)",
-    "desc": "Tutorial: Hired 2 Die Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Hired 2 Die Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1732420",
-    "title": "Spanky! Online Fix",
-    "game": "Spanky! (1732420)",
-    "desc": "Tutorial: Spanky! Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Spanky! Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1732430",
-    "title": "Neighbors: Suburban Warfare Bypass",
-    "game": "Neighbors: Suburban Warfare (1732430)",
-    "desc": "Tutorial: Neighbors: Suburban Warfare Bypass",
-    "tags": [
+      "general",
       "bypass"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Neighbors: Suburban Warfare Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+    "date": "2026-04-29",
+    "content": "# CarX Street - 1114150\n\n1. Download game Carx from Steam\n2. Bypass game and launching the game using CarX Street.exe\n"
   },
   {
-    "id": "1735950",
-    "title": "纸嫁衣 Bypass",
-    "game": "纸嫁衣 (1735950)",
-    "desc": "Tutorial: 纸嫁衣 Bypass",
+    "id": "dirt-4-online-patch-421020",
+    "appId": 421020,
+    "title": "DiRT 4 online patch - 421020",
+    "game": "DiRT 4",
+    "desc": "![Attached Image](assets/dirt-4-online-patch---421020_1498981715014844519.png)",
     "tags": [
+      "general",
+      "online",
+      "coop"
+    ],
+    "author": "Community",
+    "version": "Unknown",
+    "date": "2026-04-29",
+    "content": "# DiRT 4 online patch - 421020\n\n- Finish the prologue tutorial.\n- Once finish, exit the academy, go to events\n- select Multiplayer > Jam Sessions\n- Friend join the lobby created.\n\n![Attached Image](assets/dirt-4-online-patch---421020_1498981715014844519.png)\n"
+  },
+  {
+    "id": "dragon-age-inquisition-denuv0-and-ea-bypass-1222690",
+    "appId": 1222690,
+    "title": "Dragon Age™ Inquisition DENUV0 and EA bypass - 1222690",
+    "game": "Dragon Age™ Inquisition DENUV0 and",
+    "desc": "Tutorial for Dragon Age™ Inquisition DENUV0 and",
+    "tags": [
+      "general",
       "bypass"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# 纸嫁衣 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+    "date": "2026-04-29",
+    "content": "# Dragon Age™ Inquisition DENUV0 and EA bypass - 1222690\n\n- run game from inside folder **DragonAgeInquisition.exe**\n- dont run from Steam\n"
   },
   {
-    "id": "1757300",
-    "title": "Jump Space Online Fix",
-    "game": "Jump Space (1757300)",
-    "desc": "Tutorial: Jump Space Online Fix",
+    "id": "echoes-of-elysium-online-patch-2644050",
+    "appId": 2644050,
+    "title": "Echoes of Elysium Online Patch  (2644050)",
+    "game": "Echoes of Elysium",
+    "desc": "try run from steam once patch or",
     "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
+      "general",
       "online"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Jump Space Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+    "date": "2026-04-29",
+    "content": "# Echoes of Elysium Online Patch  (2644050)\n\ntry run from steam once patch or \nopen game folder & run from Elysium.exe\n"
   },
   {
-    "id": "1763250",
-    "title": "SWORN Online Fix",
-    "game": "SWORN (1763250)",
-    "desc": "Tutorial: SWORN Online Fix",
+    "id": "fraymakers-online-patch-1420350",
+    "appId": 1420350,
+    "title": "Fraymakers online patch- 1420350",
+    "game": "Fraymakers",
+    "desc": "Tutorial for Fraymakers",
     "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
+      "general",
       "online"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# SWORN Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+    "date": "2026-04-29",
+    "content": "# Fraymakers online patch- 1420350\n\n- Create lobbies and invites your friends\n"
   },
   {
-    "id": "1766060",
-    "title": "HumanitZ Online Fix",
-    "game": "HumanitZ (1766060)",
-    "desc": "Tutorial: HumanitZ Online Fix",
+    "id": "overcooked-all-you-can-eat-online-method-1243830",
+    "appId": 1243830,
+    "title": "Overcooked! All you can eat Online method- 1243830",
+    "game": "Overcooked! All you can eat",
+    "desc": "NOTE: Make sure your XBOX /Microsoft email account used to log in is the same in Microsoft Store account and disable 2FA. Suggest to create new dummy account fo",
     "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
+      "general"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# HumanitZ Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+    "date": "2026-04-29",
+    "content": "# Overcooked! All you can eat Online method- 1243830\n\n- Go to Game installation folder\n- Set the game `Overcooked All You Can Eat.exe` run as admin, and also the `XboxLiveAuth.exe` run as admin too. \n- Launch the game using  `XboxLiveAuth.exe` and choose online. The game works and connected to your Xbox account\n\nNOTE: Make sure your XBOX /Microsoft email account used to log in is the same in Microsoft Store account and disable 2FA. Suggest to create new dummy account for XBOX/Microsoft.\n\n![Attached Image](assets/overcooked!-all-you-can-eat-online-method--1243830_1498983075894263879.png)\n\n\n![Attached Image](assets/overcooked!-all-you-can-eat-online-method--1243830_1498983076498505798.png)\n\n\n![Attached Image](assets/overcooked!-all-you-can-eat-online-method--1243830_1498983077009952830.png)\n\n---\n\nOvercooked! All you can eat Online method- 1243830\n"
   },
   {
-    "id": "1774580",
-    "title": "STAR WARS Jedi: Survivor™ Bypass",
-    "game": "STAR WARS Jedi: Survivor™ (1774580)",
-    "desc": "Tutorial: STAR WARS Jedi: Survivor™ Bypass",
+    "id": "pragmata-3357650",
+    "appId": 3357650,
+    "title": "PRAGMATA - 3357650",
+    "game": "PRAGMATA",
+    "desc": "15/5 Updated to use voices38 crack",
     "tags": [
+      "general",
       "bypass"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# STAR WARS Jedi: Survivor™ Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+    "date": "2026-04-29",
+    "content": "# PRAGMATA - 3357650\n\n1. Unlock Game from SUO\n2. Go to \"Game Auto Update\" in SUO inside Tools\n3. Click Smart Apply\n4. Download Game in Steam\n5. Apply Bypass Game\n6. Play from Steam\n\n---\n\n15/5 Updated to use voices38 crack\n"
   },
   {
-    "id": "1790600",
-    "title": "DRAGON BALL: Sparking! ZERO Online Fix",
-    "game": "DRAGON BALL: Sparking! ZERO (1790600)",
-    "desc": "Tutorial: DRAGON BALL: Sparking! ZERO Online Fix",
+    "id": "paper-bride-series-from-1-6-online-check-bypass",
+    "appId": 2026,
+    "title": "Paper Bride Series from 1 - 6 online check bypass",
+    "game": "Paper Bride Series from 1 - 6  check",
+    "desc": "![Attached Image](assets/paper-bride-series-from-1---6-online-check-bypass_1498997756516241418.png)",
     "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# DRAGON BALL: Sparking! ZERO Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1796470",
-    "title": "Haste Online Fix",
-    "game": "Haste (1796470)",
-    "desc": "Tutorial: Haste Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Haste Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1798010",
-    "title": "Mega Man Battle Network Legacy Collection Vol. 1 Bypass",
-    "game": "Mega Man Battle Network Legacy Collection Vol. 1 (1798010)",
-    "desc": "Tutorial: Mega Man Battle Network Legacy Collection Vol. 1 Bypass",
-    "tags": [
+      "general",
+      "online",
       "bypass"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Mega Man Battle Network Legacy Collection Vol. 1 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+    "date": "2026-04-29",
+    "content": "# Paper Bride Series from 1 - 6 online check bypass\n\n- Download the attached, extract and copy all the folders and paste into Appdata/Roaming\n- Using **WIN + R**, TYPE **%appdata% ** , you should be in Roaming folder\n- Paste all the copied folder into  the Roaming folder\n- Use Online Patch/Bypass button\n- Play game from Steam.\n\n- For 1879380, 1735950, 1939790, 2286770, 2600570, 3227760\n\n![Attached Image](assets/paper-bride-series-from-1---6-online-check-bypass_1498997756516241418.png)\n\n\n![Attached Image](assets/paper-bride-series-from-1---6-online-check-bypass_1498997757250109491.png)\n\n---\n\n[Download PaperBride_1to6_series_patch.rar (136.4 MB)](https://cdn.discordapp.com/attachments/1498997756130496623/1498997898401157140/PaperBride_1to6_series_patch.rar?ex=6ac2d655&is=6ac184d5&hm=d70cfbfd407fcc53dc3a69f09e6d182e2b2c4059a1750e18b5465093cc95ecdc&)\n"
   },
   {
-    "id": "1798020",
-    "title": "Mega Man Battle Network Legacy Collection Vol. 2 Bypass",
-    "game": "Mega Man Battle Network Legacy Collection Vol. 2 (1798020)",
-    "desc": "Tutorial: Mega Man Battle Network Legacy Collection Vol. 2 Bypass",
+    "id": "persona-4-golden-denu-bypass-111300",
+    "appId": 111300,
+    "title": "Persona 4 Golden Denu Bypass - 111300",
+    "game": "Persona 4 Golden",
+    "desc": "Tutorial for Persona 4 Golden",
     "tags": [
+      "general",
       "bypass"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Mega Man Battle Network Legacy Collection Vol. 2 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+    "date": "2026-04-29",
+    "content": "# Persona 4 Golden Denu Bypass - 111300\n\n- after bypass game, go inside game folder\n- run Persona4GoldenDownloader.bat\n- this will download additional bypass files, total of 58 parts\n- use WARP if download is too slow.\n- once done, play the game using P4G.exe\n"
   },
   {
-    "id": "1811260",
-    "title": "EA SPORTS™ FIFA 23 Bypass",
-    "game": "EA SPORTS™ FIFA 23 (1811260)",
-    "desc": "Tutorial: EA SPORTS™ FIFA 23 Bypass",
+    "id": "rdr2-bypass-guide-1174180-red-dead-redemption-2",
+    "appId": 1174180,
+    "title": "RDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2",
+    "game": "RDR2   RED DEAD REDEMPTION 2",
+    "desc": "Red Dead Redemption 2",
     "tags": [
+      "general",
       "bypass"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# EA SPORTS™ FIFA 23 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+    "date": "2026-04-29",
+    "content": "# RDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2\n\n- open game folder\n- run game using Launcher.exe\n\n---\n\nRed Dead Redemption 2\n\n---\n\nRDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2\n"
   },
   {
-    "id": "1812450",
-    "title": "Bellwright Online Fix",
-    "game": "Bellwright (1812450)",
-    "desc": "Tutorial: Bellwright Online Fix",
+    "id": "riders-republic-2290180",
+    "appId": 2290180,
+    "title": "RIDERS REPUBLIC - 2290180",
+    "game": "RIDERS REPUBLIC",
+    "desc": "Tutorial for RIDERS REPUBLIC",
     "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
+      "general"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Bellwright Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+    "date": "2026-04-29",
+    "content": "# RIDERS REPUBLIC - 2290180\n\n- Patch it\n- Run the game by double click on `Start.exe` in the installation folder.\n- Game is offline only and playable in ZEN mode. Basically like creative mode alone..sadge\n"
   },
   {
-    "id": "1812620",
-    "title": "DSX Bypass",
-    "game": "DSX (1812620)",
-    "desc": "Tutorial: DSX Bypass",
+    "id": "rayman-30th-anniversary-edition-1435114",
+    "appId": 1435114,
+    "title": "Rayman: 30th Anniversary Edition - 1435114",
+    "game": "Rayman 30th Anniversary Edition",
+    "desc": "Tutorial for Rayman 30th Anniversary Edition",
     "tags": [
+      "general"
+    ],
+    "author": "Community",
+    "version": "Unknown",
+    "date": "2026-04-29",
+    "content": "# Rayman: 30th Anniversary Edition - 1435114\n\n- after patch, run from Steam directly\n"
+  },
+  {
+    "id": "resident-evil-6-221040",
+    "appId": 221040,
+    "title": "Resident Evil 6 (221040)",
+    "game": "Resident Evil 6",
+    "desc": "Tutorial for Resident Evil 6",
+    "tags": [
+      "general"
+    ],
+    "author": "Community",
+    "version": "Unknown",
+    "date": "2026-04-29",
+    "content": "# Resident Evil 6 (221040)\n\n- Patch & Run from Steam\n"
+  },
+  {
+    "id": "rise-of-the-ronin-online-co-op-play-1340990",
+    "appId": 1340990,
+    "title": "Rise of the Ronin Online Co-op play - 1340990",
+    "game": "Rise of the Ronin  play",
+    "desc": "Tutorial for Rise of the Ronin  play",
+    "tags": [
+      "general",
+      "online",
+      "coop"
+    ],
+    "author": "Community",
+    "version": "Unknown",
+    "date": "2026-04-29",
+    "content": "# Rise of the Ronin Online Co-op play - 1340990\n\n- Play through prologue, and finished all the tutorial (took me good 1hour)\n- Play with friends through `Cooperate` in game\n- Recruit backup or join your friends game\n"
+  },
+  {
+    "id": "ritual-party-online-patch-3140720",
+    "appId": 3140720,
+    "title": "Ritual Party Online Patch (3140720)",
+    "game": "Ritual Party",
+    "desc": "Tutorial for Ritual Party",
+    "tags": [
+      "general",
+      "online",
+      "coop"
+    ],
+    "author": "Community",
+    "version": "Unknown",
+    "date": "2026-04-29",
+    "content": "# Ritual Party Online Patch (3140720)\n\n- run game from steam\n- invite friends from steam overlay\n"
+  },
+  {
+    "id": "star-wars-jedi-survivor-1774580",
+    "appId": 1774580,
+    "title": "STAR WARS Jedi: Survivor™ - 1774580",
+    "game": "STAR WARS Jedi Survivor™",
+    "desc": "Tutorial for STAR WARS Jedi Survivor™",
+    "tags": [
+      "general"
+    ],
+    "author": "Community",
+    "version": "Unknown",
+    "date": "2026-04-29",
+    "content": "# STAR WARS Jedi: Survivor™ - 1774580\n\n- after patch, open folder\n- open SwGame/Binaries/Win64\n- run game from JediSurvivor.exe\n"
+  },
+  {
+    "id": "the-rogue-prince-of-persia-bypass-ubisoft-2717880",
+    "appId": 2717880,
+    "title": "The Rogue Prince of Persia Bypass ubisoft (2717880)",
+    "game": "The Rogue Prince of Persia  ubisoft",
+    "desc": "Tutorial for The Rogue Prince of Persia  ubisoft",
+    "tags": [
+      "general",
       "bypass"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# DSX Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+    "date": "2026-04-29",
+    "content": "# The Rogue Prince of Persia Bypass ubisoft (2717880)\n\n-Run game from steam upon patch\n"
   },
   {
-    "id": "1820380",
-    "title": "Let's Cook Bypass",
-    "game": "Let's Cook (1820380)",
-    "desc": "Tutorial: Let's Cook Bypass",
+    "id": "watch-dogs-2-ubisoft-bypass-447040",
+    "appId": 447040,
+    "title": "Watch Dogs 2 Ubisoft bypass - 447040",
+    "game": "Watch Dogs 2",
+    "desc": "![Attached Image](assets/watch-dogs-2-ubisoft-bypass---447040_1498996428243206264.png)",
     "tags": [
+      "general",
       "bypass"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Let's Cook Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+    "date": "2026-04-29",
+    "content": "# Watch Dogs 2 Ubisoft bypass - 447040\n\n- Download the game\n- After Patching, go to game folder and then go inside `\\SteamLibrary\\steamapps\\common\\Watch_Dogs2\\bin`\n- Start the game through `WatchDogs2.exe`\n- Happy Gaming!\n\n![Attached Image](assets/watch-dogs-2-ubisoft-bypass---447040_1498996428243206264.png)\n"
   },
   {
-    "id": "1830630",
-    "title": "Overpass 2 Online Fix",
-    "game": "Overpass 2 (1830630)",
-    "desc": "Tutorial: Overpass 2 Online Fix",
+    "id": "wreckfest-2-1203190",
+    "appId": 1203190,
+    "title": "Wreckfest 2- 1203190",
+    "game": "Wreckfest 2",
+    "desc": "Added Wreckfest 2 online patch update",
     "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
+      "general",
       "online"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Overpass 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+    "date": "2026-04-29",
+    "content": "# Wreckfest 2- 1203190\n\nAdded Wreckfest 2 online patch update\n- patch the game\n- after patching, open the game folder\n- run the game from Wreckfest2.exe as admin\n- 1203190\n"
   },
   {
-    "id": "1843310",
-    "title": "FUNKO FUSION Online Fix",
-    "game": "FUNKO FUSION (1843310)",
-    "desc": "Tutorial: FUNKO FUSION Online Fix",
+    "id": "1501750-lords-of-the-fallen-tutorial-multiplayer",
+    "appId": 1501750,
+    "title": "[1501750] Lords of the Fallen tutorial Multiplayer",
+    "game": "Lords of the Fallen",
+    "desc": "We go through the training until you reach the \"altar\".",
     "tags": [
-      "online-fix",
+      "general",
       "coop",
-      "multiplayer",
-      "online"
+      "drm"
     ],
-    "author": "ProSub --AutoGen--",
+    "author": "Community",
     "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# FUNKO FUSION Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1843840",
-    "title": "Rogue Point Online Fix",
-    "game": "Rogue Point (1843840)",
-    "desc": "Tutorial: Rogue Point Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Rogue Point Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1855580",
-    "title": "DreadHaunt Online Fix",
-    "game": "DreadHaunt (1855580)",
-    "desc": "Tutorial: DreadHaunt Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# DreadHaunt Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1857950",
-    "title": "VEIN Online Fix",
-    "game": "VEIN (1857950)",
-    "desc": "Tutorial: VEIN Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# VEIN Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1858650",
-    "title": "In Sink Online Fix",
-    "game": "In Sink (1858650)",
-    "desc": "Tutorial: In Sink Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# In Sink Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1869500",
-    "title": "Daimon Blades Online Fix",
-    "game": "Daimon Blades (1869500)",
-    "desc": "Tutorial: Daimon Blades Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Daimon Blades Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1877020",
-    "title": "Jujutsu Kaisen Cursed Clash Online Fix",
-    "game": "Jujutsu Kaisen Cursed Clash (1877020)",
-    "desc": "Tutorial: Jujutsu Kaisen Cursed Clash Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Jujutsu Kaisen Cursed Clash Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1879380",
-    "title": "纸嫁衣2奘铃村 Bypass",
-    "game": "纸嫁衣2奘铃村 (1879380)",
-    "desc": "Tutorial: 纸嫁衣2奘铃村 Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# 纸嫁衣2奘铃村 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "1888160",
-    "title": "ARMORED CORE™ VI FIRES OF RUBICON™ Online Fix",
-    "game": "ARMORED CORE™ VI FIRES OF RUBICON™ (1888160)",
-    "desc": "Tutorial: ARMORED CORE™ VI FIRES OF RUBICON™ Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# ARMORED CORE™ VI FIRES OF RUBICON™ Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1892140",
-    "title": "Cryptid Farm Bypass",
-    "game": "Cryptid Farm (1892140)",
-    "desc": "Tutorial: Cryptid Farm Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Cryptid Farm Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "1893810",
-    "title": "Solium Infernum Online Fix",
-    "game": "Solium Infernum (1893810)",
-    "desc": "Tutorial: Solium Infernum Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Solium Infernum Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1904480",
-    "title": "Absolum Online Fix",
-    "game": "Absolum (1904480)",
-    "desc": "Tutorial: Absolum Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Absolum Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1913120",
-    "title": "Tears of Metal Online Fix",
-    "game": "Tears of Metal (1913120)",
-    "desc": "Tutorial: Tears of Metal Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Tears of Metal Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1929610",
-    "title": "Demonologist Bypass",
-    "game": "Demonologist (1929610)",
-    "desc": "Tutorial: Demonologist Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Demonologist Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "1931180",
-    "title": "Lost Skies Online Fix",
-    "game": "Lost Skies (1931180)",
-    "desc": "Tutorial: Lost Skies Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Lost Skies Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1939790",
-    "title": "纸嫁衣3鸳鸯债 Bypass",
-    "game": "纸嫁衣3鸳鸯债 (1939790)",
-    "desc": "Tutorial: 纸嫁衣3鸳鸯债 Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# 纸嫁衣3鸳鸯债 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "1941540",
-    "title": "Mafia: The Old Country Bypass",
-    "game": "Mafia: The Old Country (1941540)",
-    "desc": "Tutorial: Mafia: The Old Country Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Mafia: The Old Country Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "1953520",
-    "title": "WRC Generations - The FIA WRC Official Game Bypass",
-    "game": "WRC Generations - The FIA WRC Official Game (1953520)",
-    "desc": "Tutorial: WRC Generations - The FIA WRC Official Game Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# WRC Generations - The FIA WRC Official Game Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "1959140",
-    "title": "Diesel Legacy: The Brazen Age Online Fix",
-    "game": "Diesel Legacy: The Brazen Age (1959140)",
-    "desc": "Tutorial: Diesel Legacy: The Brazen Age Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Diesel Legacy: The Brazen Age Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "1984270",
-    "title": "Digimon Story Time Stranger Bypass",
-    "game": "Digimon Story Time Stranger (1984270)",
-    "desc": "Tutorial: Digimon Story Time Stranger Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Digimon Story Time Stranger Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "1985810",
-    "title": "Call of Duty®: Black Ops Cold War Bypass",
-    "game": "Call of Duty®: Black Ops Cold War (1985810)",
-    "desc": "Tutorial: Call of Duty®: Black Ops Cold War Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Call of Duty®: Black Ops Cold War Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "2000950",
-    "title": "Call of Duty®: Modern Warfare® Bypass",
-    "game": "Call of Duty®: Modern Warfare® (2000950)",
-    "desc": "Tutorial: Call of Duty®: Modern Warfare® Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Call of Duty®: Modern Warfare® Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "2001120",
-    "title": "Split Fiction Online Fix",
-    "game": "Split Fiction (2001120)",
-    "desc": "Tutorial: Split Fiction Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Split Fiction Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "2009350",
-    "title": "Out of Ore Online Fix",
-    "game": "Out of Ore (2009350)",
-    "desc": "Tutorial: Out of Ore Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Out of Ore Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "2009460",
-    "title": "War of Wizards Online Fix",
-    "game": "War of Wizards (2009460)",
-    "desc": "Tutorial: War of Wizards Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# War of Wizards Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "2015270",
-    "title": "Rotwood Online Fix",
-    "game": "Rotwood (2015270)",
-    "desc": "Tutorial: Rotwood Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Rotwood Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "202970",
-    "title": "Call of Duty: Black Ops II Bypass",
-    "game": "Call of Duty: Black Ops II (202970)",
-    "desc": "Tutorial: Call of Duty: Black Ops II Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Call of Duty: Black Ops II Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "204100",
-    "title": "Max Payne 3 Bypass",
-    "game": "Max Payne 3 (204100)",
-    "desc": "Tutorial: Max Payne 3 Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Max Payne 3 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "2050650",
-    "title": "Resident Evil 4 Bypass",
-    "game": "Resident Evil 4 (2050650)",
-    "desc": "Tutorial: Resident Evil 4 Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Resident Evil 4 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "2055290",
-    "title": "Sonic Colors: Ultimate Bypass",
-    "game": "Sonic Colors: Ultimate (2055290)",
-    "desc": "Tutorial: Sonic Colors: Ultimate Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Sonic Colors: Ultimate Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+    "date": "2026-04-29",
+    "content": "# [1501750] Lords of the Fallen tutorial Multiplayer\n\n**Files for the game:**\n1. Add Lords of the Fallen Friend's Pass via Steam.\n2. Patch the game via Steam Unlock Onennabe\n\n**How to start:**\n1. Launch Steam, go to your profile.\n2. Launch the game through Steam.\n\n**In the game:**\nWe go through the training until you reach the \"altar\".\n\n**Connection:**\nAccept an invitation from a friend.\n**Creating a server:**\nInteract with the \"altar\" Multiplayer mode Call a friend Invite a friend and wait for him to connect.\n"
   }
 ]
