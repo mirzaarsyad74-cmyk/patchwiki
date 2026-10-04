@@ -1,61 +1,5 @@
 [
   {
-    "id": "soulcalibur-vi-544750",
-    "appId": 544750,
-    "title": "SOULCALIBUR VI Online Fix",
-    "game": "SOULCALIBUR VI",
-    "desc": "SOULCALIBUR VI Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# SOULCALIBUR VI Online Fix\n\n# SOULCALIBUR VI Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "left-4-dead-2-550",
-    "appId": 550,
-    "title": "Left 4 Dead 2 Online Fix",
-    "game": "Left 4 Dead 2",
-    "desc": "Left 4 Dead 2 Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Left 4 Dead 2 Online Fix\n\n# Left 4 Dead 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "dark-souls-remastered-570940",
-    "appId": 570940,
-    "title": "DARK SOULS™: REMASTERED Online Fix",
-    "game": "DARK SOULS™: REMASTERED",
-    "desc": "DARK SOULS™: REMASTERED Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# DARK SOULS™: REMASTERED Online Fix\n\n# DARK SOULS™: REMASTERED Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "golf-it-571740",
-    "appId": 571740,
-    "title": "Golf It! Online Fix",
-    "game": "Golf It!",
-    "desc": "2. Click \"ONLINE PATCH\"",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Golf It! Online Fix\n\n# Golf It! Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
     "id": "assassin-s-creed-origins-582160",
     "appId": 582160,
     "title": "Assassin's Creed Origins Bypass",
@@ -278,5 +222,61 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Phasmophobia Online Fix\n\n# Phasmophobia Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "mega-man-x-legacy-collection-743890",
+    "appId": 743890,
+    "title": "Mega Man X Legacy Collection Bypass",
+    "game": "Mega Man X Legacy Collection",
+    "desc": "Mega Man X Legacy Collection Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Mega Man X Legacy Collection Bypass\n\n# Mega Man X Legacy Collection Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "mega-man-x-legacy-collection-2-743900",
+    "appId": 743900,
+    "title": "Mega Man X Legacy Collection 2 Bypass",
+    "game": "Mega Man X Legacy Collection 2",
+    "desc": "Mega Man X Legacy Collection 2 Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Mega Man X Legacy Collection 2 Bypass\n\n# Mega Man X Legacy Collection 2 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "a-plague-tale-innocence-752590",
+    "appId": 752590,
+    "title": "A Plague Tale: Innocence Bypass",
+    "game": "A Plague Tale: Innocence",
+    "desc": "A Plague Tale: Innocence Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# A Plague Tale: Innocence Bypass\n\n# A Plague Tale: Innocence Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "outer-wilds-753640",
+    "appId": 753640,
+    "title": "Outer Wilds Online Fix",
+    "game": "Outer Wilds",
+    "desc": "Outer Wilds Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Outer Wilds Online Fix\n\n# Outer Wilds Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

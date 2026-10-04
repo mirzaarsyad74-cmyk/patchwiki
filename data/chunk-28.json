@@ -1,78 +1,5 @@
 [
   {
-    "id": "gamble-with-your-friends-3892270",
-    "appId": 3892270,
-    "title": "Gamble With Your Friends - 3892270",
-    "game": "Gamble With Your Friends",
-    "desc": "Tutorial and guide for Gamble With Your Friends.",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-07",
-    "content": "\n# Gamble With Your Friends - 3892270\n\n- Added online patch\n- Download game\n- Bypass Game\n"
-  },
-  {
-    "id": "rest-area-simulator-3732960",
-    "appId": 3732960,
-    "title": "Rest Area Simulator - 3732960",
-    "game": "Rest Area Simulator",
-    "desc": "Tutorial and guide for Rest Area Simulator.",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-07",
-    "content": "\n# Rest Area Simulator - 3732960\n\n- Added online patch\n- Download game\n- Bypass Game\n"
-  },
-  {
-    "id": "1222700-a-way-out-bypass",
-    "appId": 1222700,
-    "title": "1222700 A WAY OUT BYPASS",
-    "game": "A WAY OUT",
-    "desc": "or Play using https://parsec.app/",
-    "tags": [
-      "bypass",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\n# 1222700 A WAY OUT BYPASS\n\nor Play using https://parsec.app/\n\n---\n\n## **​Launch the Game**:\n```\\SteamLibrary\\steamapps\\common\\AWayOut\\Haze1\\Binaries\\Win64```\n​Double-click `AWayOut.exe` inside game folder to start the game\n\n## Skip this if Offline/SP\nInstall the Steam Demo:\n1) Open your games installation folder\n2) ​Double-click the `install_game.bat` file\n\nNote: This adds the \"Blastzone 2 Demo\" to your Steam account, which is required to trick Steam into allowing Remote Play.\n​Navigate to the Game\n\n## ​Invite Your Friend:\n1) ​Select the Play Local option in the main menu\n2) ​Open the Steam Overlay by pressing SHIFT + TAB\n3) ​Right-click your friend's name in your friends list and select Remote Play Together to invite them\n"
-  },
-  {
-    "id": "1659040-hitman-world-of-assassination",
-    "appId": 1659040,
-    "title": "1659040 HITMAN WORLD OF ASSASSINATION",
-    "game": "HITMAN WORLD OF ASSASSINATION",
-    "desc": "3. The official launcher will pop up",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\n# 1659040 HITMAN WORLD OF ASSASSINATION\n\nGEGE\n\n---\n\n1. Bypass Game\n2. Play from Steam\n3. The official launcher will pop up\n4. Play as usual, everything already set up by Bypass\n"
-  },
-  {
-    "id": "311210-cod-black-ops-3-online-bypass",
-    "appId": 311210,
-    "title": "311210 COD BLACK OPS 3 ONLINE BYPASS",
-    "game": "COD BLACK OPS 3",
-    "desc": "311210 COD BLACK OPS 3 ONLINE BYPASS",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\n# 311210 COD BLACK OPS 3 ONLINE BYPASS\n\n311210 COD BLACK OPS 3 ONLINE BYPASS\n"
-  },
-  {
     "id": "939960-far-cry-new-dawn-bypass",
     "appId": 939960,
     "title": "939960 FAR CRY NEW DAWN BYPASS",
@@ -157,6 +84,20 @@
     "content": "\n# 1250410 Microsoft Flight Simulator (2020)\n\nAdded online supported\n\n\nAfter patch, open game folder\nRight Click on GDK_Helper.bat\nChoose 3\nChoose 1\n\nIn game, sign in your own xbox account, \nIn game download 170GB\n"
   },
   {
+    "id": "1277400-monster-hunter-stories-2-wings-of-ruin-online",
+    "appId": 1277400,
+    "title": "1277400 MONSTER HUNTER STORIES 2: WINGS OF RUIN ONLINE",
+    "game": "MONSTER HUNTER STORIES 2: WINGS OF RUIN",
+    "desc": "After patching, start game from Steam",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 1277400 MONSTER HUNTER STORIES 2: WINGS OF RUIN ONLINE\n\n-After patching, start game from Steam\nOnline mode only available after the mission A Stranger in Black.\n"
+  },
+  {
     "id": "1313860-ea-sports-fifa-21-bypass",
     "appId": 1313860,
     "title": "1313860 EA SPORTS FIFA 21 BYPASS",
@@ -183,6 +124,20 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 1328660 NSF HOT PURSUIT REMASTERED DENUV & EA BYPASS\n\nAfter patching, go inside the game foder, start game with NFS11Remastered.exe\n"
+  },
+  {
+    "id": "1506830-fifa-22-bypass",
+    "appId": 1506830,
+    "title": "1506830 FIFA 22 BYPASS",
+    "game": "FIFA 22",
+    "desc": "After patching, open folder and start game using FIFA22.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 1506830 FIFA 22 BYPASS\n\n-After patching, open folder and start game using FIFA22.exe\n"
   },
   {
     "id": "2055290-sonic-colors-ultimate",
@@ -281,5 +236,48 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 394510 HELLDIVERS 1 ONLINE PATCH\n\n-After patching, open game folder, launch from Launcher.exe\n"
+  },
+  {
+    "id": "779340-total-war-3-kingdoms-bypass",
+    "appId": 779340,
+    "title": "779340 TOTAL WAR: 3 KINGDOMS BYPASS",
+    "game": "TOTAL WAR: 3 KINGDOMS",
+    "desc": "After patching, try run the game from steam or game exe inside the folder",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 779340 TOTAL WAR: 3 KINGDOMS BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
+  },
+  {
+    "id": "809890-shining-resonance-refrain-bypass",
+    "appId": 809890,
+    "title": "809890 SHINING RESONANCE REFRAIN BYPASS",
+    "game": "SHINING RESONANCE REFRAIN",
+    "desc": "After patching, try run the game from steam or game exe inside the folder",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 809890 SHINING RESONANCE REFRAIN BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
+  },
+  {
+    "id": "950050-starlink-battle-for-atlas-ubisoft-bypass",
+    "appId": 950050,
+    "title": "950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS",
+    "game": "STARLINK: BATTLE FOR ATLAS",
+    "desc": "After patching, try run the game from steam or game exe inside the folder",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
   }
 ]

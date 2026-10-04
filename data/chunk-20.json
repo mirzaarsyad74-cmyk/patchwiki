@@ -1,47 +1,5 @@
 [
   {
-    "id": "3545990",
-    "appId": 3545990,
-    "title": "美女，请别影响我成仙 Bypass",
-    "game": "美女，请别影响我成仙",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# 美女，请别影响我成仙 Bypass\n\n# 美女，请别影响我成仙 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "backseat-drivers-3558400",
-    "appId": 3558400,
-    "title": "Backseat Drivers Online Fix",
-    "game": "Backseat Drivers",
-    "desc": "Backseat Drivers Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Backseat Drivers Online Fix\n\n# Backseat Drivers Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "middle-earth-shadow-of-war-356190",
-    "appId": 356190,
-    "title": "Middle-earth™: Shadow of War™ Bypass",
-    "game": "Middle-earth™: Shadow of War™",
-    "desc": "Middle-earth™: Shadow of War™ Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Middle-earth™: Shadow of War™ Bypass\n\n# Middle-earth™: Shadow of War™ Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
     "id": "paddle-paddle-paddle-3570070",
     "appId": 3570070,
     "title": "Paddle Paddle Paddle Online Fix",
@@ -96,20 +54,6 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Keep Digging Online Fix\n\n# Keep Digging Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "call-of-duty-modern-warfare-ii-3595230",
-    "appId": 3595230,
-    "title": "Call of Duty®: Modern Warfare® II Bypass",
-    "game": "Call of Duty®: Modern Warfare® II",
-    "desc": "Call of Duty®: Modern Warfare® II Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Call of Duty®: Modern Warfare® II Bypass\n\n# Call of Duty®: Modern Warfare® II Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   },
   {
     "id": "astroneer-361420",
@@ -278,5 +222,61 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# NASCAR 25 Online Fix\n\n# NASCAR 25 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "tekken-7-389730",
+    "appId": 389730,
+    "title": "TEKKEN 7 Online Fix",
+    "game": "TEKKEN 7",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# TEKKEN 7 Online Fix\n\n# TEKKEN 7 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "tom-clancy-s-splinter-cell-pandora-tomorrow-3929740",
+    "appId": 3929740,
+    "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow Bypass",
+    "game": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "desc": "Tom Clancy's Splinter Cell: Pandora Tomorrow Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Tom Clancy's Splinter Cell: Pandora Tomorrow Bypass\n\n# Tom Clancy's Splinter Cell: Pandora Tomorrow Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "squad-393380",
+    "appId": 393380,
+    "title": "Squad Online Fix",
+    "game": "Squad",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Squad Online Fix\n\n# Squad Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "rv-there-yet-3949040",
+    "appId": 3949040,
+    "title": "RV There Yet? Online Fix",
+    "game": "RV There Yet?",
+    "desc": "RV There Yet? Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# RV There Yet? Online Fix\n\n# RV There Yet? Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

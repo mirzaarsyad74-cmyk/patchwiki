@@ -1,33 +1,5 @@
 [
   {
-    "id": "backrooms-escape-together-2141730",
-    "appId": 2141730,
-    "title": "Backrooms: Escape Together Online Fix",
-    "game": "Backrooms: Escape Together",
-    "desc": "Backrooms: Escape Together Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Backrooms: Escape Together Online Fix\n\n# Backrooms: Escape Together Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "taora-2165470",
-    "appId": 2165470,
-    "title": "Taora Online Fix",
-    "game": "Taora",
-    "desc": "2. Click \"ONLINE PATCH\"",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Taora Online Fix\n\n# Taora Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
     "id": "forgotten-seas-2168260",
     "appId": 2168260,
     "title": "Forgotten Seas Bypass",
@@ -278,5 +250,33 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Deadpool Bypass\n\n# Deadpool Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "the-escape-together-2242760",
+    "appId": 2242760,
+    "title": "The Escape: Together Online Fix",
+    "game": "The Escape: Together",
+    "desc": "The Escape: Together Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# The Escape: Together Online Fix\n\n# The Escape: Together Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "just-cause-3-225540",
+    "appId": 225540,
+    "title": "Just Cause 3 Bypass",
+    "game": "Just Cause 3",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Just Cause 3 Bypass\n\n# Just Cause 3 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

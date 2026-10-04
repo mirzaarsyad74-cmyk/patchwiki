@@ -1,47 +1,5 @@
 [
   {
-    "id": "entropy-survivors-2602030",
-    "appId": 2602030,
-    "title": "Entropy Survivors Online Fix",
-    "game": "Entropy Survivors",
-    "desc": "Entropy Survivors Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Entropy Survivors Online Fix\n\n# Entropy Survivors Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "mount-blade-ii-bannerlord-261550",
-    "appId": 261550,
-    "title": "Mount & Blade II: Bannerlord Online Fix",
-    "game": "Mount & Blade II: Bannerlord",
-    "desc": "Mount & Blade II: Bannerlord Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Mount & Blade II: Bannerlord Online Fix\n\n# Mount & Blade II: Bannerlord Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "tinkerlands-2617700",
-    "appId": 2617700,
-    "title": "Tinkerlands Bypass",
-    "game": "Tinkerlands",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Tinkerlands Bypass\n\n# Tinkerlands Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
     "id": "darkest-dungeon-262060",
     "appId": 262060,
     "title": "Darkest Dungeon® Online Fix",
@@ -278,5 +236,47 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# American Truck Simulator Online Fix\n\n# American Truck Simulator Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "kalpa-cosmic-symphony-2717010",
+    "appId": 2717010,
+    "title": "KALPA: Cosmic Symphony Bypass",
+    "game": "KALPA: Cosmic Symphony",
+    "desc": "KALPA: Cosmic Symphony Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# KALPA: Cosmic Symphony Bypass\n\n# KALPA: Cosmic Symphony Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "samurai-warriors-4-dx-2719200",
+    "appId": 2719200,
+    "title": "SAMURAI WARRIORS 4 DX Online Fix",
+    "game": "SAMURAI WARRIORS 4 DX",
+    "desc": "SAMURAI WARRIORS 4 DX Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# SAMURAI WARRIORS 4 DX Online Fix\n\n# SAMURAI WARRIORS 4 DX Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "stellaris-nexus-playtest-2723680",
+    "appId": 2723680,
+    "title": "Stellaris Nexus Playtest Bypass",
+    "game": "Stellaris Nexus Playtest",
+    "desc": "Stellaris Nexus Playtest Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Stellaris Nexus Playtest Bypass\n\n# Stellaris Nexus Playtest Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

@@ -1525,19 +1525,6 @@
     "date": "2026-08-11"
   },
   {
-    "id": "sengoku-dynasty-1702010",
-    "appId": 1702010,
-    "title": "Sengoku Dynasty Bypass",
-    "game": "Sengoku Dynasty",
-    "desc": "Sengoku Dynasty Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11"
-  },
-  {
     "id": "drug-dealer-simulator-2-1708850",
     "appId": 1708850,
     "title": "Drug Dealer Simulator 2 Online Fix",
@@ -2039,19 +2026,6 @@
     "desc": "Added Call of Duty®: Black Ops 6 - Campaign - 1938090",
     "tags": [
       "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11"
-  },
-  {
-    "id": "call-of-duty-modern-warfare-2000950",
-    "appId": 2000950,
-    "title": "Call of Duty®: Modern Warfare® Bypass",
-    "game": "Call of Duty®: Modern Warfare®",
-    "desc": "Call of Duty®: Modern Warfare® Bypass",
-    "tags": [
-      "bypass"
     ],
     "author": "ProSub",
     "version": "1.0",
@@ -3067,19 +3041,6 @@
     "desc": "Avatar Legends: The Fighting Game Online Fix",
     "tags": [
       "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11"
-  },
-  {
-    "id": "watch-dogs-243470",
-    "appId": 243470,
-    "title": "Watch_Dogs Bypass",
-    "game": "Watch_Dogs",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
     ],
     "author": "ProSub",
     "version": "1.0",
@@ -5297,19 +5258,6 @@
     "date": "2026-08-11"
   },
   {
-    "id": "call-of-duty-modern-warfare-ii-3595230",
-    "appId": 3595230,
-    "title": "Call of Duty®: Modern Warfare® II Bypass",
-    "game": "Call of Duty®: Modern Warfare® II",
-    "desc": "Call of Duty®: Modern Warfare® II Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11"
-  },
-  {
     "id": "astroneer-361420",
     "appId": 361420,
     "title": "ASTRONEER Online Fix",
@@ -6598,45 +6546,6 @@
     "date": "2026-08-07"
   },
   {
-    "id": "pay-day-3-1272080",
-    "appId": 1272080,
-    "title": "PAY DAY 3",
-    "game": "PAY DAY 3",
-    "desc": "STEP BY STEP FOR PAY DAY 3",
-    "tags": [
-      "online"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "1.0",
-    "date": "2026-08-05"
-  },
-  {
-    "id": "monster-hunter-stories-2-wings-of-ruin-1277400",
-    "appId": 1277400,
-    "title": "1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "game": "MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "desc": "1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "tags": [
-      "online"
-    ],
-    "author": "Anonymous",
-    "version": "1.0",
-    "date": "2026-08-05"
-  },
-  {
-    "id": "fifa-22-1506830",
-    "appId": 1506830,
-    "title": "FIFA 22",
-    "game": "FIFA 22",
-    "desc": "- After patching, open folder and start game using FIFA22.exe",
-    "tags": [
-      "online"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "1.0",
-    "date": "2026-08-05"
-  },
-  {
     "id": "crimson-desert-3321460-2419900",
     "appId": 2419900,
     "title": "Crimson Desert - 3321460",
@@ -6659,60 +6568,6 @@
     "tags": [
       "bypass",
       "drm"
-    ],
-    "author": "yuumi",
-    "version": "1.0",
-    "date": "2026-08-05"
-  },
-  {
-    "id": "battlefield-6-2807960",
-    "appId": 2807960,
-    "title": "Battlefield 6",
-    "game": "Battlefield 6",
-    "desc": "- After install game.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "1.0",
-    "date": "2026-08-05"
-  },
-  {
-    "id": "carx-street-1114150",
-    "appId": 1114150,
-    "title": "CARX STREET BYPASS version 1.10.1",
-    "game": "CARX STREET",
-    "desc": "CARX STREET BYPASS version 1.10.1",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "CARX STREET BYPASS version 1.10.1",
-    "date": "2026-08-05"
-  },
-  {
-    "id": "crimson-desert-3321460",
-    "appId": 3321460,
-    "title": "Crimson Desert",
-    "game": "Crimson Desert",
-    "desc": "Crimson Desert - 3321460",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "1.0",
-    "date": "2026-08-05"
-  },
-  {
-    "id": "forza-horizon-6-2483190",
-    "appId": 2483190,
-    "title": "Forza Horizon 6 Tutorial",
-    "game": "Forza Horizon 6",
-    "desc": "Forza Horizon 6 Tutorial",
-    "tags": [
-      "drm",
-      "online"
     ],
     "author": "yuumi",
     "version": "1.0",
@@ -6747,13 +6602,13 @@
   {
     "id": "palworld-1623730",
     "appId": 1623730,
-    "title": "PALWORLD",
-    "game": "PALWORLD",
+    "title": "Palworld  - 1623730",
+    "game": "Palworld",
     "desc": "1. Download EPIC Games Store at https://store.epicgames.com/",
     "tags": [
       "online"
     ],
-    "author": "Kaunter Pertanyaan",
+    "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-08-05"
   },
@@ -6919,6 +6774,19 @@
     "date": "2026-07-18"
   },
   {
+    "id": "ea-sports-college-football-27-4032350",
+    "appId": 4032350,
+    "title": "EA SPORTS™ College Football 27 - 4032350",
+    "game": "EA SPORTS™ College Football 27",
+    "desc": "\"Tools Game Auto Update  Smart Apply\" is completed",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-07-16"
+  },
+  {
     "id": "unravel-two-1225570",
     "appId": 1225570,
     "title": "Unravel Two - 1225570",
@@ -7081,6 +6949,21 @@
     "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-06-29"
+  },
+  {
+    "id": "responding-2658040",
+    "appId": 2658040,
+    "title": "RESPONDING - 2658040",
+    "game": "RESPONDING",
+    "desc": "Make sure game has been Enable Game Auto Update in Tools Section.",
+    "tags": [
+      "online",
+      "crack",
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-06-28"
   },
   {
     "id": "hogwarts-legacy-990080",
@@ -7264,6 +7147,35 @@
     "date": "2026-05-26"
   },
   {
+    "id": "2215200-lego-batman-legacy-of-the-dark-knight",
+    "appId": 2215200,
+    "title": "2215200- LEGO® Batman™: Legacy of the Dark Knight",
+    "game": "2215200- LEGO® Batman™: Legacy of the Dark Knight",
+    "desc": "1) Unlock game  install at right SSD /HDD depends on requirements",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-24"
+  },
+  {
+    "id": "forza-horizon-6-2483190-release-date-19-05-2026",
+    "appId": 2483190,
+    "title": "Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)",
+    "game": "Forza Horizon 6",
+    "desc": "Press Win + R  steam://install/480",
+    "tags": [
+      "online",
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-17"
+  },
+  {
     "id": "blades-of-fire-2091020",
     "appId": 2091020,
     "title": "Blades Of Fire - 2091020",
@@ -7374,6 +7286,32 @@
     "date": "2026-05-06"
   },
   {
+    "id": "1702010-sengoku-dynasty",
+    "appId": 1702010,
+    "title": "1702010 SENGOKU DYNASTY",
+    "game": "SENGOKU DYNASTY",
+    "desc": "Tutorial and guide for SENGOKU DYNASTY.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "243470-watch-dogs",
+    "appId": 243470,
+    "title": "243470 WATCH DOGS",
+    "game": "WATCH DOGS",
+    "desc": "Tutorial and guide for WATCH DOGS.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06"
+  },
+  {
     "id": "311210-cod-black-ops-3-online-bypass",
     "appId": 311210,
     "title": "311210 COD BLACK OPS 3 ONLINE BYPASS",
@@ -7465,6 +7403,19 @@
     "date": "2026-05-05"
   },
   {
+    "id": "1277400-monster-hunter-stories-2-wings-of-ruin-online",
+    "appId": 1277400,
+    "title": "1277400 MONSTER HUNTER STORIES 2: WINGS OF RUIN ONLINE",
+    "game": "MONSTER HUNTER STORIES 2: WINGS OF RUIN",
+    "desc": "After patching, start game from Steam",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05"
+  },
+  {
     "id": "1313860-ea-sports-fifa-21-bypass",
     "appId": 1313860,
     "title": "1313860 EA SPORTS FIFA 21 BYPASS",
@@ -7483,6 +7434,19 @@
     "title": "1328660 NSF HOT PURSUIT REMASTERED DENUV & EA BYPASS",
     "game": "NSF HOT PURSUIT REMASTERED DENUV &",
     "desc": "After patching, go inside the game foder, start game with NFS11Remastered.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "1506830-fifa-22-bypass",
+    "appId": 1506830,
+    "title": "1506830 FIFA 22 BYPASS",
+    "game": "FIFA 22",
+    "desc": "After patching, open folder and start game using FIFA22.exe",
     "tags": [
       "bypass"
     ],
@@ -7635,6 +7599,21 @@
     "date": "2026-05-05"
   },
   {
+    "id": "borderlands-4-1285190",
+    "appId": 1285190,
+    "title": "Borderlands® 4 - 1285190",
+    "game": "Borderlands® 4",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-05"
+  },
+  {
     "id": "star-wars-outlaws-2842040",
     "appId": 2842040,
     "title": "Star Wars Outlaws - 2842040",
@@ -7696,6 +7675,19 @@
     "desc": "Download is pretty large around 300mb",
     "tags": [
       "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "1272080-pay-day-3",
+    "appId": 1272080,
+    "title": "1272080 PAY DAY 3",
+    "game": "PAY DAY 3",
+    "desc": "<:5726toothymaw:1239134161835655198",
+    "tags": [
+      "general"
     ],
     "author": "MinamiRX20",
     "version": "1.0",
@@ -7938,6 +7930,21 @@
     "date": "2026-05-04"
   },
   {
+    "id": "need-for-speed-unbound-1846380",
+    "appId": 1846380,
+    "title": "Need for Speed™ Unbound - 1846380",
+    "game": "Need for Speed™ Unbound",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-03"
+  },
+  {
     "id": "anno-117-pax-romana-3274580",
     "appId": 3274580,
     "title": "Anno 117 : Pax Romana - 3274580",
@@ -8122,6 +8129,19 @@
     "title": "Added Monster Hunter: World Online- 582010",
     "game": "Monster Hunter: World",
     "desc": "After patch, open game folder and run the game via Launcher.exe",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "battlefield-6-2807960",
+    "appId": 2807960,
+    "title": "Battlefield 6 - 2807960",
+    "game": "Battlefield 6",
+    "desc": "Enter the game folder, you can use \"Downloaded Game\" button.",
     "tags": [
       "general"
     ],
@@ -8339,6 +8359,34 @@
     "date": "2026-04-29"
   },
   {
+    "id": "2000950-call-of-duty-modern-warfare",
+    "appId": 2000950,
+    "title": "2000950 - Call of Duty®: Modern Warfare®",
+    "game": "Call of Duty®: Modern Warfare®",
+    "desc": "Added campaign mode crack for CODMW",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "3595230-call-of-duty-modern-warfare-ii",
+    "appId": 3595230,
+    "title": "3595230 - Call of Duty®: Modern Warfare® II",
+    "game": "Call of Duty®: Modern Warfare® II",
+    "desc": "Start the game ONLY FROM !startcod22.bat (for MP) or !startsp22.bat (for SP) and keep the console window open until it closes by itself when you close the game.",
+    "tags": [
+      "bypass",
+      "coop",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
     "id": "added-cure-a-hospital-simulator-online-patch-2786550",
     "appId": 2786550,
     "title": "Added CURE - A Hospital Simulator online patch (2786550)",
@@ -8348,6 +8396,19 @@
       "online"
     ],
     "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "added-call-of-duty-black-ops-6-campaign-1938090",
+    "appId": 1962663,
+    "title": "Added Call of Duty®: Black Ops 6 - Campaign - 1938090",
+    "game": "Call of Duty®: Black Ops 6 - Campaign",
+    "desc": "Game should be in Call of Duty (1938090), download the whole thing, make sure this 3 DLC is ticked",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-04-29"
   },
@@ -8372,6 +8433,32 @@
     "desc": "login epic games pop up in browser, then go back to game after login.",
     "tags": [
       "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "added-my-hero-academia-all-s-justice-online-patch-2362050",
+    "appId": 2362050,
+    "title": "Added  MY HERO ACADEMIA: All’s Justice online patch - 2362050",
+    "game": "MY HERO ACADEMIA: All’s Justice",
+    "desc": "open game folder and Launch the game via HeroGame\\Binaries\\Win64\\AJGAME.exe",
+    "tags": [
+      "online"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "added-mass-effect-andromeda-ea-bypass-1238000",
+    "appId": 1238000,
+    "title": "Added Mass Effect™: Andromeda EA Bypass - 1238000",
+    "game": "Mass Effect™: Andromeda",
+    "desc": "After patching, open game folder and run the game using MassEffectAndromeda.exe",
+    "tags": [
+      "bypass"
     ],
     "author": "The Weekdys",
     "version": "1.0",
@@ -8564,6 +8651,33 @@
     "date": "2026-04-29"
   },
   {
+    "id": "carx-street-1114150",
+    "appId": 1114150,
+    "title": "CarX Street - 1114150",
+    "game": "CarX Street",
+    "desc": "1. Download game Carx from Steam",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "crimson-desert-3321460",
+    "appId": 3321460,
+    "title": "Crimson Desert - 3321460",
+    "game": "Crimson Desert",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
     "id": "dirt-4-online-patch-421020",
     "appId": 421020,
     "title": "DiRT 4 online patch - 421020",
@@ -8586,6 +8700,19 @@
     "tags": [
       "bypass",
       "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "dragon-age-inquisition-denuv0-and-ea-bypass-1222690",
+    "appId": 1222690,
+    "title": "Dragon Age™ Inquisition DENUV0 and EA bypass - 1222690",
+    "game": "Dragon Age™ Inquisition DENUV0 and",
+    "desc": "run game from inside folder DragonAgeInquisition.exe",
+    "tags": [
+      "bypass"
     ],
     "author": "The Weekdys",
     "version": "1.0",
@@ -8777,6 +8904,32 @@
       "coop"
     ],
     "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "star-wars-jedi-survivor-1774580",
+    "appId": 1774580,
+    "title": "STAR WARS Jedi: Survivor™ - 1774580",
+    "game": "STAR WARS Jedi: Survivor™",
+    "desc": "open SwGame/Binaries/Win64",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "stellar-blade-3489700",
+    "appId": 3489700,
+    "title": "Stellar Blade™ - 3489700",
+    "game": "Stellar Blade™",
+    "desc": "1. Download game Stellar Blade from Steam",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-04-29"
   },

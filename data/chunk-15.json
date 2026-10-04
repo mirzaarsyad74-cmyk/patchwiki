@@ -1,47 +1,5 @@
 [
   {
-    "id": "forsaken-frontiers-2810780",
-    "appId": 2810780,
-    "title": "Forsaken Frontiers Online Fix",
-    "game": "Forsaken Frontiers",
-    "desc": "Forsaken Frontiers Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Forsaken Frontiers Online Fix\n\n# Forsaken Frontiers Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "the-mosquito-gang-2811100",
-    "appId": 2811100,
-    "title": "The Mosquito Gang Bypass",
-    "game": "The Mosquito Gang",
-    "desc": "The Mosquito Gang Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# The Mosquito Gang Bypass\n\n# The Mosquito Gang Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "chaos-express-2818480",
-    "appId": 2818480,
-    "title": "Chaos Express Online Fix",
-    "game": "Chaos Express",
-    "desc": "Chaos Express Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Chaos Express Online Fix\n\n# Chaos Express Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
     "id": "stellaris-281990",
     "appId": 281990,
     "title": "Stellaris Online Fix",
@@ -278,5 +236,47 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Pushing It! With Sisyphus Online Fix\n\n# Pushing It! With Sisyphus Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "lost-lullabies-the-orphanage-chronicles-2903710",
+    "appId": 2903710,
+    "title": "Lost Lullabies: The Orphanage Chronicles Online Fix",
+    "game": "Lost Lullabies: The Orphanage Chronicles",
+    "desc": "Lost Lullabies: The Orphanage Chronicles Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Lost Lullabies: The Orphanage Chronicles Online Fix\n\n# Lost Lullabies: The Orphanage Chronicles Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "the-spell-brigade-2904000",
+    "appId": 2904000,
+    "title": "The Spell Brigade Bypass",
+    "game": "The Spell Brigade",
+    "desc": "The Spell Brigade Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# The Spell Brigade Bypass\n\n# The Spell Brigade Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "fast-food-simulator-2916430",
+    "appId": 2916430,
+    "title": "Fast Food Simulator Online Fix",
+    "game": "Fast Food Simulator",
+    "desc": "Fast Food Simulator Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Fast Food Simulator Online Fix\n\n# Fast Food Simulator Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]
