@@ -1279,24 +1279,33 @@ For most games, use **Goldberg with LAN mode** + Hamachi or ZeroTier instead of 
 let tutorials = [];
 let currentFilter = 'all';
 
-async function loadTutorials() {
-  const cacheBust = '?_t=' + Date.now();
+async function loadTutorials(silent = false) {
+  const cacheBust = "?_t=" + Date.now();
   try {
-    // Fetch index.json — all tutorials WITHOUT content (small file, fast)
-    const res = await fetch('index.json' + cacheBust, { cache: 'no-cache' });
-    if (!res.ok) throw new Error('no index');
+    // Fetch index.json - all tutorials WITHOUT content (small file, fast)
+    const res = await fetch("index.json" + cacheBust, {
+      cache: "no-cache",
+      headers: { "Cache-Control": "no-cache", "Pragma": "no-cache" }
+    });
+    if (!res.ok) throw new Error("no index");
     tutorials = await res.json();
   } catch {
     try {
       // fallback to tutorials.json for backwards compat
-      const res2 = await fetch('tutorials.json' + cacheBust, { cache: 'no-cache' });
-      if (!res2.ok) throw new Error('no json');
+      const res2 = await fetch("tutorials.json" + cacheBust, {
+        cache: "no-cache",
+        headers: { "Cache-Control": "no-cache", "Pragma": "no-cache" }
+      });
+      if (!res2.ok) throw new Error("no json");
       tutorials = await res2.json();
     } catch {
       tutorials = SAMPLE_TUTORIALS;
     }
   }
-  renderGrid(tutorials);
+  const activePage = document.querySelector(".page.active");
+  if (!activePage || activePage.id === "page-home") {
+    renderGrid(tutorials);
+  }
   updateStats();
 }
 
@@ -1306,29 +1315,38 @@ let manifest = null;
 
 async function loadManifest() {
   if (manifest) return manifest;
-  const cacheBust = '?_t=' + Date.now();
+  const cacheBust = "?_t=" + Date.now();
   try {
-    const res = await fetch('manifest.json' + cacheBust, { cache: 'no-cache' });
+    const res = await fetch("manifest.json" + cacheBust, {
+      cache: "no-cache",
+      headers: { "Cache-Control": "no-cache", "Pragma": "no-cache" }
+    });
     manifest = await res.json();
   } catch { manifest = {}; }
   return manifest;
 }
 
 async function loadTutorialContent(id) {
-  // Check if already in tutorials array (has content)
-  const t = tutorials.find(x => x.id === id);
+  // Check if already in tutorials array by id or appId
+  let t = tutorials.find(x => x.id === id || String(x.appId) === String(id));
   if (t && t.content) return t;
 
-  // Load via manifest → chunk
+  // Load via manifest -> chunk
   const m = await loadManifest();
-  const chunkFile = m[id];
+  let chunkFile = m[id];
+  if (!chunkFile && t) {
+    chunkFile = m[t.id];
+  }
   if (!chunkFile) return t || null;
 
   // Load chunk if not cached
   if (!chunkCache[chunkFile]) {
     try {
-      const cacheBust = '?_t=' + Date.now();
-      const res = await fetch(chunkFile + cacheBust, { cache: 'no-cache' });
+      const cacheBust = "?_t=" + Date.now();
+      const res = await fetch(chunkFile + cacheBust, {
+        cache: "no-cache",
+        headers: { "Cache-Control": "no-cache", "Pragma": "no-cache" }
+      });
       const chunk = await res.json();
       chunkCache[chunkFile] = chunk;
       // Merge content back into tutorials array
@@ -1339,29 +1357,72 @@ async function loadTutorialContent(id) {
     } catch { return t || null; }
   }
 
-  return tutorials.find(x => x.id === id) || null;
+  return tutorials.find(x => x.id === id || (t && x.id === t.id)) || null;
 }
 
 function updateStats() {
-  document.getElementById('total-count').textContent  = tutorials.length;
-  document.getElementById('contrib-count').textContent = [...new Set(tutorials.map(t => t.author))].length;
+  const totalEl = document.getElementById("total-count");
+  if (totalEl) totalEl.textContent = tutorials.length;
+  const contribEl = document.getElementById("contrib-count");
+  if (contribEl) contribEl.textContent = [...new Set(tutorials.map(t => t.author))].length;
 }
 
-// ─── NAVIGATION ────────────────────────────────────────────────
+// --- NAVIGATION -------------------------------------------------------------
 function navigate(page, id) {
-  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
-  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll(".page").forEach(p => p.classList.remove("active"));
+  document.querySelectorAll(".nav-btn").forEach(b => b.classList.remove("active"));
 
-  document.getElementById('page-' + page).classList.add('active');
-  const nb = document.getElementById('nav-' + page);
-  if (nb) nb.classList.add('active');
+  const pageEl = document.getElementById("page-" + page);
+  if (pageEl) pageEl.classList.add("active");
+  const nb = document.getElementById("nav-" + page);
+  if (nb) nb.classList.add("active");
 
-  if (page === 'home') renderGrid(tutorials);
-  if (page === 'read' && id) renderReader(id); // async, non-blocking
-  if (page === 'about') renderAbout();
+  if (page === "home") renderGrid(tutorials);
+  if (page === "read" && id) renderReader(id); // async, non-blocking
+  if (page === "about") renderAbout();
 
   window.scrollTo(0, 0);
 }
+
+async function handleUrlRoute() {
+  const hash = window.location.hash || "";
+  const searchParams = new URLSearchParams(window.location.search);
+  const tutorialParam = searchParams.get("tutorial");
+
+  let readId = null;
+  if (hash.startsWith("#read/")) {
+    readId = decodeURIComponent(hash.slice(6));
+  } else if (tutorialParam) {
+    readId = tutorialParam;
+  } else if (hash === "#contribute") {
+    navigate("contribute");
+    return;
+  } else if (hash === "#about") {
+    navigate("about");
+    return;
+  }
+
+  if (readId) {
+    navigate("read", readId);
+  } else {
+    navigate("home");
+  }
+}
+
+// Auto-update every 2 minutes so guides inside Steam are always fresh
+setInterval(() => {
+  loadTutorials(true);
+}, 2 * 60 * 1000);
+
+// Listen for refresh message from parent (Steam CEF modal)
+window.addEventListener("message", async (e) => {
+  if (e.data && (e.data.type === "CR_REFRESH_TUTORIALS" || e.data === "refresh")) {
+    await loadTutorials();
+    handleUrlRoute();
+  }
+});
+
+window.addEventListener("hashchange", handleUrlRoute);
 
 // ─── GRID ──────────────────────────────────────────────────────
 const TAG_MAP = {
@@ -1871,7 +1932,7 @@ function showToast(msg, icon = '✅') {
 // ─── INIT ──────────────────────────────────────────────────────
 renderTagsSelect();
 renderAbout();
-loadTutorials(); // async: fetches tutorials.json then renders grid
+loadTutorials().then(() => { handleUrlRoute(); });
 </script>
 </body>
 </html>
