@@ -3,10 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Expires" content="0">
-<title>PatchWiki — Online Patch & Game Bypass Guides</title>
+<title>Tutorial — Online Patch & Game Bypass Guides</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <!-- marked.js for markdown rendering -->
@@ -854,18 +851,9 @@
 <header class="site-header">
   <div class="signal-bar"></div>
   <div class="header-inner">
-    <div class="logo" onclick="navigate('home')">
-      <div class="logo-icon">P</div>
-      <span class="logo-text">Patch<span>Wiki</span></span>
-    </div>
     <nav class="header-nav">
       <button class="nav-btn active" id="nav-home" onclick="navigate('home')">📖 Guides</button>
-      <button class="nav-btn" id="nav-contribute" onclick="navigate('contribute')">✏️ Contribute</button>
-      <button class="nav-btn" id="nav-about" onclick="navigate('about')">ℹ️ About</button>
     </nav>
-    <div class="header-actions">
-      <a href="https://github.com" class="btn btn-ghost" target="_blank">⭐ GitHub</a>
-    </div>
   </div>
 </header>
 
@@ -875,8 +863,6 @@
   <div class="stats-bar">
     <div class="stats-inner">
       <div class="stat-item"><span class="stat-num" id="total-count">—</span><span class="stat-label">tutorials</span></div>
-      <div class="stat-item"><span class="stat-num" id="contrib-count">—</span><span class="stat-label">contributors</span></div>
-      <div class="stat-item"><span class="stat-num">Open</span><span class="stat-label">source & community-driven</span></div>
     </div>
   </div>
 
@@ -1045,7 +1031,7 @@
 <!-- ── ABOUT PAGE ── -->
 <div id="page-about" class="page">
   <div style="max-width:720px;margin:0 auto;padding:48px 24px 64px">
-    <h2 style="font-family:var(--mono);font-size:26px;font-weight:700;margin-bottom:16px;letter-spacing:-0.5px">About PatchWiki</h2>
+    <h2 style="font-family:var(--mono);font-size:26px;font-weight:700;margin-bottom:16px;letter-spacing:-0.5px">About Tutorial</h2>
     <div class="md-content" id="about-content"></div>
   </div>
 </div>
@@ -1279,35 +1265,63 @@ For most games, use **Goldberg with LAN mode** + Hamachi or ZeroTier instead of 
 let tutorials = [];
 let currentFilter = 'all';
 
-async function loadTutorials(silent = false) {
-  const cacheBust = "?_t=" + Date.now();
-  try {
-    // Fetch index.json - all tutorials WITHOUT content (small file, fast)
-    const res = await fetch("index.json" + cacheBust, {
-      cache: "no-cache",
-      headers: { "Cache-Control": "no-cache", "Pragma": "no-cache" }
-    });
-    if (!res.ok) throw new Error("no index");
-    tutorials = await res.json();
-  } catch {
+async function loadTutorials() {
     try {
-      // fallback to tutorials.json for backwards compat
-      const res2 = await fetch("tutorials.json" + cacheBust, {
-        cache: "no-cache",
-        headers: { "Cache-Control": "no-cache", "Pragma": "no-cache" }
-      });
-      if (!res2.ok) throw new Error("no json");
-      tutorials = await res2.json();
+      const res = await fetch('index.json');
+      if (!res.ok) throw new Error('no index');
+      tutorials = await res.json();
     } catch {
-      tutorials = SAMPLE_TUTORIALS;
+      try {
+        const res2 = await fetch('tutorials.json');
+        if (!res2.ok) throw new Error('no json');
+        tutorials = await res2.json();
+      } catch {
+        tutorials = SAMPLE_TUTORIALS;
+      }
+    }
+    updateStats();
+    handleUrlRouting();
+  }
+
+  function handleUrlRouting() {
+    const params = new URLSearchParams(window.location.search);
+    const searchQ = params.get('search') || params.get('q');
+    const appIdParam = params.get('appid') || params.get('appId');
+    const tutorialParam = params.get('tutorial') || params.get('id');
+
+    let hashTutorialId = null;
+    if (window.location.hash && window.location.hash.startsWith('#read/')) {
+      hashTutorialId = decodeURIComponent(window.location.hash.substring(6));
+    }
+
+    if (tutorialParam || hashTutorialId) {
+      navigate('read', tutorialParam || hashTutorialId, false);
+    } else if (appIdParam) {
+      const match = tutorials.find(t => t.appId && String(t.appId) === String(appIdParam));
+      if (match) {
+        navigate('read', match.id, false);
+      } else {
+        const input = document.getElementById('search-input');
+        if (input) input.value = searchQ || appIdParam;
+        renderGrid(tutorials);
+      }
+    } else if (searchQ) {
+      const input = document.getElementById('search-input');
+      if (input) input.value = searchQ;
+      renderGrid(tutorials);
+    } else {
+      renderGrid(tutorials);
     }
   }
-  const activePage = document.querySelector(".page.active");
-  if (!activePage || activePage.id === "page-home") {
-    renderGrid(tutorials);
-  }
-  updateStats();
-}
+
+  window.addEventListener('hashchange', () => {
+    if (window.location.hash && window.location.hash.startsWith('#read/')) {
+      const id = decodeURIComponent(window.location.hash.substring(6));
+      navigate('read', id, false);
+    } else if (!window.location.hash) {
+      navigate('home', null, false);
+    }
+  });
 
 // Cache for loaded chunks
 const chunkCache = {};
@@ -1315,38 +1329,27 @@ let manifest = null;
 
 async function loadManifest() {
   if (manifest) return manifest;
-  const cacheBust = "?_t=" + Date.now();
   try {
-    const res = await fetch("manifest.json" + cacheBust, {
-      cache: "no-cache",
-      headers: { "Cache-Control": "no-cache", "Pragma": "no-cache" }
-    });
+    const res = await fetch('manifest.json');
     manifest = await res.json();
   } catch { manifest = {}; }
   return manifest;
 }
 
 async function loadTutorialContent(id) {
-  // Check if already in tutorials array by id or appId
-  let t = tutorials.find(x => x.id === id || String(x.appId) === String(id));
+  // Check if already in tutorials array (has content)
+  const t = tutorials.find(x => x.id === id);
   if (t && t.content) return t;
 
-  // Load via manifest -> chunk
+  // Load via manifest → chunk
   const m = await loadManifest();
-  let chunkFile = m[id];
-  if (!chunkFile && t) {
-    chunkFile = m[t.id];
-  }
+  const chunkFile = m[id];
   if (!chunkFile) return t || null;
 
   // Load chunk if not cached
   if (!chunkCache[chunkFile]) {
     try {
-      const cacheBust = "?_t=" + Date.now();
-      const res = await fetch(chunkFile + cacheBust, {
-        cache: "no-cache",
-        headers: { "Cache-Control": "no-cache", "Pragma": "no-cache" }
-      });
+      const res = await fetch(chunkFile);
       const chunk = await res.json();
       chunkCache[chunkFile] = chunk;
       // Merge content back into tutorials array
@@ -1357,72 +1360,39 @@ async function loadTutorialContent(id) {
     } catch { return t || null; }
   }
 
-  return tutorials.find(x => x.id === id || (t && x.id === t.id)) || null;
+  return tutorials.find(x => x.id === id) || null;
 }
 
 function updateStats() {
-  const totalEl = document.getElementById("total-count");
-  if (totalEl) totalEl.textContent = tutorials.length;
-  const contribEl = document.getElementById("contrib-count");
+  document.getElementById('total-count').textContent  = tutorials.length;
+  const contribEl = document.getElementById('contrib-count');
   if (contribEl) contribEl.textContent = [...new Set(tutorials.map(t => t.author))].length;
 }
 
-// --- NAVIGATION -------------------------------------------------------------
-function navigate(page, id) {
-  document.querySelectorAll(".page").forEach(p => p.classList.remove("active"));
-  document.querySelectorAll(".nav-btn").forEach(b => b.classList.remove("active"));
+// ─── NAVIGATION ────────────────────────────────────────────────
+function navigate(page, id, updateHash = true) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
 
-  const pageEl = document.getElementById("page-" + page);
-  if (pageEl) pageEl.classList.add("active");
-  const nb = document.getElementById("nav-" + page);
-  if (nb) nb.classList.add("active");
+  document.getElementById('page-' + page).classList.add('active');
+  const nb = document.getElementById('nav-' + page);
+  if (nb) nb.classList.add('active');
 
-  if (page === "home") renderGrid(tutorials);
-  if (page === "read" && id) renderReader(id); // async, non-blocking
-  if (page === "about") renderAbout();
+  if (page === 'home') {
+    if (updateHash && window.location.hash) history.pushState(null, '', window.location.pathname + window.location.search);
+    renderGrid(tutorials);
+  }
+  if (page === 'read' && id) {
+    if (updateHash) window.location.hash = '#read/' + encodeURIComponent(id);
+    renderReader(id);
+  }
+  if (page === 'about') {
+    if (updateHash && window.location.hash) history.pushState(null, '', window.location.pathname + window.location.search);
+    renderAbout();
+  }
 
   window.scrollTo(0, 0);
 }
-
-async function handleUrlRoute() {
-  const hash = window.location.hash || "";
-  const searchParams = new URLSearchParams(window.location.search);
-  const tutorialParam = searchParams.get("tutorial");
-
-  let readId = null;
-  if (hash.startsWith("#read/")) {
-    readId = decodeURIComponent(hash.slice(6));
-  } else if (tutorialParam) {
-    readId = tutorialParam;
-  } else if (hash === "#contribute") {
-    navigate("contribute");
-    return;
-  } else if (hash === "#about") {
-    navigate("about");
-    return;
-  }
-
-  if (readId) {
-    navigate("read", readId);
-  } else {
-    navigate("home");
-  }
-}
-
-// Auto-update every 2 minutes so guides inside Steam are always fresh
-setInterval(() => {
-  loadTutorials(true);
-}, 2 * 60 * 1000);
-
-// Listen for refresh message from parent (Steam CEF modal)
-window.addEventListener("message", async (e) => {
-  if (e.data && (e.data.type === "CR_REFRESH_TUTORIALS" || e.data === "refresh")) {
-    await loadTutorials();
-    handleUrlRoute();
-  }
-});
-
-window.addEventListener("hashchange", handleUrlRoute);
 
 // ─── GRID ──────────────────────────────────────────────────────
 const TAG_MAP = {
@@ -1442,7 +1412,7 @@ function renderGrid(list) {
   const grid = document.getElementById('tutorial-grid');
   const q = document.getElementById('search-input').value.toLowerCase();
   let shown = list.filter(t => {
-    const matchQ = !q || t.title.toLowerCase().includes(q) || t.game.toLowerCase().includes(q) || t.desc.toLowerCase().includes(q);
+    const matchQ = !q || t.title.toLowerCase().includes(q) || (t.game && t.game.toLowerCase().includes(q)) || (t.desc && t.desc.toLowerCase().includes(q)) || (t.appId && String(t.appId).includes(q));
     const matchF = currentFilter === 'all' || t.tags.includes(currentFilter);
     return matchQ && matchF;
   });
@@ -1460,7 +1430,7 @@ function renderGrid(list) {
 
   grid.innerHTML = shown.map(t => `
     <div class="tutorial-card" onclick="navigate('read','${t.id}')">
-      <div class="card-tags">${t.tags.map(tagHTML).join('')}</div>
+      <div class="card-tags">${t.tags.map(tagHTML).join('')}${t.appId ? `<span class="tag tag-appid" style="background:rgba(56,120,181,0.25);color:#79c0ff;border:1px solid rgba(88,166,255,0.4)">AppID: ${t.appId}</span>` : ''}</div>
       <div class="card-title">${t.title}</div>
       <div class="card-desc">${t.desc}</div>
       <div class="card-meta">
@@ -1489,11 +1459,12 @@ async function renderReader(id) {
   const t = await loadTutorialContent(id);
   if (!t) { navigate('home'); return; }
 
-  document.getElementById('reader-tags').innerHTML = t.tags.map(tagHTML).join('');
+  document.getElementById('reader-tags').innerHTML = [...t.tags.map(tagHTML), (t.appId ? `<a href="https://store.steampowered.com/app/${t.appId}/" target="_blank" class="tag" style="background:rgba(56,120,181,0.25);color:#79c0ff;border:1px solid rgba(88,166,255,0.4);text-decoration:none">AppID: ${t.appId} ↗</a>` : '')].join('');
   document.getElementById('reader-title').textContent = t.title;
   document.getElementById('reader-meta').innerHTML = `
     <div class="reader-meta-item"><div class="avatar">${t.author[0].toUpperCase()}</div>${t.author}</div>
     <div class="reader-meta-item">🎮 ${t.game}</div>
+      ${t.appId ? `<div class="reader-meta-item">🆔 Steam AppID: <b>${t.appId}</b></div>` : ''}
     ${t.version ? `<div class="reader-meta-item">🔧 ${t.version}</div>` : ''}
     <div class="reader-meta-item">📅 ${t.date}</div>
   `;
@@ -1856,7 +1827,7 @@ date: ${t.date}
   }
   panel.innerHTML = `
     <div class="pr-header">
-      <span class="detect-label">🚀 SUBMIT TO PATCHWIKI — OPEN A PULL REQUEST</span>
+      <span class="detect-label">🚀 SUBMIT TUTORIAL — OPEN A PULL REQUEST</span>
       <button class="pr-close" onclick="document.getElementById('pr-panel').remove()">✕</button>
     </div>
     <div class="pr-body">
@@ -1865,11 +1836,11 @@ date: ${t.date}
         <pre class="pr-code" id="pr-md-content">${escHtml(fullMd)}</pre>
         <button class="code-copy" style="position:absolute;top:8px;right:8px" onclick="copyPR()">copy</button>
       </div>
-      <p class="pr-step"><span class="pr-num">2</span> Fork <strong>3circledesign/patchwiki</strong> on GitHub and place the file inside the <code>tutorials/</code> folder</p>
+      <p class="pr-step"><span class="pr-num">2</span> Fork <strong>mirzaarsyad74-cmyk/patchwiki</strong> on GitHub and place the file inside the <code>tutorials/</code> folder</p>
       <p class="pr-step"><span class="pr-num">3</span> Open a Pull Request with the title: <code>${escHtml(t.title)}</code></p>
       <p class="pr-step"><span class="pr-num">4</span> Once merged, the GitHub Action auto-deploys and your guide goes live ✓</p>
       <a class="btn btn-primary" style="display:inline-flex;margin-top:8px;text-decoration:none"
-         href="https://github.com/3circledesign/patchwiki/fork" target="_blank">
+         href="https://github.com/mirzaarsyad74-cmyk/patchwiki/fork" target="_blank">
         Fork the repo on GitHub →
       </a>
     </div>
@@ -1888,9 +1859,9 @@ function copyPR() {
 // ─── ABOUT ─────────────────────────────────────────────────────
 function renderAbout() {
   document.getElementById('about-content').innerHTML = marked.parse(`
-## What is PatchWiki?
+## What is Tutorial?
 
-PatchWiki is a community-driven wiki for **online patches, DRM bypass guides, and game co-op emulation tutorials**. All content is written and maintained by the community.
+Tutorial is a community-driven library for **online patches, DRM bypass guides, and game co-op emulation tutorials**. All content is written and maintained by the community.
 
 ## How to Contribute
 
@@ -1932,7 +1903,7 @@ function showToast(msg, icon = '✅') {
 // ─── INIT ──────────────────────────────────────────────────────
 renderTagsSelect();
 renderAbout();
-loadTutorials().then(() => { handleUrlRoute(); });
+loadTutorials(); // async: fetches tutorials.json then renders grid
 </script>
 </body>
 </html>

@@ -1,282 +1,93 @@
 [
   {
-    "id": "backrooms-escape-together-2141730",
-    "appId": 2141730,
-    "title": "Backrooms: Escape Together Online Fix",
-    "game": "Backrooms: Escape Together",
-    "desc": "Backrooms: Escape Together Online Fix",
+    "id": "the-rogue-prince-of-persia-bypass-ubisoft-2717880",
+    "appId": 2717880,
+    "title": "The Rogue Prince of Persia Bypass ubisoft (2717880)",
+    "game": "The Rogue Prince of Persia  ubisoft",
+    "desc": "Run game from steam upon patch",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# The Rogue Prince of Persia Bypass ubisoft (2717880)\n\n-Run game from steam upon patch\n"
+  },
+  {
+    "id": "two-point-museum-2185060",
+    "appId": 2185060,
+    "title": "Two Point Museum - 2185060",
+    "game": "Two Point Museum",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Two Point Museum - 2185060\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/two-point-museum-2185060_1499063303933002001.png)\n\n\n![Attached Image](assets/two-point-museum-2185060_1499063305195753586.png)\n\n---\n\nRun game from Steam Unlock as shown here, choose HV-Launcher.bat or HV-PlugNPlay.bat\n\n![Attached Image](assets/two-point-museum-2185060_1499067542864400425.png)\n\n\n![Attached Image](assets/two-point-museum-2185060_1499067543212523662.png)\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+  },
+  {
+    "id": "wwe-2k26-3717070",
+    "appId": 3717070,
+    "title": "WWE 2K26 - 3717070",
+    "game": "WWE 2K26",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# WWE 2K26 - 3717070\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/wwe-2k26-3717070_1499092452244721855.png)\n\n\n![Attached Image](assets/wwe-2k26-3717070_1499092452672274614.png)\n\n---\n\n![Attached Image](assets/wwe-2k26-3717070_1499120462196641812.png)\n\n\n![Attached Image](assets/wwe-2k26-3717070_1499120462649753870.png)\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run [VBS.cmd](https://discord.com/channels/333191744873299978/1499122656686116944/1532989862280691763)/ <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+  },
+  {
+    "id": "watch-dogs-2-ubisoft-bypass-447040",
+    "appId": 447040,
+    "title": "Watch Dogs 2 Ubisoft bypass - 447040",
+    "game": "Watch Dogs 2",
+    "desc": "After Patching, go to game folder and then go inside \\SteamLibrary\\steamapps\\common\\WatchDogs2\\bin",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Watch Dogs 2 Ubisoft bypass - 447040\n\n- Download the game\n- After Patching, go to game folder and then go inside `\\SteamLibrary\\steamapps\\common\\Watch_Dogs2\\bin`\n- Start the game through `WatchDogs2.exe`\n- Happy Gaming!\n\n![Attached Image](assets/watch-dogs-2-ubisoft-bypass-447040_1498996428243206264.png)\n"
+  },
+  {
+    "id": "wreckfest-2-1203190",
+    "appId": 1203190,
+    "title": "Wreckfest 2- 1203190",
+    "game": "Wreckfest 2",
+    "desc": "Added Wreckfest 2 online patch update",
     "tags": [
       "online"
     ],
-    "author": "ProSub",
+    "author": "The Weekdys",
     "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Backrooms: Escape Together Online Fix\n\n# Backrooms: Escape Together Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+    "date": "2026-04-29",
+    "content": "\n# Wreckfest 2- 1203190\n\nAdded Wreckfest 2 online patch update\n- patch the game\n- after patching, open the game folder\n- run the game from Wreckfest2.exe as admin\n- 1203190\n"
   },
   {
-    "id": "taora-2165470",
-    "appId": 2165470,
-    "title": "Taora Online Fix",
-    "game": "Taora",
-    "desc": "2. Click \"ONLINE PATCH\"",
+    "id": "1501750-lords-of-the-fallen-tutorial-multiplayer",
+    "appId": 1501750,
+    "title": "[1501750] Lords of the Fallen tutorial Multiplayer",
+    "game": "Lords of the Fallen",
+    "desc": "1. Add Lords of the Fallen Friend's Pass via Steam.",
     "tags": [
-      "online"
+      "coop",
+      "drm"
     ],
-    "author": "ProSub",
+    "author": "The Weekdys",
     "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Taora Online Fix\n\n# Taora Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "forgotten-seas-2168260",
-    "appId": 2168260,
-    "title": "Forgotten Seas Bypass",
-    "game": "Forgotten Seas",
-    "desc": "Forgotten Seas Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Forgotten Seas Bypass\n\n# Forgotten Seas Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "resident-evil-5-21690",
-    "appId": 21690,
-    "title": "Resident Evil 5 Bypass",
-    "game": "Resident Evil 5",
-    "desc": "Resident Evil 5 Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Resident Evil 5 Bypass\n\n# Resident Evil 5 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "worms-armageddon-217200",
-    "appId": 217200,
-    "title": "Worms Armageddon Online Fix",
-    "game": "Worms Armageddon",
-    "desc": "Worms Armageddon Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Worms Armageddon Online Fix\n\n# Worms Armageddon Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "warhammer-40-000-space-marine-2-2183900",
-    "appId": 2183900,
-    "title": "Warhammer 40,000: Space Marine 2 Bypass",
-    "game": "Warhammer 40,000: Space Marine 2",
-    "desc": "Warhammer 40,000: Space Marine 2 Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Warhammer 40,000: Space Marine 2 Bypass\n\n# Warhammer 40,000: Space Marine 2 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "contain-2186700",
-    "appId": 2186700,
-    "title": "Contain Online Fix",
-    "game": "Contain",
-    "desc": "2. Click \"ONLINE PATCH\"",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Contain Online Fix\n\n# Contain Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "the-black-pool-2189670",
-    "appId": 2189670,
-    "title": "The Black Pool Online Fix",
-    "game": "The Black Pool",
-    "desc": "The Black Pool Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# The Black Pool Online Fix\n\n# The Black Pool Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "wizard-of-legend-2-2193540",
-    "appId": 2193540,
-    "title": "Wizard of Legend 2 Online Fix",
-    "game": "Wizard of Legend 2",
-    "desc": "Wizard of Legend 2 Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Wizard of Legend 2 Online Fix\n\n# Wizard of Legend 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "songs-of-silence-2195410",
-    "appId": 2195410,
-    "title": "Songs Of Silence Online Fix",
-    "game": "Songs Of Silence",
-    "desc": "Songs Of Silence Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Songs Of Silence Online Fix\n\n# Songs Of Silence Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "trials-evolution-gold-edition-220160",
-    "appId": 220160,
-    "title": "Trials Evolution Gold Edition Bypass",
-    "game": "Trials Evolution Gold Edition",
-    "desc": "Trials Evolution Gold Edition Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Trials Evolution Gold Edition Bypass\n\n# Trials Evolution Gold Edition Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "ship-graveyard-simulator-2-2201940",
-    "appId": 2201940,
-    "title": "Ship Graveyard Simulator 2 Online Fix",
-    "game": "Ship Graveyard Simulator 2",
-    "desc": "Ship Graveyard Simulator 2 Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Ship Graveyard Simulator 2 Online Fix\n\n# Ship Graveyard Simulator 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "63-days-2202120",
-    "appId": 2202120,
-    "title": "63 Days Online Fix",
-    "game": "63 Days",
-    "desc": "2. Click \"ONLINE PATCH\"",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# 63 Days Online Fix\n\n# 63 Days Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "far-cry-3-220240",
-    "appId": 220240,
-    "title": "Far Cry® 3 Bypass",
-    "game": "Far Cry® 3",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Far Cry® 3 Bypass\n\n# Far Cry® 3 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "assassin-s-creed-valhalla-2208920",
-    "appId": 2208920,
-    "title": "Assassin's Creed Valhalla Bypass",
-    "game": "Assassin's Creed Valhalla",
-    "desc": "Assassin's Creed Valhalla Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Assassin's Creed Valhalla Bypass\n\n# Assassin's Creed Valhalla Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "lego-batman-legacy-of-the-dark-knight-2215200",
-    "appId": 2215200,
-    "title": "LEGO® Batman™: Legacy of the Dark Knight Bypass",
-    "game": "LEGO® Batman™: Legacy of the Dark Knight",
-    "desc": "LEGO® Batman™: Legacy of the Dark Knight Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# LEGO® Batman™: Legacy of the Dark Knight Bypass\n\n# LEGO® Batman™: Legacy of the Dark Knight Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "resident-evil-revelations-222480",
-    "appId": 222480,
-    "title": "Resident Evil Revelations Bypass",
-    "game": "Resident Evil Revelations",
-    "desc": "Resident Evil Revelations Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Resident Evil Revelations Bypass\n\n# Resident Evil Revelations Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "brain-show-2235150",
-    "appId": 2235150,
-    "title": "Brain Show Online Fix",
-    "game": "Brain Show",
-    "desc": "Brain Show Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Brain Show Online Fix\n\n# Brain Show Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "neon-abyss-2-2235200",
-    "appId": 2235200,
-    "title": "Neon Abyss 2 Online Fix",
-    "game": "Neon Abyss 2",
-    "desc": "Neon Abyss 2 Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Neon Abyss 2 Online Fix\n\n# Neon Abyss 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "deadpool-224060",
-    "appId": 224060,
-    "title": "Deadpool Bypass",
-    "game": "Deadpool",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Deadpool Bypass\n\n# Deadpool Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+    "date": "2026-04-29",
+    "content": "\n# [1501750] Lords of the Fallen tutorial Multiplayer\n\n**Files for the game:**\n1. Add Lords of the Fallen Friend's Pass via Steam.\n2. Patch the game via Steam Unlock Onennabe\n\n**How to start:**\n1. Launch Steam, go to your profile.\n2. Launch the game through Steam.\n\n**In the game:**\nWe go through the training until you reach the \"altar\".\n\n**Connection:**\nAccept an invitation from a friend.\n**Creating a server:**\nInteract with the \"altar\" Multiplayer mode Call a friend Invite a friend and wait for him to connect.\n"
   }
 ]
