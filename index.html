@@ -1,0 +1,1871 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PatchWiki — Online Patch & Game Bypass Guides</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<!-- marked.js for markdown rendering -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+<!-- highlight.js for code blocks -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+<style>
+  :root {
+    --bg:        #0D1117;
+    --bg2:       #161B22;
+    --bg3:       #1F2937;
+    --border:    #30363D;
+    --cyan:      #00D4FF;
+    --cyan-dim:  #00D4FF22;
+    --cyan-glow: 0 0 20px #00D4FF55;
+    --green:     #3FB950;
+    --yellow:    #D29922;
+    --red:       #F85149;
+    --purple:    #BC8CFF;
+    --text:      #E6EDF3;
+    --text-dim:  #8B949E;
+    --text-muted:#484F58;
+    --mono:      'JetBrains Mono', monospace;
+    --sans:      'Inter', sans-serif;
+    --radius:    8px;
+    --radius-lg: 12px;
+  }
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 15px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* ── PULSE HEADER ── */
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+  }
+  .signal-bar {
+    height: 3px;
+    background: linear-gradient(90deg, transparent 0%, var(--cyan) 30%, var(--cyan) 50%, transparent 100%);
+    background-size: 200% 100%;
+    animation: signal 3s linear infinite;
+  }
+  @keyframes signal {
+    0%   { background-position: 200% 0; }
+    100% { background-position: -200% 0; }
+  }
+  .header-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    gap: 32px;
+  }
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  .logo-icon {
+    width: 28px; height: 28px;
+    background: var(--cyan);
+    border-radius: 6px;
+    display: grid; place-items: center;
+    font-size: 14px; font-weight: 700;
+    color: var(--bg);
+    font-family: var(--mono);
+    flex-shrink: 0;
+  }
+  .logo-text {
+    font-family: var(--mono);
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--text);
+    letter-spacing: -0.5px;
+  }
+  .logo-text span { color: var(--cyan); }
+
+  .header-nav {
+    display: flex;
+    gap: 4px;
+    flex: 1;
+  }
+  .nav-btn {
+    background: none;
+    border: none;
+    color: var(--text-dim);
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 500;
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: color 0.15s, background 0.15s;
+  }
+  .nav-btn:hover { color: var(--text); background: var(--bg3); }
+  .nav-btn.active { color: var(--cyan); background: var(--cyan-dim); }
+
+  .header-actions {
+    display: flex; gap: 8px; align-items: center; margin-left: auto;
+  }
+  .btn {
+    padding: 6px 14px;
+    border-radius: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: var(--sans);
+    cursor: pointer;
+    border: none;
+    transition: all 0.15s;
+    text-decoration: none;
+    display: inline-flex; align-items: center; gap: 6px;
+  }
+  .btn-ghost {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+  }
+  .btn-ghost:hover { border-color: var(--cyan); color: var(--cyan); }
+  .btn-primary {
+    background: var(--cyan);
+    color: var(--bg);
+  }
+  .btn-primary:hover { filter: brightness(1.1); box-shadow: var(--cyan-glow); }
+
+  /* ── PAGES ── */
+  .page { display: none; }
+  .page.active { display: block; }
+
+  /* ── HOME PAGE ── */
+  .hero {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 64px 24px 48px;
+  }
+  .hero-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--cyan-dim);
+    border: 1px solid var(--cyan);
+    border-radius: 99px;
+    padding: 4px 12px;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--cyan);
+    letter-spacing: 0.5px;
+    margin-bottom: 20px;
+  }
+  .pulse-dot {
+    width: 6px; height: 6px;
+    background: var(--cyan);
+    border-radius: 50%;
+    animation: blink 1.5s infinite;
+  }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
+
+  .hero h1 {
+    font-family: var(--mono);
+    font-size: clamp(28px, 5vw, 48px);
+    font-weight: 700;
+    line-height: 1.15;
+    color: var(--text);
+    margin-bottom: 16px;
+    letter-spacing: -1px;
+  }
+  .hero h1 .hl { color: var(--cyan); }
+  .hero p {
+    color: var(--text-dim);
+    font-size: 16px;
+    max-width: 560px;
+    margin-bottom: 32px;
+    line-height: 1.7;
+  }
+  .hero-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+
+  /* ── SEARCH BOX ── */
+  .search-wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px 32px;
+  }
+  .search-box {
+    position: relative;
+  }
+  .search-icon {
+    position: absolute; left: 14px; top: 50%; transform: translateY(-50%);
+    color: var(--text-muted); font-size: 16px; pointer-events: none;
+  }
+  .search-input {
+    width: 100%;
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 16px 12px 42px;
+    color: var(--text);
+    font-size: 14px;
+    font-family: var(--sans);
+    outline: none;
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .search-input::placeholder { color: var(--text-muted); }
+  .search-input:focus {
+    border-color: var(--cyan);
+    box-shadow: 0 0 0 3px var(--cyan-dim);
+  }
+
+  /* ── FILTERS ── */
+  .filters {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px 24px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .filter-label { font-size: 12px; color: var(--text-muted); font-weight: 500; }
+  .tag-btn {
+    padding: 4px 12px;
+    border-radius: 99px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--text-dim);
+    transition: all 0.15s;
+    font-family: var(--sans);
+  }
+  .tag-btn:hover { border-color: var(--cyan); color: var(--cyan); }
+  .tag-btn.active { background: var(--cyan); border-color: var(--cyan); color: var(--bg); }
+
+  /* ── TUTORIAL GRID ── */
+  .grid-wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px 64px;
+  }
+  .grid-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  .grid-count { font-size: 13px; color: var(--text-muted); }
+
+  .tutorial-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 16px;
+  }
+  .tutorial-card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 20px;
+    cursor: pointer;
+    transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+    position: relative;
+    overflow: hidden;
+  }
+  .tutorial-card::before {
+    content: '';
+    position: absolute; top: 0; left: 0; right: 0; height: 2px;
+    background: linear-gradient(90deg, var(--cyan), transparent);
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+  .tutorial-card:hover {
+    border-color: var(--cyan);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px #0006;
+  }
+  .tutorial-card:hover::before { opacity: 1; }
+
+  .card-tags {
+    display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px;
+  }
+  .tag {
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    font-family: var(--mono);
+    letter-spacing: 0.3px;
+  }
+  .tag-online  { background: #1F4D2F; color: var(--green); }
+  .tag-bypass  { background: #2D1B69; color: var(--purple); }
+  .tag-coop    { background: #1E3A5F; color: #58A6FF; }
+  .tag-crack   { background: #3D1F1F; color: var(--red); }
+  .tag-drm     { background: #3D3517; color: var(--yellow); }
+  .tag-general { background: var(--bg3); color: var(--text-dim); }
+
+  .card-title {
+    font-family: var(--mono);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 8px;
+    line-height: 1.3;
+  }
+  .card-desc {
+    font-size: 13px;
+    color: var(--text-dim);
+    line-height: 1.6;
+    margin-bottom: 16px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+  .card-author {
+    display: flex; align-items: center; gap: 6px;
+  }
+  .avatar {
+    width: 20px; height: 20px;
+    border-radius: 50%;
+    background: var(--bg3);
+    display: grid; place-items: center;
+    font-size: 10px;
+    font-weight: 700;
+    color: var(--cyan);
+    font-family: var(--mono);
+    flex-shrink: 0;
+  }
+  .card-date { font-family: var(--mono); font-size: 11px; }
+
+  /* ── READ PAGE ── */
+  .reader-layout {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 32px 24px 64px;
+    display: grid;
+    grid-template-columns: 1fr 260px;
+    gap: 32px;
+    align-items: start;
+  }
+  @media(max-width: 900px) {
+    .reader-layout { grid-template-columns: 1fr; }
+    .reader-sidebar { display: none; }
+  }
+
+  .reader-main { min-width: 0; }
+  .reader-back {
+    display: inline-flex; align-items: center; gap: 6px;
+    color: var(--text-dim); font-size: 13px;
+    cursor: pointer; margin-bottom: 24px;
+    background: none; border: none; font-family: var(--sans);
+    transition: color 0.15s;
+  }
+  .reader-back:hover { color: var(--cyan); }
+
+  .reader-header {
+    margin-bottom: 32px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--border);
+  }
+  .reader-header .card-tags { margin-bottom: 16px; }
+  .reader-title {
+    font-family: var(--mono);
+    font-size: clamp(20px, 4vw, 30px);
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.25;
+    margin-bottom: 12px;
+    letter-spacing: -0.5px;
+  }
+  .reader-meta {
+    display: flex; gap: 16px; flex-wrap: wrap;
+    font-size: 13px; color: var(--text-muted);
+    align-items: center;
+  }
+  .reader-meta-item { display: flex; align-items: center; gap: 5px; }
+
+  /* Markdown content */
+  .md-content { color: var(--text); line-height: 1.8; }
+  .md-content h1,.md-content h2,.md-content h3,.md-content h4 {
+    font-family: var(--mono);
+    color: var(--text);
+    margin: 32px 0 12px;
+    font-weight: 600;
+    letter-spacing: -0.3px;
+  }
+  .md-content h1 { font-size: 22px; border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+  .md-content h2 { font-size: 18px; }
+  .md-content h3 { font-size: 15px; color: var(--cyan); }
+  .md-content p  { margin-bottom: 16px; }
+  .md-content ul,.md-content ol { margin: 0 0 16px 24px; }
+  .md-content li { margin-bottom: 6px; }
+  .md-content a  { color: var(--cyan); text-decoration: none; }
+  .md-content a:hover { text-decoration: underline; }
+  .md-content code {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 2px 6px;
+    font-family: var(--mono);
+    font-size: 13px;
+    color: #F78166;
+  }
+  .md-content pre {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px;
+    overflow-x: auto;
+    margin-bottom: 16px;
+    position: relative;
+  }
+  .md-content pre code {
+    background: none; border: none; padding: 0;
+    font-size: 13px; color: var(--text);
+  }
+  .md-content blockquote {
+    border-left: 3px solid var(--cyan);
+    padding: 8px 16px;
+    background: var(--cyan-dim);
+    border-radius: 0 6px 6px 0;
+    margin-bottom: 16px;
+    color: var(--text-dim);
+  }
+  .md-content table {
+    width: 100%; border-collapse: collapse; margin-bottom: 16px; font-size: 14px;
+  }
+  .md-content th {
+    background: var(--bg3); border: 1px solid var(--border);
+    padding: 8px 12px; text-align: left; font-family: var(--mono);
+    font-size: 12px; color: var(--text-dim);
+  }
+  .md-content td { border: 1px solid var(--border); padding: 8px 12px; }
+  .md-content img { max-width: 100%; border-radius: var(--radius); margin: 8px 0; }
+  .md-content hr { border: none; border-top: 1px solid var(--border); margin: 24px 0; }
+
+  /* Callout boxes */
+  .callout {
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    margin-bottom: 16px;
+    display: flex; gap: 10px; align-items: flex-start;
+    font-size: 14px;
+  }
+  .callout-warn { background: #2D2200; border: 1px solid #4D3800; }
+  .callout-info { background: #001A2D; border: 1px solid #003D6B; }
+  .callout-icon { font-size: 16px; flex-shrink: 0; margin-top: 1px; }
+
+  /* Reader sidebar */
+  .reader-sidebar {
+    position: sticky; top: 72px;
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 20px;
+  }
+  .sidebar-title {
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text-muted);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+  }
+  .toc-list { list-style: none; }
+  .toc-item a {
+    display: block;
+    padding: 5px 8px;
+    border-radius: 4px;
+    font-size: 13px;
+    color: var(--text-dim);
+    text-decoration: none;
+    transition: color 0.1s, background 0.1s;
+    cursor: pointer;
+  }
+  .toc-item a:hover { color: var(--cyan); background: var(--cyan-dim); }
+  .toc-item.h3 a { padding-left: 20px; font-size: 12px; }
+
+  /* ── CONTRIBUTOR PAGE ── */
+  .contrib-layout {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 48px 24px 64px;
+  }
+  .contrib-header { margin-bottom: 32px; }
+  .contrib-header h2 {
+    font-family: var(--mono);
+    font-size: 26px;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 8px;
+    letter-spacing: -0.5px;
+  }
+  .contrib-header p { color: var(--text-dim); font-size: 14px; }
+
+  .form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 16px;
+  }
+  @media(max-width: 640px) { .form-grid { grid-template-columns: 1fr; } }
+
+  .form-group { display: flex; flex-direction: column; gap: 6px; }
+  .form-group.full { grid-column: 1 / -1; }
+  .form-label {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--text-dim);
+    font-family: var(--mono);
+    letter-spacing: 0.3px;
+  }
+  .form-label span { color: var(--red); }
+  .form-input, .form-select, .form-textarea {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 10px 14px;
+    color: var(--text);
+    font-size: 14px;
+    font-family: var(--sans);
+    outline: none;
+    transition: border-color 0.15s, box-shadow 0.15s;
+    width: 100%;
+  }
+  .form-input::placeholder,.form-textarea::placeholder { color: var(--text-muted); }
+  .form-input:focus,.form-select:focus,.form-textarea:focus {
+    border-color: var(--cyan);
+    box-shadow: 0 0 0 3px var(--cyan-dim);
+  }
+  .form-select { cursor: pointer; }
+  .form-select option { background: var(--bg2); }
+  .form-textarea { resize: vertical; min-height: 120px; }
+  .form-hint { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+
+  /* Editor */
+  .editor-wrap {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    margin-bottom: 16px;
+  }
+  .editor-toolbar {
+    display: flex;
+    gap: 2px;
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg3);
+    flex-wrap: wrap;
+  }
+  .tb-btn {
+    background: none;
+    border: none;
+    color: var(--text-dim);
+    padding: 4px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+    font-family: var(--mono);
+    font-weight: 700;
+    transition: color 0.1s, background 0.1s;
+    min-width: 28px;
+    text-align: center;
+  }
+  .tb-btn:hover { color: var(--text); background: var(--border); }
+  .tb-sep { width: 1px; background: var(--border); margin: 4px 4px; }
+
+  .editor-tabs {
+    display: flex;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg3);
+  }
+  .editor-tab {
+    padding: 8px 16px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    background: none;
+    color: var(--text-muted);
+    font-family: var(--sans);
+    transition: color 0.15s;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+  }
+  .editor-tab.active {
+    color: var(--cyan);
+    border-bottom-color: var(--cyan);
+  }
+
+  .editor-panes { position: relative; }
+  .editor-pane { display: none; }
+  .editor-pane.active { display: block; }
+
+  .editor-preview {
+    min-height: 360px;
+    padding: 16px;
+    overflow-y: auto;
+  }
+
+  /* Tags selector */
+  .tags-select {
+    display: flex; gap: 8px; flex-wrap: wrap;
+  }
+  .tag-toggle {
+    padding: 4px 12px;
+    border-radius: 99px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid var(--border);
+    background: transparent;
+    color: var(--text-dim);
+    font-family: var(--mono);
+    transition: all 0.15s;
+  }
+  .tag-toggle.selected { background: var(--cyan); border-color: var(--cyan); color: var(--bg); }
+
+  /* Submit section */
+  .submit-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 24px;
+  }
+  .submit-note { font-size: 12px; color: var(--text-muted); }
+  .submit-note a { color: var(--cyan); text-decoration: none; }
+
+  /* Toast */
+  .toast {
+    position: fixed; bottom: 24px; right: 24px; z-index: 999;
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 12px 20px;
+    font-size: 14px;
+    display: flex; align-items: center; gap: 8px;
+    box-shadow: 0 8px 24px #0008;
+    transform: translateY(80px);
+    opacity: 0;
+    transition: all 0.25s cubic-bezier(.34,1.56,.64,1);
+    max-width: 340px;
+  }
+  .toast.show { transform: translateY(0); opacity: 1; }
+  .toast-icon { font-size: 18px; }
+
+  /* Empty state */
+  .empty-state {
+    text-align: center;
+    padding: 64px 24px;
+    color: var(--text-muted);
+  }
+  .empty-icon { font-size: 40px; margin-bottom: 12px; }
+  .empty-state h3 { font-family: var(--mono); color: var(--text-dim); margin-bottom: 8px; }
+
+  /* Stats bar */
+  .stats-bar {
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+  }
+  .stats-inner {
+    max-width: 1200px; margin: 0 auto;
+    padding: 12px 24px;
+    display: flex; gap: 24px; flex-wrap: wrap;
+  }
+  .stat-item { display: flex; align-items: center; gap: 6px; font-size: 12px; }
+  .stat-num { font-family: var(--mono); font-weight: 700; color: var(--cyan); }
+  .stat-label { color: var(--text-muted); }
+
+  /* Copy button on code blocks */
+  .code-copy {
+    position: absolute; top: 8px; right: 8px;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    cursor: pointer;
+    font-family: var(--mono);
+    transition: all 0.15s;
+  }
+  .code-copy:hover { color: var(--cyan); border-color: var(--cyan); }
+
+  /* ── PR INSTRUCTIONS PANEL ── */
+  .pr-panel {
+    background: var(--bg2);
+    border: 1px solid var(--green);
+    border-radius: var(--radius-lg);
+    margin-top: 24px;
+    overflow: hidden;
+  }
+  .pr-header {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 10px 16px;
+    background: #1A2B1A;
+    border-bottom: 1px solid #2D4A2D;
+  }
+  .pr-close {
+    background: none; border: none; color: var(--text-muted);
+    cursor: pointer; font-size: 14px; padding: 2px 6px;
+    border-radius: 4px; transition: color 0.1s;
+  }
+  .pr-close:hover { color: var(--text); }
+  .pr-body { padding: 20px; display: flex; flex-direction: column; gap: 12px; }
+  .pr-step {
+    display: flex; align-items: flex-start; gap: 10px;
+    font-size: 14px; color: var(--text-dim);
+  }
+  .pr-num {
+    width: 22px; height: 22px; border-radius: 50%;
+    background: var(--cyan); color: var(--bg);
+    font-family: var(--mono); font-size: 11px; font-weight: 700;
+    display: grid; place-items: center; flex-shrink: 0; margin-top: 1px;
+  }
+  .pr-copy-wrap {
+    position: relative;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .pr-code {
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--text-dim);
+    padding: 14px;
+    max-height: 260px;
+    overflow-y: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
+    margin: 0;
+  }
+
+  /* ── DETECT PANEL ── */
+  .detect-panel {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    margin-top: 12px;
+    overflow: hidden;
+    transition: border-color 0.2s;
+  }
+  .detect-panel.has-tags { border-color: var(--cyan); }
+
+  .detect-header {
+    display: flex; align-items: center; gap: 12px;
+    padding: 10px 16px;
+    background: var(--bg3);
+    border-bottom: 1px solid var(--border);
+  }
+  .detect-label {
+    font-family: var(--mono);
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--cyan);
+    letter-spacing: 0.8px;
+    white-space: nowrap;
+  }
+  .detect-hint { font-size: 12px; color: var(--text-muted); }
+
+  .detect-body {
+    padding: 14px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .detect-signals {
+    display: flex; flex-wrap: wrap; gap: 6px;
+    min-height: 20px;
+  }
+  .signal-chip {
+    display: inline-flex; align-items: center; gap: 4px;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 2px 8px;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--text-muted);
+    animation: fadeIn 0.2s ease;
+  }
+  .signal-chip .chip-tag { color: var(--cyan); font-weight: 700; }
+  @keyframes fadeIn { from{opacity:0;transform:translateY(4px)} to{opacity:1;transform:translateY(0)} }
+
+  .no-detect {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  /* editor textarea auto-grow */
+  .editor-pane textarea {
+    width: 100%;
+    background: transparent;
+    border: none;
+    padding: 16px;
+    color: var(--text);
+    font-family: var(--mono);
+    font-size: 13px;
+    line-height: 1.7;
+    resize: none;
+    outline: none;
+    min-height: 400px;
+  }
+
+  /* Responsive */
+  @media(max-width: 640px) {
+    .header-inner { gap: 16px; }
+    .hero { padding: 40px 16px 32px; }
+    .hero-actions { flex-direction: column; }
+    .search-wrap,.filters,.grid-wrap { padding-left: 16px; padding-right: 16px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ── HEADER ── -->
+<header class="site-header">
+  <div class="signal-bar"></div>
+  <div class="header-inner">
+    <div class="logo" onclick="navigate('home')">
+      <div class="logo-icon">P</div>
+      <span class="logo-text">Patch<span>Wiki</span></span>
+    </div>
+    <nav class="header-nav">
+      <button class="nav-btn active" id="nav-home" onclick="navigate('home')">📖 Guides</button>
+      <button class="nav-btn" id="nav-contribute" onclick="navigate('contribute')">✏️ Contribute</button>
+      <button class="nav-btn" id="nav-about" onclick="navigate('about')">ℹ️ About</button>
+    </nav>
+    <div class="header-actions">
+      <a href="https://github.com" class="btn btn-ghost" target="_blank">⭐ GitHub</a>
+    </div>
+  </div>
+</header>
+
+<!-- ── HOME PAGE ── -->
+<div id="page-home" class="page active">
+
+  <div class="stats-bar">
+    <div class="stats-inner">
+      <div class="stat-item"><span class="stat-num" id="total-count">—</span><span class="stat-label">tutorials</span></div>
+      <div class="stat-item"><span class="stat-num" id="contrib-count">—</span><span class="stat-label">contributors</span></div>
+      <div class="stat-item"><span class="stat-num">Open</span><span class="stat-label">source & community-driven</span></div>
+    </div>
+  </div>
+
+  <section class="hero">
+    <div class="hero-badge"><div class="pulse-dot"></div> Community-powered game bypass wiki</div>
+    <h1>The <span class="hl">Online Patch</span> &<br>Game Bypass Guides</h1>
+    <p>Community-written tutorials for online patches, DRM bypasses, co-op emulation, and more. Find your game, follow the guide, and get playing.</p>
+    <div class="hero-actions">
+      <button class="btn btn-primary" onclick="document.querySelector('.search-input').focus(); document.querySelector('.search-input').scrollIntoView({behavior:'smooth'})">🔍 Search Guides</button>
+      <button class="btn btn-ghost" onclick="navigate('contribute')">✏️ Write a Tutorial</button>
+    </div>
+  </section>
+
+  <div class="search-wrap">
+    <div class="search-box">
+      <span class="search-icon">🔍</span>
+      <input class="search-input" type="text" placeholder="Search game title, patch name, or method..." id="search-input" oninput="filterTutorials()">
+    </div>
+  </div>
+
+  <div class="filters">
+    <span class="filter-label">Filter:</span>
+    <button class="tag-btn active" onclick="setFilter('all', this)">All</button>
+    <button class="tag-btn" onclick="setFilter('online', this)">🟢 Online Fix</button>
+    <button class="tag-btn" onclick="setFilter('bypass', this)">🟣 DRM Bypass</button>
+    <button class="tag-btn" onclick="setFilter('coop', this)">🔵 Co-op</button>
+    <button class="tag-btn" onclick="setFilter('crack', this)">🔴 Crack Patch</button>
+    <button class="tag-btn" onclick="setFilter('drm', this)">🟡 DRM Info</button>
+  </div>
+
+  <div class="grid-wrap">
+    <div class="grid-header">
+      <span class="grid-count" id="grid-count"></span>
+    </div>
+    <div class="tutorial-grid" id="tutorial-grid"></div>
+  </div>
+</div>
+
+<!-- ── READ PAGE ── -->
+<div id="page-read" class="page">
+  <div class="reader-layout">
+    <main class="reader-main">
+      <button class="reader-back" onclick="navigate('home')">← Back to guides</button>
+      <div class="reader-header">
+        <div class="card-tags" id="reader-tags"></div>
+        <h1 class="reader-title" id="reader-title"></h1>
+        <div class="reader-meta" id="reader-meta"></div>
+      </div>
+      <div class="md-content" id="reader-content"></div>
+    </main>
+    <aside class="reader-sidebar">
+      <div class="sidebar-title">On this page</div>
+      <ul class="toc-list" id="reader-toc"></ul>
+    </aside>
+  </div>
+</div>
+
+<!-- ── CONTRIBUTE PAGE ── -->
+<div id="page-contribute" class="page">
+  <div class="contrib-layout">
+    <div class="contrib-header">
+      <h2>✏️ Submit a Tutorial</h2>
+      <p>Paste your guide as a <code>.md</code> file. Tags are detected automatically from your content — review and adjust if needed, then submit.</p>
+    </div>
+
+    <!-- Minimal meta row -->
+    <div class="form-grid" style="margin-bottom:16px">
+      <div class="form-group">
+        <label class="form-label">GAME TITLE <span>*</span></label>
+        <input class="form-input" id="f-game" type="text" placeholder="e.g. Baldur's Gate 3">
+      </div>
+      <div class="form-group">
+        <label class="form-label">YOUR USERNAME</label>
+        <input class="form-input" id="f-author" type="text" placeholder="e.g. patchwizard99  (optional)">
+      </div>
+    </div>
+
+    <!-- Markdown editor -->
+    <div class="editor-wrap">
+      <div class="editor-tabs">
+        <button class="editor-tab active" id="tab-write" onclick="switchTab('write', this)">✏️ Write</button>
+        <button class="editor-tab" id="tab-preview" onclick="switchTab('preview', this)">👁 Preview</button>
+        <button class="editor-tab" id="tab-guide" onclick="switchTab('guide', this)">📋 Help</button>
+      </div>
+      <div class="editor-toolbar">
+        <button class="tb-btn" onclick="insertMd('**','**')" title="Bold"><b>B</b></button>
+        <button class="tb-btn" onclick="insertMd('*','*')" title="Italic"><i>I</i></button>
+        <button class="tb-btn" onclick="insertMd('`','`')" title="Inline code"><code style="font-size:11px">c</code></button>
+        <div class="tb-sep"></div>
+        <button class="tb-btn" onclick="insertMd('## ','')" title="Heading 2">H2</button>
+        <button class="tb-btn" onclick="insertMd('### ','')" title="Heading 3">H3</button>
+        <div class="tb-sep"></div>
+        <button class="tb-btn" onclick="insertMd('- ','')" title="Bullet list">• List</button>
+        <button class="tb-btn" onclick="insertMd('1. ','')" title="Numbered">1.</button>
+        <div class="tb-sep"></div>
+        <button class="tb-btn" onclick="insertMd('```\n','\n```')" title="Code block">```</button>
+        <button class="tb-btn" onclick="insertMd('> ','')" title="Blockquote">❝</button>
+        <button class="tb-btn" onclick="insertMd('[text](url)','')" title="Link">🔗</button>
+        <div class="tb-sep"></div>
+        <button class="tb-btn" onclick="insertTemplate()" style="color:var(--cyan)" title="Insert starter template">📄 Template</button>
+      </div>
+      <div class="editor-panes">
+        <div class="editor-pane active" id="pane-write">
+          <textarea id="md-editor"
+            placeholder="# Tutorial Title&#10;&#10;Paste or write your .md content here. Title, description, and version will be extracted automatically from your markdown.&#10;&#10;Start with a # heading for the title."
+            oninput="onEditorInput(this)"></textarea>
+        </div>
+        <div class="editor-pane editor-preview md-content" id="pane-preview"></div>
+        <div class="editor-pane md-content" id="pane-guide" style="padding:16px 20px;">
+          <h2>Writing Tips</h2>
+          <p>Your <code>.md</code> file is parsed automatically. The system reads:</p>
+          <ul>
+            <li><strong>Title</strong> — first <code># Heading</code> in your file</li>
+            <li><strong>Description</strong> — first non-heading paragraph</li>
+            <li><strong>Version info</strong> — any line mentioning a version number</li>
+            <li><strong>Tags</strong> — detected from keywords in the content (see below)</li>
+          </ul>
+          <br>
+          <h3>Tag Detection Keywords</h3>
+          <table>
+            <tr><th>Tag</th><th>Triggers on…</th></tr>
+            <tr><td><span class="tag tag-online">Online Fix</span></td><td>onlinefix, online fix, online multiplayer, online patch, goldberg, steamemu, lan play, p2p</td></tr>
+            <tr><td><span class="tag tag-bypass">Bypass</span></td><td>bypass, crack, skidrow, codex, fitgirl, steam_api, emu, emulator, steam emulator</td></tr>
+            <tr><td><span class="tag tag-coop">Co-op</span></td><td>co-op, coop, co op, multiplayer, hamachi, zerotier, parsec, lan party</td></tr>
+            <tr><td><span class="tag tag-crack">Crack Patch</span></td><td>crack patch, nfo, scene release, repack, scene group, plaza, empress</td></tr>
+            <tr><td><span class="tag tag-drm">DRM Info</span></td><td>denuvo, drm, eac, easy anti-cheat, battleye, vac, steam drm, protection</td></tr>
+          </table>
+          <br>
+          <h3>Markdown Quick Reference</h3>
+          <table>
+            <tr><th>Syntax</th><th>Result</th></tr>
+            <tr><td><code># Title</code></td><td>Page title (H1)</td></tr>
+            <tr><td><code>## Section</code></td><td>Section heading</td></tr>
+            <tr><td><code>**bold**</code></td><td><strong>bold</strong></td></tr>
+            <tr><td><code>*italic*</code></td><td><em>italic</em></td></tr>
+            <tr><td><code>`code`</code></td><td><code>inline code</code></td></tr>
+            <tr><td><code>```...```</code></td><td>Code block</td></tr>
+            <tr><td><code>- item</code></td><td>Bullet list</td></tr>
+            <tr><td><code>1. item</code></td><td>Numbered list</td></tr>
+            <tr><td><code>> text</code></td><td>Blockquote / tip</td></tr>
+            <tr><td><code>[text](url)</code></td><td>Link</td></tr>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- Auto-detect tag panel -->
+    <div class="detect-panel" id="detect-panel">
+      <div class="detect-header">
+        <span class="detect-label">🔍 AUTO-DETECTED TAGS</span>
+        <span class="detect-hint">Based on keywords in your markdown — toggle to adjust</span>
+      </div>
+      <div class="detect-body">
+        <div class="tags-select" id="tags-select"></div>
+        <div class="detect-signals" id="detect-signals"></div>
+      </div>
+    </div>
+
+    <div class="submit-row">
+      <p class="submit-note">By submitting you agree the guide is your own work or properly credited.</p>
+      <button class="btn btn-primary" onclick="submitTutorial()">🚀 Submit Tutorial</button>
+    </div>
+  </div>
+</div>
+
+<!-- ── ABOUT PAGE ── -->
+<div id="page-about" class="page">
+  <div style="max-width:720px;margin:0 auto;padding:48px 24px 64px">
+    <h2 style="font-family:var(--mono);font-size:26px;font-weight:700;margin-bottom:16px;letter-spacing:-0.5px">About PatchWiki</h2>
+    <div class="md-content" id="about-content"></div>
+  </div>
+</div>
+
+<!-- ── TOAST ── -->
+<div class="toast" id="toast">
+  <span class="toast-icon" id="toast-icon">✅</span>
+  <span id="toast-msg"></span>
+</div>
+
+<script>
+// ─── DATA STORE ────────────────────────────────────────────────
+// In production this would be GitHub Issues API or a JSON file in the repo.
+// Production: loads from tutorials.json built by GitHub Action. Dev: falls back to SAMPLE_TUTORIALS.
+
+// ─── LOAD TUTORIALS ────────────────────────────────────────────
+// Production: fetches /tutorials.json built by the GitHub Action.
+// Local dev fallback: uses SAMPLE_TUTORIALS so you can open index.html directly.
+
+const SAMPLE_TUTORIALS = [
+  {
+    id: 'goldberg-bg3',
+    title: 'Baldur\'s Gate 3 — Online Multiplayer via Goldberg Emulator',
+    game: "Baldur's Gate 3",
+    desc: 'Step-by-step guide to set up online co-op with friends using Goldberg Steam Emulator without owning the game on Steam.',
+    tags: ['online','coop'],
+    author: 'patchwizard',
+    version: 'Goldberg v0.2.5 / BG3 Patch 7',
+    date: '2025-11-10',
+    content: `## Requirements
+
+- Goldberg Steam Emulator ([download](https://github.com/otavepto/gbe_fork))
+- Baldur's Gate 3 game files
+- All players on same LAN or using Hamachi/ZeroTier for virtual LAN
+
+> ⚠️ **Important:** All players must use the same game version. Mismatched versions will cause connection failures.
+
+## Step 1 — Extract Goldberg
+
+Download the latest Goldberg release and extract it somewhere safe.
+
+\`\`\`
+goldberg_emulator/
+  ├── steam_api64.dll
+  ├── steam_api.dll
+  └── tools/
+\`\`\`
+
+## Step 2 — Find the Steam AppID
+
+BG3's AppID is **1086940**. You'll need this in the next step.
+
+## Step 3 — Configure steam_appid.txt
+
+In the game's root folder, create a file named \`steam_appid.txt\` containing only:
+
+\`\`\`
+1086940
+\`\`\`
+
+## Step 4 — Replace steam_api64.dll
+
+Copy Goldberg's \`steam_api64.dll\` into the game's \`bin/\` directory, replacing the original.
+
+> ℹ️ **Tip:** Back up the original \`steam_api64.dll\` before replacing it.
+
+## Step 5 — Set up user names
+
+Each player must create a folder at:
+\`\`\`
+%appdata%\\Goldberg SteamEmu Saves\\settings
+\`\`\`
+
+Inside that folder create \`account_name.txt\` with their in-game username.
+
+## Step 6 — Connect
+
+One player hosts by loading a save. Others join via the multiplayer menu using the host's virtual LAN IP.
+
+## Troubleshooting
+
+| Problem | Fix |
+|---------|-----|
+| Can't see host lobby | Make sure all players are on the same Hamachi network |
+| Crash on launch | Verify game files, check you replaced the correct DLL |
+| Different game versions | Host and client must match exactly |
+
+## Credits
+
+Guide by **patchwizard** — tested November 2025.`
+  },
+  {
+    id: 'onlinefix-elden-ring',
+    title: 'Elden Ring — Online Multiplayer via OnlineFix',
+    game: 'Elden Ring',
+    desc: 'How to use the OnlineFix patch to play Elden Ring online with other cracked game users.',
+    tags: ['online'],
+    author: 'rune_seeker',
+    version: 'OnlineFix v3.1 / ER 1.13',
+    date: '2025-12-02',
+    content: `## Requirements
+
+- Elden Ring game files (any release)
+- OnlineFix patch for Elden Ring ([onlinefix.me](https://onlinefix.me))
+- Elden Ring version 1.13
+
+> ⚠️ **EAC Warning:** Easy Anti-Cheat must be bypassed or disabled for OnlineFix to work. Never connect to official servers with this patch.
+
+## Installation
+
+### Step 1 — Download the OnlineFix patch
+
+Get the patch archive from [onlinefix.me](https://onlinefix.me). The archive will contain:
+- \`OnlineFix64.dll\`
+- \`steam_api64.dll\`
+- \`steam_emu.ini\`
+- \`OnlineFix\` folder
+
+### Step 2 — Configure steam_emu.ini
+
+Open \`steam_emu.ini\` and set your username:
+\`\`\`ini
+[Settings]
+PlayerName=YourName
+Language=english
+SteamId=
+\`\`\`
+
+### Step 3 — Copy files
+
+Copy all files from the patch into your Elden Ring root folder (\`ELDEN RING\\Game\\\`).
+
+### Step 4 — Launch
+
+Run \`eldenring.exe\` directly (not via Steam). You should see the OnlineFix overlay in-game.
+
+## How to Find Games
+
+- Use the in-game summon signs as normal
+- Other OnlineFix users will appear in your session
+
+## Troubleshooting
+
+- **Black screen on launch** → Make sure EAC is bypassed
+- **No players found** → Check that all players have the same version
+- **Crash after 10 min** → Copy \`oo2core_6_win64.dll\` from the \`_CommonRedist\` folder`
+  },
+  {
+    id: 'steamemu-general',
+    title: 'General Guide — How Goldberg Steam Emulator Works',
+    game: 'General / Any Game',
+    desc: 'Comprehensive explanation of how Goldberg emulates Steam APIs to enable cracked multiplayer, and when to use it.',
+    tags: ['bypass','drm'],
+    author: 'techbreach99',
+    version: 'Goldberg GBE Fork',
+    date: '2025-10-15',
+    content: `## What is Goldberg Emulator?
+
+Goldberg Steam Emulator is an open-source project that reimplements the Steam client API (\`steam_api.dll\` / \`steam_api64.dll\`). When a game calls Steam functions, Goldberg intercepts them and simulates the expected responses — letting the game think it's running on a legitimate Steam session.
+
+## How the Steam API Works
+
+\`\`\`
+[Game EXE]
+    │
+    ▼ calls
+[steam_api64.dll]  ← Goldberg replaces this
+    │
+    ▼ (normally goes to)
+[Steam Client]  ← bypassed entirely
+\`\`\`
+
+## What Goldberg Can Do
+
+- ✅ Simulate Steam user login
+- ✅ Enable LAN / virtual LAN multiplayer (P2P)
+- ✅ Unlock Steam DLC (if game doesn't validate server-side)
+- ✅ Cloud saves emulation
+- ✅ Achievements tracking (local)
+
+## What It Cannot Do
+
+- ❌ Connect to official Steam servers
+- ❌ Bypass server-side DRM (Denuvo online validation)
+- ❌ Work against EAC/BattlEye protected games
+
+## When to Use It
+
+Use Goldberg when:
+1. The game uses Steam P2P networking (not dedicated servers)
+2. The game's DRM doesn't require a live Steam session
+3. You want LAN-style play between cracked copies
+
+## Recommended Version
+
+Use the **GBE Fork** maintained by the community — it has the most up-to-date API coverage: [github.com/otavepto/gbe_fork](https://github.com/otavepto/gbe_fork)`
+  },
+  {
+    id: 'spacewar-coop',
+    title: 'Spacewar AppID Trick for Co-op Games',
+    game: 'Various Games',
+    desc: 'Using Steam AppID 480 (Spacewar) to enable online co-op across different game copies.',
+    tags: ['coop','bypass'],
+    author: 'voidwalker_x',
+    version: 'Any Goldberg version',
+    date: '2025-09-20',
+    content: `## What is the Spacewar Trick?
+
+Steam AppID **480** belongs to Spacewar — a test/demo game Valve uses internally. Because it's universally owned, using it as the game's AppID allows two cracked copies to communicate over Steam's P2P relay even without owning the actual game.
+
+> ⚠️ This trick works less reliably on modern Steam builds. Goldberg LAN mode is generally preferred.
+
+## How to Apply
+
+1. Set \`steam_appid.txt\` in the game folder to \`480\`
+2. Use Goldberg's \`steam_api.dll\`
+3. All players must use the same AppID
+
+## Limitations
+
+- Online co-op features that depend on game-specific Steam features won't work
+- Friend invites won't reflect the correct game
+- Some games validate their own AppID and will reject 480
+
+## Better Alternative
+
+For most games, use **Goldberg with LAN mode** + Hamachi or ZeroTier instead of relying on the Spacewar trick. It's more stable and doesn't depend on Steam's relay servers.`
+  }
+];
+
+let tutorials = [];
+let currentFilter = 'all';
+
+async function loadTutorials() {
+  try {
+    // Fetch index.json — all tutorials WITHOUT content (small file, fast)
+    const res = await fetch('index.json');
+    if (!res.ok) throw new Error('no index');
+    tutorials = await res.json();
+  } catch {
+    try {
+      // fallback to tutorials.json for backwards compat
+      const res2 = await fetch('tutorials.json');
+      if (!res2.ok) throw new Error('no json');
+      tutorials = await res2.json();
+    } catch {
+      tutorials = SAMPLE_TUTORIALS;
+    }
+  }
+  renderGrid(tutorials);
+  updateStats();
+}
+
+// Cache for loaded chunks
+const chunkCache = {};
+let manifest = null;
+
+async function loadManifest() {
+  if (manifest) return manifest;
+  try {
+    const res = await fetch('manifest.json');
+    manifest = await res.json();
+  } catch { manifest = {}; }
+  return manifest;
+}
+
+async function loadTutorialContent(id) {
+  // Check if already in tutorials array (has content)
+  const t = tutorials.find(x => x.id === id);
+  if (t && t.content) return t;
+
+  // Load via manifest → chunk
+  const m = await loadManifest();
+  const chunkFile = m[id];
+  if (!chunkFile) return t || null;
+
+  // Load chunk if not cached
+  if (!chunkCache[chunkFile]) {
+    try {
+      const res = await fetch(chunkFile);
+      const chunk = await res.json();
+      chunkCache[chunkFile] = chunk;
+      // Merge content back into tutorials array
+      for (const entry of chunk) {
+        const existing = tutorials.find(x => x.id === entry.id);
+        if (existing) existing.content = entry.content;
+      }
+    } catch { return t || null; }
+  }
+
+  return tutorials.find(x => x.id === id) || null;
+}
+
+function updateStats() {
+  document.getElementById('total-count').textContent  = tutorials.length;
+  document.getElementById('contrib-count').textContent = [...new Set(tutorials.map(t => t.author))].length;
+}
+
+// ─── NAVIGATION ────────────────────────────────────────────────
+function navigate(page, id) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+
+  document.getElementById('page-' + page).classList.add('active');
+  const nb = document.getElementById('nav-' + page);
+  if (nb) nb.classList.add('active');
+
+  if (page === 'home') renderGrid(tutorials);
+  if (page === 'read' && id) renderReader(id); // async, non-blocking
+  if (page === 'about') renderAbout();
+
+  window.scrollTo(0, 0);
+}
+
+// ─── GRID ──────────────────────────────────────────────────────
+const TAG_MAP = {
+  online: { label: 'Online Fix', cls: 'tag-online' },
+  bypass: { label: 'Bypass',     cls: 'tag-bypass' },
+  coop:   { label: 'Co-op',      cls: 'tag-coop' },
+  crack:  { label: 'Crack Patch',cls: 'tag-crack' },
+  drm:    { label: 'DRM Info',   cls: 'tag-drm' },
+};
+
+function tagHTML(t) {
+  const d = TAG_MAP[t] || { label: t, cls: 'tag-general' };
+  return `<span class="tag ${d.cls}">${d.label}</span>`;
+}
+
+function renderGrid(list) {
+  const grid = document.getElementById('tutorial-grid');
+  const q = document.getElementById('search-input').value.toLowerCase();
+  let shown = list.filter(t => {
+    const matchQ = !q || t.title.toLowerCase().includes(q) || t.game.toLowerCase().includes(q) || t.desc.toLowerCase().includes(q);
+    const matchF = currentFilter === 'all' || t.tags.includes(currentFilter);
+    return matchQ && matchF;
+  });
+
+  document.getElementById('grid-count').textContent = `${shown.length} tutorial${shown.length !== 1 ? 's' : ''}`;
+
+  if (shown.length === 0) {
+    grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1">
+      <div class="empty-icon">🔍</div>
+      <h3>No tutorials found</h3>
+      <p>Try a different search or <button class="btn btn-ghost" style="display:inline-flex;margin-top:8px" onclick="navigate('contribute')">write one!</button></p>
+    </div>`;
+    return;
+  }
+
+  grid.innerHTML = shown.map(t => `
+    <div class="tutorial-card" onclick="navigate('read','${t.id}')">
+      <div class="card-tags">${t.tags.map(tagHTML).join('')}</div>
+      <div class="card-title">${t.title}</div>
+      <div class="card-desc">${t.desc}</div>
+      <div class="card-meta">
+        <div class="card-author">
+          <div class="avatar">${t.author[0].toUpperCase()}</div>
+          ${t.author}
+          ${t.version ? `<span style="color:var(--text-muted)">· ${t.version}</span>` : ''}
+        </div>
+        <span class="card-date">${t.date}</span>
+      </div>
+    </div>
+  `).join('');
+}
+
+function filterTutorials() { renderGrid(tutorials); }
+
+function setFilter(f, btn) {
+  currentFilter = f;
+  document.querySelectorAll('.tag-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  renderGrid(tutorials);
+}
+
+// ─── READER ────────────────────────────────────────────────────
+async function renderReader(id) {
+  const t = await loadTutorialContent(id);
+  if (!t) { navigate('home'); return; }
+
+  document.getElementById('reader-tags').innerHTML = t.tags.map(tagHTML).join('');
+  document.getElementById('reader-title').textContent = t.title;
+  document.getElementById('reader-meta').innerHTML = `
+    <div class="reader-meta-item"><div class="avatar">${t.author[0].toUpperCase()}</div>${t.author}</div>
+    <div class="reader-meta-item">🎮 ${t.game}</div>
+    ${t.version ? `<div class="reader-meta-item">🔧 ${t.version}</div>` : ''}
+    <div class="reader-meta-item">📅 ${t.date}</div>
+  `;
+
+  // Configure marked
+  marked.setOptions({ breaks: true, gfm: true });
+  const html = marked.parse(t.content || '');
+  const contentEl = document.getElementById('reader-content');
+  contentEl.innerHTML = html;
+
+  // Wrap pre blocks for copy button
+  contentEl.querySelectorAll('pre').forEach(pre => {
+    pre.style.position = 'relative';
+    const btn = document.createElement('button');
+    btn.className = 'code-copy';
+    btn.textContent = 'copy';
+    btn.onclick = () => {
+      navigator.clipboard.writeText(pre.querySelector('code')?.textContent || '').then(() => {
+        btn.textContent = 'copied!';
+        setTimeout(() => btn.textContent = 'copy', 1500);
+      });
+    };
+    pre.appendChild(btn);
+  });
+
+  // Syntax highlight
+  contentEl.querySelectorAll('pre code').forEach(block => hljs.highlightElement(block));
+
+  // Build TOC
+  const headings = contentEl.querySelectorAll('h2, h3');
+  const toc = document.getElementById('reader-toc');
+  toc.innerHTML = '';
+  headings.forEach((h, i) => {
+    const anchor = 'h-' + i;
+    h.id = anchor;
+    const li = document.createElement('li');
+    li.className = 'toc-item' + (h.tagName === 'H3' ? ' h3' : '');
+    li.innerHTML = `<a onclick="document.getElementById('${anchor}').scrollIntoView({behavior:'smooth'})">${h.textContent}</a>`;
+    toc.appendChild(li);
+  });
+}
+
+// ─── TAG AUTO-DETECTION ENGINE ────────────────────────────────
+// Each rule: { tag, keywords[], label }
+// We scan the full markdown text (lowercased) for any keyword match.
+// Hits are collected per-tag so we can show which keyword triggered it.
+
+const TAG_RULES = [
+  {
+    tag: 'online',
+    label: 'Online Fix',
+    keywords: [
+      'onlinefix', 'online fix', 'online patch', 'online multiplayer',
+      'goldberg', 'steamemu', 'steam_emu', 'gbe_fork', 'lan play',
+      'p2p', 'steam p2p', 'sseon', 'online co-op'
+    ]
+  },
+  {
+    tag: 'bypass',
+    label: 'Bypass',
+    keywords: [
+      'bypass', 'steam emulator', 'steam_api', 'steam api',
+      'steam_appid', 'skidrow', 'codex', 'fitgirl', 'reloaded',
+      'crack', 'cracked', 'pirated', 'scene release', 'spacewar'
+    ]
+  },
+  {
+    tag: 'coop',
+    label: 'Co-op',
+    keywords: [
+      'co-op', 'coop', 'co op', 'multiplayer', 'hamachi', 'zerotier',
+      'zero tier', 'parsec', 'lan party', 'join session',
+      'invite friend', 'virtual lan', 'netplay'
+    ]
+  },
+  {
+    tag: 'crack',
+    label: 'Crack Patch',
+    keywords: [
+      'crack patch', 'scene group', 'plaza', 'empress', 'repack',
+      'nfo', '.nfo', 'release group', 'fairlight', 'razor1911',
+      'patch only', 'crack only', 'bin patch'
+    ]
+  },
+  {
+    tag: 'drm',
+    label: 'DRM Info',
+    keywords: [
+      'denuvo', 'drm', 'eac', 'easy anti-cheat', 'battleye',
+      'battle eye', 'vac', 'valve anti-cheat', 'steam drm',
+      'anti-tamper', 'protection', 'steamworks'
+    ]
+  }
+];
+
+const ALL_TAGS = TAG_RULES.map(r => r.tag);
+
+// Returns { tag → [matchedKeywords] } for every tag with ≥1 hit
+function detectTags(mdText) {
+  const lower = mdText.toLowerCase();
+  const result = {};
+  for (const rule of TAG_RULES) {
+    const hits = rule.keywords.filter(kw => lower.includes(kw));
+    if (hits.length > 0) result[rule.tag] = hits;
+  }
+  return result;
+}
+
+// Parse title from first # heading
+function parseTitle(md) {
+  const m = md.match(/^#\s+(.+)/m);
+  return m ? m[1].trim() : '';
+}
+
+// Parse description from first non-heading, non-empty paragraph
+function parseDesc(md) {
+  const lines = md.split('\n');
+  let inCode = false;
+  for (const line of lines) {
+    if (line.startsWith('```')) { inCode = !inCode; continue; }
+    if (inCode) continue;
+    const t = line.trim();
+    if (!t || t.startsWith('#') || t.startsWith('>') || t.startsWith('|') || t.startsWith('-') || t.startsWith('*') || /^\d+\./.test(t)) continue;
+    if (t.length > 20) return t.replace(/\*\*/g,'').replace(/\*/g,'').replace(/`/g,'').substring(0, 160);
+  }
+  return '';
+}
+
+// Parse version — look for lines containing version patterns
+function parseVersion(md) {
+  const lines = md.split('\n');
+  for (const line of lines) {
+    // e.g. "Goldberg v0.2.5", "OnlineFix v3.1", "version 1.13"
+    const m = line.match(/(?:version|v)\s*[\d]+[\d.]+/i) || line.match(/v[\d]+\.[\d.]+/i);
+    if (m) {
+      // return the surrounding context (up to 60 chars)
+      return line.replace(/[*#>_`]/g,'').trim().substring(0,60);
+    }
+  }
+  return '';
+}
+
+// ─── DETECT PANEL ──────────────────────────────────────────────
+let detectedTagMap = {}; // { tag -> [keywords] }
+let manualOverrides = new Set(); // tags the user has manually toggled
+
+function renderTagsSelect() {
+  const wrap = document.getElementById('tags-select');
+  wrap.innerHTML = ALL_TAGS.map(tag => {
+    const rule = TAG_RULES.find(r => r.tag === tag);
+    return `<button type="button" class="tag-toggle" data-tag="${tag}" onclick="manualToggleTag(this)">${rule.label}</button>`;
+  }).join('');
+}
+
+function manualToggleTag(btn) {
+  const tag = btn.dataset.tag;
+  btn.classList.toggle('selected');
+  // Track that user manually set this tag (either direction)
+  manualOverrides.add(tag);
+}
+
+function applyDetectedTags(detected) {
+  document.querySelectorAll('.tag-toggle').forEach(btn => {
+    const tag = btn.dataset.tag;
+    // Don't override manual choices
+    if (manualOverrides.has(tag)) return;
+    btn.classList.toggle('selected', !!detected[tag]);
+  });
+
+  // Show signal chips
+  const sigEl = document.getElementById('detect-signals');
+  const panel = document.getElementById('detect-panel');
+  const allHits = Object.entries(detected);
+
+  if (allHits.length === 0) {
+    sigEl.innerHTML = '<span class="no-detect">No keywords matched yet — tags will appear as you write.</span>';
+    panel.classList.remove('has-tags');
+  } else {
+    panel.classList.add('has-tags');
+    sigEl.innerHTML = allHits.flatMap(([tag, kws]) => {
+      const rule = TAG_RULES.find(r => r.tag === tag);
+      // Show first 2 matched keywords per tag
+      return kws.slice(0, 2).map(kw =>
+        `<span class="signal-chip"><span class="chip-tag">${rule.label}</span> ← "${kw}"</span>`
+      );
+    }).join('');
+  }
+}
+
+// Debounced input handler
+let detectTimer = null;
+function onEditorInput(ta) {
+  // auto-grow
+  ta.style.height = 'auto';
+  ta.style.height = Math.max(400, ta.scrollHeight) + 'px';
+  // debounce detection (300ms)
+  clearTimeout(detectTimer);
+  detectTimer = setTimeout(() => {
+    detectedTagMap = detectTags(ta.value);
+    applyDetectedTags(detectedTagMap);
+  }, 300);
+}
+
+// ─── EDITOR HELPERS ───────────────────────────────────────────
+function getSelectedTags() {
+  return [...document.querySelectorAll('.tag-toggle.selected')].map(b => b.dataset.tag);
+}
+
+function switchTab(tab, btn) {
+  document.querySelectorAll('.editor-tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.editor-pane').forEach(p => p.classList.remove('active'));
+  btn.classList.add('active');
+  document.getElementById('pane-' + tab).classList.add('active');
+  if (tab === 'preview') {
+    const md = document.getElementById('md-editor').value;
+    document.getElementById('pane-preview').innerHTML = md
+      ? marked.parse(md)
+      : '<p style="color:var(--text-muted);padding:16px">Nothing to preview yet — write something first.</p>';
+  }
+}
+
+function insertMd(before, after) {
+  const ta = document.getElementById('md-editor');
+  const start = ta.selectionStart, end = ta.selectionEnd;
+  const selected = ta.value.substring(start, end);
+  ta.value = ta.value.substring(0, start) + before + selected + after + ta.value.substring(end);
+  ta.focus();
+  ta.selectionStart = start + before.length;
+  ta.selectionEnd   = start + before.length + selected.length;
+  onEditorInput(ta);
+}
+
+function insertTemplate() {
+  const game   = document.getElementById('f-game').value.trim() || 'Game Name';
+  const author = document.getElementById('f-author').value.trim() || 'YourName';
+  const ta = document.getElementById('md-editor');
+  ta.value = `# ${game} — Online Multiplayer via Goldberg Emulator
+
+Step-by-step guide to set up online co-op using Goldberg Steam Emulator (GBE Fork).
+
+## Requirements
+
+- Goldberg Steam Emulator ([gbe_fork download](https://github.com/otavepto/gbe_fork))
+- ${game} game files
+- Hamachi or ZeroTier for virtual LAN (if not on same network)
+
+> ⚠️ **Warning:** Do not connect to official Steam servers with this patch active.
+
+## Installation
+
+### Step 1 — Extract Goldberg
+
+Download and extract the Goldberg release. You'll need \`steam_api64.dll\` from inside it.
+
+\`\`\`
+goldberg_emulator/
+  ├── steam_api64.dll
+  └── tools/
+\`\`\`
+
+### Step 2 — Configure steam_appid.txt
+
+Create \`steam_appid.txt\` in the game's root folder with the AppID:
+
+\`\`\`
+1234567
+\`\`\`
+
+Replace \`1234567\` with the actual Steam AppID for ${game}.
+
+### Step 3 — Replace steam_api64.dll
+
+Copy Goldberg's \`steam_api64.dll\` into the game's \`bin/\` folder, replacing the original.
+
+> ℹ️ Back up the original DLL first.
+
+### Step 4 — Set Username
+
+Each player creates a file at:
+\`\`\`
+%appdata%\\Goldberg SteamEmu Saves\\settings\\account_name.txt
+\`\`\`
+
+Write their desired in-game name inside.
+
+## Connecting
+
+One player hosts, others join via the in-game multiplayer menu using the host's virtual LAN IP.
+
+## Troubleshooting
+
+| Problem | Fix |
+|---------|-----|
+| Can't find host lobby | Ensure all players are on same Hamachi/ZeroTier network |
+| Crash on launch | Check correct DLL was replaced (64-bit vs 32-bit) |
+| Version mismatch | All players must have identical game version |
+
+## Credits
+
+Guide by **${author}**.`;
+  onEditorInput(ta);
+  showToast('📄 Template inserted!', '✅');
+}
+
+function submitTutorial() {
+  const game    = document.getElementById('f-game').value.trim();
+  const author  = document.getElementById('f-author').value.trim() || 'Anonymous';
+  const content = document.getElementById('md-editor').value.trim();
+  const tags    = getSelectedTags();
+
+  if (!game) { showToast('Please enter the game title.', '⚠️'); return; }
+  if (!content) { showToast('Paste or write your tutorial content first.', '⚠️'); return; }
+  if (tags.length === 0) { showToast('No tags selected — toggle at least one tag below.', '⚠️'); return; }
+
+  // Extract metadata from markdown
+  const title   = parseTitle(content) || game + ' — Game Guide';
+  const desc    = parseDesc(content)  || 'Community tutorial for ' + game;
+  const version = parseVersion(content);
+
+  const slug = [game, title].join('-').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g,'');
+  const newT = {
+    id:      slug + '-' + Date.now(),
+    title, game, desc, tags, author, version,
+    date:    new Date().toISOString().split('T')[0],
+    content
+  };
+
+  showToast('Guide ready! Follow the steps below to submit.', '🚀');
+
+  // Show PR instructions panel
+  showPRInstructions(newT, document.getElementById('md-editor').value.trim());
+
+  // Reset form
+  document.getElementById('f-game').value   = '';
+  document.getElementById('f-author').value = '';
+  document.getElementById('md-editor').value = '';
+  detectedTagMap = {};
+  manualOverrides.clear();
+  applyDetectedTags({});
+}
+
+function showPRInstructions(t, rawMd) {
+  const filename = t.id.replace(/[^a-z0-9-]/g,'') + '.md';
+  const frontmatter = `---
+game: ${t.game}
+author: ${t.author}
+version: ${t.version || ''}
+tags: ${t.tags.join(', ')}
+date: ${t.date}
+---\n\n`;
+  const fullMd = frontmatter + rawMd;
+
+  // Build panel
+  let panel = document.getElementById('pr-panel');
+  if (!panel) {
+    panel = document.createElement('div');
+    panel.id = 'pr-panel';
+    panel.className = 'pr-panel';
+    document.querySelector('.contrib-layout').appendChild(panel);
+  }
+  panel.innerHTML = `
+    <div class="pr-header">
+      <span class="detect-label">🚀 SUBMIT TO PATCHWIKI — OPEN A PULL REQUEST</span>
+      <button class="pr-close" onclick="document.getElementById('pr-panel').remove()">✕</button>
+    </div>
+    <div class="pr-body">
+      <p class="pr-step"><span class="pr-num">1</span> Save this file as <code>${filename}</code></p>
+      <div class="pr-copy-wrap">
+        <pre class="pr-code" id="pr-md-content">${escHtml(fullMd)}</pre>
+        <button class="code-copy" style="position:absolute;top:8px;right:8px" onclick="copyPR()">copy</button>
+      </div>
+      <p class="pr-step"><span class="pr-num">2</span> Fork <strong>3circledesign/patchwiki</strong> on GitHub and place the file inside the <code>tutorials/</code> folder</p>
+      <p class="pr-step"><span class="pr-num">3</span> Open a Pull Request with the title: <code>${escHtml(t.title)}</code></p>
+      <p class="pr-step"><span class="pr-num">4</span> Once merged, the GitHub Action auto-deploys and your guide goes live ✓</p>
+      <a class="btn btn-primary" style="display:inline-flex;margin-top:8px;text-decoration:none"
+         href="https://github.com/3circledesign/patchwiki/fork" target="_blank">
+        Fork the repo on GitHub →
+      </a>
+    </div>
+  `;
+  panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function escHtml(str) {
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+function copyPR() {
+  const text = document.getElementById('pr-md-content').textContent;
+  navigator.clipboard.writeText(text).then(() => showToast('Markdown copied!', '📋'));
+}
+
+// ─── ABOUT ─────────────────────────────────────────────────────
+function renderAbout() {
+  document.getElementById('about-content').innerHTML = marked.parse(`
+## What is PatchWiki?
+
+PatchWiki is a community-driven wiki for **online patches, DRM bypass guides, and game co-op emulation tutorials**. All content is written and maintained by the community.
+
+## How to Contribute
+
+1. Click **Contribute** in the top navigation
+2. Enter the game title and your username
+3. Paste or write your guide as plain Markdown
+4. Tags are auto-detected from your content — review and adjust if needed
+5. Hit **Submit Tutorial**
+
+Your tutorial is immediately live for the community to read.
+
+## Rules & Guidelines
+
+- Write clear, step-by-step instructions
+- Include required tools and tested versions
+- Add a Troubleshooting section where possible
+- Credit original tool authors where relevant
+- No malware, no fake tools, no scam links
+
+## Tech Stack
+
+This wiki is a **fully static GitHub Pages site** — no server, no database. Tutorials are plain .md files in the repo. Contributors open a Pull Request, and the GitHub Action rebuilds tutorials.json on every merge.
+
+## Contact
+
+Open an issue on GitHub or reach us on Discord.
+  `);
+}
+
+// ─── TOAST ─────────────────────────────────────────────────────
+function showToast(msg, icon = '✅') {
+  const t = document.getElementById('toast');
+  document.getElementById('toast-msg').textContent = msg;
+  document.getElementById('toast-icon').textContent = icon;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 3500);
+}
+
+// ─── INIT ──────────────────────────────────────────────────────
+renderTagsSelect();
+renderAbout();
+loadTutorials(); // async: fetches tutorials.json then renders grid
+</script>
+</body>
+</html>
