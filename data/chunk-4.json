@@ -1,0 +1,284 @@
+[
+  {
+    "id": "1196590-resident-evil-village-fix",
+    "appId": 1196590,
+    "title": "1196590 RESIDENT EVIL VILLAGE FIX",
+    "game": "RESIDENT EVIL VILLAGE",
+    "desc": "Fix for failed save data",
+    "tags": [
+      "general"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 1196590 RESIDENT EVIL VILLAGE FIX\r\n\r\nFix for failed save data\r\n\r\nStart game from Steam\r\n"
+  },
+  {
+    "id": "1237320-sonic-frontiers-bypass",
+    "appId": 1237320,
+    "title": "1237320 SONIC FRONTIERS BYPASS",
+    "game": "SONIC FRONTIERS",
+    "desc": "After bypass, run game from Steam",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 1237320 SONIC FRONTIERS BYPASS\r\n\r\nAfter bypass, run game from Steam\r\n"
+  },
+  {
+    "id": "1238840-battlefield-1-bypass",
+    "appId": 1238840,
+    "title": "1238840 BATTLEFIELD 1 BYPASS",
+    "game": "BATTLEFIELD 1",
+    "desc": "Tutorial for BATTLEFIELD 1",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 1238840 BATTLEFIELD 1 BYPASS\r\n\r\n-Download is pretty large around 300mb\r\n\r\n-After download patch, run game from bf1.exe inside the game installation folder.\r\n"
+  },
+  {
+    "id": "1272080-pay-day-3",
+    "appId": 1272080,
+    "title": "1272080 PAY DAY 3",
+    "game": "PAY DAY 3",
+    "desc": "<:5726toothymaw:1239134161835655198>",
+    "tags": [
+      "general"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 1272080 PAY DAY 3\r\n\r\n<:5726toothymaw:1239134161835655198>\r\n"
+  },
+  {
+    "id": "1359090-zero-hour-bypass",
+    "appId": 1359090,
+    "title": "1359090 ZERO HOUR BYPASS",
+    "game": "ZERO HOUR",
+    "desc": "Tutorial for ZERO HOUR",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 1359090 ZERO HOUR BYPASS\r\n\r\n-After bypass, run game from steam,\r\n-Play offline mode story only.\r\n"
+  },
+  {
+    "id": "1609370-caravanners-co-op-open-world-camping-online-patch",
+    "appId": 1609370,
+    "title": "1609370 CARAVANNERS: CO-OP OPEN WORLD CAMPING ONLINE PATCH",
+    "game": "CARAVANNERS: CO-OP OPEN WORLD CAMPING",
+    "desc": "Start game from steam",
+    "tags": [
+      "online",
+      "coop"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 1609370 CARAVANNERS: CO-OP OPEN WORLD CAMPING ONLINE PATCH\r\n\r\nStart game from steam\r\n"
+  },
+  {
+    "id": "1953520-wrc-generations-bypass",
+    "appId": 1953520,
+    "title": "1953520 WRC GENERATIONS BYPASS",
+    "game": "WRC GENERATIONS",
+    "desc": "Skip the account registration in game and play.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 1953520 WRC GENERATIONS BYPASS\r\n\r\nSkip the account registration in game and play.\r\n"
+  },
+  {
+    "id": "2058180-judgment-bypass",
+    "appId": 2058180,
+    "title": "2058180 JUDGMENT BYPASS",
+    "game": "JUDGMENT",
+    "desc": "Tutorial for JUDGMENT",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 2058180 JUDGMENT BYPASS\r\n\r\n-After patching, open game folder,\r\n-open runtime/media,\r\n-Start the game from Judgment.exe,\r\n-Disable antivirus as it might delete EMP.dll,\r\n-Support only until WIN 24H2\r\n"
+  },
+  {
+    "id": "2077750-rennsport",
+    "appId": 2077750,
+    "title": "2077750 RENNSPORT",
+    "game": "RENNSPORT",
+    "desc": "no bypass needed but u need to register account and login using the account in the game",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 2077750 RENNSPORT\r\n\r\nno bypass needed but u need to register account and login using the account in the game\r\nyou will be able to play online with official server\r\n"
+  },
+  {
+    "id": "2191500-vampire-bloodlord-rising",
+    "appId": 2191500,
+    "title": "2191500 VAMPIRE: BLOODLORD RISING",
+    "game": "VAMPIRE: BLOODLORD RISING",
+    "desc": "Tutorial for VAMPIRE: BLOODLORD RISING",
+    "tags": [
+      "general"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 2191500 VAMPIRE: BLOODLORD RISING\r\n\r\n-After patch\r\n-Start game from Steam and then login to epic games\r\n"
+  },
+  {
+    "id": "287700-metal-gear-solid-v-the-phantom-pain",
+    "appId": 287700,
+    "title": "287700 METAL GEAR SOLID V: THE PHANTOM PAIN",
+    "game": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+    "desc": "Exclusive for Onennabe",
+    "tags": [
+      "general"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 287700 METAL GEAR SOLID V: THE PHANTOM PAIN\r\n\r\nExclusive for Onennabe\r\n\r\nPatch and then play from steam\r\n\r\n![Attached Image](assets/287700-metal-gear-solid-v-the-phantom-pain_1500854126832255158.png)\r\n"
+  },
+  {
+    "id": "3501070-car-service-together",
+    "appId": 3501070,
+    "title": "3501070 CAR SERVICE TOGETHER",
+    "game": "CAR SERVICE TOGETHER",
+    "desc": "Tutorial for CAR SERVICE TOGETHER",
+    "tags": [
+      "general"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 3501070 CAR SERVICE TOGETHER\r\n\r\n-run game from Steam\r\n"
+  },
+  {
+    "id": "3569500-card-shop-simulator-online",
+    "appId": 3569500,
+    "title": "3569500 CARD SHOP SIMULATOR ONLINE",
+    "game": "CARD SHOP SIMULATOR",
+    "desc": "Tutorial for CARD SHOP SIMULATOR",
+    "tags": [
+      "general"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 3569500 CARD SHOP SIMULATOR ONLINE\r\n\r\n-run game from Steam\r\n"
+  },
+  {
+    "id": "3681010-nioh-3-online-patch",
+    "appId": 3681010,
+    "title": "3681010 NIOH 3 ONLINE PATCH",
+    "game": "NIOH 3",
+    "desc": "Tutorial for NIOH 3",
+    "tags": [
+      "online",
+      "coop"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 3681010 NIOH 3 ONLINE PATCH\r\n\r\n-After patch, play game from Steam,\r\n-Make sure antivirus is disabled before starting game,\r\n-Progress through story first before unlocking story co-op mode.\r\n"
+  },
+  {
+    "id": "47790-medal-of-honor-ea-bypass",
+    "appId": 47790,
+    "title": "47790 MEDAL OF HONOR EA BYPASS",
+    "game": "MEDAL OF HONOR",
+    "desc": "Tutorial for MEDAL OF HONOR",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 47790 MEDAL OF HONOR EA BYPASS\r\n\r\nPlay from Steam.\r\n"
+  },
+  {
+    "id": "49540-bypass-for-aliens-colonial-marines",
+    "appId": 49540,
+    "title": "49540 BYPASS FOR ALIENS: COLONIAL MARINES",
+    "game": "FOR ALIENS: COLONIAL MARINES",
+    "desc": "\" C:\\SteamLibrary\\steamapps\\common\\Aliens Colonial Marines\\Binaries\\Win32\"",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 49540 BYPASS FOR ALIENS: COLONIAL MARINES\r\n\r\n-After patch, open game folder and then open Binaries > Win32\r\n\" C:\\SteamLibrary\\steamapps\\common\\Aliens Colonial Marines\\Binaries\\Win32\"\r\n-Right click ACM.exe , run as administrator\r\n\r\n![Attached Image](assets/49540-bypass-for-aliens-colonial-marines_1500857490592633003.png)\r\n"
+  },
+  {
+    "id": "55150-bypass-for-warhammer-40k-space-marine-anniversary-edition",
+    "appId": 55150,
+    "title": "55150 bypass for Warhammer 40k Space Marine Anniversary Edition",
+    "game": "for Warhammer 40k Space Marine Anniversary Edition",
+    "desc": "Tutorial for for Warhammer 40k Space Marine Anniversary Edition",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 55150 bypass for Warhammer 40k Space Marine Anniversary Edition\r\n\r\n-Make sure turn off antivirus, the crack is detected heavily by win defender\r\n\r\n-After patch, run game from Steam\r\n"
+  },
+  {
+    "id": "55230-bypass-for-saints-row-the-third",
+    "appId": 55230,
+    "title": "55230 BYPASS FOR SAINTS ROW THE THIRD",
+    "game": "FOR SAINTS ROW THE THIRD",
+    "desc": "After patch, run game from Steam or Launch from inside folder",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 55230 BYPASS FOR SAINTS ROW THE THIRD\r\n\r\nAfter patch, run game from Steam or Launch from inside folder\r\n"
+  },
+  {
+    "id": "633230-naruto-to-boruto-shinobi-striker",
+    "appId": 633230,
+    "title": "633230 NARUTO TO BORUTO: SHINOBI STRIKER",
+    "game": "NARUTO TO BORUTO: SHINOBI STRIKER",
+    "desc": "After bypass, open game folder and run game from SmartSteamLoader_x64.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 633230 NARUTO TO BORUTO: SHINOBI STRIKER\r\n\r\nAfter bypass, open game folder and run game from SmartSteamLoader_x64.exe\r\nPlay offline\r\n"
+  },
+  {
+    "id": "916440-anno-1800-bypass",
+    "appId": 916440,
+    "title": "916440 ANNO 1800 BYPASS",
+    "game": "ANNO 1800",
+    "desc": "Bin/Win64/Anno1800.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Community",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 916440 ANNO 1800 BYPASS\r\n\r\n-After patching, run the game from inside folder,\r\nBin/Win64/Anno1800.exe\r\n\r\nor try run from Steam\r\n"
+  }
+]
