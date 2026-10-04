@@ -14,6 +14,19 @@
     "date": "2026-10-04"
   },
   {
+    "id": "test-480",
+    "appId": 480,
+    "title": "test - 480",
+    "game": "test",
+    "desc": "Tutorial and guide for test.",
+    "tags": [
+      "general"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-10-04"
+  },
+  {
     "id": "dying-light-the-beast-3008130",
     "appId": 3008130,
     "title": "Dying Light: The Beast - 3008130",

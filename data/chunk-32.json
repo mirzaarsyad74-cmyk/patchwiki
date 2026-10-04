@@ -1,5 +1,19 @@
 [
   {
+    "id": "1413480-shin-megami-tensei-iii-nocturne-hd-remaster-denu-bypass",
+    "appId": 1413480,
+    "title": "(1413480) SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER DENU BYPASS",
+    "game": "SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER",
+    "desc": "Tutorial and guide for SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# (1413480) SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER DENU BYPASS\n\n-run game from steam\n"
+  },
+  {
     "id": "1430190-killing-floor-3",
     "appId": 1430190,
     "title": "(1430190) KILLING FLOOR 3",
@@ -268,20 +282,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Added Sniper Elite 4 Denuv0 bypass - 312660\n\n- run game from **stp-se4dx11.exe or stp-se4dx12.exe **after patching/download, \n- works with current steam version\n"
-  },
-  {
-    "id": "added-starrupture-online-patch-1631270",
-    "appId": 1631270,
-    "title": "Added StarRupture online patch - 1631270",
-    "game": "StarRupture",
-    "desc": "try run from steam once patch or",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added StarRupture online patch - 1631270\n\n-try run from steam once patch or\n-open game folder and run game via StarRuptureGameSteam.exe\n-Session Type -> Invite Only -> Start Game -> ESC+We invite friends\n\n---\n\nAdded StarRupture online patch - 1631270\n"
   }
 ]

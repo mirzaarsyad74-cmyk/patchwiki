@@ -1,5 +1,20 @@
 [
   {
+    "id": "bus-bound-2095420",
+    "appId": 2095420,
+    "title": "Bus Bound - 2095420",
+    "game": "Bus Bound",
+    "desc": "Tutorial and guide for Bus Bound.",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-07",
+    "content": "\n# Bus Bound - 2095420\n\n- Added online patch\n- Download game\n- Bypass Game\n"
+  },
+  {
     "id": "gamble-with-your-friends-3892270",
     "appId": 3892270,
     "title": "Gamble With Your Friends - 3892270",
@@ -267,19 +282,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 221100 DAYZ PRIV8 SERVER ONLINE\n\n-Open game folder after patching\n\n-use DayZavr Dayz.exe to run the private server host\nregister and play using the launcher.\n"
-  },
-  {
-    "id": "2215260-scott-pilgrim-vs-the-world-bypass",
-    "appId": 2215260,
-    "title": "2215260  SCOTT PILGRIM VS THE WORLD BYPASS",
-    "game": "SCOTT PILGRIM VS THE WORLD",
-    "desc": "After patching, open folder and start game using Scott.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 2215260  SCOTT PILGRIM VS THE WORLD BYPASS\n\n-After patching, open folder and start game using Scott.exe\n"
   }
 ]

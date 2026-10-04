@@ -1,5 +1,19 @@
 [
   {
+    "id": "2215260-scott-pilgrim-vs-the-world-bypass",
+    "appId": 2215260,
+    "title": "2215260  SCOTT PILGRIM VS THE WORLD BYPASS",
+    "game": "SCOTT PILGRIM VS THE WORLD",
+    "desc": "After patching, open folder and start game using Scott.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 2215260  SCOTT PILGRIM VS THE WORLD BYPASS\n\n-After patching, open folder and start game using Scott.exe\n"
+  },
+  {
     "id": "2340870-rugby-25-bypass",
     "appId": 2340870,
     "title": "2340870 RUGBY 25 BYPASS",
@@ -270,19 +284,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 2058180 JUDGMENT BYPASS\n\n-After patching, open game folder,\n-open runtime/media,\n-Start the game from Judgment.exe,\n-Disable antivirus as it might delete EMP.dll,\n-Support only until WIN 24H2\n"
-  },
-  {
-    "id": "2077750-rennsport",
-    "appId": 2077750,
-    "title": "2077750 RENNSPORT",
-    "game": "RENNSPORT",
-    "desc": "no bypass needed but u need to register account and login using the account in the game",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 2077750 RENNSPORT\n\nno bypass needed but u need to register account and login using the account in the game\nyou will be able to play online with official server\n"
   }
 ]

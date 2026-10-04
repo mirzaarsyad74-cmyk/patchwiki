@@ -1,5 +1,19 @@
 [
   {
+    "id": "resident-evil-requiem-3764200",
+    "appId": 3764200,
+    "title": "Resident Evil Requiem - 3764200",
+    "game": "Resident Evil Requiem",
+    "desc": "Download Game, make sure game auto update is lock.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-02",
+    "content": "\n# Resident Evil Requiem - 3764200\n\nDownload Game, make sure game auto update is lock. \nthen bypass game, play from steam\n\n---\n\n<:5726toothymaw:1239134161835655198>\n\n---\n\nGot same issues?\n\nDownload [REFramework](https://github.com/praydog/REFramework-nightly/releases/download/nightly-01424-d1461375aee4ec3f313170f8eaad12064eb542d9/REFramework.zip)\n\n• Extract folder and copy/move **dinput8.dll** to game installation Folder and try run game again\n\n![Attached Image](assets/resident-evil-requiem-3764200_1554156829628698684.jpg)\n"
+  },
+  {
     "id": "1088850-marvel-s-guardians-of-the-galaxy-denuv-bypass",
     "appId": 1088850,
     "title": "(1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS",
@@ -279,19 +293,5 @@
     "version": "1.0",
     "date": "2026-04-30",
     "content": "\n# The First Berserker: Khazan - 2680010\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n# <a:5567alertblue:1400478576351907871> The First Berserker Khazan (2680010) denuv0 bypass added.. <a:5567alertblue:1400478576351907871>\n\nThose who use hypervisor previously, click remove hypervisor patch first, then Click Bypass Game.\n"
-  },
-  {
-    "id": "1413480-shin-megami-tensei-iii-nocturne-hd-remaster-denu-bypass",
-    "appId": 1413480,
-    "title": "(1413480) SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER DENU BYPASS",
-    "game": "SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER",
-    "desc": "Tutorial and guide for SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# (1413480) SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER DENU BYPASS\n\n-run game from steam\n"
   }
 ]
