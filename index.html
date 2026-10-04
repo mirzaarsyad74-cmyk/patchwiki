@@ -1347,10 +1347,18 @@ async function loadTutorialContent(id) {
       // Merge content back into tutorials array
       for (const entry of chunk) {
         const existing = tutorials.find(x => x.id === entry.id);
-        if (existing) existing.content = entry.content;
+        if (existing) {
+          existing.content = entry.content;
+        } else {
+          tutorials.push(entry);
+        }
       }
     } catch { return t || null; }
   }
+
+  const cachedChunk = chunkCache[chunkFile] || [];
+  const chunkEntry = cachedChunk.find(x => x.id === id || (t && x.id === t.id));
+  if (chunkEntry && chunkEntry.content) return chunkEntry;
 
   return tutorials.find(x => x.id === id || (t && x.id === t.id)) || null;
 }
@@ -1389,9 +1397,10 @@ async function handleUrlRoute() {
     readId = decodeURIComponent(hash.slice(6));
   } else if (tutorialParam) {
     readId = tutorialParam;
-  
+  }
 
   if (readId) {
+    readId = readId.split('#')[0].split('?')[0].trim();
     navigate("read", readId);
   } else {
     navigate("home");
