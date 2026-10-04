@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>PatchWiki — Online Patch & Game Bypass Guides</title>
+<title>Tutorial — Online Patch & Game Bypass Guides</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <!-- marked.js for markdown rendering -->
@@ -1031,7 +1031,7 @@
 <!-- ── ABOUT PAGE ── -->
 <div id="page-about" class="page">
   <div style="max-width:720px;margin:0 auto;padding:48px 24px 64px">
-    <h2 style="font-family:var(--mono);font-size:26px;font-weight:700;margin-bottom:16px;letter-spacing:-0.5px">About PatchWiki</h2>
+    <h2 style="font-family:var(--mono);font-size:26px;font-weight:700;margin-bottom:16px;letter-spacing:-0.5px">About Tutorial</h2>
     <div class="md-content" id="about-content"></div>
   </div>
 </div>
@@ -1827,7 +1827,7 @@ date: ${t.date}
   }
   panel.innerHTML = `
     <div class="pr-header">
-      <span class="detect-label">🚀 SUBMIT TO PATCHWIKI — OPEN A PULL REQUEST</span>
+      <span class="detect-label">🚀 SUBMIT TUTORIAL — OPEN A PULL REQUEST</span>
       <button class="pr-close" onclick="document.getElementById('pr-panel').remove()">✕</button>
     </div>
     <div class="pr-body">
@@ -1836,11 +1836,11 @@ date: ${t.date}
         <pre class="pr-code" id="pr-md-content">${escHtml(fullMd)}</pre>
         <button class="code-copy" style="position:absolute;top:8px;right:8px" onclick="copyPR()">copy</button>
       </div>
-      <p class="pr-step"><span class="pr-num">2</span> Fork <strong>3circledesign/patchwiki</strong> on GitHub and place the file inside the <code>tutorials/</code> folder</p>
+      <p class="pr-step"><span class="pr-num">2</span> Fork <strong>mirzaarsyad74-cmyk/patchwiki</strong> on GitHub and place the file inside the <code>tutorials/</code> folder</p>
       <p class="pr-step"><span class="pr-num">3</span> Open a Pull Request with the title: <code>${escHtml(t.title)}</code></p>
       <p class="pr-step"><span class="pr-num">4</span> Once merged, the GitHub Action auto-deploys and your guide goes live ✓</p>
       <a class="btn btn-primary" style="display:inline-flex;margin-top:8px;text-decoration:none"
-         href="https://github.com/3circledesign/patchwiki/fork" target="_blank">
+         href="https://github.com/mirzaarsyad74-cmyk/patchwiki/fork" target="_blank">
         Fork the repo on GitHub →
       </a>
     </div>
@@ -1859,9 +1859,9 @@ function copyPR() {
 // ─── ABOUT ─────────────────────────────────────────────────────
 function renderAbout() {
   document.getElementById('about-content').innerHTML = marked.parse(`
-## What is PatchWiki?
+## What is Tutorial?
 
-PatchWiki is a community-driven wiki for **online patches, DRM bypass guides, and game co-op emulation tutorials**. All content is written and maintained by the community.
+Tutorial is a community-driven library for **online patches, DRM bypass guides, and game co-op emulation tutorials**. All content is written and maintained by the community.
 
 ## How to Contribute
 

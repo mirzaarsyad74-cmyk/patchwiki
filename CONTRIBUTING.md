@@ -1,4 +1,4 @@
-# Contributing to PatchWiki
+# Contributing to Tutorial
 
 Thanks for writing a guide! Here's how to get it published.
 

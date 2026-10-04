@@ -1,6 +1,6 @@
-# PatchWiki
+# Tutorial
 
-Community-driven wiki for online patches, DRM bypasses, and game co-op emulation guides.
+Community-driven tutorial and guide library for online patches, DRM bypasses, and game co-op emulation guides.
 
 **Live site:** https://mirzaarsyad74-cmyk.github.io/patchwiki/
 

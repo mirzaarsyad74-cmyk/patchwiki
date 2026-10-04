@@ -1,12 +1,11 @@
 #!/usr/bin/env node
 /**
- * Discord Channel / Forum Scraper for PatchWiki
+ * Discord Channel / Forum Scraper for Tutorial
  *
- * Automatically fetches guides from a Discord channel or forum (default: 1498980524297818142),
- * downloads attachments to /tutorials/assets/, formats them with frontmatter,
- * and saves them as .md files inside /tutorials/.
- *
- * Supports both Discord Bot Tokens and User Account Tokens.
+ * Automatically fetches guides from Discord channel/forum,
+ * downloads attachments to /tutorials/assets/ (splitting files >45MB into parts so no asset is ignored),
+ * formats them with full frontmatter that CloudRedirect can read and match,
+ * and saves/overwrites them as .md files inside /tutorials/.
  */
 
 const fs   = require('fs');
@@ -24,15 +23,94 @@ const DATA_DIR      = path.join(ROOT_DIR, 'data');
 const STATE_FILE    = path.join(DATA_DIR, 'discord_sync_state.json');
 
 const DISCORD_API   = 'https://discord.com/api/v10';
+const CHUNK_SIZE_BYTES = 45 * 1024 * 1024; // 45 MB chunk limit for safe GitHub upload
+
+const FORCE_OVERWRITE = process.argv.includes('--force') ||
+                        process.argv.includes('--overwrite') ||
+                        process.env.OVERWRITE_ALL === 'true';
 
 // Tag auto-detection rules matching build.js
 const TAG_RULES = [
   { tag: 'online',  keywords: ['onlinefix','online fix','online patch','online multiplayer','goldberg','steamemu','steam_emu','gbe_fork','lan play','p2p','steam p2p','sseon','online co-op','online-fix'] },
   { tag: 'bypass',  keywords: ['bypass','steam emulator','steam_api','steam api','steam_appid','skidrow','codex','fitgirl','reloaded','crack','cracked','pirated','scene release','spacewar'] },
-  { tag: 'coop',    keywords: ['co-op','coop','co op','multiplayer','hamachi','zerotier','zero tier','parsec','lan party','join session','invite friend','virtual lan','netplay'] },
+  { tag: 'coop',    keywords: ['co-op','coop','co op','multiplayer','hamachi','zerotier','zero tier','parsec','lan party','join session','invite friend','virtual lan','netplay','seamless co-op'] },
   { tag: 'crack',   keywords: ['crack patch','scene group','plaza','empress','repack','nfo','.nfo','release group','fairlight','razor1911','patch only','crack only','bin patch'] },
-  { tag: 'drm',     keywords: ['denuvo','drm','eac','easy anti-cheat','battleye','battle eye','vac','valve anti-cheat','steam drm','anti-tamper','protection','steamworks'] }
+  { tag: 'drm',     keywords: ['denuvo','drm','eac','easy anti-cheat','battleye','battle eye','vac','valve anti-cheat','steam drm','anti-tamper','protection','steamworks','ubisoft','ea app'] }
 ];
+
+// Fallback dictionary for common Steam games if AppID is omitted from thread title
+const KNOWN_GAME_APPIDS = {
+  'elden ring': 1245620,
+  'palworld': 1623730,
+  'carx street': 1114150,
+  'beamng.drive': 284160,
+  'beamng drive': 284160,
+  'grand theft auto v': 271590,
+  'gta v': 271590,
+  'gta 5': 271590,
+  'grand theft auto v legacy': 271590,
+  'monster hunter world': 582010,
+  'monster hunter: world': 582010,
+  'hogwarts legacy': 990080,
+  'cyberpunk 2077': 1091500,
+  'black myth: wukong': 2358720,
+  'black myth wukong': 2358720,
+  'lies of p': 1627720,
+  'it takes two': 1426210,
+  'no mans sky': 275850,
+  "no man's sky": 275850,
+  'planet coaster': 493340,
+  'planet zoo': 703080,
+  'payday 3': 1272080,
+  'pay day 3': 1272080,
+  'red dead redemption 2': 1174180,
+  'rdr2': 1174180,
+  'red dead redemption': 2668510,
+  'resident evil 6': 221040,
+  'resident evil 9': 3764200,
+  're9': 3764200,
+  'metaphor refantazio': 2679460,
+  'dirt 4': 421020,
+  'assassins creed odyssey': 812140,
+  "assassin's creed odyssey": 812140,
+  "assassin's creed mirage": 3035570,
+  "assassin's creed shadows": 3159330,
+  "assassin's creed rogue": 311560,
+  "assassin's creed syndicate": 368500,
+  "assassin's creed black flag": 3751950,
+  'atomic heart': 668580,
+  'battlefield 6': 2807960,
+  'call of duty black ops 6': 1938090,
+  'call of duty modern warfare iii': 3595270,
+  'call of duty world at war': 10090,
+  'call of duty black ops cold war': 1985810,
+  'company of heroes 3': 1677280,
+  'crimson desert': 2419900,
+  'dead or alive 6 last round': 4144680,
+  'diablo ii': 2536520,
+  'ea sports college football 27': 4032350,
+  'f1 22': 1692250,
+  'f1 25': 3059520,
+  'far cry 5': 552520,
+  'fifa 22': 1506830,
+  'forza horizon 6': 2483190,
+  'inazuma eleven victory road': 2799860,
+  'jurassic world evolution 3': 2958130,
+  'mafia the old country': 1941540,
+  'microsoft flight simulator': 1250410,
+  'nba 2k14': 255480,
+  'need for speed undercover': 17430,
+  'persona 4 golden': 111300,
+  'prison architect': 233450,
+  'star wars jedi survivor': 1774580,
+  'steep': 460920,
+  'suicide squad kill the justice league': 315210,
+  'unravel two': 1225570,
+  'watch dogs 2': 447040,
+  'wild hearts': 1938010,
+  'wreckfest 2': 1203190,
+  'lords of the fallen': 1501750
+};
 
 function detectTags(text) {
   const lower = text.toLowerCase();
@@ -44,19 +122,44 @@ function detectTags(text) {
 }
 
 function extractAppId(filename, title, game, body) {
-  const fullText = [filename || '', title || '', game || '', (body || '').slice(0, 400)].join(' ');
+  const fullText = [filename || '', title || '', game || '', (body || '').slice(0, 1000)].join(' ');
+  
+  // 1. Steam store or community URL
+  const mLink = fullText.match(/(?:store\.steampowered\.com|steamcommunity\.com)\/app\/(\d{3,9})/i);
+  if (mLink) return parseInt(mLink[1], 10);
+
+  // 2. Explicit appid label
+  const mAppWord = fullText.match(/(?:appid|app\s*id|steam_appid)\s*[:=]?\s*(\d{3,9})\b/i);
+  if (mAppWord) return parseInt(mAppWord[1], 10);
+
+  // 3. Parentheses or brackets: (1234560) or [1234560]
   const mParen = fullText.match(/[\(\[]\s*(\d{3,9})\s*[\)\]]/);
   if (mParen) return parseInt(mParen[1], 10);
+
+  // 4. Dash or colon suffix: - 1234560 or : 1234560
   const mDash = fullText.match(/[-:]\s*(\d{3,9})\b/);
   if (mDash) return parseInt(mDash[1], 10);
+
+  // 5. Attached exclamation/punctuation: !!3764200
+  const mPunct = fullText.match(/[!#]+\s*(\d{4,9})\b/);
+  if (mPunct) return parseInt(mPunct[1], 10);
+
+  // 6. Filename pure number
   const mFileNum = (filename || '').match(/^(\d{3,9})$/);
   if (mFileNum) return parseInt(mFileNum[1], 10);
-  const mAppWord = fullText.match(/(?:appid|app)\s*[:=]?\s*(\d{3,9})\b/i);
-  if (mAppWord) return parseInt(mAppWord[1], 10);
-  const mIso = fullText.match(/\b(\d{4,8})\b/);
+
+  // 7. Standalone number in title
+  const mIso = (title || '').match(/\b(\d{4,8})\b/);
   if (mIso) return parseInt(mIso[1], 10);
-  const mLink = (body || '').match(/store\.steampowered\.com\/app\/(\d{3,9})/i);
-  if (mLink) return parseInt(mLink[1], 10);
+
+  // 8. Known game title lookup
+  const cleanTitleLower = (game || title || '').toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
+  for (const [knownName, knownId] of Object.entries(KNOWN_GAME_APPIDS)) {
+    if (cleanTitleLower.includes(knownName) || knownName.includes(cleanTitleLower)) {
+      return knownId;
+    }
+  }
+
   return null;
 }
 
@@ -70,11 +173,12 @@ function cleanGameName(rawGame, rawTitle, filename) {
   g = g.replace(/^FOR\s+/i, '');
   g = g.replace(/[\(\[]\s*\d{3,9}\s*[\)\]]/g, '');
   g = g.replace(/[-:]\s*\d{3,9}\b/g, '');
+  g = g.replace(/!+\s*\d{4,9}\b/g, '');
   g = g.replace(/^\s*\d{4,9}\s+/, '');
   g = g.replace(/\b(?:DENUV0?|DENUVO?|DENU|EA|UBISOFT)\s+BYPASS\b/gi, '');
   g = g.replace(/\b(?:ONLINE\s+PATCH|ONLINE\s+FIX|ONLINE\s+CO-OP|ONLINE\s+METHOD|ONLINE)\b/gi, '');
   g = g.replace(/\b(?:SEAMLESS\s+CO-OP|MULTIPLAYER\s+MOD\s+TUTORIAL|MULTIPLAYER)\b/gi, '');
-  g = g.replace(/\b(?:BYPASS|GUIDE|TUTORIAL|FIX|UPDATED\s+INSTRUCTION|UPDATE\s+[\d.]+)\b/gi, '');
+  g = g.replace(/\b(?:BYPASS|GUIDE|TUTORIAL|FIX|UPDATED\s+INSTRUCTION|UPDATE\s+[\d.]+|RELEASE\s+DATE[^\)]*)\b/gi, '');
   g = g.replace(/^[-:\s,()\[\]]+|[-:\s,()\[\]]+$/g, '').trim();
   if (g.includes('(') && !g.includes(')')) g += ')';
   return g || rawGame || rawTitle || 'Unknown Game';
@@ -82,10 +186,14 @@ function cleanGameName(rawGame, rawTitle, filename) {
 
 function sanitizeFilename(name) {
   return name
-    .replace(/[<>:"/\\|?*\x00-\x1F]/g, '') // remove illegal filesystem characters
+    .replace(/[<>:"/\\|?*\x00-\x1F]/g, '')
     .replace(/\s+/g, ' ')
     .trim()
     .slice(0, 100);
+}
+
+function slugify(str) {
+  return str.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') || 'tutorial';
 }
 
 function sleep(ms) {
@@ -98,7 +206,6 @@ async function resolveAuthHeader(token) {
     throw new Error('Missing DISCORD_TOKEN. Please set the DISCORD_TOKEN secret or environment variable.');
   }
 
-  // If already prefixed with 'Bot ' or 'Bearer '
   if (token.startsWith('Bot ') || token.startsWith('Bearer ')) {
     return token;
   }
@@ -110,18 +217,16 @@ async function resolveAuthHeader(token) {
     const res = await fetch(`${DISCORD_API}/users/@me`, {
       headers: {
         'Authorization': `Bot ${token}`,
-        'User-Agent': 'PatchWiki-Sync/1.0'
+        'User-Agent': 'Tutorial-Sync/1.0'
       }
     });
     if (res.ok) {
       console.log('Authenticated successfully as Discord Bot.');
       return `Bot ${token}`;
     }
-  } catch (err) {
-    // continue to test user token
-  }
+  } catch (err) {}
 
-  // 2. Try User token format (without 'Bot ')
+  // 2. Try User token format
   try {
     const res = await fetch(`${DISCORD_API}/users/@me`, {
       headers: {
@@ -133,14 +238,12 @@ async function resolveAuthHeader(token) {
       console.log('Authenticated successfully with User Token.');
       return token;
     }
-  } catch (err) {
-    // failure handled below
-  }
+  } catch (err) {}
 
   throw new Error('Failed to authenticate with Discord API (both Bot and User token checks returned 401 Unauthorized). Please check your DISCORD_TOKEN.');
 }
 
-// ── Discord Fetch with Rate-Limit Handling ──────────────────────────────
+// ── Discord Fetch with Rate-Limit Handling ───────────────────────────────
 async function discordFetch(endpoint, authHeader) {
   const url = endpoint.startsWith('http') ? endpoint : `${DISCORD_API}${endpoint}`;
   
@@ -148,7 +251,7 @@ async function discordFetch(endpoint, authHeader) {
     const res = await fetch(url, {
       headers: {
         'Authorization': authHeader,
-        'User-Agent': 'PatchWiki-Sync/1.0',
+        'User-Agent': 'Tutorial-Sync/1.0',
         'Accept': 'application/json'
       }
     });
@@ -172,54 +275,105 @@ async function discordFetch(endpoint, authHeader) {
   throw new Error(`Max retries exceeded for ${endpoint}`);
 }
 
-const MAX_ASSET_SIZE_BYTES = 45 * 1024 * 1024; // 45 MB limit to stay safely under GitHub's 50MB/100MB limits
+// ── Download Asset with Automatic Chunk Splitting (>45MB) ────────────────
+async function downloadAsset(url, safeFilename, reportedSize) {
+  const destPath = path.join(ASSETS_DIR, safeFilename);
 
-// ── Download Asset File ──────────────────────────────────────────────────
-async function downloadAsset(url, filename, reportedSize) {
-  // 1. Check reported size from Discord attachment
-  if (reportedSize && reportedSize > MAX_ASSET_SIZE_BYTES) {
-    const mb = (reportedSize / (1024 * 1024)).toFixed(1);
-    console.log(`  Skipping large file download (${mb} MB > 45 MB limit): ${filename}`);
-    return url; // Keep direct URL
-  }
-
-  const destPath = path.join(ASSETS_DIR, filename);
-  if (fs.existsSync(destPath)) {
-    const stats = fs.statSync(destPath);
-    if (stats.size > MAX_ASSET_SIZE_BYTES) {
-      fs.unlinkSync(destPath);
-      return url;
+  // Check if file or its parts already exist
+  if (!FORCE_OVERWRITE) {
+    if (fs.existsSync(destPath)) {
+      const st = fs.statSync(destPath);
+      return {
+        isSplit: false,
+        files: [`assets/${safeFilename}`],
+        totalSize: st.size,
+        partSizes: [st.size],
+        baseName: safeFilename
+      };
     }
-    return `assets/${filename}`;
+    const part1 = path.join(ASSETS_DIR, `${safeFilename}.part01`);
+    if (fs.existsSync(part1)) {
+      const partFiles = [];
+      const partSizes = [];
+      let totalSize = 0;
+      let idx = 1;
+      while (true) {
+        const pName = `${safeFilename}.part${String(idx).padStart(2, '0')}`;
+        const pPath = path.join(ASSETS_DIR, pName);
+        if (!fs.existsSync(pPath)) break;
+        const pst = fs.statSync(pPath);
+        partFiles.push(`assets/${pName}`);
+        partSizes.push(pst.size);
+        totalSize += pst.size;
+        idx++;
+      }
+      return {
+        isSplit: true,
+        files: partFiles,
+        totalSize,
+        partSizes,
+        baseName: safeFilename
+      };
+    }
   }
+
+  console.log(`  Downloading asset: ${safeFilename} (${reportedSize ? (reportedSize / (1024*1024)).toFixed(1) + ' MB' : 'unknown size'})...`);
 
   try {
     const res = await fetch(url);
     if (!res.ok) {
       console.warn(`  Failed to download asset ${url}: HTTP ${res.status}`);
-      return url; // fallback to original url if download fails
-    }
-
-    const contentLength = parseInt(res.headers.get('content-length') || '0', 10);
-    if (contentLength > MAX_ASSET_SIZE_BYTES) {
-      const mb = (contentLength / (1024 * 1024)).toFixed(1);
-      console.log(`  Skipping large download response (${mb} MB > 45 MB limit): ${filename}`);
-      return url;
+      return { fallbackUrl: url };
     }
 
     const buffer = Buffer.from(await res.arrayBuffer());
-    if (buffer.length > MAX_ASSET_SIZE_BYTES) {
-      const mb = (buffer.length / (1024 * 1024)).toFixed(1);
-      console.log(`  Downloaded buffer exceeds size limit (${mb} MB): ${filename}`);
-      return url;
+    const totalSize = buffer.length;
+
+    if (totalSize <= CHUNK_SIZE_BYTES) {
+      fs.writeFileSync(destPath, buffer);
+      console.log(`  Saved asset: assets/${safeFilename} (${(totalSize / (1024*1024)).toFixed(1)} MB)`);
+      return {
+        isSplit: false,
+        files: [`assets/${safeFilename}`],
+        totalSize,
+        partSizes: [totalSize],
+        baseName: safeFilename
+      };
     }
 
-    fs.writeFileSync(destPath, buffer);
-    console.log(`  Downloaded asset: assets/${filename}`);
-    return `assets/${filename}`;
+    // Split file into chunks <= 45MB so GitHub push never fails and no asset is ignored
+    const numParts = Math.ceil(totalSize / CHUNK_SIZE_BYTES);
+    console.log(`  File exceeds 45 MB limit (${(totalSize / (1024*1024)).toFixed(1)} MB). Splitting into ${numParts} parts...`);
+    const partFiles = [];
+    const partSizes = [];
+
+    for (let i = 0; i < numParts; i++) {
+      const start = i * CHUNK_SIZE_BYTES;
+      const end = Math.min((i + 1) * CHUNK_SIZE_BYTES, totalSize);
+      const slice = buffer.subarray(start, end);
+      const partName = `${safeFilename}.part${String(i + 1).padStart(2, '0')}`;
+      const partPath = path.join(ASSETS_DIR, partName);
+      fs.writeFileSync(partPath, slice);
+      partFiles.push(`assets/${partName}`);
+      partSizes.push(slice.length);
+      console.log(`    Wrote ${partName} (${(slice.length / (1024*1024)).toFixed(1)} MB)`);
+    }
+
+    // If whole file previously existed, remove it so git doesn't track both
+    if (fs.existsSync(destPath)) {
+      try { fs.unlinkSync(destPath); } catch (e) {}
+    }
+
+    return {
+      isSplit: true,
+      files: partFiles,
+      totalSize,
+      partSizes,
+      baseName: safeFilename
+    };
   } catch (err) {
     console.warn(`  Error downloading asset ${url}: ${err.message}`);
-    return url;
+    return { fallbackUrl: url };
   }
 }
 
@@ -242,9 +396,10 @@ function saveState(state) {
 
 // ── Main Sync Logic ──────────────────────────────────────────────────────
 async function main() {
-  console.log('=== PatchWiki Discord Channel Scraper ===');
+  console.log('=== Tutorial Discord Channel Scraper ===');
   console.log(`Channel ID : ${CHANNEL_ID}`);
   console.log(`Guild ID   : ${GUILD_ID}`);
+  console.log(`Force Overwrite : ${FORCE_OVERWRITE}`);
 
   if (!fs.existsSync(TUTORIALS_DIR)) fs.mkdirSync(TUTORIALS_DIR, { recursive: true });
   if (!fs.existsSync(ASSETS_DIR)) fs.mkdirSync(ASSETS_DIR, { recursive: true });
@@ -311,8 +466,15 @@ async function main() {
       const lastEdited = thread.thread_metadata?.archive_timestamp || thread.last_message_id;
       const prev = state.syncedItems[threadId];
 
-      if (prev && prev.lastEdited === lastEdited) {
-        continue; // Up to date
+      const gameTitle = thread.name.trim();
+      const safeBase = sanitizeFilename(gameTitle);
+      const slug = slugify(gameTitle);
+      const filename = `${safeBase || threadId}.md`;
+      const filePath = path.join(TUTORIALS_DIR, filename);
+
+      // Check if up to date unless FORCE_OVERWRITE is set or file is missing
+      if (!FORCE_OVERWRITE && prev && prev.lastEdited === lastEdited && fs.existsSync(filePath)) {
+        continue;
       }
 
       console.log(`\nProcessing thread: "${thread.name}" (${threadId})`);
@@ -333,11 +495,9 @@ async function main() {
       const firstMsg = messages[0];
       const authorName = firstMsg.author?.global_name || firstMsg.author?.username || 'Community';
       const date = (firstMsg.timestamp || new Date().toISOString()).split('T')[0];
-      const gameTitle = thread.name.trim();
 
       // Combine message content and attachments
       let bodySections = [];
-      const slug = sanitizeFilename(gameTitle).toLowerCase().replace(/\s+/g, '-');
 
       for (const msg of messages) {
         let text = msg.content || '';
@@ -347,14 +507,33 @@ async function main() {
           for (const att of msg.attachments) {
             const ext = path.extname(att.filename || '').toLowerCase() || '.png';
             const safeAttName = `${slug}_${att.id}${ext}`;
-            const localRel = await downloadAsset(att.url, safeAttName, att.size);
+            const assetRes = await downloadAsset(att.url, safeAttName, att.size);
 
-            const isImg = /\.(png|jpg|jpeg|webp|gif)$/i.test(ext);
-            if (isImg) {
-              text += `\n\n![Attached Image](${localRel})\n`;
+            if (assetRes.fallbackUrl) {
+              text += `\n\n[Download ${att.filename}](${assetRes.fallbackUrl})\n`;
+            } else if (!assetRes.isSplit) {
+              const isImg = /\.(png|jpg|jpeg|webp|gif)$/i.test(ext);
+              if (isImg) {
+                text += `\n\n![Attached Image](${assetRes.files[0]})\n`;
+              } else {
+                const sizeLabel = att.size ? ` (${(att.size / (1024 * 1024)).toFixed(1)} MB)` : '';
+                text += `\n\n[Download ${att.filename}${sizeLabel}](${assetRes.files[0]})\n`;
+              }
             } else {
-              const sizeLabel = att.size ? ` (${(att.size / (1024 * 1024)).toFixed(1)} MB)` : '';
-              text += `\n\n[Download ${att.filename}${sizeLabel}](${localRel})\n`;
+              // File is split into parts (>45MB)
+              const totalMb = (assetRes.totalSize / (1024 * 1024)).toFixed(1);
+              const partLinks = assetRes.files.map((p, idx) => {
+                const pMb = (assetRes.partSizes[idx] / (1024 * 1024)).toFixed(1);
+                return `- [Download Part ${idx + 1} (${pMb} MB)](${p})`;
+              }).join('\n');
+
+              text += `\n\n### Download ${att.filename} (${totalMb} MB)\n` +
+                      `> **Note:** This file exceeds 45 MB and has been split into ${assetRes.files.length} parts for direct download:\n` +
+                      `${partLinks}\n\n` +
+                      `**To recombine on Windows (CMD):**\n` +
+                      `\`\`\`cmd\ncopy /b "${safeAttName}.part*" "${att.filename}"\n\`\`\`\n` +
+                      `**To recombine on Linux / Mac:**\n` +
+                      `\`\`\`bash\ncat "${safeAttName}.part"* > "${att.filename}"\n\`\`\`\n`;
             }
           }
         }
@@ -370,10 +549,24 @@ async function main() {
 
       const appId = extractAppId(safeBase, gameTitle, gameTitle, fullContent);
       const cleanGame = cleanGameName(gameTitle, gameTitle, safeBase);
+
+      // Create a clean summary description
+      let summaryDesc = `Tutorial and guide for ${cleanGame}.`;
+      for (const line of fullContent.split('\n')) {
+        const trimmed = line.trim().replace(/[*#>`_-]/g, '').trim();
+        if (trimmed.length > 25 && !trimmed.startsWith('http') && !trimmed.startsWith('![')) {
+          summaryDesc = trimmed.slice(0, 160);
+          break;
+        }
+      }
+
       const mdContent = `---
+id: ${slug}
+title: ${gameTitle}
 game: ${cleanGame}
-` + (appId ? ("appid: " + appId + "\n") : "") + `author: ${authorName}
-version: Unknown
+${appId ? `appid: ${appId}\n` : ''}author: ${authorName}
+version: 1.0
+desc: ${summaryDesc}
 tags: ${tagsStr}
 date: ${date}
 ---
@@ -383,24 +576,21 @@ date: ${date}
 ${fullContent}
 `;
 
-      const safeBase = sanitizeFilename(gameTitle);
-      const filename = `${safeBase || threadId}.md`;
-      const filePath = path.join(TUTORIALS_DIR, filename);
-
       fs.writeFileSync(filePath, mdContent, 'utf8');
-      console.log(`  ✓ Wrote tutorial to tutorials/${filename}`);
+      console.log(`  Wrote tutorial to tutorials/${filename} [AppID: ${appId || 'N/A'}]`);
 
       state.syncedItems[threadId] = {
         lastEdited,
         filename,
         title: gameTitle,
+        appId: appId || null,
         syncedAt: new Date().toISOString()
       };
       newOrUpdatedCount++;
     }
 
   } else {
-    // Regular text channel (type 0 or announcement)
+    // Regular text channel
     console.log('Fetching messages from channel...');
     const messages = await discordFetch(`/channels/${CHANNEL_ID}/messages?limit=100`, authHeader);
     console.log(`Retrieved ${messages.length} message(s).`);
@@ -410,15 +600,20 @@ ${fullContent}
 
       const lastEdited = msg.edited_timestamp || msg.timestamp;
       const prev = state.syncedItems[msg.id];
-      if (prev && prev.lastEdited === lastEdited) continue;
+
+      const firstLine = msg.content.split('\n')[0].replace(/^[#*\s]+/, '').trim();
+      const gameTitle = firstLine || `Guide-${msg.id}`;
+      const safeBase = sanitizeFilename(gameTitle);
+      const slug = slugify(gameTitle);
+      const filename = `${safeBase || msg.id}.md`;
+      const filePath = path.join(TUTORIALS_DIR, filename);
+
+      if (!FORCE_OVERWRITE && prev && prev.lastEdited === lastEdited && fs.existsSync(filePath)) {
+        continue;
+      }
 
       const authorName = msg.author?.global_name || msg.author?.username || 'Community';
       const date = (msg.timestamp || new Date().toISOString()).split('T')[0];
-
-      // Extract title from first line of message
-      const firstLine = msg.content.split('\n')[0].replace(/^[#*\s]+/, '').trim();
-      const gameTitle = firstLine || `Guide-${msg.id}`;
-      const slug = sanitizeFilename(gameTitle).toLowerCase().replace(/\s+/g, '-');
 
       let text = msg.content || '';
 
@@ -426,14 +621,32 @@ ${fullContent}
         for (const att of msg.attachments) {
           const ext = path.extname(att.filename || '').toLowerCase() || '.png';
           const safeAttName = `${slug}_${att.id}${ext}`;
-          const localRel = await downloadAsset(att.url, safeAttName, att.size);
+          const assetRes = await downloadAsset(att.url, safeAttName, att.size);
 
-          const isImg = /\.(png|jpg|jpeg|webp|gif)$/i.test(ext);
-          if (isImg) {
-            text += `\n\n![Attached Image](${localRel})\n`;
+          if (assetRes.fallbackUrl) {
+            text += `\n\n[Download ${att.filename}](${assetRes.fallbackUrl})\n`;
+          } else if (!assetRes.isSplit) {
+            const isImg = /\.(png|jpg|jpeg|webp|gif)$/i.test(ext);
+            if (isImg) {
+              text += `\n\n![Attached Image](${assetRes.files[0]})\n`;
+            } else {
+              const sizeLabel = att.size ? ` (${(att.size / (1024 * 1024)).toFixed(1)} MB)` : '';
+              text += `\n\n[Download ${att.filename}${sizeLabel}](${assetRes.files[0]})\n`;
+            }
           } else {
-            const sizeLabel = att.size ? ` (${(att.size / (1024 * 1024)).toFixed(1)} MB)` : '';
-            text += `\n\n[Download ${att.filename}${sizeLabel}](${localRel})\n`;
+            const totalMb = (assetRes.totalSize / (1024 * 1024)).toFixed(1);
+            const partLinks = assetRes.files.map((p, idx) => {
+              const pMb = (assetRes.partSizes[idx] / (1024 * 1024)).toFixed(1);
+              return `- [Download Part ${idx + 1} (${pMb} MB)](${p})`;
+            }).join('\n');
+
+            text += `\n\n### Download ${att.filename} (${totalMb} MB)\n` +
+                    `> **Note:** This file exceeds 45 MB and has been split into ${assetRes.files.length} parts for direct download:\n` +
+                    `${partLinks}\n\n` +
+                    `**To recombine on Windows (CMD):**\n` +
+                    `\`\`\`cmd\ncopy /b "${safeAttName}.part*" "${att.filename}"\n\`\`\`\n` +
+                    `**To recombine on Linux / Mac:**\n` +
+                    `\`\`\`bash\ncat "${safeAttName}.part"* > "${att.filename}"\n\`\`\`\n`;
           }
         }
       }
@@ -443,10 +656,23 @@ ${fullContent}
 
       const appId = extractAppId(safeBase, gameTitle, gameTitle, text);
       const cleanGame = cleanGameName(gameTitle, gameTitle, safeBase);
+
+      let summaryDesc = `Tutorial and guide for ${cleanGame}.`;
+      for (const line of text.split('\n')) {
+        const trimmed = line.trim().replace(/[*#>`_-]/g, '').trim();
+        if (trimmed.length > 25 && !trimmed.startsWith('http') && !trimmed.startsWith('![')) {
+          summaryDesc = trimmed.slice(0, 160);
+          break;
+        }
+      }
+
       const mdContent = `---
+id: ${slug}
+title: ${gameTitle}
 game: ${cleanGame}
-` + (appId ? ("appid: " + appId + "\n") : "") + `author: ${authorName}
-version: Unknown
+${appId ? `appid: ${appId}\n` : ''}author: ${authorName}
+version: 1.0
+desc: ${summaryDesc}
 tags: ${tagsStr}
 date: ${date}
 ---
@@ -456,17 +682,14 @@ date: ${date}
 ${text}
 `;
 
-      const safeBase = sanitizeFilename(gameTitle);
-      const filename = `${safeBase || msg.id}.md`;
-      const filePath = path.join(TUTORIALS_DIR, filename);
-
       fs.writeFileSync(filePath, mdContent, 'utf8');
-      console.log(`  ✓ Wrote tutorial to tutorials/${filename}`);
+      console.log(`  Wrote tutorial to tutorials/${filename} [AppID: ${appId || 'N/A'}]`);
 
       state.syncedItems[msg.id] = {
         lastEdited,
         filename,
         title: gameTitle,
+        appId: appId || null,
         syncedAt: new Date().toISOString()
       };
       newOrUpdatedCount++;

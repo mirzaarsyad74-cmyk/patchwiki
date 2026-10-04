@@ -1,10 +1,15 @@
-name: Discord Auto-Sync to PatchWiki
+name: Discord Auto-Sync to Tutorial
 
 on:
   schedule:
     # Runs every 1 hour (at minute 0)
     - cron: '0 * * * *'
-  workflow_dispatch: # Allows manual trigger anytime from the Actions tab
+  workflow_dispatch:
+    inputs:
+      force_overwrite:
+        description: 'Force overwrite and re-download all guides'
+        required: false
+        default: 'true'
 
 permissions:
   contents: write
@@ -24,38 +29,84 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
       - name: Scrape Discord Channel
         env:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
           DISCORD_CHANNEL_ID: '1498980524297818142'
           DISCORD_GUILD_ID: '333191744873299978'
+          OVERWRITE_ALL: 'true'
         run: node scripts/sync-discord.js
 
-      - name: Commit and push changes to main
+      - name: Split Upload and Commit Changes
         id: git_commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # Extra safeguard: ensure no files >45MB are ever committed to git
-          if [ -d "tutorials/assets" ]; then
-            find tutorials/assets -type f -size +45M -delete || true
-          fi
-          git add tutorials/ data/
-          if git diff --staged --quiet; then
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-            echo "No changes to commit."
-          else
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-            git commit -m "Auto-import tutorials from Discord [skip ci]"
-            git push origin main
+          git config http.postBuffer 524288000
+
+          # Commit data directory first
+          git add data/ || true
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-sync state update [skip ci]" || true
+            git push origin main || true
           fi
 
+          # Batch commit and split-push all files in tutorials/ in safe chunks (<35MB per commit)
+          python3 -c "
+          import subprocess, os
+
+          def get_pending_files():
+              res = subprocess.run(['git', 'status', '--porcelain', 'tutorials'], capture_output=True, text=True)
+              files = []
+              for line in res.stdout.splitlines():
+                  if len(line) > 3:
+                      fpath = line[3:].strip().strip('\"')
+                      if os.path.exists(fpath):
+                          files.append(fpath)
+              return files
+
+          pending = get_pending_files()
+          print(f'Pending files to commit & push: {len(pending)}')
+          MAX_CHUNK_BYTES = 35 * 1024 * 1024
+          batch = []
+          batch_size = 0
+          batch_idx = 1
+
+          for f in pending:
+              sz = os.path.getsize(f)
+              batch.append(f)
+              batch_size += sz
+              if batch_size >= MAX_CHUNK_BYTES or len(batch) >= 20:
+                  subprocess.run(['git', 'add'] + batch, check=True)
+                  msg = f'Import tutorials batch #{batch_idx} ({len(batch)} files) [skip ci]'
+                  subprocess.run(['git', 'commit', '-m', msg], check=True)
+                  for attempt in range(3):
+                      push_res = subprocess.run(['git', 'push', 'origin', 'main'])
+                      if push_res.returncode == 0:
+                          break
+                  batch = []
+                  batch_size = 0
+                  batch_idx += 1
+
+          if batch:
+              subprocess.run(['git', 'add'] + batch, check=True)
+              msg = f'Import tutorials batch #{batch_idx} ({len(batch)} files) [skip ci]'
+              subprocess.run(['git', 'commit', '-m', msg], check=True)
+              for attempt in range(3):
+                  push_res = subprocess.run(['git', 'push', 'origin', 'main'])
+                  if push_res.returncode == 0:
+                      break
+          "
+
       - name: Build static site
-        if: steps.git_commit.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
         run: node scripts/build.js
 
       - name: Deploy to gh-pages branch
-        if: steps.git_commit.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
