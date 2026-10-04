@@ -1,0 +1,296 @@
+[
+  {
+    "id": "pes2013-221430",
+    "appId": 221430,
+    "title": "PES2013 - 221430",
+    "game": "PES2013",
+    "desc": "3. Click RunThisFirst, install it",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-06-07",
+    "content": "\n# PES2013 - 221430\n\n1. Bypass Game\n2. Open game folder\n3. Click RunThisFirst, install it\n4. Run game from inside folder via pes2013.exe\n"
+  },
+  {
+    "id": "nba-2k14-255480",
+    "appId": 255480,
+    "title": "NBA 2K14 - 255480",
+    "game": "NBA 2K14",
+    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-06-06",
+    "content": "\n# NBA 2K14 - 255480\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
+  },
+  {
+    "id": "inazuma-eleven-victory-road-2799860",
+    "appId": 2799860,
+    "title": "INAZUMA ELEVEN: Victory Road - 2799860",
+    "game": "INAZUMA ELEVEN: Victory Road",
+    "desc": "After online patch, open game folder, find game .exe via SUO, choose nie.exe",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-06-05",
+    "content": "\n# INAZUMA ELEVEN: Victory Road - 2799860\n\nAfter online patch, open game folder, find game .exe via SUO, choose nie.exe\n\nOnline Patch the game, after online patch, fix the controller doing the below method.\n\n\nFor those having controller issues, this video worked for me: https://youtu.be/RRcKSSXUdJQ\nThe key was copying steam_action_manifest.vdf instead of steam_input_manifast.vdf AND Mapping spacewar buttons with your controller.\n"
+  },
+  {
+    "id": "f1-25-3059520",
+    "appId": 3059520,
+    "title": "F1 25 - 3059520",
+    "game": "F1 25",
+    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-06-04",
+    "content": "\n# F1 25 - 3059520\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n\n---\n\nF1 25 - 3059520\n"
+  },
+  {
+    "id": "grand-theft-auto-v-legacy-271590",
+    "appId": 271590,
+    "title": "Grand Theft Auto V Legacy - 271590",
+    "game": "Grand Theft Auto V Legacy",
+    "desc": "GTA V Online Private Server",
+    "tags": [
+      "drm"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-06-04",
+    "content": "\n# Grand Theft Auto V Legacy - 271590\n\n# **GTA V Online Private Server**\n\nChoose properties, then under General, and type `-nobattleye` in the launch options\n"
+  },
+  {
+    "id": "prison-architect-233450",
+    "appId": 233450,
+    "title": "Prison Architect - 233450",
+    "game": "Prison Architect",
+    "desc": "Bypass for Prison Architect (online not possible for latest version)",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-06-04",
+    "content": "\n# Prison Architect - 233450\n\nBypass for Prison Architect (online not possible for latest version)\n\n1. Apply Bypass\n2. Run game from folder\n3. Can use Onennabe Play button for .exe (as shown in picture)\n\n![Attached Image](assets/prison-architect-233450_1511931956953092248.png)\n\n---\n\n![Attached Image](assets/prison-architect-233450_1511932226990903306.png)\n"
+  },
+  {
+    "id": "007-first-light-lampu-pertama-3768760",
+    "appId": 3768760,
+    "title": "007 First Light (Lampu Pertama) - 3768760",
+    "game": "007 First Light (Lampu Pertama)",
+    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-26",
+    "content": "\n# 007 First Light (Lampu Pertama) - 3768760\n\ngoodluck Mat Bond\n\n![Attached Image](assets/007-first-light-lampu-pertama-3768760_1508860156451094649.png)\n\n---\n\nUsing Crack: Voices38\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n\n---\n\nMake sure game already enables auto update\n ```SUO > Tools > Game Auto Update > smart apply/Enable update```\nhttps://steamunlockonennabe.click/docs/bypass-and-online-patch/#step-1-smart-apply-tools\n\n1) Add game from SUO\n2) Download game from steam\n3) play from steam\n\n---\n\n# **If you still use HV/bypass version previously,Is better to make clean install (uninstall>delete game folder>install)**\n"
+  },
+  {
+    "id": "2215200-lego-batman-legacy-of-the-dark-knight",
+    "appId": 2215200,
+    "title": "2215200- LEGO® Batman™: Legacy of the Dark Knight",
+    "game": "2215200- LEGO® Batman™: Legacy of the Dark Knight",
+    "desc": "1) Unlock game  install at right SSD /HDD depends on requirements",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-24",
+    "content": "\n# 2215200- LEGO® Batman™: Legacy of the Dark Knight\n\n1) Unlock game - install at right SSD /HDD depends on requirements\n\n2) off antivirus ( bypass game will actually prepared windows exclusion) \n\n3) play from steam\n\n---\n\n2215200- LEGO® Batman™: Legacy of the Dark Knight\n\n---\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
+  },
+  {
+    "id": "forza-horizon-6-2483190-release-date-19-05-2026",
+    "appId": 2483190,
+    "title": "Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)",
+    "game": "Forza Horizon 6",
+    "desc": "Press Win + R  steam://install/480",
+    "tags": [
+      "online",
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-17",
+    "content": "\n# Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)\n\nPress Win + R -> steam://install/480\nBypass Game, open Game folder and then run **Enable_Invites_FH6.bat**\nPlay the game and sign in to your Microsoft account.\n\n![Attached Image](assets/forza-horizon-6-2483190-release-date-19-05-2026_1505408943189397624.png)\n\n---\n\nFix for Invalid Gaming Service Detected\nhttps://www.youtube.com/watch?v=2ZguhQxFNkE\n\n---\n\nRun the game from steam\n\n---\n\n## One-Time Guide,After that **play game from steam**\n\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Press Win + R and type `steam://install/480` hit enter\n4) Update Xbox app at Microsoft store\n5) Unlock game update ```SUO > Tools > Game Auto Update > Click Open > Click Smart Apply```\n6) Download game from steam\n7) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online Patch```\n8) Open Game folder and then run **Enable_Invites_FH6.bat** as admin\n9) Play from steam and sign-in using Microsoft account\n\n---\n\n<a:8010sussy:1239135973674323998>\n\n---\n\n# INSTALL DS4WINDOWS HERE\n\nhttps://ds4-windows.com\n\n---\n\n3rd June 2026, Updated online patch, redo online patch for latest game update\n"
+  },
+  {
+    "id": "blades-of-fire-2091020",
+    "appId": 2091020,
+    "title": "Blades Of Fire - 2091020",
+    "game": "Blades Of Fire",
+    "desc": "Added Bypass for latest game version. Play from Steam",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-16",
+    "content": "\n# Blades Of Fire - 2091020\n\nAdded Bypass for latest game version. Play from Steam\n"
+  },
+  {
+    "id": "appid-812140-assassins-creed-odyssey",
+    "appId": 812140,
+    "title": "AppID : 812140 (Assassins Creed Odyssey)",
+    "game": "AppID  (Assassins Creed Odyssey)",
+    "desc": "After bypass, click !RUNTHIS from inside game folder",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-11",
+    "content": "\n# AppID : 812140 (Assassins Creed Odyssey)\n\nAfter bypass, click !RUN_THIS from inside game folder\nwait for 2GB download, if download is slow, on WARP and try again.\nRUN GAME FROM STEAM\n\n![Attached Image](assets/appid-812140-assassins-creed-odyssey_1503426079912886272.png)\n"
+  },
+  {
+    "id": "split-fiction-co-op",
+    "appId": null,
+    "title": "SPLIT FICTION CO-OP",
+    "game": "SPLIT FICTION CO-OP",
+    "desc": "Bypass Game after download",
+    "tags": [
+      "online",
+      "bypass",
+      "coop"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-10",
+    "content": "\n# SPLIT FICTION CO-OP\n\n# SPLIT FICTION ONLINE CO-OP\n- Bypass Game after download\n- Now go to Split Fiction Steam store page\n- Add Friend's Pass to your Library (Ignore the error)\n- Run the game through Steam\n- Host Steam game and invite your friend\n\n![Attached Image](assets/split-fiction-co-op_1502954283832971284.png)\n"
+  },
+  {
+    "id": "bus-bound-2095420",
+    "appId": 2095420,
+    "title": "Bus Bound - 2095420",
+    "game": "Bus Bound",
+    "desc": "Tutorial and guide for Bus Bound.",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-07",
+    "content": "\n# Bus Bound - 2095420\n\n- Added online patch\n- Download game\n- Bypass Game\n"
+  },
+  {
+    "id": "gamble-with-your-friends-3892270",
+    "appId": 3892270,
+    "title": "Gamble With Your Friends - 3892270",
+    "game": "Gamble With Your Friends",
+    "desc": "Tutorial and guide for Gamble With Your Friends.",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-07",
+    "content": "\n# Gamble With Your Friends - 3892270\n\n- Added online patch\n- Download game\n- Bypass Game\n"
+  },
+  {
+    "id": "rest-area-simulator-3732960",
+    "appId": 3732960,
+    "title": "Rest Area Simulator - 3732960",
+    "game": "Rest Area Simulator",
+    "desc": "Tutorial and guide for Rest Area Simulator.",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-07",
+    "content": "\n# Rest Area Simulator - 3732960\n\n- Added online patch\n- Download game\n- Bypass Game\n"
+  },
+  {
+    "id": "1222700-a-way-out-bypass",
+    "appId": 1222700,
+    "title": "1222700 A WAY OUT BYPASS",
+    "game": "A WAY OUT",
+    "desc": "or Play using https://parsec.app/",
+    "tags": [
+      "bypass",
+      "coop"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 1222700 A WAY OUT BYPASS\n\nor Play using https://parsec.app/\n\n---\n\n## **​Launch the Game**:\n```\\SteamLibrary\\steamapps\\common\\AWayOut\\Haze1\\Binaries\\Win64```\n​Double-click `AWayOut.exe` inside game folder to start the game\n\n## Skip this if Offline/SP\nInstall the Steam Demo:\n1) Open your games installation folder\n2) ​Double-click the `install_game.bat` file\n\nNote: This adds the \"Blastzone 2 Demo\" to your Steam account, which is required to trick Steam into allowing Remote Play.\n​Navigate to the Game\n\n## ​Invite Your Friend:\n1) ​Select the Play Local option in the main menu\n2) ​Open the Steam Overlay by pressing SHIFT + TAB\n3) ​Right-click your friend's name in your friends list and select Remote Play Together to invite them\n"
+  },
+  {
+    "id": "1659040-hitman-world-of-assassination",
+    "appId": 1659040,
+    "title": "1659040 HITMAN WORLD OF ASSASSINATION",
+    "game": "HITMAN WORLD OF ASSASSINATION",
+    "desc": "3. The official launcher will pop up",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 1659040 HITMAN WORLD OF ASSASSINATION\n\nGEGE\n\n---\n\n1. Bypass Game\n2. Play from Steam\n3. The official launcher will pop up\n4. Play as usual, everything already set up by Bypass\n"
+  },
+  {
+    "id": "1702010-sengoku-dynasty",
+    "appId": 1702010,
+    "title": "1702010 SENGOKU DYNASTY",
+    "game": "SENGOKU DYNASTY",
+    "desc": "Tutorial and guide for SENGOKU DYNASTY.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 1702010 SENGOKU DYNASTY\n\n\n"
+  },
+  {
+    "id": "243470-watch-dogs",
+    "appId": 243470,
+    "title": "243470 WATCH DOGS",
+    "game": "WATCH DOGS",
+    "desc": "Tutorial and guide for WATCH DOGS.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 243470 WATCH DOGS\n\n\n"
+  },
+  {
+    "id": "311210-cod-black-ops-3-online-bypass",
+    "appId": 311210,
+    "title": "311210 COD BLACK OPS 3 ONLINE BYPASS",
+    "game": "COD BLACK OPS 3",
+    "desc": "311210 COD BLACK OPS 3 ONLINE BYPASS",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 311210 COD BLACK OPS 3 ONLINE BYPASS\n\n311210 COD BLACK OPS 3 ONLINE BYPASS\n"
+  }
+]
