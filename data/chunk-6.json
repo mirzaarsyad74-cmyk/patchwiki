@@ -1,19 +1,5 @@
 [
   {
-    "id": "elden-ring-guide-1245620",
-    "appId": 1245620,
-    "title": "ELDEN Ring Guide - 1245620",
-    "game": "ELDEN Ring",
-    "desc": "Go to game installation folder",
-    "tags": [
-      "coop"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# ELDEN Ring Guide - 1245620\n\n- Go to game installation folder\n- Run as administrator `ersc_launcher.exe` inside the folder `ELDEN RING/Game`\n**How to play with friends**\n- Go through the prologue. (you need to get to the first place of grace and activate it) \n***Connection: Go to the inventory***\n- Use the item Effigy of Malenia. You will be automatically connected to the host.\n***Server creation:***\n- Go to inventory. Use the Tiny Great Pot item. Waiting for friends to connect\n\n# NOTES: \nDEFAULT CO-OP PASSWORD IS **suo_elden**\n\n---\n\nUpdate Seamless co-op to 1.9.9\n\n---\n\nStep by step on how to play Seamless Coop with Mods using mod engine 2\n(DO NOT LAUNCH USING ERSC IF YOU WANT MOD, USE launchmod_eldenring.bat inside mod engine 2 folder):\n\n1. Download mod engine 2: https://github.com/soulsmods/ModEngine2/releases/tag/release-2.1.0\n\n2. Extract to any location,preferably, inside Elden Ring for Easier searching\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526087303339049000.png)\n\n---\n\n3. Inside mods engine folder, create a folder called dlls\n\n---\n\nthis will be the place we put any mods with dll extension\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526087776867717201.png)\n\n---\n\nexample of QOL mods:\n\n---\n\nTransmogrify Armor, Glorious merchant, Quest Log\n\n---\n\n4. Open the file called config_eldenring.toml\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526088288744636516.png)\n\n---\n\n5. Edit the line external dlls line\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526089029022519407.png)\n\n---\n\nthe line depends on your location and mods installed,example:\n\nexternal_dlls = [\n    \"dlls/ermerchant.dll\",\n    \"dlls/ertransmogrify.dll\",\n    \"dlls/erquestlog.dll\",\n    \"F:\\\\SteamLibrary\\\\steamapps\\\\common\\\\ELDEN RING\\\\Game\\\\SeamlessCoop\\\\ersc.dll\",\n]\n\none line always stay for seamless coop which is\nD:\\\\SteamLibrary\\\\steamapps\\\\common\\\\ELDEN RING\\\\Game\\\\SeamlessCoop\\\\ersc.dll\",\n\nif you install Elden Ring at C, it will be C,if D if will be D, and vice versa\n\n---\n\nmost mods will also tell you how to install them\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526089317964054609.png)\n\n---\n\nLast, run the bat file to launch the games with mods\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526089484720930916.png)\n"
-  },
-  {
     "id": "it-takes-two-1426210",
     "appId": 1426210,
     "title": "It Takes Two - 1426210",
@@ -289,5 +275,19 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Added Scott Pilgrim EX online patch- 2640950\n\n- try run from steam once patch or\n- open game folder and run from **Game.exe**\n"
+  },
+  {
+    "id": "added-slay-the-spire-2-online-patch-2868840",
+    "appId": 2868840,
+    "title": "Added Slay the Spire 2 online patch - 2868840",
+    "game": "Slay the Spire 2",
+    "desc": "try run from steam once patch or",
+    "tags": [
+      "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Slay the Spire 2 online patch - 2868840\n\n- try run from steam once patch or\n- open game folder and run from **SlayTheSpire2.exe**\n"
   }
 ]

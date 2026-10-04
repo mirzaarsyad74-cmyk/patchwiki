@@ -1,19 +1,5 @@
 [
   {
-    "id": "1020790-naruto-x-boruto-ultimate-ninja-storm-connections-online-patch",
-    "appId": 1020790,
-    "title": "1020790 NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS ONLINE PATCH",
-    "game": "NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS",
-    "desc": "This also fix save game problem,",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 1020790 NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS ONLINE PATCH\n\nThis also fix save game problem,\n-Controller, you have to fix it by pressing SHIFT TAB > Controller and then choose Gamepad template to be able to use your controller.\n"
-  },
-  {
     "id": "1196590-resident-evil-village-fix",
     "appId": 1196590,
     "title": "1196590 RESIDENT EVIL VILLAGE FIX",
@@ -280,5 +266,19 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 633230 NARUTO TO BORUTO: SHINOBI STRIKER\n\nAfter bypass, open game folder and run game from SmartSteamLoader_x64.exe\nPlay offline\n"
+  },
+  {
+    "id": "916440-anno-1800-bypass",
+    "appId": 916440,
+    "title": "916440 ANNO 1800 BYPASS",
+    "game": "ANNO 1800",
+    "desc": "After patching, run the game from inside folder,",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# 916440 ANNO 1800 BYPASS\n\n-After patching, run the game from inside folder,\nBin/Win64/Anno1800.exe\n\nor try run from Steam\n"
   }
 ]

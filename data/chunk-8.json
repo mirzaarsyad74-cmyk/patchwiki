@@ -1,20 +1,5 @@
 [
   {
-    "id": "paper-bride-series-from-1-6-online-check-bypass",
-    "appId": null,
-    "title": "Paper Bride Series from 1 - 6 online check bypass",
-    "game": "Paper Bride Series from 1 - 6  check",
-    "desc": "Download the attached, extract and copy all the folders and paste into Appdata/Roaming",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Paper Bride Series from 1 - 6 online check bypass\n\n- Download the attached, extract and copy all the folders and paste into Appdata/Roaming\n- Using **WIN + R**, TYPE **%appdata% ** , you should be in Roaming folder\n- Paste all the copied folder into  the Roaming folder\n- Use Online Patch/Bypass button\n- Play game from Steam.\n\n- For 1879380, 1735950, 1939790, 2286770, 2600570, 3227760\n\n![Attached Image](assets/paper-bride-series-from-1-6-online-check-bypass_1498997756516241418.png)\n\n\n![Attached Image](assets/paper-bride-series-from-1-6-online-check-bypass_1498997757250109491.png)\n\n---\n\n### Download PaperBride_1to6_series_patch.rar (136.4 MB)\n> **Note:** This file exceeds 45 MB and has been split into 4 parts for direct download:\n- [Download Part 1 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part01)\n- [Download Part 2 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part02)\n- [Download Part 3 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part03)\n- [Download Part 4 (1.4 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part04)\n\n**To recombine on Windows (CMD):**\n```cmd\ncopy /b \"paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part*\" \"PaperBride_1to6_series_patch.rar\"\n```\n**To recombine on Linux / Mac:**\n```bash\ncat \"paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part\"* > \"PaperBride_1to6_series_patch.rar\"\n```\n"
-  },
-  {
     "id": "persona-4-golden-denu-bypass-111300",
     "appId": 111300,
     "title": "Persona 4 Golden Denu Bypass - 111300",

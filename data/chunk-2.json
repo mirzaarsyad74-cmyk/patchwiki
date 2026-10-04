@@ -1,20 +1,5 @@
 [
   {
-    "id": "nba-2k14-255480",
-    "appId": 255480,
-    "title": "NBA 2K14 - 255480",
-    "game": "NBA 2K14",
-    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
-    "version": "1.0",
-    "date": "2026-06-06",
-    "content": "\n# NBA 2K14 - 255480\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
-  },
-  {
     "id": "inazuma-eleven-victory-road-2799860",
     "appId": 2799860,
     "title": "INAZUMA ELEVEN: Victory Road - 2799860",
@@ -291,5 +276,19 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 1114150 CARX STREET BYPASS UPDATE 1.10.1\n\n-After patching, open game folder and run the game from CarX Street.exe\n"
+  },
+  {
+    "id": "1134570-f1-2021-bypass-denuv",
+    "appId": 1134570,
+    "title": "1134570 F1 2021 BYPASS DENUV",
+    "game": "F1 2021  DENUV",
+    "desc": "Tutorial and guide for F1 2021  DENUV.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 1134570 F1 2021 BYPASS DENUV\n\nrun game from steam\n"
   }
 ]
