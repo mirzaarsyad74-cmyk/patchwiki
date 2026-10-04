@@ -1,0 +1,19 @@
+---
+id: planet-coaster-493340
+title: PLANET COASTER - 493340
+game: PLANET COASTER
+appid: 493340
+author: The Weekdys
+version: 1.0
+desc: 2. Click Bypass Game once installed.
+tags: bypass
+date: 2026-08-29
+---
+
+# PLANET COASTER - 493340
+
+1. Unlocked game via SUO.
+2. Click Bypass Game once installed.
+3. Play from Steam
+
+Note: this bypass is 7 years ago, if it does not work, dont complaint. its meant for WINDOWS 10.
