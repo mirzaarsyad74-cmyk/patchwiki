@@ -373,6 +373,42 @@
     .reader-sidebar { display: none; }
   }
 
+  /* Embedded mode for Steam CEF modal & CloudRedirect */
+  body.is-embedded .site-header { display: none !important; }
+  body.is-embedded .stats-bar { display: none !important; }
+  body.is-embedded .reader-layout {
+    padding: 12px 16px 32px !important;
+    grid-template-columns: 1fr !important;
+    gap: 0 !important;
+    max-width: 100% !important;
+  }
+  body.is-embedded .reader-sidebar { display: none !important; }
+  body.is-embedded .hero { padding: 24px 16px !important; }
+
+  /* Enhanced download button for assets */
+  .asset-download-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #101c26;
+    border: 1px solid #1a9fff;
+    color: #1a9fff !important;
+    padding: 8px 16px;
+    border-radius: var(--radius);
+    text-decoration: none !important;
+    font-family: var(--mono);
+    font-size: 13px;
+    font-weight: 600;
+    margin: 6px 0;
+    transition: all 0.2s ease;
+  }
+  .asset-download-btn:hover {
+    background: #1a9fff;
+    color: #0b1116 !important;
+    box-shadow: 0 0 14px rgba(26, 159, 255, 0.4);
+    transform: translateY(-1px);
+  }
+
   .reader-main { min-width: 0; }
   .reader-back {
     display: inline-flex; align-items: center; gap: 6px;
@@ -1391,12 +1427,26 @@ async function handleUrlRoute() {
   const hash = window.location.hash || "";
   const searchParams = new URLSearchParams(window.location.search);
   const tutorialParam = searchParams.get("tutorial");
+  const appIdParam = searchParams.get("appid") || searchParams.get("appId");
+  const gameParam = searchParams.get("game") || searchParams.get("title");
+  const searchParam = searchParams.get("q") || searchParams.get("search");
+
+  // Handle embedded mode (Steam CEF modal / CloudRedirect MiniBrowser)
+  const isEmbed = searchParams.get('embed') === 'steam' || searchParams.get('embed') === '1' || window !== window.parent;
+  if (isEmbed) {
+    document.body.classList.add('is-embedded');
+  }
 
   let readId = null;
   if (hash.startsWith("#read/")) {
     readId = decodeURIComponent(hash.slice(6));
   } else if (tutorialParam) {
     readId = tutorialParam;
+  } else if (appIdParam) {
+    const directMatch = tutorials.find(t => String(t.appId) === String(appIdParam) || (t.id && t.id.includes(String(appIdParam))));
+    if (directMatch) {
+      readId = directMatch.id;
+    }
   }
 
   if (readId) {
@@ -1404,6 +1454,14 @@ async function handleUrlRoute() {
     navigate("read", readId);
   } else {
     navigate("home");
+    const filterTerm = appIdParam || gameParam || searchParam;
+    if (filterTerm) {
+      const searchBox = document.getElementById('search-input');
+      if (searchBox) {
+        searchBox.value = filterTerm;
+        renderGrid(tutorials);
+      }
+    }
   }
 }
 
@@ -1417,6 +1475,9 @@ window.addEventListener("message", async (e) => {
   if (e.data && (e.data.type === "CR_REFRESH_TUTORIALS" || e.data === "refresh")) {
     await loadTutorials();
     handleUrlRoute();
+  } else if (e.data && e.data.type === "CR_NAVIGATE_APPID" && e.data.appId) {
+    const match = tutorials.find(t => String(t.appId) === String(e.data.appId) || (t.id && t.id.includes(String(e.data.appId))));
+    if (match) navigate("read", match.id);
   }
 });
 

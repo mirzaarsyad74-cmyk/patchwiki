@@ -1,134 +1,5 @@
 [
   {
-    "id": "added-starrupture-online-patch-1631270",
-    "appId": 1631270,
-    "title": "Added StarRupture online patch - 1631270",
-    "game": "StarRupture",
-    "desc": "try run from steam once patch or",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added StarRupture online patch - 1631270\n\n-try run from steam once patch or\n-open game folder and run game via StarRuptureGameSteam.exe\n-Session Type -> Invite Only -> Start Game -> ESC+We invite friends\n\n---\n\nAdded StarRupture online patch - 1631270\n"
-  },
-  {
-    "id": "added-super-battle-golf-4069520",
-    "appId": 4069520,
-    "title": "Added Super Battle Golf (4069520)",
-    "game": "Super Battle Golf",
-    "desc": "Tutorial and guide for Super Battle Golf.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Super Battle Golf (4069520)\n\n- patch and run from steam\n"
-  },
-  {
-    "id": "added-bypass-for-lego-horizon-adventures-2428810",
-    "appId": 2428810,
-    "title": "Added bypass for LEGO Horizon Adventures- (2428810)",
-    "game": "LEGO Horizon Adventures",
-    "desc": "After patch, run from steam",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added bypass for LEGO Horizon Adventures- (2428810)\n\nAfter patch, run from steam\n"
-  },
-  {
-    "id": "assassin-creed-mirage-3035570",
-    "appId": 3035570,
-    "title": "Assassin Creed Mirage (3035570)",
-    "game": "Assassin Creed Mirage",
-    "desc": "Update crack to use Voices38 denu crack",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Assassin Creed Mirage (3035570)\n\n- All DLC unlocked \n- run game from steam\n\n---\n\n5/5\n- Update crack to use Voices38 denu crack\n- Game may stutter after long hours of gaming session for few people. fix is pause the game, it will clear the RAM usage\n- initial starting will take very long time.\n"
-  },
-  {
-    "id": "assassin-s-creed-syndicate-368500",
-    "appId": 368500,
-    "title": "Assassin's Creed Syndicate - 368500",
-    "game": "Assassin's Creed Syndicate",
-    "desc": "Turn off Antivirus or exclude the game folder from windows Defender or antivirus",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Assassin's Creed Syndicate - 368500\n\n- Turn off Anti-virus or exclude the game folder from windows Defender or anti-virus\n- Start the game from Steam or inside the game folder\n- at the `Press Any Key to continue` sometimes will hang, you will have to end task i task manager\n- then try again, tips: wait for few seconds or around 20seconds before click any key to continue\n"
-  },
-  {
-    "id": "beamng-drive-284160-multiplayer-mod-tutorial",
-    "appId": 284160,
-    "title": "BeamNG.Drive - 284160 Multiplayer mod tutorial",
-    "game": "BeamNG.Drive",
-    "desc": "1. Launch the game in single player first, play for a bit.",
-    "tags": [
-      "coop"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# BeamNG.Drive - 284160 Multiplayer mod tutorial\n\n1. Launch the game in single player first, play for a bit.\n2. Then next step is go to game installation folder, launch `BeamMP-Launcher.exe`\n3. It will do some installation for Multiplayer mod.\n4. Then the normal BeamNG.drive game launcher will show up.\n5. Play the game! Enjoy!\n"
-  },
-  {
-    "id": "call-of-duty-black-ops-cold-war-1985810",
-    "appId": 1985810,
-    "title": "Call of Duty: Black Ops Cold War - 1985810",
-    "game": "Call of Duty: Black Ops Cold War",
-    "desc": "2. From Steam Unlock, click Play, choose exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Call of Duty: Black Ops Cold War - 1985810\n\n1. Bypass Game\n2. From Steam Unlock, click Play, choose exe\n3. Launch using  BlackOpsColdWar.exe\n"
-  },
-  {
-    "id": "call-of-duty-modern-warfare-iii-3595270",
-    "appId": 3595270,
-    "title": "Call of Duty: Modern Warfare III - 3595270",
-    "game": "Call of Duty: Modern Warfare III",
-    "desc": "Firstly, make sure the path on where you put the game folder is short and doesn't contain non latin characters or symbols to avoid issues with game launching.",
-    "tags": [
-      "bypass",
-      "coop",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Call of Duty: Modern Warfare III - 3595270\n\n- Firstly, make sure the path on where you put the game folder is short and doesn't contain non latin characters or symbols to avoid issues with game launching.\n- Extract everything in this archive into where you installed the game.\n- Start the game ONLY FROM !start_cod23.bat (for MP) or !start_sp23.bat (for SP) and keep the console window open until it closes by itself when you close the game.\n- If running either *.bat doesn't do anything, read the 1st step again (or check bootstrapper.log).\n\n![Attached Image](assets/call-of-duty-modern-warfare-iii-3595270_1499023253304246353.png)\n\n---\n\n## **How To Bypass**\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n\n## **Launch Option (From Folder Only)**\n1) !start_cod23.bat (for MP)\n2) !start_sp23.bat (for SP)\n\nMP: Multiplayer (online)\n​SP: Singleplayer \n\n```keep the console window open until it closes```\n"
-  },
-  {
-    "id": "carx-street-1114150",
-    "appId": 1114150,
-    "title": "CarX Street - 1114150",
-    "game": "CarX Street",
-    "desc": "1. Download game Carx from Steam",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# CarX Street - 1114150\n\n1. Download game Carx from Steam\n2. Bypass game and launching the game using CarX Street.exe\n"
-  },
-  {
     "id": "crimson-desert-3321460",
     "appId": 3321460,
     "title": "Crimson Desert - 3321460",
@@ -172,20 +43,6 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Digimon Story Time Stranger - 1984270\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/digimon-story-time-stranger-1984270_1499139332424859678.png)\n"
-  },
-  {
-    "id": "dragon-age-inquisition-denuv0-and-ea-bypass-1222690",
-    "appId": 1222690,
-    "title": "Dragon Age™ Inquisition DENUV0 and EA bypass - 1222690",
-    "game": "Dragon Age™ Inquisition DENUV0 and",
-    "desc": "run game from inside folder DragonAgeInquisition.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Dragon Age™ Inquisition DENUV0 and EA bypass - 1222690\n\n- run game from inside folder **DragonAgeInquisition.exe**\n- dont run from Steam\n"
   },
   {
     "id": "echoes-of-elysium-online-patch-2644050",
@@ -235,7 +92,7 @@
     "id": "how-to-bypass-denuvo-games-using-bypass-game-button",
     "appId": null,
     "title": "How to Bypass Denuvo Games using Bypass Game button?",
-    "game": "How to  Denuvo Games using  Game button?",
+    "game": "How to Denuvo Games using Game button?",
     "desc": "Before Downloading game at steam make sure game already lock version at SUO",
     "tags": [
       "bypass",
@@ -290,5 +147,149 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# PRAGMATA - 3357650\n\n1. Unlock Game from SUO\n2. Go to \"Game Auto Update\" in SUO inside Tools\n3. Click Smart Apply\n4. Download Game in Steam\n5. Apply Bypass Game\n6. Play from Steam\n\n---\n\n15/5 Updated to use voices38 crack\n"
+  },
+  {
+    "id": "paper-bride-series-from-1-6-online-check-bypass",
+    "appId": null,
+    "title": "Paper Bride Series from 1 - 6 online check bypass",
+    "game": "Paper Bride Series from 1 - 6 check",
+    "desc": "Download the attached, extract and copy all the folders and paste into Appdata/Roaming",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Paper Bride Series from 1 - 6 online check bypass\n\n- Download the attached, extract and copy all the folders and paste into Appdata/Roaming\n- Using **WIN + R**, TYPE **%appdata% ** , you should be in Roaming folder\n- Paste all the copied folder into  the Roaming folder\n- Use Online Patch/Bypass button\n- Play game from Steam.\n\n- For 1879380, 1735950, 1939790, 2286770, 2600570, 3227760\n\n![Attached Image](assets/paper-bride-series-from-1-6-online-check-bypass_1498997756516241418.png)\n\n\n![Attached Image](assets/paper-bride-series-from-1-6-online-check-bypass_1498997757250109491.png)\n\n---\n\n### Download PaperBride_1to6_series_patch.rar (136.4 MB)\n> **Note:** This file exceeds 45 MB and has been split into 4 parts for direct download:\n- [Download Part 1 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part01)\n- [Download Part 2 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part02)\n- [Download Part 3 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part03)\n- [Download Part 4 (1.4 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part04)\n\n**To recombine on Windows (CMD):**\n```cmd\ncopy /b \"paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part*\" \"PaperBride_1to6_series_patch.rar\"\n```\n**To recombine on Linux / Mac:**\n```bash\ncat \"paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part\"* > \"PaperBride_1to6_series_patch.rar\"\n```\n"
+  },
+  {
+    "id": "persona-4-golden-denu-bypass-111300",
+    "appId": 111300,
+    "title": "Persona 4 Golden Denu Bypass - 111300",
+    "game": "Persona 4 Golden",
+    "desc": "after bypass game, go inside game folder",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Persona 4 Golden Denu Bypass - 111300\n\n- after bypass game, go inside game folder\n- run Persona4GoldenDownloader.bat\n- this will download additional bypass files, total of 58 parts\n- use WARP if download is too slow.\n- once done, play the game using P4G.exe\n"
+  },
+  {
+    "id": "rdr2-bypass-guide-1174180-red-dead-redemption-2",
+    "appId": 1174180,
+    "title": "RDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2",
+    "game": "RDR2 RED DEAD REDEMPTION 2",
+    "desc": "run game using Launcher.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# RDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2\n\n- open game folder\n- run game using Launcher.exe\n\n---\n\nRed Dead Redemption 2\n\n---\n\nRDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2\n"
+  },
+  {
+    "id": "riders-republic-2290180",
+    "appId": 2290180,
+    "title": "RIDERS REPUBLIC - 2290180",
+    "game": "RIDERS REPUBLIC",
+    "desc": "Run the game by double click on Start.exe in the installation folder.",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# RIDERS REPUBLIC - 2290180\n\n- Patch it\n- Run the game by double click on `Start.exe` in the installation folder.\n- Game is offline only and playable in ZEN mode. Basically like creative mode alone..sadge\n"
+  },
+  {
+    "id": "rayman-30th-anniversary-edition-1435114",
+    "appId": 1435114,
+    "title": "Rayman: 30th Anniversary Edition - 1435114",
+    "game": "Rayman: 30th Anniversary Edition",
+    "desc": "after patch, run from Steam directly",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Rayman: 30th Anniversary Edition - 1435114\n\n- after patch, run from Steam directly\n"
+  },
+  {
+    "id": "resident-evil-6-221040",
+    "appId": 221040,
+    "title": "Resident Evil 6 (221040)",
+    "game": "Resident Evil 6",
+    "desc": "Tutorial and guide for Resident Evil 6.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Resident Evil 6 (221040)\n\n- Patch & Run from Steam\n"
+  },
+  {
+    "id": "rise-of-the-ronin-online-co-op-play-1340990",
+    "appId": 1340990,
+    "title": "Rise of the Ronin Online Co-op play - 1340990",
+    "game": "Rise of the Ronin play",
+    "desc": "Play through prologue, and finished all the tutorial (took me good 1hour)",
+    "tags": [
+      "online",
+      "coop"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Rise of the Ronin Online Co-op play - 1340990\n\n- Play through prologue, and finished all the tutorial (took me good 1hour)\n- Play with friends through `Cooperate` in game\n- Recruit backup or join your friends game\n"
+  },
+  {
+    "id": "ritual-party-online-patch-3140720",
+    "appId": 3140720,
+    "title": "Ritual Party Online Patch (3140720)",
+    "game": "Ritual Party",
+    "desc": "invite friends from steam overlay",
+    "tags": [
+      "online",
+      "coop"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Ritual Party Online Patch (3140720)\n\n- run game from steam\n- invite friends from steam overlay\n"
+  },
+  {
+    "id": "the-rogue-prince-of-persia-bypass-ubisoft-2717880",
+    "appId": 2717880,
+    "title": "The Rogue Prince of Persia Bypass ubisoft (2717880)",
+    "game": "The Rogue Prince of Persia ubisoft",
+    "desc": "Run game from steam upon patch",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# The Rogue Prince of Persia Bypass ubisoft (2717880)\n\n-Run game from steam upon patch\n"
+  },
+  {
+    "id": "the-sims4-dlc-unlocker-1222670",
+    "appId": 1222670,
+    "title": "The Sims4 (DLC Unlocker) - 1222670",
+    "game": "The Sims4 (DLC Unlocker)",
+    "desc": "After patching, open the game installation folder,",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# The Sims4 (DLC Unlocker) - 1222670\n\nHow to use?\n-After patching, open the game installation folder,\n-Open EA DLC UNLOCKER V2,\n-Run Setup.bat,\n-choose option 1,\n-then choose option 2, then choose 1,\n-choose Q,\n-Run the game normally, your DLC should be unlocked\n\n---\n\n• **Add Sims 4 from steam** is freegame\n• **Download sims 4 from steam**\n• Download EA from official website and login/register\n• **Add Sims 4 from suo and bypass**\n• Unlock game Auto Update ( suo > tools > game auto update > Find Sims 4 and Enable)\n• Open Sims 4 game folder find  folder \"EA DLC Unlocker V2\"\n• Run setup.bat, choose 1 and choose 2 then q\n• Open steam > library >  Sims 4 should show update(Download DLC)\n\n---\n\nThe Sims4 (DLC Unlocker) - 1222670\n"
   }
 ]

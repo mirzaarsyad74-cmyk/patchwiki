@@ -1,35 +1,5 @@
 [
   {
-    "id": "bus-bound-2095420",
-    "appId": 2095420,
-    "title": "Bus Bound - 2095420",
-    "game": "Bus Bound",
-    "desc": "Tutorial and guide for Bus Bound.",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-07",
-    "content": "\n# Bus Bound - 2095420\n\n- Added online patch\n- Download game\n- Bypass Game\n"
-  },
-  {
-    "id": "gamble-with-your-friends-3892270",
-    "appId": 3892270,
-    "title": "Gamble With Your Friends - 3892270",
-    "game": "Gamble With Your Friends",
-    "desc": "Tutorial and guide for Gamble With Your Friends.",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-07",
-    "content": "\n# Gamble With Your Friends - 3892270\n\n- Added online patch\n- Download game\n- Bypass Game\n"
-  },
-  {
     "id": "rest-area-simulator-3732960",
     "appId": 3732960,
     "title": "Rest Area Simulator - 3732960",
@@ -147,7 +117,7 @@
     "id": "1134570-f1-2021-bypass-denuv",
     "appId": 1134570,
     "title": "1134570 F1 2021 BYPASS DENUV",
-    "game": "F1 2021  DENUV",
+    "game": "F1 2021 DENUV",
     "desc": "Tutorial and guide for F1 2021  DENUV.",
     "tags": [
       "bypass"
@@ -282,5 +252,33 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 221100 DAYZ PRIV8 SERVER ONLINE\n\n-Open game folder after patching\n\n-use DayZavr Dayz.exe to run the private server host\nregister and play using the launcher.\n"
+  },
+  {
+    "id": "2215260-scott-pilgrim-vs-the-world-bypass",
+    "appId": 2215260,
+    "title": "2215260  SCOTT PILGRIM VS THE WORLD BYPASS",
+    "game": "SCOTT PILGRIM VS THE WORLD",
+    "desc": "After patching, open folder and start game using Scott.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 2215260  SCOTT PILGRIM VS THE WORLD BYPASS\n\n-After patching, open folder and start game using Scott.exe\n"
+  },
+  {
+    "id": "2340870-rugby-25-bypass",
+    "appId": 2340870,
+    "title": "2340870 RUGBY 25 BYPASS",
+    "game": "RUGBY 25",
+    "desc": "Tutorial and guide for RUGBY 25.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 2340870 RUGBY 25 BYPASS\n\n-After patching\n\n-Run game from Steam.\n"
   }
 ]

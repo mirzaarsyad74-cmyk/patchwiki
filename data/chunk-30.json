@@ -1,47 +1,5 @@
 [
   {
-    "id": "2077750-rennsport",
-    "appId": 2077750,
-    "title": "2077750 RENNSPORT",
-    "game": "RENNSPORT",
-    "desc": "no bypass needed but u need to register account and login using the account in the game",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 2077750 RENNSPORT\n\nno bypass needed but u need to register account and login using the account in the game\nyou will be able to play online with official server\n"
-  },
-  {
-    "id": "2191500-vampire-bloodlord-rising",
-    "appId": 2191500,
-    "title": "2191500 VAMPIRE: BLOODLORD RISING",
-    "game": "VAMPIRE: BLOODLORD RISING",
-    "desc": "Start game from Steam and then login to epic games",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 2191500 VAMPIRE: BLOODLORD RISING\n\n-After patch\n-Start game from Steam and then login to epic games\n"
-  },
-  {
-    "id": "287700-metal-gear-solid-v-the-phantom-pain",
-    "appId": 287700,
-    "title": "287700 METAL GEAR SOLID V: THE PHANTOM PAIN",
-    "game": "METAL GEAR SOLID V: THE PHANTOM PAIN",
-    "desc": "Patch and then play from steam",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 287700 METAL GEAR SOLID V: THE PHANTOM PAIN\n\nExclusive for Onennabe\n\nPatch and then play from steam\n\n![Attached Image](assets/287700-metal-gear-solid-v-the-phantom-pain_1500854126832255158.png)\n"
-  },
-  {
     "id": "3501070-car-service-together",
     "appId": 3501070,
     "title": "3501070 CAR SERVICE TOGETHER",
@@ -197,22 +155,6 @@
     "content": "\n# Mafia : The Old Country - 1941540\n\n1. Unlock Game from SUO\n2. Go to \"Game Auto Update\" in SUO inside Tools\n3. Click Smart Apply\n4. Download Game in Steam\n5. Apply Bypass Game\n6. Play from Steam\n\n---\n\n<:5726toothymaw:1239134161835655198>\n"
   },
   {
-    "id": "need-for-speed-unbound-1846380",
-    "appId": 1846380,
-    "title": "Need for Speed™ Unbound - 1846380",
-    "game": "Need for Speed™ Unbound",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-03",
-    "content": "\n# Need for Speed™ Unbound - 1846380\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
     "id": "anno-117-pax-romana-3274580",
     "appId": 3274580,
     "title": "Anno 117 : Pax Romana - 3274580",
@@ -289,5 +231,61 @@
     "version": "1.0",
     "date": "2026-05-02",
     "content": "\n# Prince of Persia The Lost Crown - 2751000\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\nPrince of Persia The Lost Crown - 2751000\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+  },
+  {
+    "id": "resident-evil-requiem-3764200",
+    "appId": 3764200,
+    "title": "Resident Evil Requiem - 3764200",
+    "game": "Resident Evil Requiem",
+    "desc": "Download Game, make sure game auto update is lock.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-02",
+    "content": "\n# Resident Evil Requiem - 3764200\n\nDownload Game, make sure game auto update is lock. \nthen bypass game, play from steam\n\n---\n\n<:5726toothymaw:1239134161835655198>\n\n---\n\nGot same issues?\n\nDownload [REFramework](https://github.com/praydog/REFramework-nightly/releases/download/nightly-01424-d1461375aee4ec3f313170f8eaad12064eb542d9/REFramework.zip)\n\n• Extract folder and copy/move **dinput8.dll** to game installation Folder and try run game again\n\n![Attached Image](assets/resident-evil-requiem-3764200_1554156829628698684.jpg)\n"
+  },
+  {
+    "id": "1088850-marvel-s-guardians-of-the-galaxy-denuv-bypass",
+    "appId": 1088850,
+    "title": "(1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS",
+    "game": "MARVEL'S GUARDIANS OF THE GALAXY",
+    "desc": "tested on win11 build 26100.6725",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS\n\n-run game from steam,\n-tested on win11 build 26100.6725\n"
+  },
+  {
+    "id": "1262560-need-for-speed-most-wanted-ea-bypass",
+    "appId": 1262560,
+    "title": "(1262560) NEED FOR SPEED MOST WANTED EA BYPASS",
+    "game": "NEED FOR SPEED MOST WANTED",
+    "desc": "After patch, open folder and run the game from NFS13.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (1262560) NEED FOR SPEED MOST WANTED EA BYPASS\n\n-After patch, open folder and run the game from NFS13.exe\n"
+  },
+  {
+    "id": "1677280-company-of-heroes-3-denuv-bypass",
+    "appId": 1677280,
+    "title": "(1677280) COMPANY OF HEROES 3 DENUV BYPASS",
+    "game": "COMPANY OF HEROES 3",
+    "desc": "Tutorial and guide for COMPANY OF HEROES 3.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (1677280) COMPANY OF HEROES 3 DENUV BYPASS\n\n-Run game from Steam\n"
   }
 ]

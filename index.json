@@ -2117,6 +2117,19 @@
     "date": "2026-08-11"
   },
   {
+    "id": "call-of-duty-modern-warfare-2000950",
+    "appId": 2000950,
+    "title": "Call of Duty®: Modern Warfare® Bypass",
+    "game": "Call of Duty®: Modern Warfare®",
+    "desc": "Call of Duty®: Modern Warfare® Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11"
+  },
+  {
     "id": "split-fiction-2001120",
     "appId": 2001120,
     "title": "Split Fiction Online Fix",
@@ -4472,19 +4485,6 @@
     "date": "2026-08-11"
   },
   {
-    "id": "dying-light-the-beast-3008130",
-    "appId": 3008130,
-    "title": "Dying Light: The Beast Online Fix",
-    "game": "Dying Light: The Beast",
-    "desc": "Dying Light: The Beast Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11"
-  },
-  {
     "id": "double-dragon-revive-3012220",
     "appId": 3012220,
     "title": "Double Dragon Revive Online Fix",
@@ -5343,6 +5343,19 @@
     "date": "2026-08-11"
   },
   {
+    "id": "call-of-duty-modern-warfare-ii-3595230",
+    "appId": 3595230,
+    "title": "Call of Duty®: Modern Warfare® II Bypass",
+    "game": "Call of Duty®: Modern Warfare® II",
+    "desc": "Call of Duty®: Modern Warfare® II Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11"
+  },
+  {
     "id": "astroneer-361420",
     "appId": 361420,
     "title": "ASTRONEER Online Fix",
@@ -5593,7 +5606,7 @@
     "id": "rituals-of-lust-and-sin-4039410",
     "appId": 4039410,
     "title": "Rituals of Lust and Sin Bypass",
-    "game": "Rituals of Lust and Sin",
+    "game": "Rituals of Lust and Sin",
     "desc": "Rituals of Lust and Sin Bypass",
     "tags": [
       "bypass"
@@ -6646,7 +6659,7 @@
   },
   {
     "id": "assassin-s-creed-shadows-assassin-s-creed-shadows",
-    "appId": null,
+    "appId": 3159330,
     "title": "A guide to play Assassin's Creed Shadow",
     "game": "Assassin's Creed Shadows",
     "desc": "A guide to play Assassin's Creed Shadow",
@@ -6794,19 +6807,6 @@
     "date": "2026-08-02"
   },
   {
-    "id": "responding-2658040",
-    "appId": 2658040,
-    "title": "Responding - 2658040",
-    "game": "Responding",
-    "desc": "To be able to play this game, go to the SUO  Library  find the game Responding  Enable Online Function",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-08-02"
-  },
-  {
     "id": "the-dark-pictures-anthology-house-of-ashes-1281590",
     "appId": 1281590,
     "title": "The Dark Pictures Anthology: House of Ashes - 1281590",
@@ -6849,7 +6849,7 @@
     "id": "how-to-fix-cloud-sync-error",
     "appId": null,
     "title": "How To fix Cloud sync Error",
-    "game": "How To  Cloud sync Error",
+    "game": "How To Cloud sync Error",
     "desc": "Steam  setting  Cloud  Enable Steam Cloud  off/disable",
     "tags": [
       "general"
@@ -6870,19 +6870,6 @@
     "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-07-18"
-  },
-  {
-    "id": "ea-sports-college-football-27-4032350",
-    "appId": 4032350,
-    "title": "EA SPORTS™ College Football 27 - 4032350",
-    "game": "EA SPORTS™ College Football 27",
-    "desc": "\"Tools Game Auto Update  Smart Apply\" is completed",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-07-16"
   },
   {
     "id": "unravel-two-1225570",
@@ -7258,20 +7245,6 @@
     "date": "2026-05-26"
   },
   {
-    "id": "2215200-lego-batman-legacy-of-the-dark-knight",
-    "appId": 2215200,
-    "title": "2215200- LEGO® Batman™: Legacy of the Dark Knight",
-    "game": "2215200- LEGO® Batman™: Legacy of the Dark Knight",
-    "desc": "1) Unlock game  install at right SSD /HDD depends on requirements",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-24"
-  },
-  {
     "id": "forza-horizon-6-2483190-release-date-19-05-2026",
     "appId": 2483190,
     "title": "Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)",
@@ -7303,7 +7276,7 @@
     "id": "appid-812140-assassins-creed-odyssey",
     "appId": 812140,
     "title": "AppID : 812140 (Assassins Creed Odyssey)",
-    "game": "AppID  (Assassins Creed Odyssey)",
+    "game": "AppID (Assassins Creed Odyssey)",
     "desc": "After bypass, click !RUNTHIS from inside game folder",
     "tags": [
       "bypass"
@@ -7465,7 +7438,7 @@
     "id": "1134570-f1-2021-bypass-denuv",
     "appId": 1134570,
     "title": "1134570 F1 2021 BYPASS DENUV",
-    "game": "F1 2021  DENUV",
+    "game": "F1 2021 DENUV",
     "desc": "Tutorial and guide for F1 2021  DENUV.",
     "tags": [
       "bypass"
@@ -7704,21 +7677,6 @@
     "desc": "Updated crack using voices38 crack",
     "tags": [
       "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-05"
-  },
-  {
-    "id": "borderlands-4-1285190",
-    "appId": 1285190,
-    "title": "Borderlands® 4 - 1285190",
-    "game": "Borderlands® 4",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
     ],
     "author": "The Weekdys",
     "version": "1.0",
@@ -8039,21 +7997,6 @@
     "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-05-04"
-  },
-  {
-    "id": "need-for-speed-unbound-1846380",
-    "appId": 1846380,
-    "title": "Need for Speed™ Unbound - 1846380",
-    "game": "Need for Speed™ Unbound",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-03"
   },
   {
     "id": "anno-117-pax-romana-3274580",
@@ -8483,34 +8426,6 @@
     "date": "2026-04-29"
   },
   {
-    "id": "2000950-call-of-duty-modern-warfare",
-    "appId": 2000950,
-    "title": "2000950 - Call of Duty®: Modern Warfare®",
-    "game": "Call of Duty®: Modern Warfare®",
-    "desc": "Added campaign mode crack for CODMW",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29"
-  },
-  {
-    "id": "3595230-call-of-duty-modern-warfare-ii",
-    "appId": 3595230,
-    "title": "3595230 - Call of Duty®: Modern Warfare® II",
-    "game": "Call of Duty®: Modern Warfare® II",
-    "desc": "Start the game ONLY FROM !startcod22.bat (for MP) or !startsp22.bat (for SP) and keep the console window open until it closes by itself when you close the game.",
-    "tags": [
-      "bypass",
-      "coop",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29"
-  },
-  {
     "id": "added-cure-a-hospital-simulator-online-patch-2786550",
     "appId": 2786550,
     "title": "Added CURE - A Hospital Simulator online patch (2786550)",
@@ -8520,19 +8435,6 @@
       "online"
     ],
     "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29"
-  },
-  {
-    "id": "added-call-of-duty-black-ops-6-campaign-1938090",
-    "appId": 1962663,
-    "title": "Added Call of Duty®: Black Ops 6 - Campaign - 1938090",
-    "game": "Call of Duty®: Black Ops 6 - Campaign",
-    "desc": "Game should be in Call of Duty (1938090), download the whole thing, make sure this 3 DLC is ticked",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-04-29"
   },
@@ -8557,32 +8459,6 @@
     "desc": "login epic games pop up in browser, then go back to game after login.",
     "tags": [
       "online"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29"
-  },
-  {
-    "id": "added-my-hero-academia-all-s-justice-online-patch-2362050",
-    "appId": 2362050,
-    "title": "Added  MY HERO ACADEMIA: All’s Justice online patch - 2362050",
-    "game": "MY HERO ACADEMIA: All’s Justice",
-    "desc": "open game folder and Launch the game via HeroGame\\Binaries\\Win64\\AJGAME.exe",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29"
-  },
-  {
-    "id": "added-mass-effect-andromeda-ea-bypass-1238000",
-    "appId": 1238000,
-    "title": "Added Mass Effect™: Andromeda EA Bypass - 1238000",
-    "game": "Mass Effect™: Andromeda",
-    "desc": "After patching, open game folder and run the game using MassEffectAndromeda.exe",
-    "tags": [
-      "bypass"
     ],
     "author": "The Weekdys",
     "version": "1.0",
@@ -8830,19 +8706,6 @@
     "date": "2026-04-29"
   },
   {
-    "id": "dragon-age-inquisition-denuv0-and-ea-bypass-1222690",
-    "appId": 1222690,
-    "title": "Dragon Age™ Inquisition DENUV0 and EA bypass - 1222690",
-    "game": "Dragon Age™ Inquisition DENUV0 and",
-    "desc": "run game from inside folder DragonAgeInquisition.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29"
-  },
-  {
     "id": "echoes-of-elysium-online-patch-2644050",
     "appId": 2644050,
     "title": "Echoes of Elysium Online Patch  (2644050)",
@@ -8887,7 +8750,7 @@
     "id": "how-to-bypass-denuvo-games-using-bypass-game-button",
     "appId": null,
     "title": "How to Bypass Denuvo Games using Bypass Game button?",
-    "game": "How to  Denuvo Games using  Game button?",
+    "game": "How to Denuvo Games using Game button?",
     "desc": "Before Downloading game at steam make sure game already lock version at SUO",
     "tags": [
       "bypass",
@@ -8943,7 +8806,7 @@
     "id": "paper-bride-series-from-1-6-online-check-bypass",
     "appId": null,
     "title": "Paper Bride Series from 1 - 6 online check bypass",
-    "game": "Paper Bride Series from 1 - 6  check",
+    "game": "Paper Bride Series from 1 - 6 check",
     "desc": "Download the attached, extract and copy all the folders and paste into Appdata/Roaming",
     "tags": [
       "online",
@@ -8970,7 +8833,7 @@
     "id": "rdr2-bypass-guide-1174180-red-dead-redemption-2",
     "appId": 1174180,
     "title": "RDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2",
-    "game": "RDR2   RED DEAD REDEMPTION 2",
+    "game": "RDR2 RED DEAD REDEMPTION 2",
     "desc": "run game using Launcher.exe",
     "tags": [
       "bypass"
@@ -9022,7 +8885,7 @@
     "id": "rise-of-the-ronin-online-co-op-play-1340990",
     "appId": 1340990,
     "title": "Rise of the Ronin Online Co-op play - 1340990",
-    "game": "Rise of the Ronin  play",
+    "game": "Rise of the Ronin play",
     "desc": "Play through prologue, and finished all the tutorial (took me good 1hour)",
     "tags": [
       "online",
@@ -9047,36 +8910,10 @@
     "date": "2026-04-29"
   },
   {
-    "id": "star-wars-jedi-survivor-1774580",
-    "appId": 1774580,
-    "title": "STAR WARS Jedi: Survivor™ - 1774580",
-    "game": "STAR WARS Jedi: Survivor™",
-    "desc": "open SwGame/Binaries/Win64",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29"
-  },
-  {
-    "id": "stellar-blade-3489700",
-    "appId": 3489700,
-    "title": "Stellar Blade™ - 3489700",
-    "game": "Stellar Blade™",
-    "desc": "1. Download game Stellar Blade from Steam",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29"
-  },
-  {
     "id": "the-rogue-prince-of-persia-bypass-ubisoft-2717880",
     "appId": 2717880,
     "title": "The Rogue Prince of Persia Bypass ubisoft (2717880)",
-    "game": "The Rogue Prince of Persia  ubisoft",
+    "game": "The Rogue Prince of Persia ubisoft",
     "desc": "Run game from steam upon patch",
     "tags": [
       "bypass",

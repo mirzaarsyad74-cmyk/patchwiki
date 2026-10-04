@@ -28,6 +28,20 @@
     "content": "\n# Added Call of Duty®: Black Ops 6 - Campaign - 1938090\n\n# Added Call of Duty®: Black Ops 6 - Campaign - 1938090\n\nGame should be in Call of Duty (1938090), download the whole thing, make sure this 3 DLC is ticked\n,\nIf the game is not showing, you need to add Call of Duty Warzone  https://store.steampowered.com/app/1962663/Call\\_of\\_Duty\\_Warzone/ first\n,\nHow to use\n\nAfter patching, open game folder\n,\nRun game using start\\_sp24.bat\n,\nDo not close the CMD Window\n,\nAll mission is unlocked by default.\n,\n\n!\\[Attached Image](https://media.discordapp.net/attachments/1499014000061452358/1499014000405512303/image.png?ex=6a7bb454&is=6a7a62d4&hm=21b0dfef8c7095499ba620b6171af7983edc5ae5c641d6a690113c7db03fd57c&=&format=webp&quality=lossless&width=1536&height=828)\n\n\nhttps://youtu.be/9hZq0x0NNxQ\n"
   },
   {
+    "id": "call-of-duty-modern-warfare-2000950",
+    "appId": 2000950,
+    "title": "Call of Duty®: Modern Warfare® Bypass",
+    "game": "Call of Duty®: Modern Warfare®",
+    "desc": "Call of Duty®: Modern Warfare® Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Call of Duty®: Modern Warfare® Bypass\n\n# Call of Duty®: Modern Warfare® Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "split-fiction-2001120",
     "appId": 2001120,
     "title": "Split Fiction Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Touge Shakai Online Fix\n\n# Touge Shakai Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "project-unknown-2115390",
-    "appId": 2115390,
-    "title": "Project Unknown Online Fix",
-    "game": "Project Unknown",
-    "desc": "Project Unknown Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Project Unknown Online Fix\n\n# Project Unknown Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]
