@@ -1,21 +1,15 @@
 ---
-id: watch-dogs-243470
-title: Watch_Dogs Bypass
-game: Watch_Dogs
+id: 243470-watch-dogs
+title: 243470 WATCH DOGS
+game: WATCH DOGS
 appid: 243470
-author: ProSub
+author: MinamiRX20
 version: 1.0
-desc: 1. Download the game from Steam.
-tags: bypass
-date: 2026-08-11
+desc: Tutorial and guide for WATCH DOGS.
+tags: general
+date: 2026-05-06
 ---
 
-# Watch_Dogs Bypass
+# 243470 WATCH DOGS
 
-# Watch_Dogs Bypass
 
-### Instructions
-1. Download the game from Steam.
-2. Click **Bypass Game** in Steam Unlock.
-3. Launch the game normally.
-4. Enjoy!

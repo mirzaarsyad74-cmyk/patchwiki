@@ -1,21 +1,15 @@
 ---
-id: sengoku-dynasty-1702010
-title: Sengoku Dynasty Bypass
-game: Sengoku Dynasty
+id: 1702010-sengoku-dynasty
+title: 1702010 SENGOKU DYNASTY
+game: SENGOKU DYNASTY
 appid: 1702010
-author: ProSub
+author: MinamiRX20
 version: 1.0
-desc: Sengoku Dynasty Bypass
-tags: bypass
-date: 2026-08-11
+desc: Tutorial and guide for SENGOKU DYNASTY.
+tags: general
+date: 2026-05-06
 ---
 
-# Sengoku Dynasty Bypass
+# 1702010 SENGOKU DYNASTY
 
-# Sengoku Dynasty Bypass
 
-### Instructions
-1. Download the game from Steam.
-2. Click **Bypass Game** in Steam Unlock.
-3. Launch the game normally.
-4. Enjoy!

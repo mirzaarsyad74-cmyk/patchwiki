@@ -1,15 +1,15 @@
 ---
-id: fifa-22-1506830
-title: FIFA 22
+id: 1506830-fifa-22-bypass
+title: 1506830 FIFA 22 BYPASS
 game: FIFA 22
 appid: 1506830
-author: Kaunter Pertanyaan
+author: MinamiRX20
 version: 1.0
-desc: - After patching, open folder and start game using FIFA22.exe
-tags: online
-date: 2026-08-05
+desc: After patching, open folder and start game using FIFA22.exe
+tags: bypass
+date: 2026-05-05
 ---
 
-# FIFA 22
+# 1506830 FIFA 22 BYPASS
 
-## - After patching, open folder and start game using FIFA22.exe
+-After patching, open folder and start game using FIFA22.exe

@@ -1,18 +1,17 @@
 ---
 id: palworld-1623730
-title: PALWORLD
-game: PALWORLD
+title: Palworld  - 1623730
+game: Palworld
 appid: 1623730
-author: Kaunter Pertanyaan
+author: The Weekdys
 version: 1.0
 desc: 1. Download EPIC Games Store at https://store.epicgames.com/
 tags: online
 date: 2026-08-05
 ---
 
-# PALWORLD
+# Palworld  - 1623730
 
-# PALWORLD - 1623730
 # BEFORE ANYTHING ELSE
 1. Download EPIC Games Store at https://store.epicgames.com/
 2. Register an account at https://www.epicgames.com/id/login?lang=en-US, login using Google also accepted.
@@ -34,3 +33,12 @@ Once Done, Install the game.
 4. Ignore the Error: EOS Login Timeout, as it is waiting for the web browser to complete login.
 
 # YOU HAVE TO DO THIS EVERYTIME STARTING THE GAME.
+
+![Attached Image](assets/palworld-1623730_1534488033729056918.png)
+
+
+![Attached Image](assets/palworld-1623730_1534488034173522101.png)
+
+---
+
+# Updated to version 5 online patch, no longer need to delete token.dat

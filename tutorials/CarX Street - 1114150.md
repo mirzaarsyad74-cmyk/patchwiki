@@ -1,20 +1,16 @@
 ---
 id: carx-street-1114150
-title: CARX STREET BYPASS version 1.10.1
-game: CARX STREET
+title: CarX Street - 1114150
+game: CarX Street
 appid: 1114150
-author: Kaunter Pertanyaan
-version: CARX STREET BYPASS version 1.10.1
-desc: CARX STREET BYPASS version 1.10.1
+author: The Weekdys
+version: 1.0
+desc: 1. Download game Carx from Steam
 tags: bypass
-date: 2026-08-05
+date: 2026-04-29
 ---
 
-# CARX STREET BYPASS version 1.10.1
+# CarX Street - 1114150
 
-# CARX STREET BYPASS version 1.10.1
-- Currently this bypass version works only for game 1.10.1
-- Unlock the game and make sure the game is lock version in Tools > Game Auto Update
-- Once the download is finished
-- Click BYPASS GAME from ```Library > Car X Street in Steam Unlock Onennabe```
-- Run game from clicking PLAY > Choose .exe or .bat > Choose ```CarX Street.exe```
+1. Download game Carx from Steam
+2. Bypass game and launching the game using CarX Street.exe
