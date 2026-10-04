@@ -1,0 +1,59 @@
+name: Discord Auto-Sync to PatchWiki
+
+on:
+  schedule:
+    # Runs every 1 hour (at minute 0)
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows manual trigger anytime from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync-discord:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Scrape Discord Channel
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          DISCORD_CHANNEL_ID: '1498980524297818142'
+          DISCORD_GUILD_ID: '333191744873299978'
+        run: node scripts/sync-discord.js
+
+      - name: Commit and push changes to main
+        id: git_commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add tutorials/ data/
+          if git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No changes to commit."
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            git commit -m "Auto-import tutorials from Discord [skip ci]"
+            git push origin main
+          fi
+
+      - name: Build static site
+        if: steps.git_commit.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
+        run: node scripts/build.js
+
+      - name: Deploy to gh-pages branch
+        if: steps.git_commit.outputs.has_changes == 'true' || github.event_name == 'workflow_dispatch'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages

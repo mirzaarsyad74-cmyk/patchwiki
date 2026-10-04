@@ -168,6 +168,21 @@ function build() {
 
   // Copy index.html
   fs.copyFileSync(INDEX_SRC, path.join(DIST_DIR, 'index.html'));
+
+  // Copy assets folder if present
+  const assetsSrc = path.join(TUTORIALS_DIR, 'assets');
+  const assetsDist = path.join(DIST_DIR, 'assets');
+  if (fs.existsSync(assetsSrc)) {
+    fs.cpSync(assetsSrc, assetsDist, { recursive: true });
+    console.log(`Copied assets to dist/assets`);
+  }
+
+  // Copy favicon if present
+  const icoSrc = path.join(__dirname, '..', 'steamunlock_wannabe.ico');
+  if (fs.existsSync(icoSrc)) {
+    fs.copyFileSync(icoSrc, path.join(DIST_DIR, 'steamunlock_wannabe.ico'));
+  }
+
   console.log('\nBuild complete ✓');
 }
 
