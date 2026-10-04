@@ -1,5 +1,90 @@
 [
   {
+    "id": "770240-pro-evolution-soccer-2019-denuvo-bypass",
+    "appId": 770240,
+    "title": "(770240) PRO EVOLUTION SOCCER 2019 DENUVO BYPASS",
+    "game": "PRO EVOLUTION SOCCER 2019",
+    "desc": "After patch run from Steam",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\r\n# (770240) PRO EVOLUTION SOCCER 2019 DENUVO BYPASS\r\n\r\n- After patch run from Steam\r\n"
+  },
+  {
+    "id": "816020-jump-force",
+    "appId": 816020,
+    "title": "(816020) JUMP FORCE",
+    "game": "JUMP FORCE",
+    "desc": "I fixed mine by reinstalling the AntiCheat software, can be found it \"yourinstalldrive\":\\SteamLibrary\\steamapps\\common\\JUMP FORCE\\EasyAntiCheat",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\r\n# (816020) JUMP FORCE\r\n\r\nI fixed mine by reinstalling the Anti-Cheat software, can be found it \"yourinstalldrive\":\\SteamLibrary\\steamapps\\common\\JUMP FORCE\\EasyAntiCheat\r\n\r\n![Attached Image](assets/816020-jump-force_1499097716683182261.png)\r\n"
+  },
+  {
+    "id": "added-bypass-for-lego-horizon-adventures-2428810",
+    "appId": 2428810,
+    "title": "Added bypass for LEGO Horizon Adventures- (2428810)",
+    "game": "LEGO Horizon Adventures",
+    "desc": "After patch, run from steam",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\r\n# Added bypass for LEGO Horizon Adventures- (2428810)\r\n\r\nAfter patch, run from steam\r\n"
+  },
+  {
+    "id": "added-cure-a-hospital-simulator-online-patch-2786550",
+    "appId": 2786550,
+    "title": "Added CURE - A Hospital Simulator online patch (2786550)",
+    "game": "CURE - A Hospital Simulator",
+    "desc": "try run from steam once patch or",
+    "tags": [
+      "online"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\r\n# Added CURE - A Hospital Simulator online patch (2786550)\r\n\r\n- try run from steam once patch or\r\n- open game folder and run from **Cure.exe**\r\n"
+  },
+  {
+    "id": "added-denu-bypass-for-doom-the-dark-ages-3017860",
+    "appId": 3017860,
+    "title": "Added DENU bypass for Doom: The Dark Ages - 3017860",
+    "game": "Doom: The Dark Ages",
+    "desc": "Run game from steam upon bypass game done",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\r\n# Added DENU bypass for Doom: The Dark Ages - 3017860\r\n\r\n- Run game from steam upon bypass game done\r\n"
+  },
+  {
+    "id": "added-earth-defense-force-6-2291060",
+    "appId": 2291060,
+    "title": "Added Earth Defense Force 6- 2291060",
+    "game": "rth Defense Force 6",
+    "desc": "login epic games pop up in browser, then go back to game after login.",
+    "tags": [
+      "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\r\n# Added Earth Defense Force 6- 2291060\r\n\r\n- After online patch\r\n- play game from steam\r\n- login epic games pop up in browser, then go back to game after login.\r\n"
+  },
+  {
     "id": "added-occupy-mars-the-game-758690",
     "appId": 758690,
     "title": "Added Occupy Mars: The Game- 758690",
@@ -186,107 +271,17 @@
     "content": "\r\n# Call of Duty: Modern Warfare III - 3595270\r\n\r\n- Firstly, make sure the path on where you put the game folder is short and doesn't contain non latin characters or symbols to avoid issues with game launching.\r\n- Extract everything in this archive into where you installed the game.\r\n- Start the game ONLY FROM !start_cod23.bat (for MP) or !start_sp23.bat (for SP) and keep the console window open until it closes by itself when you close the game.\r\n- If running either *.bat doesn't do anything, read the 1st step again (or check bootstrapper.log).\r\n\r\n![Attached Image](assets/call-of-duty-modern-warfare-iii-3595270_1499023253304246353.png)\r\n\r\n---\r\n\r\n## **How To Bypass**\r\n\r\n1) Add game from SUO\r\n2) Off antivirus(realtime protection) and smart app control (win 11)\r\n3) Download game from steam\r\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\r\n\r\n## **Launch Option (From Folder Only)**\r\n1) !start_cod23.bat (for MP)\r\n2) !start_sp23.bat (for SP)\r\n\r\nMP: Multiplayer (online)\r\n​SP: Singleplayer \r\n\r\n```keep the console window open until it closes```\r\n"
   },
   {
-    "id": "digimon-story-time-stranger-1984270",
-    "appId": 1984270,
-    "title": "Digimon Story Time Stranger - 1984270",
-    "game": "Digimon Story Time Stranger",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "id": "carx-street-1114150",
+    "appId": 1114150,
+    "title": "CarX Street - 1114150",
+    "game": "CarX Street",
+    "desc": "1. Download game Carx from Steam",
     "tags": [
-      "bypass",
-      "drm"
+      "bypass"
     ],
     "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-04-29",
-    "content": "\r\n# Digimon Story Time Stranger - 1984270\r\n\r\n# Follow this guide\r\nhttps://discord.com/channels/333191744873299978/1499122656686116944\r\n\r\n## **Prequisites Guide**\r\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \r\nhttps://github.com/Selectively11/CloudRedirect/releases/latest\r\n2. Follow guide completely at <#1495014736515829760> \r\n3. Manifest pinning via CloudRedirect.\r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\r\n2. Turn off Antivirus (real-time protection)\r\n3. Download game** [GAMENAME]** from Steam\r\n4. Click Bypass Game in Steam Unlock\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\r\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\r\n\r\n![Attached Image](assets/digimon-story-time-stranger-1984270_1499139332424859678.png)\r\n"
-  },
-  {
-    "id": "dirt-4-online-patch-421020",
-    "appId": 421020,
-    "title": "DiRT 4 online patch - 421020",
-    "game": "DiRT 4",
-    "desc": "Finish the prologue tutorial.",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\r\n# DiRT 4 online patch - 421020\r\n\r\n- Finish the prologue tutorial.\r\n- Once finish, exit the academy, go to events\r\n- select Multiplayer > Jam Sessions\r\n- Friend join the lobby created.\r\n\r\n![Attached Image](assets/dirt-4-online-patch-421020_1498981715014844519.png)\r\n"
-  },
-  {
-    "id": "echoes-of-elysium-online-patch-2644050",
-    "appId": 2644050,
-    "title": "Echoes of Elysium Online Patch  (2644050)",
-    "game": "Echoes of Elysium",
-    "desc": "try run from steam once patch or",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\r\n# Echoes of Elysium Online Patch  (2644050)\r\n\r\ntry run from steam once patch or \r\nopen game folder & run from Elysium.exe\r\n"
-  },
-  {
-    "id": "fc-26-hypervisor-denuvo-ea-bypass-3405690",
-    "appId": 3405690,
-    "title": "FC 26 Hypervisor Denuvo + EA bypass - 3405690",
-    "game": "FC 26 Hypervisor Denuvo +",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\r\n# FC 26 Hypervisor Denuvo + EA bypass - 3405690\r\n\r\n# Follow this guide\r\nhttps://discord.com/channels/333191744873299978/1499122656686116944\r\n\r\n## **Prequisites Guide**\r\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \r\nhttps://github.com/Selectively11/CloudRedirect/releases/latest\r\n2. Follow guide completely at <#1495014736515829760> \r\n3. Manifest pinning via CloudRedirect.\r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\r\n2. Turn off Antivirus (real-time protection)\r\n3. Download game** [GAMENAME]** from Steam\r\n4. Click Bypass Game in Steam Unlock\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\r\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\r\n\r\n---\r\n\r\nFC 26 Hypervisor Denuvo + EA bypass - 3405690\r\n\r\n---\r\n\r\n![Attached Image](assets/fc-26-hypervisor-denuvo-ea-bypass-3405690_1498988920913002558.png)\r\n\r\n---\r\n\r\n![Attached Image](assets/fc-26-hypervisor-denuvo-ea-bypass-3405690_1499036069298045109.png)\r\n\r\n\r\n![Attached Image](assets/fc-26-hypervisor-denuvo-ea-bypass-3405690_1499036069780394005.png)\r\n\r\n---\r\n\r\n7. Run game from HV-PlugNPlay.bat from SteamUnlock Onennabe\r\n\r\n---\r\n\r\n## **Prequisites Guide**\r\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \r\n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\r\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\r\n3. Check Virtualization Enable/Disable\r\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\r\n*if not found that words mean is been disabled\r\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\r\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\r\n6. Press F7(driver Signature Enforcement)\r\n7. Add Game From SUO\r\n8. Download game** [GAMENAME]** from Steam\r\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\r\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\r\n"
-  },
-  {
-    "id": "fraymakers-online-patch-1420350",
-    "appId": 1420350,
-    "title": "Fraymakers online patch- 1420350",
-    "game": "Fraymakers",
-    "desc": "Create lobbies and invites your friends",
-    "tags": [
-      "online"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\r\n# Fraymakers online patch- 1420350\r\n\r\n- Create lobbies and invites your friends\r\n"
-  },
-  {
-    "id": "name-sonic-racing-crossworlds-2486820",
-    "appId": 2486820,
-    "title": "Name: Sonic Racing: CrossWorlds - 2486820",
-    "game": "Name: Sonic Racing: CrossWorlds",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\r\n# Name: Sonic Racing: CrossWorlds - 2486820\r\n\r\n# Follow this guide\r\nhttps://discord.com/channels/333191744873299978/1499122656686116944\r\n\r\n## **Prequisites Guide**\r\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \r\nhttps://github.com/Selectively11/CloudRedirect/releases/latest\r\n2. Follow guide completely at <#1495014736515829760> \r\n3. Manifest pinning via CloudRedirect.\r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\r\n2. Turn off Antivirus (real-time protection)\r\n3. Download game** [GAMENAME]** from Steam\r\n4. Click Bypass Game in Steam Unlock\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\r\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\r\n\r\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499063277332729866.png)\r\n\r\n\r\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499063280608743566.png)\r\n\r\n---\r\n\r\nRun game from Steam Unlock as shown here, choose HV-Launcher.bat or HV-PlugNPlay.bat\r\n\r\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499091266556788838.png)\r\n\r\n\r\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499091267009646702.png)\r\n\r\n---\r\n\r\n## **Prequisites Guide**\r\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \r\n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\r\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\r\n3. Check Virtualization Enable/Disable\r\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\r\n*if not found that words mean is been disabled\r\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\r\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\r\n6. Press F7(driver Signature Enforcement)\r\n7. Add Game From SUO\r\n8. Download game** [GAMENAME]** from Steam\r\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\r\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\r\n"
-  },
-  {
-    "id": "overcooked-all-you-can-eat-online-method-1243830",
-    "appId": 1243830,
-    "title": "Overcooked! All you can eat Online method- 1243830",
-    "game": "Overcooked! All you can eat",
-    "desc": "Go to Game installation folder",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\r\n# Overcooked! All you can eat Online method- 1243830\r\n\r\n- Go to Game installation folder\r\n- Set the game `Overcooked All You Can Eat.exe` run as admin, and also the `XboxLiveAuth.exe` run as admin too. \r\n- Launch the game using  `XboxLiveAuth.exe` and choose online. The game works and connected to your Xbox account\r\n\r\nNOTE: Make sure your XBOX /Microsoft email account used to log in is the same in Microsoft Store account and disable 2FA. Suggest to create new dummy account for XBOX/Microsoft.\r\n\r\n![Attached Image](assets/overcooked-all-you-can-eat-online-method-1243830_1498983075894263879.png)\r\n\r\n\r\n![Attached Image](assets/overcooked-all-you-can-eat-online-method-1243830_1498983076498505798.png)\r\n\r\n\r\n![Attached Image](assets/overcooked-all-you-can-eat-online-method-1243830_1498983077009952830.png)\r\n\r\n---\r\n\r\nOvercooked! All you can eat Online method- 1243830\r\n"
+    "content": "\r\n# CarX Street - 1114150\r\n\r\n1. Download game Carx from Steam\r\n2. Bypass game and launching the game using CarX Street.exe\r\n"
   }
 ]

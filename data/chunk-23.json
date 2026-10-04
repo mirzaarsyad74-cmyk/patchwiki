@@ -1,5 +1,48 @@
 [
   {
+    "id": "hypercharge-unboxed-523660",
+    "appId": 523660,
+    "title": "HYPERCHARGE: Unboxed Online Fix",
+    "game": "HYPERCHARGE: Unboxed",
+    "desc": "HYPERCHARGE: Unboxed Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# HYPERCHARGE: Unboxed Online Fix\r\n\r\n# HYPERCHARGE: Unboxed Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "satisfactory-526870",
+    "appId": 526870,
+    "title": "Satisfactory Online Fix",
+    "game": "Satisfactory",
+    "desc": "Satisfactory Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Satisfactory Online Fix\r\n\r\n# Satisfactory Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "dying-light-2-reloaded-edition-534380",
+    "appId": 534380,
+    "title": "Dying Light 2: Reloaded Edition Online Fix",
+    "game": "Dying Light 2: Reloaded Edition",
+    "desc": "Dying Light 2: Reloaded Edition Online Fix",
+    "tags": [
+      "bypass",
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Dying Light 2: Reloaded Edition Online Fix\r\n\r\n# Dying Light 2: Reloaded Edition Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
     "id": "soulcalibur-vi-544750",
     "appId": 544750,
     "title": "SOULCALIBUR VI Online Fix",
@@ -236,47 +279,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\r\n# Zombie Army 4: Dead War Bypass\r\n\r\n# Zombie Army 4: Dead War Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
-  },
-  {
-    "id": "folklore-hunter-696220",
-    "appId": 696220,
-    "title": "Folklore Hunter Online Fix",
-    "game": "Folklore Hunter",
-    "desc": "Folklore Hunter Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# Folklore Hunter Online Fix\r\n\r\n# Folklore Hunter Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
-  },
-  {
-    "id": "dynasty-warriors-9-730310",
-    "appId": 730310,
-    "title": "DYNASTY WARRIORS 9 Bypass",
-    "game": "DYNASTY WARRIORS 9",
-    "desc": "DYNASTY WARRIORS 9 Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# DYNASTY WARRIORS 9 Bypass\r\n\r\n# DYNASTY WARRIORS 9 Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
-  },
-  {
-    "id": "phasmophobia-739630",
-    "appId": 739630,
-    "title": "Phasmophobia Online Fix",
-    "game": "Phasmophobia",
-    "desc": "Phasmophobia Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# Phasmophobia Online Fix\r\n\r\n# Phasmophobia Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
   }
 ]

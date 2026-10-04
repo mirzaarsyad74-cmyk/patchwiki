@@ -1,20 +1,5 @@
 [
   {
-    "id": "gamble-with-your-friends-3892270",
-    "appId": 3892270,
-    "title": "Gamble With Your Friends - 3892270",
-    "game": "Gamble With Your Friends",
-    "desc": "Tutorial and guide for Gamble With Your Friends.",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-07",
-    "content": "\r\n# Gamble With Your Friends - 3892270\r\n\r\n- Added online patch\r\n- Download game\r\n- Bypass Game\r\n"
-  },
-  {
     "id": "rest-area-simulator-3732960",
     "appId": 3732960,
     "title": "Rest Area Simulator - 3732960",
@@ -57,6 +42,34 @@
     "version": "1.0",
     "date": "2026-05-06",
     "content": "\r\n# 1659040 HITMAN WORLD OF ASSASSINATION\r\n\r\nGEGE\r\n\r\n---\r\n\r\n1. Bypass Game\r\n2. Play from Steam\r\n3. The official launcher will pop up\r\n4. Play as usual, everything already set up by Bypass\r\n"
+  },
+  {
+    "id": "1702010-sengoku-dynasty",
+    "appId": 1702010,
+    "title": "1702010 SENGOKU DYNASTY",
+    "game": "SENGOKU DYNASTY",
+    "desc": "Tutorial and guide for SENGOKU DYNASTY.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\r\n# 1702010 SENGOKU DYNASTY\r\n\r\n\r\n"
+  },
+  {
+    "id": "243470-watch-dogs",
+    "appId": 243470,
+    "title": "243470 WATCH DOGS",
+    "game": "WATCH DOGS",
+    "desc": "Tutorial and guide for WATCH DOGS.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\r\n# 243470 WATCH DOGS\r\n\r\n\r\n"
   },
   {
     "id": "311210-cod-black-ops-3-online-bypass",
@@ -104,7 +117,7 @@
     "id": "1134570-f1-2021-bypass-denuv",
     "appId": 1134570,
     "title": "1134570 F1 2021 BYPASS DENUV",
-    "game": "F1 2021  DENUV",
+    "game": "F1 2021 DENUV",
     "desc": "Tutorial and guide for F1 2021  DENUV.",
     "tags": [
       "bypass"
@@ -157,6 +170,20 @@
     "content": "\r\n# 1250410 Microsoft Flight Simulator (2020)\r\n\r\nAdded online supported\r\n\r\n\r\nAfter patch, open game folder\r\nRight Click on GDK_Helper.bat\r\nChoose 3\r\nChoose 1\r\n\r\nIn game, sign in your own xbox account, \r\nIn game download 170GB\r\n"
   },
   {
+    "id": "1277400-monster-hunter-stories-2-wings-of-ruin-online",
+    "appId": 1277400,
+    "title": "1277400 MONSTER HUNTER STORIES 2: WINGS OF RUIN ONLINE",
+    "game": "MONSTER HUNTER STORIES 2: WINGS OF RUIN",
+    "desc": "After patching, start game from Steam",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\r\n# 1277400 MONSTER HUNTER STORIES 2: WINGS OF RUIN ONLINE\r\n\r\n-After patching, start game from Steam\r\nOnline mode only available after the mission A Stranger in Black.\r\n"
+  },
+  {
     "id": "1313860-ea-sports-fifa-21-bypass",
     "appId": 1313860,
     "title": "1313860 EA SPORTS FIFA 21 BYPASS",
@@ -183,6 +210,20 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\r\n# 1328660 NSF HOT PURSUIT REMASTERED DENUV & EA BYPASS\r\n\r\nAfter patching, go inside the game foder, start game with NFS11Remastered.exe\r\n"
+  },
+  {
+    "id": "1506830-fifa-22-bypass",
+    "appId": 1506830,
+    "title": "1506830 FIFA 22 BYPASS",
+    "game": "FIFA 22",
+    "desc": "After patching, open folder and start game using FIFA22.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\r\n# 1506830 FIFA 22 BYPASS\r\n\r\n-After patching, open folder and start game using FIFA22.exe\r\n"
   },
   {
     "id": "2055290-sonic-colors-ultimate",
@@ -239,47 +280,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\r\n# 2340870 RUGBY 25 BYPASS\r\n\r\n-After patching\r\n\r\n-Run game from Steam.\r\n"
-  },
-  {
-    "id": "2622380-elden-ring-nightreign-co-op-patch-to-v-1-1-0",
-    "appId": 2622380,
-    "title": "2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
-    "game": "ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
-    "desc": "Open folder after patching, run game from nrsclauncher.exe",
-    "tags": [
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0\r\n\r\n-Open folder after patching, run game from nrsc_launcher.exe\r\n\r\n---\r\n\r\nUpdated seamless co-op to v1.1.2\r\n"
-  },
-  {
-    "id": "3240220-gta-v-enhanced-fix",
-    "appId": 3240220,
-    "title": "3240220 GTA V ENHANCED FIX",
-    "game": "GTA V ENHANCED",
-    "desc": "HERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 3240220 GTA V ENHANCED FIX\r\n\r\nHERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473\r\n\r\n---\r\n\r\nMissing PlayGTAV.exe earlier\r\n\r\n-Patch and run game from Steam.\r\n\r\n---\r\n\r\n3240220 GTA V ENHANCED FIX\r\n"
-  },
-  {
-    "id": "394510-helldivers-1-online-patch",
-    "appId": 394510,
-    "title": "394510 HELLDIVERS 1 ONLINE PATCH",
-    "game": "HELLDIVERS 1",
-    "desc": "After patching, open game folder, launch from Launcher.exe",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 394510 HELLDIVERS 1 ONLINE PATCH\r\n\r\n-After patching, open game folder, launch from Launcher.exe\r\n"
   }
 ]

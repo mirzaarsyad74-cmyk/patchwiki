@@ -1,5 +1,47 @@
 [
   {
+    "id": "dead-island-2-934700",
+    "appId": 934700,
+    "title": "Dead Island 2 Online Fix",
+    "game": "Dead Island 2",
+    "desc": "Dead Island 2 Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Dead Island 2 Online Fix\r\n\r\n# Dead Island 2 Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "the-dark-pictures-anthology-man-of-medan-939850",
+    "appId": 939850,
+    "title": "The Dark Pictures Anthology: Man of Medan Online Fix",
+    "game": "The Dark Pictures Anthology: Man of Medan",
+    "desc": "The Dark Pictures Anthology: Man of Medan Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# The Dark Pictures Anthology: Man of Medan Online Fix\r\n\r\n# The Dark Pictures Anthology: Man of Medan Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "resident-evil-3-952060",
+    "appId": 952060,
+    "title": "Resident Evil 3 Bypass",
+    "game": "Resident Evil 3",
+    "desc": "Resident Evil 3 Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Resident Evil 3 Bypass\r\n\r\n# Resident Evil 3 Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
     "id": "grounded-962130",
     "appId": 962130,
     "title": "Grounded Online Fix",
@@ -98,48 +140,6 @@
     "content": "\r\n# Steep - 460920\r\n\r\nAfter Downloading Game\r\nClick BYPASS GAME\r\n- Then open the game folder\r\n- Double click on ```! FirstLaunch.bat```\r\n- Then run the game from ```Steep.exe```\r\n\r\n![Attached Image](assets/steep-460920_1535148727931764736.png)\r\n"
   },
   {
-    "id": "pay-day-3-1272080",
-    "appId": 1272080,
-    "title": "PAY DAY 3",
-    "game": "PAY DAY 3",
-    "desc": "STEP BY STEP FOR PAY DAY 3",
-    "tags": [
-      "online"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "1.0",
-    "date": "2026-08-05",
-    "content": "\r\n# PAY DAY 3\r\n\r\nSTEP BY STEP FOR PAY DAY 3\r\n\r\n1. Create new account Microsoft store. login to Microsoft Store using newly created account, you dont need 2FA for this account. httpssignup.live.comlic=1, and login to XBOX APP too.\r\n2. Go to httpsnebula.starbreeze.com and then link your Microsoft store account by clicking the XBOX logo, then click Link New Account\r\n4. Install windowsdesktop-runtime-5.0.17-win-x86.exe, provided in the patch\r\n5. Inside `XSteamLibrarysteamappscommonPAYDAY3PAYDAY3BinariesWin64, right click on PAYDAY3Client-Win64-Shipping.exe  Properties  tick Run as Administrator  Click OK.`\r\n6. Then back to XSteamLibrarysteamappscommonPAYDAY3\r\n7. Run the game by double click on XboxLiveAuth.exe, fill in your new, Microsoft Store account details.\r\n8. The game will run\r\n"
-  },
-  {
-    "id": "monster-hunter-stories-2-wings-of-ruin-1277400",
-    "appId": 1277400,
-    "title": "1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "game": "MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "desc": "1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "tags": [
-      "online"
-    ],
-    "author": "Anonymous",
-    "version": "1.0",
-    "date": "2026-08-05",
-    "content": "\r\n# 1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN\r\n\r\n# 1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN\r\n\r\n- After patching, start game from Steam\r\nOnline mode only available after the mission A Stranger in Black.\r\n"
-  },
-  {
-    "id": "fifa-22-1506830",
-    "appId": 1506830,
-    "title": "FIFA 22",
-    "game": "FIFA 22",
-    "desc": "- After patching, open folder and start game using FIFA22.exe",
-    "tags": [
-      "online"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "1.0",
-    "date": "2026-08-05",
-    "content": "\r\n# FIFA 22\r\n\r\n## - After patching, open folder and start game using FIFA22.exe\r\n"
-  },
-  {
     "id": "crimson-desert-3321460-2419900",
     "appId": 2419900,
     "title": "Crimson Desert - 3321460",
@@ -156,7 +156,7 @@
   },
   {
     "id": "assassin-s-creed-shadows-assassin-s-creed-shadows",
-    "appId": null,
+    "appId": 3159330,
     "title": "A guide to play Assassin's Creed Shadow",
     "game": "Assassin's Creed Shadows",
     "desc": "A guide to play Assassin's Creed Shadow",
@@ -168,64 +168,6 @@
     "version": "1.0",
     "date": "2026-08-05",
     "content": "\r\n# A guide to play Assassin's Creed Shadow\r\n\r\n# A guide to play Assassin's Creed Shadow\r\n> ⚠️ **Warning:** If you ever use Hypervisor version of the game, please go to Steam Unlock Onennabe -> Library -> REMOVE HYPERVISOR PATCH first\r\n\r\n## **PLEASE MAKE SURE TO TURN ON SMART APPLY BY HEADING TO TOOLS > GAME AUTO UPDATE + REAL TIME PROTECTION IS DISABLED**\r\n\r\n1. In Steam Unlock Onennabe click `Unlock Game`\r\n2. Install the game in Steam\r\n3. Then in Steam Unlock Onennabe -> Library -> click on `Bypass Game`\r\n4. Press the `Bypass Game` again after its added to exclusion\r\n5. Play the game from Steam Unlock > Choose .exe.\r\n"
-  },
-  {
-    "id": "battlefield-6-2807960",
-    "appId": 2807960,
-    "title": "Battlefield 6",
-    "game": "Battlefield 6",
-    "desc": "- After install game.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "1.0",
-    "date": "2026-08-05",
-    "content": "\r\n# Battlefield 6\r\n\r\n- After install game.\r\n- Click ```Bypass Game```\r\n- Open game folder by going to Steam Unlock Onennabe > Library > go to the game > Click Open Folder\r\n- Go inside folder Battlefield 6/SP/bf6.exe\r\n- Launch game from bf6.exe\r\n\r\nor \r\n\r\n> Use Steam Unlock Onennabe > Library > go to the game > Click Play > Choose EXE > choose the bf6.exe that is located in SP/bf6.exe\r\n"
-  },
-  {
-    "id": "carx-street-1114150",
-    "appId": 1114150,
-    "title": "CARX STREET BYPASS version 1.10.1",
-    "game": "CARX STREET",
-    "desc": "CARX STREET BYPASS version 1.10.1",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "CARX STREET BYPASS version 1.10.1",
-    "date": "2026-08-05",
-    "content": "\r\n# CARX STREET BYPASS version 1.10.1\r\n\r\n# CARX STREET BYPASS version 1.10.1\r\n- Currently this bypass version works only for game 1.10.1\r\n- Unlock the game and make sure the game is lock version in Tools > Game Auto Update\r\n- Once the download is finished\r\n- Click BYPASS GAME from ```Library > Car X Street in Steam Unlock Onennabe```\r\n- Run game from clicking PLAY > Choose .exe or .bat > Choose ```CarX Street.exe```\r\n"
-  },
-  {
-    "id": "crimson-desert-3321460",
-    "appId": 3321460,
-    "title": "Crimson Desert",
-    "game": "Crimson Desert",
-    "desc": "Crimson Desert - 3321460",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "1.0",
-    "date": "2026-08-05",
-    "content": "\r\n# Crimson Desert\r\n\r\n# Crimson Desert - 3321460\r\nUsing Crack: Voices38\r\n\r\n1) Add game from SUO\r\n2) Off antivirus(realtime protection) and smart app control (win 11)\r\n3) Download game from steam\r\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\r\n5) play from steam\r\n"
-  },
-  {
-    "id": "forza-horizon-6-2483190",
-    "appId": 2483190,
-    "title": "Forza Horizon 6 Tutorial",
-    "game": "Forza Horizon 6",
-    "desc": "Forza Horizon 6 Tutorial",
-    "tags": [
-      "drm",
-      "online"
-    ],
-    "author": "yuumi",
-    "version": "1.0",
-    "date": "2026-08-05",
-    "content": "\r\n# Forza Horizon 6 Tutorial\r\n\r\n# Forza Horizon 6 Tutorial\r\n**Note: You can play with people who owns the legitimate copy of the game !**\r\n\r\n> ⚠️ **Warning:** PLEASE MAKE SURE SMART APPLY IS ENABLED IN YOUR STEAM UNLOCK ONENNABE + REAL TIME PROTECTION HAS BEEN DISABLED\r\n\r\n\r\nStep by step tutorial:\r\n\r\n1. **IMPORTANT!!!** Make sure your Xbox app is updated. Go to Microsoft Store and search for Xbox, and update it if it tells you to update.\r\n2. Unlock the game from Steam Unlock Onnenabe\r\n3. Go to Steam Unlock library, find Forza Horizon 6 and click on `ONLINE PATCH`\r\n4. Press `Win + R` and type `steam://install/480` and hit enter\r\n5. Open Forza Horizon 6 folder and then run `Enable_Invites_FH6.bat` as ADMINISTRATOR **(THIS IS IMPORTANT)**\r\n6. Play from steam and sign-in using your own Microsoft account\r\n"
   },
   {
     "id": "microsoft-flight-simulator-v1-39-12-0-1250410",
@@ -258,16 +200,16 @@
   {
     "id": "palworld-1623730",
     "appId": 1623730,
-    "title": "PALWORLD",
-    "game": "PALWORLD",
+    "title": "Palworld  - 1623730",
+    "game": "Palworld",
     "desc": "1. Download EPIC Games Store at https://store.epicgames.com/",
     "tags": [
       "online"
     ],
-    "author": "Kaunter Pertanyaan",
+    "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-08-05",
-    "content": "\r\n# PALWORLD\r\n\r\n# PALWORLD - 1623730\r\n# BEFORE ANYTHING ELSE\r\n1. Download EPIC Games Store at https://store.epicgames.com/\r\n2. Register an account at https://www.epicgames.com/id/login?lang=en-US, login using Google also accepted.\r\n\r\n# IN STEAM UNLOCK ONENNABE\r\n1. Upon Unlocking game, it is advisable to go to Tools > Game Auto \r\n2. Update and click Smart Apply\r\nRefer here: \r\nhttps://steamunlockonennabe.click/docs/updating-games/\r\n\r\nOnce Done, Install the game.\r\n\r\n# First time & REPEAT THIS STEP\r\n1. Open the game folder via Steam Unlock Onennabe https://steamunlockonennabe.click/docs/library-tab/#browse-local-files, go to \r\n```Pal\\Binaries\\Win64\\FreeTP```\r\n2. Delete **token.dat**\r\n3. Start the game from Steam.\r\n4. Web browser will automatically open and it will request to login to EPIC and allow Pocket Pairs to connect.\r\n4. Ignore the Error: EOS Login Timeout, as it is waiting for the web browser to complete login.\r\n\r\n# YOU HAVE TO DO THIS EVERYTIME STARTING THE GAME.\r\n"
+    "content": "\r\n# Palworld  - 1623730\r\n\r\n# BEFORE ANYTHING ELSE\r\n1. Download EPIC Games Store at https://store.epicgames.com/\r\n2. Register an account at https://www.epicgames.com/id/login?lang=en-US, login using Google also accepted.\r\n\r\n# IN STEAM UNLOCK ONENNABE\r\n1. Upon Unlocking game, it is advisable to go to Tools > Game Auto \r\n2. Update and click Smart Apply\r\nRefer here: \r\nhttps://steamunlockonennabe.click/docs/updating-games/\r\n\r\nOnce Done, Install the game.\r\n\r\n# First time & REPEAT THIS STEP\r\n1. Open the game folder via Steam Unlock Onennabe https://steamunlockonennabe.click/docs/library-tab/#browse-local-files, go to \r\n```Pal\\Binaries\\Win64\\FreeTP```\r\n2. Delete **token.dat**\r\n3. Start the game from Steam.\r\n4. Web browser will automatically open and it will request to login to EPIC and allow Pocket Pairs to connect.\r\n4. Ignore the Error: EOS Login Timeout, as it is waiting for the web browser to complete login.\r\n\r\n# YOU HAVE TO DO THIS EVERYTIME STARTING THE GAME.\r\n\r\n![Attached Image](assets/palworld-1623730_1534488033729056918.png)\r\n\r\n\r\n![Attached Image](assets/palworld-1623730_1534488034173522101.png)\r\n\r\n---\r\n\r\n# Updated to version 5 online patch, no longer need to delete token.dat\r\n"
   },
   {
     "id": "suicide-squad-kill-the-justice-league-315210",
@@ -282,5 +224,65 @@
     "version": "1.0",
     "date": "2026-08-05",
     "content": "\r\n# Suicide Squad Kill the Justice League - 315210\r\n\r\nAfter downloading game and BYPASS GAME, run the game from SUO and choose new-SuicideSquad_KTJL.exe.\r\n\r\n![Attached Image](assets/suicide-squad-kill-the-justice-league-315210_1534621979926331442.png)\r\n"
+  },
+  {
+    "id": "vbs",
+    "appId": null,
+    "title": "#VBS",
+    "game": "VBS",
+    "desc": "Guide Disable Windows Hello",
+    "tags": [
+      "general"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-08-04",
+    "content": "\r\n# #VBS\r\n\r\n## Guide Disable Windows Hello\r\n\r\nhttps://www.youtube.com/watch?v=Vzm2YQDcsfw\r\n\r\n![Attached Image](assets/vbs_1534219090212688134.jpg)\r\n\r\n---\r\n\r\n#VBS\r\n"
+  },
+  {
+    "id": "jurassic-world-evolution-3-2958130",
+    "appId": 2958130,
+    "title": "Jurassic world Evolution 3 - 2958130",
+    "game": "Jurassic world Evolution 3",
+    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-08-04",
+    "content": "\r\n# Jurassic world Evolution 3 - 2958130\r\n\r\n## **Prequisites Guide**\r\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \r\n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\r\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\r\n3. Check Virtualization Enable/Disable\r\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\r\n*if not found that words mean is been disabled\r\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\r\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\r\n6. Press F7(driver Signature Enforcement)\r\n7. Add Game From SUO\r\n8. Download game** [GAMENAME]** from Steam\r\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\r\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\r\n\r\n---\r\n\r\n# game updated to latest 1.4.2 version, \r\n1. redownload from server\r\n2. redo another hypervisor bypass \r\nto get latest update\r\n"
+  },
+  {
+    "id": "metaphor-refantazio-2679460",
+    "appId": 2679460,
+    "title": "Metaphor: ReFantazio - 2679460",
+    "game": "Metaphor: ReFantazio",
+    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-08-04",
+    "content": "\r\n# Metaphor: ReFantazio - 2679460\r\n\r\n## **Prequisites Guide**\r\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \r\n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\r\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\r\n3. Check Virtualization Enable/Disable\r\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\r\n*if not found that words mean is been disabled\r\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\r\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\r\n6. Press F7(driver Signature Enforcement)\r\n7. Add Game From SUO\r\n8. Download game** [GAMENAME]** from Steam\r\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\r\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\r\n"
+  },
+  {
+    "id": "far-cry-5-552520",
+    "appId": 552520,
+    "title": "Far Cry 5 - 552520",
+    "game": "Far Cry 5",
+    "desc": "After Bypass, run game from SUO, choose exe FarCry5.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-08-02",
+    "content": "\r\n# Far Cry 5 - 552520\r\n\r\nAfter Bypass, run game from SUO, choose exe FarCry5.exe\r\n\r\n![Attached Image](assets/far-cry-5-552520_1533373335499440239.png)\r\n"
   }
 ]

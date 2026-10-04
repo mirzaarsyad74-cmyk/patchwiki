@@ -162,9 +162,10 @@ function extractAppId(filename, title, game, body) {
   if (mIso) return parseInt(mIso[1], 10);
 
   // 8. Known game title lookup
-  const cleanTitleLower = (game || title || '').toLowerCase().replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
+  const cleanTitleLower = (game || title || '').toLowerCase().replace(/['’]/g, '').replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
   for (const [knownName, knownId] of Object.entries(KNOWN_GAME_APPIDS)) {
-    if (cleanTitleLower.includes(knownName) || knownName.includes(cleanTitleLower)) {
+    const cleanKnown = knownName.toLowerCase().replace(/['’]/g, '').replace(/[^a-z0-9 ]/g, ' ').replace(/\s+/g, ' ').trim();
+    if (cleanTitleLower.includes(cleanKnown) || cleanKnown.includes(cleanTitleLower)) {
       return knownId;
     }
   }
@@ -174,6 +175,9 @@ function extractAppId(filename, title, game, body) {
 
 function cleanGameName(rawGame, rawTitle, filename) {
   let g = (rawGame || rawTitle || filename || '').trim();
+  if (/^how\s+to\b/i.test(g) || /^#?(?:HV|VBS|Cloud|Steam)/i.test(g)) {
+    return g.replace(/^#+\s*/, '').replace(/\s+/g, ' ').trim();
+  }
   g = g.replace(/^#+\s*/, '');
   g = g.replace(/^\s*[\(\[]\s*\d{3,9}\s*[\)\]]\s*/, '');
   g = g.replace(/^Added\s+(?:DENUVO?|DENUV0?|DENU|EA)?\s*(?:bypass\s+for\s+|bypass\s+|online\s+patch\s+for\s+|online\s+patch\s+)?/i, '');
@@ -188,7 +192,7 @@ function cleanGameName(rawGame, rawTitle, filename) {
   g = g.replace(/\b(?:ONLINE\s+PATCH|ONLINE\s+FIX|ONLINE\s+CO-OP|ONLINE\s+METHOD|ONLINE)\b/gi, '');
   g = g.replace(/\b(?:SEAMLESS\s+CO-OP|MULTIPLAYER\s+MOD\s+TUTORIAL|MULTIPLAYER)\b/gi, '');
   g = g.replace(/\b(?:BYPASS|GUIDE|TUTORIAL|FIX|UPDATED\s+INSTRUCTION|UPDATE\s+[\d.]+|RELEASE\s+DATE[^\)]*)\b/gi, '');
-  g = g.replace(/^[-:\s,()\[\]]+|[-:\s,()\[\]]+$/g, '').trim();
+  g = g.replace(/^[-:\s,()\[\]]+|[-:\s,()\[\]]+$/g, '').replace(/\s+/g, ' ').trim();
   if (g.includes('(') && !g.includes(')')) g += ')';
   return g || rawGame || rawTitle || 'Unknown Game';
 }

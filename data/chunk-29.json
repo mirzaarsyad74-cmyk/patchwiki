@@ -1,5 +1,47 @@
 [
   {
+    "id": "2622380-elden-ring-nightreign-co-op-patch-to-v-1-1-0",
+    "appId": 2622380,
+    "title": "2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
+    "game": "ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
+    "desc": "Open folder after patching, run game from nrsclauncher.exe",
+    "tags": [
+      "coop"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\r\n# 2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0\r\n\r\n-Open folder after patching, run game from nrsc_launcher.exe\r\n\r\n---\r\n\r\nUpdated seamless co-op to v1.1.2\r\n"
+  },
+  {
+    "id": "3240220-gta-v-enhanced-fix",
+    "appId": 3240220,
+    "title": "3240220 GTA V ENHANCED FIX",
+    "game": "GTA V ENHANCED",
+    "desc": "HERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\r\n# 3240220 GTA V ENHANCED FIX\r\n\r\nHERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473\r\n\r\n---\r\n\r\nMissing PlayGTAV.exe earlier\r\n\r\n-Patch and run game from Steam.\r\n\r\n---\r\n\r\n3240220 GTA V ENHANCED FIX\r\n"
+  },
+  {
+    "id": "394510-helldivers-1-online-patch",
+    "appId": 394510,
+    "title": "394510 HELLDIVERS 1 ONLINE PATCH",
+    "game": "HELLDIVERS 1",
+    "desc": "After patching, open game folder, launch from Launcher.exe",
+    "tags": [
+      "online"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\r\n# 394510 HELLDIVERS 1 ONLINE PATCH\r\n\r\n-After patching, open game folder, launch from Launcher.exe\r\n"
+  },
+  {
     "id": "779340-total-war-3-kingdoms-bypass",
     "appId": 779340,
     "title": "779340 TOTAL WAR: 3 KINGDOMS BYPASS",
@@ -129,6 +171,20 @@
     "content": "\r\n# 1238840 BATTLEFIELD 1 BYPASS\r\n\r\n-Download is pretty large around 300mb\r\n\r\n-After download patch, run game from bf1.exe inside the game installation folder.\r\n"
   },
   {
+    "id": "1272080-pay-day-3",
+    "appId": 1272080,
+    "title": "1272080 PAY DAY 3",
+    "game": "PAY DAY 3",
+    "desc": "<:5726toothymaw:1239134161835655198",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\r\n# 1272080 PAY DAY 3\r\n\r\n<:5726toothymaw:1239134161835655198>\r\n"
+  },
+  {
     "id": "1359090-zero-hour-bypass",
     "appId": 1359090,
     "title": "1359090 ZERO HOUR BYPASS",
@@ -226,62 +282,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\r\n# 287700 METAL GEAR SOLID V: THE PHANTOM PAIN\r\n\r\nExclusive for Onennabe\r\n\r\nPatch and then play from steam\r\n\r\n![Attached Image](assets/287700-metal-gear-solid-v-the-phantom-pain_1500854126832255158.png)\r\n"
-  },
-  {
-    "id": "3501070-car-service-together",
-    "appId": 3501070,
-    "title": "3501070 CAR SERVICE TOGETHER",
-    "game": "CAR SERVICE TOGETHER",
-    "desc": "Tutorial and guide for CAR SERVICE TOGETHER.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\r\n# 3501070 CAR SERVICE TOGETHER\r\n\r\n-run game from Steam\r\n"
-  },
-  {
-    "id": "3569500-card-shop-simulator-online",
-    "appId": 3569500,
-    "title": "3569500 CARD SHOP SIMULATOR ONLINE",
-    "game": "CARD SHOP SIMULATOR",
-    "desc": "Tutorial and guide for CARD SHOP SIMULATOR.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\r\n# 3569500 CARD SHOP SIMULATOR ONLINE\r\n\r\n-run game from Steam\r\n"
-  },
-  {
-    "id": "3681010-nioh-3-online-patch",
-    "appId": 3681010,
-    "title": "3681010 NIOH 3 ONLINE PATCH",
-    "game": "NIOH 3",
-    "desc": "After patch, play game from Steam,",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\r\n# 3681010 NIOH 3 ONLINE PATCH\r\n\r\n-After patch, play game from Steam,\r\n-Make sure antivirus is disabled before starting game,\r\n-Progress through story first before unlocking story co-op mode.\r\n"
-  },
-  {
-    "id": "47790-medal-of-honor-ea-bypass",
-    "appId": 47790,
-    "title": "47790 MEDAL OF HONOR EA BYPASS",
-    "game": "MEDAL OF HONOR",
-    "desc": "Tutorial and guide for MEDAL OF HONOR.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\r\n# 47790 MEDAL OF HONOR EA BYPASS\r\n\r\nPlay from Steam.\r\n"
   }
 ]

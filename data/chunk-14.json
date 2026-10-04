@@ -1,5 +1,61 @@
 [
   {
+    "id": "gladio-mori-2689120",
+    "appId": 2689120,
+    "title": "Gladio Mori Online Fix",
+    "game": "Gladio Mori",
+    "desc": "Gladio Mori Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Gladio Mori Online Fix\r\n\r\n# Gladio Mori Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "contractville-2698780",
+    "appId": 2698780,
+    "title": "ContractVille Online Fix",
+    "game": "ContractVille",
+    "desc": "ContractVille Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# ContractVille Online Fix\r\n\r\n# ContractVille Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "rooftops-alleys-the-parkour-game-2703850",
+    "appId": 2703850,
+    "title": "Rooftops & Alleys: The Parkour Game Online Fix",
+    "game": "Rooftops & Alleys: The Parkour Game",
+    "desc": "Rooftops & Alleys: The Parkour Game Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Rooftops & Alleys: The Parkour Game Online Fix\r\n\r\n# Rooftops & Alleys: The Parkour Game Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "american-truck-simulator-270880",
+    "appId": 270880,
+    "title": "American Truck Simulator Online Fix",
+    "game": "American Truck Simulator",
+    "desc": "American Truck Simulator Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# American Truck Simulator Online Fix\r\n\r\n# American Truck Simulator Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
     "id": "kalpa-cosmic-symphony-2717010",
     "appId": 2717010,
     "title": "KALPA: Cosmic Symphony Bypass",
@@ -222,61 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\r\n# Another Try 2 Bypass\r\n\r\n# Another Try 2 Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
-  },
-  {
-    "id": "blood-typers-2790330",
-    "appId": 2790330,
-    "title": "Blood Typers Online Fix",
-    "game": "Blood Typers",
-    "desc": "Blood Typers Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# Blood Typers Online Fix\r\n\r\n# Blood Typers Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
-  },
-  {
-    "id": "starground-2793380",
-    "appId": 2793380,
-    "title": "Starground Online Fix",
-    "game": "Starground",
-    "desc": "Starground Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# Starground Online Fix\r\n\r\n# Starground Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
-  },
-  {
-    "id": "planetaries-2800450",
-    "appId": 2800450,
-    "title": "Planetaries Online Fix",
-    "game": "Planetaries",
-    "desc": "Planetaries Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# Planetaries Online Fix\r\n\r\n# Planetaries Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
-  },
-  {
-    "id": "school-666-2802820",
-    "appId": 2802820,
-    "title": "School 666 Online Fix",
-    "game": "School 666",
-    "desc": "School 666 Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# School 666 Online Fix\r\n\r\n# School 666 Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
   }
 ]

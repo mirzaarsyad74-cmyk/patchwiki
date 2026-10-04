@@ -1,5 +1,89 @@
 [
   {
+    "id": "outbrk-1107320",
+    "appId": 1107320,
+    "title": "OUTBRK Online Fix",
+    "game": "OUTBRK",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# OUTBRK Online Fix\r\n\r\n# OUTBRK Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "l-a-noire-110800",
+    "appId": 110800,
+    "title": "L.A. Noire Online Fix",
+    "game": "L.A. Noire",
+    "desc": "L.A. Noire Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# L.A. Noire Online Fix\r\n\r\n# L.A. Noire Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "power-rangers-battle-for-the-grid-1110100",
+    "appId": 1110100,
+    "title": "Power Rangers: Battle for the Grid Online Fix",
+    "game": "Power Rangers: Battle for the Grid",
+    "desc": "Power Rangers: Battle for the Grid Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Power Rangers: Battle for the Grid Online Fix\r\n\r\n# Power Rangers: Battle for the Grid Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "persona-4-golden-1113000",
+    "appId": 1113000,
+    "title": "Persona 4 Golden Bypass",
+    "game": "Persona 4 Golden",
+    "desc": "Persona 4 Golden Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Persona 4 Golden Bypass\r\n\r\n# Persona 4 Golden Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "rail-route-1124180",
+    "appId": 1124180,
+    "title": "Rail Route Bypass",
+    "game": "Rail Route",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Rail Route Bypass\r\n\r\n# Rail Route Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "humankind-1124300",
+    "appId": 1124300,
+    "title": "HUMANKIND™ Online Fix",
+    "game": "HUMANKIND™",
+    "desc": "HUMANKIND™ Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# HUMANKIND™ Online Fix\r\n\r\n# HUMANKIND™ Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
     "id": "nascar-heat-4-1127980",
     "appId": 1127980,
     "title": "NASCAR Heat 4  Bypass",
@@ -194,89 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\r\n# House Flipper 2 Online Fix\r\n\r\n# House Flipper 2 Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
-  },
-  {
-    "id": "the-dark-pictures-anthology-little-hope-1194630",
-    "appId": 1194630,
-    "title": "The Dark Pictures Anthology: Little Hope Online Fix",
-    "game": "The Dark Pictures Anthology: Little Hope",
-    "desc": "The Dark Pictures Anthology: Little Hope Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# The Dark Pictures Anthology: Little Hope Online Fix\r\n\r\n# The Dark Pictures Anthology: Little Hope Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
-  },
-  {
-    "id": "deathground-1200770",
-    "appId": 1200770,
-    "title": "Deathground Online Fix",
-    "game": "Deathground",
-    "desc": "Deathground Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# Deathground Online Fix\r\n\r\n# Deathground Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
-  },
-  {
-    "id": "enshrouded-1203620",
-    "appId": 1203620,
-    "title": "Enshrouded Online Fix",
-    "game": "Enshrouded",
-    "desc": "Enshrouded Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# Enshrouded Online Fix\r\n\r\n# Enshrouded Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
-  },
-  {
-    "id": "grand-theft-auto-iv-the-complete-edition-12210",
-    "appId": 12210,
-    "title": "Grand Theft Auto IV: The Complete Edition Bypass",
-    "game": "Grand Theft Auto IV: The Complete Edition",
-    "desc": "Grand Theft Auto IV: The Complete Edition Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# Grand Theft Auto IV: The Complete Edition Bypass\r\n\r\n# Grand Theft Auto IV: The Complete Edition Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
-  },
-  {
-    "id": "the-sims-4-1222670",
-    "appId": 1222670,
-    "title": "The Sims™ 4 Bypass",
-    "game": "The Sims™ 4",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# The Sims™ 4 Bypass\r\n\r\n# The Sims™ 4 Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
-  },
-  {
-    "id": "need-for-speed-heat-1222680",
-    "appId": 1222680,
-    "title": "Need for Speed™ Heat Bypass",
-    "game": "Need for Speed™ Heat",
-    "desc": "Need for Speed™ Heat Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\r\n# Need for Speed™ Heat Bypass\r\n\r\n# Need for Speed™ Heat Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
   }
 ]

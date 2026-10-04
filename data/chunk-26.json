@@ -1,51 +1,5 @@
 [
   {
-    "id": "jurassic-world-evolution-3-2958130",
-    "appId": 2958130,
-    "title": "Jurassic world Evolution 3 - 2958130",
-    "game": "Jurassic world Evolution 3",
-    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
-    "version": "1.0",
-    "date": "2026-08-04",
-    "content": "\r\n# Jurassic world Evolution 3 - 2958130\r\n\r\n## **Prequisites Guide**\r\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \r\n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\r\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\r\n3. Check Virtualization Enable/Disable\r\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\r\n*if not found that words mean is been disabled\r\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\r\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\r\n6. Press F7(driver Signature Enforcement)\r\n7. Add Game From SUO\r\n8. Download game** [GAMENAME]** from Steam\r\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\r\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\r\n\r\n---\r\n\r\n# game updated to latest 1.4.2 version, \r\n1. redownload from server\r\n2. redo another hypervisor bypass \r\nto get latest update\r\n"
-  },
-  {
-    "id": "metaphor-refantazio-2679460",
-    "appId": 2679460,
-    "title": "Metaphor: ReFantazio - 2679460",
-    "game": "Metaphor: ReFantazio",
-    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
-    "version": "1.0",
-    "date": "2026-08-04",
-    "content": "\r\n# Metaphor: ReFantazio - 2679460\r\n\r\n## **Prequisites Guide**\r\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \r\n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\r\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\r\n3. Check Virtualization Enable/Disable\r\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\r\n*if not found that words mean is been disabled\r\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\r\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\r\n6. Press F7(driver Signature Enforcement)\r\n7. Add Game From SUO\r\n8. Download game** [GAMENAME]** from Steam\r\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\r\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\r\n"
-  },
-  {
-    "id": "far-cry-5-552520",
-    "appId": 552520,
-    "title": "Far Cry 5 - 552520",
-    "game": "Far Cry 5",
-    "desc": "After Bypass, run game from SUO, choose exe FarCry5.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-08-02",
-    "content": "\r\n# Far Cry 5 - 552520\r\n\r\nAfter Bypass, run game from SUO, choose exe FarCry5.exe\r\n\r\n![Attached Image](assets/far-cry-5-552520_1533373335499440239.png)\r\n"
-  },
-  {
     "id": "no-man-s-sky-275850",
     "appId": 275850,
     "title": "No Man's Sky - 275850",
@@ -73,20 +27,6 @@
     "version": "1.0",
     "date": "2026-08-02",
     "content": "\r\n# Red Dead Redemption - 2668510\r\n\r\nAfter Bypass, run game from SUO, choose .exe, choose PlayRDR.exe, or open folder and run game from the folder.\r\n\r\n![Attached Image](assets/red-dead-redemption-2668510_1533374516762382407.png)\r\n"
-  },
-  {
-    "id": "responding-2658040",
-    "appId": 2658040,
-    "title": "Responding - 2658040",
-    "game": "Responding",
-    "desc": "To be able to play this game, go to the SUO  Library  find the game Responding  Enable Online Function",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-08-02",
-    "content": "\r\n# Responding - 2658040\r\n\r\nTo be able to play this game, go to the SUO > Library > find the game Responding > Enable Online Function\r\n\r\n-# but this game is shit\r\n"
   },
   {
     "id": "the-dark-pictures-anthology-house-of-ashes-1281590",
@@ -134,7 +74,7 @@
     "id": "how-to-fix-cloud-sync-error",
     "appId": null,
     "title": "How To fix Cloud sync Error",
-    "game": "How To  Cloud sync Error",
+    "game": "How To Cloud sync Error",
     "desc": "Steam  setting  Cloud  Enable Steam Cloud  off/disable",
     "tags": [
       "general"
@@ -291,5 +231,63 @@
     "version": "1.0",
     "date": "2026-07-04",
     "content": "\r\n# TOTAL WAR SAGA : TROY - 1099410\r\n\r\n**Unlocking Game and Preparation**\r\n1. Unlock Game in Steam Unlock\r\n2. Install Game \r\n3. Follow guide in  https://discord.com/channels/333191744873299978/1499122656686116944\r\na. Enable Virtualization\r\nb. Disable Memory Core integrity\r\nc. Disable Driver Signature Enforcement\r\n\r\n**For easier where and which step you havent do, download this tool.**\r\n1. Download #HV Tools https://discord.com/channels/333191744873299978/1512676091373031507\r\n2. Run HV Tools and then see which one is in red text, you know that you havent done the step.\r\n\r\nRun game from HV-PlugNPlay.bat after all the above step\r\n\r\n![Attached Image](assets/total-war-saga-troy-1099410_1522969637854248980.png)\r\n\r\n---\r\n\r\n## **Prequisites Guide**\r\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \r\n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\r\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\r\n3. Check Virtualization Enable/Disable\r\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\r\n*if not found that words mean is been disabled\r\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\r\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\r\n6. Press F7(driver Signature Enforcement)\r\n7. Add Game From SUO\r\n8. Download game** [GAMENAME]** from Steam\r\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\r\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\r\n"
+  },
+  {
+    "id": "f1-22-1692250",
+    "appId": 1692250,
+    "title": "F1 22 - 1692250",
+    "game": "F1 22",
+    "desc": "Unlock the game via Steam Unlock",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-07-02",
+    "content": "\r\n# F1 22 - 1692250\r\n\r\nUnlock the game via Steam Unlock\r\n1. Click Update Game in Library if you previously downloaded it via other method\r\n2. Bypass the game\r\n3. Open the game Folder\r\n4. Delete 2 things\r\n- sl.dlss.dll\r\n- egodumper.exe\r\n5. Run game from Steam.\r\n\r\n![Attached Image](assets/f1-22-1692250_1522183738409353346.png)\r\n"
+  },
+  {
+    "id": "assassin-s-creed-rogue-311560",
+    "appId": 311560,
+    "title": "Assassin's Creed Rogue - 311560",
+    "game": "Assassin's Creed Rogue",
+    "desc": "1) Unlock the Game, Make sure the game is locked under Game update section in SUO (SteamUnlock Onennabe)",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-06-30",
+    "content": "\r\n# Assassin's Creed Rogue - 311560\r\n\r\n1) Unlock the Game, Make sure the game is locked under Game update section in SUO (SteamUnlock Onennabe) \r\n\r\n2) Install, Off Antivirus and bypass the game as pernormal. \r\nOpen the folder after successful bypass from there either double click or open as administrator (LumaPlay_x64.exe ). \r\n\r\nDisclaimer : DLC won't work\r\n\r\nThanks. Have a nice day <:5726toothymaw:1239134161835655198>\r\n\r\n![Attached Image](assets/assassin-s-creed-rogue-311560_1521542257180934144.png)\r\n"
+  },
+  {
+    "id": "solo-leveling-2373990",
+    "appId": 2373990,
+    "title": "Solo Leveling 2373990",
+    "game": "Solo Leveling 2373990",
+    "desc": "Game is not online, the bypass is just merely making the game offline, no you cannot play with friends. Bypass the game and enjoy Solo Leveling, uh i mean.. I m",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-06-29",
+    "content": "\r\n# Solo Leveling 2373990\r\n\r\nGame is not online, the bypass is just merely making the game offline, no you cannot play with friends. Bypass the game and enjoy Solo Leveling, uh i mean.. I mean playing solo..\r\n\r\n![Attached Image](assets/solo-leveling-2373990_1521001516268388513.png)\r\n\r\n---\r\n\r\nSolo Leveling 2373990\r\n"
+  },
+  {
+    "id": "responding-2658040",
+    "appId": 2658040,
+    "title": "RESPONDING - 2658040",
+    "game": "RESPONDING",
+    "desc": "Make sure game has been Enable Game Auto Update in Tools Section.",
+    "tags": [
+      "online",
+      "crack",
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-06-28",
+    "content": "\r\n# RESPONDING - 2658040\r\n\r\nDone install \r\n\r\nMake sure game has been Enable Game Auto Update in Tools Section. \r\n\r\nEnable Online Function in games library at SUO ( SteamUnlock Onennabe.\r\n\r\nPlay from Steam \r\n\r\nhttps://steamdb.info/tech/SDK/EpicOnlineServices\r\n\r\nIf game found in this list and unable to launch/play online try \"Enable Online Fix\"\r\n\r\n![Attached Image](assets/responding-2658040_1520648218558599289.png)\r\n"
   }
 ]

@@ -1,5 +1,90 @@
 [
   {
+    "id": "minecraft-dungeon-2-1912410",
+    "appId": 1912410,
+    "title": "Minecraft Dungeon 2 - 1912410",
+    "game": "Minecraft Dungeon 2",
+    "desc": "Make sure Game Already Locked Version(by default is locked)",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-10-04"
+  },
+  {
+    "id": "dying-light-the-beast-3008130",
+    "appId": 3008130,
+    "title": "Dying Light: The Beast - 3008130",
+    "game": "Dying Light: The Beast",
+    "desc": "1. Download EPIC Games Store at https://store.epicgames.com/",
+    "tags": [
+      "online"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-10-02"
+  },
+  {
+    "id": "ace-combat-8-wings-of-theve-2288380",
+    "appId": 2288380,
+    "title": "ACE COMBAT 8: WINGS OF THEVE - 2288380",
+    "game": "ACE COMBAT 8: WINGS OF THEVE",
+    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-10-01"
+  },
+  {
+    "id": "fc-27-4080220",
+    "appId": 4080220,
+    "title": "FC 27 - 4080220",
+    "game": "FC 27",
+    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-09-28"
+  },
+  {
+    "id": "dragon-s-dogma-2-2054970",
+    "appId": 2054970,
+    "title": "Dragon's Dogma 2- 2054970",
+    "game": "Dragon's Dogma 2",
+    "desc": "1. Close down steam completely, exit Steam client",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-09-10"
+  },
+  {
+    "id": "onimusha-way-of-the-sword-2638890",
+    "appId": 2638890,
+    "title": "Onimusha: Way of the Sword - 2638890",
+    "game": "Onimusha: Way of the Sword",
+    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-09-06"
+  },
+  {
     "id": "planet-coaster-493340",
     "appId": 493340,
     "title": "PLANET COASTER - 493340",
@@ -1519,19 +1604,6 @@
     "tags": [
       "drm",
       "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11"
-  },
-  {
-    "id": "sengoku-dynasty-1702010",
-    "appId": 1702010,
-    "title": "Sengoku Dynasty Bypass",
-    "game": "Sengoku Dynasty",
-    "desc": "Sengoku Dynasty Bypass",
-    "tags": [
-      "bypass"
     ],
     "author": "ProSub",
     "version": "1.0",
@@ -3073,19 +3145,6 @@
     "date": "2026-08-11"
   },
   {
-    "id": "watch-dogs-243470",
-    "appId": 243470,
-    "title": "Watch_Dogs Bypass",
-    "game": "Watch_Dogs",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11"
-  },
-  {
     "id": "megaloot-2440380",
     "appId": 2440380,
     "title": "Megaloot Online Fix",
@@ -4426,19 +4485,6 @@
     "date": "2026-08-11"
   },
   {
-    "id": "dying-light-the-beast-3008130",
-    "appId": 3008130,
-    "title": "Dying Light: The Beast Online Fix",
-    "game": "Dying Light: The Beast",
-    "desc": "Dying Light: The Beast Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11"
-  },
-  {
     "id": "double-dragon-revive-3012220",
     "appId": 3012220,
     "title": "Double Dragon Revive Online Fix",
@@ -5560,7 +5606,7 @@
     "id": "rituals-of-lust-and-sin-4039410",
     "appId": 4039410,
     "title": "Rituals of Lust and Sin Bypass",
-    "game": "Rituals of Lust and Sin",
+    "game": "Rituals of Lust and Sin",
     "desc": "Rituals of Lust and Sin Bypass",
     "tags": [
       "bypass"
@@ -6598,45 +6644,6 @@
     "date": "2026-08-07"
   },
   {
-    "id": "pay-day-3-1272080",
-    "appId": 1272080,
-    "title": "PAY DAY 3",
-    "game": "PAY DAY 3",
-    "desc": "STEP BY STEP FOR PAY DAY 3",
-    "tags": [
-      "online"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "1.0",
-    "date": "2026-08-05"
-  },
-  {
-    "id": "monster-hunter-stories-2-wings-of-ruin-1277400",
-    "appId": 1277400,
-    "title": "1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "game": "MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "desc": "1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "tags": [
-      "online"
-    ],
-    "author": "Anonymous",
-    "version": "1.0",
-    "date": "2026-08-05"
-  },
-  {
-    "id": "fifa-22-1506830",
-    "appId": 1506830,
-    "title": "FIFA 22",
-    "game": "FIFA 22",
-    "desc": "- After patching, open folder and start game using FIFA22.exe",
-    "tags": [
-      "online"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "1.0",
-    "date": "2026-08-05"
-  },
-  {
     "id": "crimson-desert-3321460-2419900",
     "appId": 2419900,
     "title": "Crimson Desert - 3321460",
@@ -6652,67 +6659,13 @@
   },
   {
     "id": "assassin-s-creed-shadows-assassin-s-creed-shadows",
-    "appId": null,
+    "appId": 3159330,
     "title": "A guide to play Assassin's Creed Shadow",
     "game": "Assassin's Creed Shadows",
     "desc": "A guide to play Assassin's Creed Shadow",
     "tags": [
       "bypass",
       "drm"
-    ],
-    "author": "yuumi",
-    "version": "1.0",
-    "date": "2026-08-05"
-  },
-  {
-    "id": "battlefield-6-2807960",
-    "appId": 2807960,
-    "title": "Battlefield 6",
-    "game": "Battlefield 6",
-    "desc": "- After install game.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "1.0",
-    "date": "2026-08-05"
-  },
-  {
-    "id": "carx-street-1114150",
-    "appId": 1114150,
-    "title": "CARX STREET BYPASS version 1.10.1",
-    "game": "CARX STREET",
-    "desc": "CARX STREET BYPASS version 1.10.1",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "CARX STREET BYPASS version 1.10.1",
-    "date": "2026-08-05"
-  },
-  {
-    "id": "crimson-desert-3321460",
-    "appId": 3321460,
-    "title": "Crimson Desert",
-    "game": "Crimson Desert",
-    "desc": "Crimson Desert - 3321460",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "Kaunter Pertanyaan",
-    "version": "1.0",
-    "date": "2026-08-05"
-  },
-  {
-    "id": "forza-horizon-6-2483190",
-    "appId": 2483190,
-    "title": "Forza Horizon 6 Tutorial",
-    "game": "Forza Horizon 6",
-    "desc": "Forza Horizon 6 Tutorial",
-    "tags": [
-      "drm",
-      "online"
     ],
     "author": "yuumi",
     "version": "1.0",
@@ -6747,13 +6700,13 @@
   {
     "id": "palworld-1623730",
     "appId": 1623730,
-    "title": "PALWORLD",
-    "game": "PALWORLD",
+    "title": "Palworld  - 1623730",
+    "game": "Palworld",
     "desc": "1. Download EPIC Games Store at https://store.epicgames.com/",
     "tags": [
       "online"
     ],
-    "author": "Kaunter Pertanyaan",
+    "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-08-05"
   },
@@ -6769,6 +6722,19 @@
     "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-08-05"
+  },
+  {
+    "id": "vbs",
+    "appId": null,
+    "title": "#VBS",
+    "game": "VBS",
+    "desc": "Guide Disable Windows Hello",
+    "tags": [
+      "general"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-08-04"
   },
   {
     "id": "jurassic-world-evolution-3-2958130",
@@ -6841,19 +6807,6 @@
     "date": "2026-08-02"
   },
   {
-    "id": "responding-2658040",
-    "appId": 2658040,
-    "title": "Responding - 2658040",
-    "game": "Responding",
-    "desc": "To be able to play this game, go to the SUO  Library  find the game Responding  Enable Online Function",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-08-02"
-  },
-  {
     "id": "the-dark-pictures-anthology-house-of-ashes-1281590",
     "appId": 1281590,
     "title": "The Dark Pictures Anthology: House of Ashes - 1281590",
@@ -6896,7 +6849,7 @@
     "id": "how-to-fix-cloud-sync-error",
     "appId": null,
     "title": "How To fix Cloud sync Error",
-    "game": "How To  Cloud sync Error",
+    "game": "How To Cloud sync Error",
     "desc": "Steam  setting  Cloud  Enable Steam Cloud  off/disable",
     "tags": [
       "general"
@@ -7083,6 +7036,21 @@
     "date": "2026-06-29"
   },
   {
+    "id": "responding-2658040",
+    "appId": 2658040,
+    "title": "RESPONDING - 2658040",
+    "game": "RESPONDING",
+    "desc": "Make sure game has been Enable Game Auto Update in Tools Section.",
+    "tags": [
+      "online",
+      "crack",
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-06-28"
+  },
+  {
     "id": "hogwarts-legacy-990080",
     "appId": 990080,
     "title": "Hogwarts Legacy - 990080",
@@ -7181,6 +7149,19 @@
     "date": "2026-06-07"
   },
   {
+    "id": "hv-tools",
+    "appId": null,
+    "title": "#HV Tools",
+    "game": "HV Tools",
+    "desc": "• Automatically Detects Motherboard Brand",
+    "tags": [
+      "bypass"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-06-06"
+  },
+  {
     "id": "nba-2k14-255480",
     "appId": 255480,
     "title": "NBA 2K14 - 255480",
@@ -7264,6 +7245,21 @@
     "date": "2026-05-26"
   },
   {
+    "id": "forza-horizon-6-2483190-release-date-19-05-2026",
+    "appId": 2483190,
+    "title": "Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)",
+    "game": "Forza Horizon 6",
+    "desc": "Press Win + R  steam://install/480",
+    "tags": [
+      "online",
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-17"
+  },
+  {
     "id": "blades-of-fire-2091020",
     "appId": 2091020,
     "title": "Blades Of Fire - 2091020",
@@ -7280,7 +7276,7 @@
     "id": "appid-812140-assassins-creed-odyssey",
     "appId": 812140,
     "title": "AppID : 812140 (Assassins Creed Odyssey)",
-    "game": "AppID  (Assassins Creed Odyssey)",
+    "game": "AppID (Assassins Creed Odyssey)",
     "desc": "After bypass, click !RUNTHIS from inside game folder",
     "tags": [
       "bypass"
@@ -7374,6 +7370,32 @@
     "date": "2026-05-06"
   },
   {
+    "id": "1702010-sengoku-dynasty",
+    "appId": 1702010,
+    "title": "1702010 SENGOKU DYNASTY",
+    "game": "SENGOKU DYNASTY",
+    "desc": "Tutorial and guide for SENGOKU DYNASTY.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "243470-watch-dogs",
+    "appId": 243470,
+    "title": "243470 WATCH DOGS",
+    "game": "WATCH DOGS",
+    "desc": "Tutorial and guide for WATCH DOGS.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06"
+  },
+  {
     "id": "311210-cod-black-ops-3-online-bypass",
     "appId": 311210,
     "title": "311210 COD BLACK OPS 3 ONLINE BYPASS",
@@ -7416,7 +7438,7 @@
     "id": "1134570-f1-2021-bypass-denuv",
     "appId": 1134570,
     "title": "1134570 F1 2021 BYPASS DENUV",
-    "game": "F1 2021  DENUV",
+    "game": "F1 2021 DENUV",
     "desc": "Tutorial and guide for F1 2021  DENUV.",
     "tags": [
       "bypass"
@@ -7465,6 +7487,19 @@
     "date": "2026-05-05"
   },
   {
+    "id": "1277400-monster-hunter-stories-2-wings-of-ruin-online",
+    "appId": 1277400,
+    "title": "1277400 MONSTER HUNTER STORIES 2: WINGS OF RUIN ONLINE",
+    "game": "MONSTER HUNTER STORIES 2: WINGS OF RUIN",
+    "desc": "After patching, start game from Steam",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05"
+  },
+  {
     "id": "1313860-ea-sports-fifa-21-bypass",
     "appId": 1313860,
     "title": "1313860 EA SPORTS FIFA 21 BYPASS",
@@ -7483,6 +7518,19 @@
     "title": "1328660 NSF HOT PURSUIT REMASTERED DENUV & EA BYPASS",
     "game": "NSF HOT PURSUIT REMASTERED DENUV &",
     "desc": "After patching, go inside the game foder, start game with NFS11Remastered.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "1506830-fifa-22-bypass",
+    "appId": 1506830,
+    "title": "1506830 FIFA 22 BYPASS",
+    "game": "FIFA 22",
+    "desc": "After patching, open folder and start game using FIFA22.exe",
     "tags": [
       "bypass"
     ],
@@ -7696,6 +7744,19 @@
     "desc": "Download is pretty large around 300mb",
     "tags": [
       "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "1272080-pay-day-3",
+    "appId": 1272080,
+    "title": "1272080 PAY DAY 3",
+    "game": "PAY DAY 3",
+    "desc": "<:5726toothymaw:1239134161835655198",
+    "tags": [
+      "general"
     ],
     "author": "MinamiRX20",
     "version": "1.0",
@@ -8011,6 +8072,19 @@
     "date": "2026-05-02"
   },
   {
+    "id": "resident-evil-requiem-3764200",
+    "appId": 3764200,
+    "title": "Resident Evil Requiem - 3764200",
+    "game": "Resident Evil Requiem",
+    "desc": "Download Game, make sure game auto update is lock.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-02"
+  },
+  {
     "id": "1088850-marvel-s-guardians-of-the-galaxy-denuv-bypass",
     "appId": 1088850,
     "title": "(1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS",
@@ -8122,6 +8196,19 @@
     "title": "Added Monster Hunter: World Online- 582010",
     "game": "Monster Hunter: World",
     "desc": "After patch, open game folder and run the game via Launcher.exe",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "battlefield-6-2807960",
+    "appId": 2807960,
+    "title": "Battlefield 6 - 2807960",
+    "game": "Battlefield 6",
+    "desc": "Enter the game folder, you can use \"Downloaded Game\" button.",
     "tags": [
       "general"
     ],
@@ -8564,6 +8651,33 @@
     "date": "2026-04-29"
   },
   {
+    "id": "carx-street-1114150",
+    "appId": 1114150,
+    "title": "CarX Street - 1114150",
+    "game": "CarX Street",
+    "desc": "1. Download game Carx from Steam",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "crimson-desert-3321460",
+    "appId": 3321460,
+    "title": "Crimson Desert - 3321460",
+    "game": "Crimson Desert",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
     "id": "digimon-story-time-stranger-1984270",
     "appId": 1984270,
     "title": "Digimon Story Time Stranger - 1984270",
@@ -8633,6 +8747,21 @@
     "date": "2026-04-29"
   },
   {
+    "id": "how-to-bypass-denuvo-games-using-bypass-game-button",
+    "appId": null,
+    "title": "How to Bypass Denuvo Games using Bypass Game button?",
+    "game": "How to Denuvo Games using Game button?",
+    "desc": "Before Downloading game at steam make sure game already lock version at SUO",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
     "id": "name-sonic-racing-crossworlds-2486820",
     "appId": 2486820,
     "title": "Name: Sonic Racing: CrossWorlds - 2486820",
@@ -8664,7 +8793,7 @@
     "id": "paper-bride-series-from-1-6-online-check-bypass",
     "appId": null,
     "title": "Paper Bride Series from 1 - 6 online check bypass",
-    "game": "Paper Bride Series from 1 - 6  check",
+    "game": "Paper Bride Series from 1 - 6 check",
     "desc": "Download the attached, extract and copy all the folders and paste into Appdata/Roaming",
     "tags": [
       "online",
@@ -8717,7 +8846,7 @@
     "id": "rdr2-bypass-guide-1174180-red-dead-redemption-2",
     "appId": 1174180,
     "title": "RDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2",
-    "game": "RDR2   RED DEAD REDEMPTION 2",
+    "game": "RDR2 RED DEAD REDEMPTION 2",
     "desc": "run game using Launcher.exe",
     "tags": [
       "bypass"
@@ -8756,7 +8885,7 @@
     "id": "rise-of-the-ronin-online-co-op-play-1340990",
     "appId": 1340990,
     "title": "Rise of the Ronin Online Co-op play - 1340990",
-    "game": "Rise of the Ronin  play",
+    "game": "Rise of the Ronin play",
     "desc": "Play through prologue, and finished all the tutorial (took me good 1hour)",
     "tags": [
       "online",
@@ -8784,11 +8913,24 @@
     "id": "the-rogue-prince-of-persia-bypass-ubisoft-2717880",
     "appId": 2717880,
     "title": "The Rogue Prince of Persia Bypass ubisoft (2717880)",
-    "game": "The Rogue Prince of Persia  ubisoft",
+    "game": "The Rogue Prince of Persia ubisoft",
     "desc": "Run game from steam upon patch",
     "tags": [
       "bypass",
       "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "the-sims4-dlc-unlocker-1222670",
+    "appId": 1222670,
+    "title": "The Sims4 (DLC Unlocker) - 1222670",
+    "game": "The Sims4 (DLC Unlocker)",
+    "desc": "After patching, open the game installation folder,",
+    "tags": [
+      "bypass"
     ],
     "author": "MinamiRX20",
     "version": "1.0",

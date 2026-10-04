@@ -1,5 +1,77 @@
 [
   {
+    "id": "1693980-dead-space-remake-denu-bypass",
+    "appId": 1693980,
+    "title": "(1693980) DEAD SPACE REMAKE DENU BYPASS",
+    "game": "DEAD SPACE REMAKE",
+    "desc": "run game from steam after patch,",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\r\n# (1693980) DEAD SPACE REMAKE DENU BYPASS\r\n\r\n-run game from steam after patch,\r\n-wait for shader complete build.\r\n"
+  },
+  {
+    "id": "2129530-reanimal-online-co-op",
+    "appId": 2129530,
+    "title": "(2129530) REANIMAL ONLINE CO-OP",
+    "game": "REANIMAL",
+    "desc": "Just add friend pass from Steam Store and then play with your friend via normal steam invite",
+    "tags": [
+      "online",
+      "coop"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\r\n# (2129530) REANIMAL ONLINE CO-OP\r\n\r\n-Just add friend pass from Steam Store and then play with your friend via normal steam invite\r\n\r\n![Attached Image](assets/2129530-reanimal-online-co-op_1499261977397035098.png)\r\n"
+  },
+  {
+    "id": "2221920-ubisoft-bypass-for-immortals-fenyx-rising",
+    "appId": 2221920,
+    "title": "(2221920) UBISOFT BYPASS FOR IMMORTALS FENYX RISING",
+    "game": "IMMORTALS FENYX RISING",
+    "desc": "Open folder and run game from \"scimitarenginewin64vs2017dx11fx.exe\"",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\r\n# (2221920) UBISOFT BYPASS FOR IMMORTALS FENYX RISING\r\n\r\n-Open folder and run game from \"scimitar_engine_win64_vs2017_dx11_fx.exe\"\r\n"
+  },
+  {
+    "id": "629820-maneater-denuv-bypass",
+    "appId": 629820,
+    "title": "(629820) MANEATER DENUV BYPASS",
+    "game": "MANEATER",
+    "desc": "if cant run from steam, run from binaries/win64 folder,",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\r\n# (629820) MANEATER DENUV BYPASS\r\n\r\n-run game from steam,\r\n-if cant run from steam, run from binaries/win64 folder,\r\n-if can, means its only compatible with WIN 11\r\n"
+  },
+  {
+    "id": "637100-sonic-forces-denuv-bypass",
+    "appId": 637100,
+    "title": "(637100) SONIC FORCES DENUV BYPASS",
+    "game": "SONIC FORCES",
+    "desc": "Tutorial and guide for SONIC FORCES.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\r\n# (637100) SONIC FORCES DENUV BYPASS\r\n\r\n-run game from steam\r\n"
+  },
+  {
     "id": "added-monster-hunter-world-online-582010",
     "appId": 582010,
     "title": "Added Monster Hunter: World Online- 582010",
@@ -12,6 +84,20 @@
     "version": "1.0",
     "date": "2026-04-30",
     "content": "\r\n# Added Monster Hunter: World Online- 582010\r\n\r\n- After patch, open game folder and run the game via Launcher.exe\r\n"
+  },
+  {
+    "id": "battlefield-6-2807960",
+    "appId": 2807960,
+    "title": "Battlefield 6 - 2807960",
+    "game": "Battlefield 6",
+    "desc": "Enter the game folder, you can use \"Downloaded Game\" button.",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\r\n# Battlefield 6 - 2807960\r\n\r\n- After install game\r\n- Enter the game folder, you can use \"Downloaded Game\" button.\r\n - go inside folder Battlefield 6/SP/bf6.exe\r\n- Launch game from bf6.exe\r\n\r\nor \r\n\r\nUse Steam Unlock Onennabe and open the game panel. Click Play > Choose EXE > choose the bf6.exe that is located in SP/bf6.exe\r\n\r\n![Attached Image](assets/battlefield-6-2807960_1499284193539260557.png)\r\n\r\n---\r\n\r\n![Attached Image](assets/battlefield-6-2807960_1501181242626805791.png)\r\n"
   },
   {
     "id": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-1490890",
@@ -207,90 +293,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\r\n# (2951630) TOTAL WAR: PHARAOH DYNASTIES DENU BYPASS\r\n\r\n-run game from steam\r\n"
-  },
-  {
-    "id": "770240-pro-evolution-soccer-2019-denuvo-bypass",
-    "appId": 770240,
-    "title": "(770240) PRO EVOLUTION SOCCER 2019 DENUVO BYPASS",
-    "game": "PRO EVOLUTION SOCCER 2019",
-    "desc": "After patch run from Steam",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\r\n# (770240) PRO EVOLUTION SOCCER 2019 DENUVO BYPASS\r\n\r\n- After patch run from Steam\r\n"
-  },
-  {
-    "id": "816020-jump-force",
-    "appId": 816020,
-    "title": "(816020) JUMP FORCE",
-    "game": "JUMP FORCE",
-    "desc": "I fixed mine by reinstalling the AntiCheat software, can be found it \"yourinstalldrive\":\\SteamLibrary\\steamapps\\common\\JUMP FORCE\\EasyAntiCheat",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\r\n# (816020) JUMP FORCE\r\n\r\nI fixed mine by reinstalling the Anti-Cheat software, can be found it \"yourinstalldrive\":\\SteamLibrary\\steamapps\\common\\JUMP FORCE\\EasyAntiCheat\r\n\r\n![Attached Image](assets/816020-jump-force_1499097716683182261.png)\r\n"
-  },
-  {
-    "id": "added-bypass-for-lego-horizon-adventures-2428810",
-    "appId": 2428810,
-    "title": "Added bypass for LEGO Horizon Adventures- (2428810)",
-    "game": "LEGO Horizon Adventures",
-    "desc": "After patch, run from steam",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\r\n# Added bypass for LEGO Horizon Adventures- (2428810)\r\n\r\nAfter patch, run from steam\r\n"
-  },
-  {
-    "id": "added-cure-a-hospital-simulator-online-patch-2786550",
-    "appId": 2786550,
-    "title": "Added CURE - A Hospital Simulator online patch (2786550)",
-    "game": "CURE - A Hospital Simulator",
-    "desc": "try run from steam once patch or",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\r\n# Added CURE - A Hospital Simulator online patch (2786550)\r\n\r\n- try run from steam once patch or\r\n- open game folder and run from **Cure.exe**\r\n"
-  },
-  {
-    "id": "added-denu-bypass-for-doom-the-dark-ages-3017860",
-    "appId": 3017860,
-    "title": "Added DENU bypass for Doom: The Dark Ages - 3017860",
-    "game": "Doom: The Dark Ages",
-    "desc": "Run game from steam upon bypass game done",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\r\n# Added DENU bypass for Doom: The Dark Ages - 3017860\r\n\r\n- Run game from steam upon bypass game done\r\n"
-  },
-  {
-    "id": "added-earth-defense-force-6-2291060",
-    "appId": 2291060,
-    "title": "Added Earth Defense Force 6- 2291060",
-    "game": "rth Defense Force 6",
-    "desc": "login epic games pop up in browser, then go back to game after login.",
-    "tags": [
-      "online"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\r\n# Added Earth Defense Force 6- 2291060\r\n\r\n- After online patch\r\n- play game from steam\r\n- login epic games pop up in browser, then go back to game after login.\r\n"
   }
 ]

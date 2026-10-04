@@ -1,47 +1,5 @@
 [
   {
-    "id": "f1-22-1692250",
-    "appId": 1692250,
-    "title": "F1 22 - 1692250",
-    "game": "F1 22",
-    "desc": "Unlock the game via Steam Unlock",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-07-02",
-    "content": "\r\n# F1 22 - 1692250\r\n\r\nUnlock the game via Steam Unlock\r\n1. Click Update Game in Library if you previously downloaded it via other method\r\n2. Bypass the game\r\n3. Open the game Folder\r\n4. Delete 2 things\r\n- sl.dlss.dll\r\n- egodumper.exe\r\n5. Run game from Steam.\r\n\r\n![Attached Image](assets/f1-22-1692250_1522183738409353346.png)\r\n"
-  },
-  {
-    "id": "assassin-s-creed-rogue-311560",
-    "appId": 311560,
-    "title": "Assassin's Creed Rogue - 311560",
-    "game": "Assassin's Creed Rogue",
-    "desc": "1) Unlock the Game, Make sure the game is locked under Game update section in SUO (SteamUnlock Onennabe)",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-06-30",
-    "content": "\r\n# Assassin's Creed Rogue - 311560\r\n\r\n1) Unlock the Game, Make sure the game is locked under Game update section in SUO (SteamUnlock Onennabe) \r\n\r\n2) Install, Off Antivirus and bypass the game as pernormal. \r\nOpen the folder after successful bypass from there either double click or open as administrator (LumaPlay_x64.exe ). \r\n\r\nDisclaimer : DLC won't work\r\n\r\nThanks. Have a nice day <:5726toothymaw:1239134161835655198>\r\n\r\n![Attached Image](assets/assassin-s-creed-rogue-311560_1521542257180934144.png)\r\n"
-  },
-  {
-    "id": "solo-leveling-2373990",
-    "appId": 2373990,
-    "title": "Solo Leveling 2373990",
-    "game": "Solo Leveling 2373990",
-    "desc": "Game is not online, the bypass is just merely making the game offline, no you cannot play with friends. Bypass the game and enjoy Solo Leveling, uh i mean.. I m",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-06-29",
-    "content": "\r\n# Solo Leveling 2373990\r\n\r\nGame is not online, the bypass is just merely making the game offline, no you cannot play with friends. Bypass the game and enjoy Solo Leveling, uh i mean.. I mean playing solo..\r\n\r\n![Attached Image](assets/solo-leveling-2373990_1521001516268388513.png)\r\n\r\n---\r\n\r\nSolo Leveling 2373990\r\n"
-  },
-  {
     "id": "hogwarts-legacy-990080",
     "appId": 990080,
     "title": "Hogwarts Legacy - 990080",
@@ -147,6 +105,20 @@
     "content": "\r\n# PES2013 - 221430\r\n\r\n1. Bypass Game\r\n2. Open game folder\r\n3. Click RunThisFirst, install it\r\n4. Run game from inside folder via pes2013.exe\r\n"
   },
   {
+    "id": "hv-tools",
+    "appId": null,
+    "title": "#HV Tools",
+    "game": "HV Tools",
+    "desc": "• Automatically Detects Motherboard Brand",
+    "tags": [
+      "bypass"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-06-06",
+    "content": "\r\n# #HV Tools\r\n\r\n• Automatically Detects Motherboard Brand\r\n• Auto-Detect BIOS Boot Types (UEFI/Legacy)\r\n• Auto-detect DSE/Virtualization\r\n• Automatically find a YouTube link to guide on enabling virtualization\r\n• Auto Refresh Panel\r\n• More Error Handler\r\n• Window Hello detection\r\n• Testing Mode ON/OFF\r\n• Add Win Hello Disable guide/bypass\r\n• Dynamic Run VBS button\r\n• Auto Detect Custom OS\r\n• CLI mode added\r\n• SUO setup\r\n• Latest VBS 1.9\r\n# **Please Off Antivirus before using it**\r\n\r\n---\r\n\r\n#HV Tools\r\n\r\n---\r\n\r\nlatest version. just need 1 click then restart. after that can play HV game via PlugNPlay.bat\r\n\r\n[Download Tools_V4.0.exe (0.1 MB)](assets/hv-tools_1545081721014456330.exe)\r\n\r\n---\r\n\r\n![Attached Image](assets/hv-tools_1545272878981849208.png)\r\n\r\n---\r\n\r\nV4.0.1 added automation on Windows Hello fix to un-gray remove button on the VBS step\r\n\r\n[Download Tools_V4.0.1.exe (0.1 MB)](assets/hv-tools_1545705780647301140.exe)\r\n\r\n\r\n![Attached Image](assets/hv-tools_1545705781062672434.png)\r\n\r\n---\r\n\r\nV4.0.2 update for MSI afterburner user conflict with HV, add BIG indicator PC can run HV game\r\n\r\n![Attached Image](assets/hv-tools_1546931346662760499.png)\r\n\r\n\r\n[Download Tools_V4.0.2.exe (0.1 MB)](assets/hv-tools_1546931347459805244.exe)\r\n\r\n---\r\n\r\n# **Changed in V4.0.3**\r\n* 1 Click button - add auto restart PC \r\n* Fix HV error `0xC035001E` \"*hypervisor feature is not available to the user*\" at launch crash.\r\n* Cleaned Up UI - less clutter.\r\n* New Status Badge: [Not Ready For Hypervisor]\r\n* Telemetry - Fix false-positive detection Windows Hyper-V\r\n\r\n![Attached Image](assets/hv-tools_1548014219545280633.png)\r\n\r\n\r\n[Download Tools_V4.0.3.exe (0.1 MB)](assets/hv-tools_1548014219851468870.exe)\r\n"
+  },
+  {
     "id": "nba-2k14-255480",
     "appId": 255480,
     "title": "NBA 2K14 - 255480",
@@ -236,6 +208,22 @@
     "content": "\r\n# 007 First Light (Lampu Pertama) - 3768760\r\n\r\ngoodluck Mat Bond\r\n\r\n![Attached Image](assets/007-first-light-lampu-pertama-3768760_1508860156451094649.png)\r\n\r\n---\r\n\r\nUsing Crack: Voices38\r\n\r\n1) Add game from SUO\r\n2) Off antivirus(realtime protection) and smart app control (win 11)\r\n3) Download game from steam\r\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\r\n5) play from steam\r\n\r\n---\r\n\r\nMake sure game already enables auto update\r\n ```SUO > Tools > Game Auto Update > smart apply/Enable update```\r\nhttps://steamunlockonennabe.click/docs/bypass-and-online-patch/#step-1-smart-apply-tools\r\n\r\n1) Add game from SUO\r\n2) Download game from steam\r\n3) play from steam\r\n\r\n---\r\n\r\n# **If you still use HV/bypass version previously,Is better to make clean install (uninstall>delete game folder>install)**\r\n"
   },
   {
+    "id": "forza-horizon-6-2483190-release-date-19-05-2026",
+    "appId": 2483190,
+    "title": "Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)",
+    "game": "Forza Horizon 6",
+    "desc": "Press Win + R  steam://install/480",
+    "tags": [
+      "online",
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-17",
+    "content": "\r\n# Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)\r\n\r\nPress Win + R -> steam://install/480\r\nBypass Game, open Game folder and then run **Enable_Invites_FH6.bat**\r\nPlay the game and sign in to your Microsoft account.\r\n\r\n![Attached Image](assets/forza-horizon-6-2483190-release-date-19-05-2026_1505408943189397624.png)\r\n\r\n---\r\n\r\nFix for Invalid Gaming Service Detected\r\nhttps://www.youtube.com/watch?v=2ZguhQxFNkE\r\n\r\n---\r\n\r\nRun the game from steam\r\n\r\n---\r\n\r\n## One-Time Guide,After that **play game from steam**\r\n\r\n\r\n1) Add game from SUO\r\n2) Off antivirus(realtime protection) and smart app control (win 11)\r\n3) Press Win + R and type `steam://install/480` hit enter\r\n4) Update Xbox app at Microsoft store\r\n5) Unlock game update ```SUO > Tools > Game Auto Update > Click Open > Click Smart Apply```\r\n6) Download game from steam\r\n7) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online Patch```\r\n8) Open Game folder and then run **Enable_Invites_FH6.bat** as admin\r\n9) Play from steam and sign-in using Microsoft account\r\n\r\n---\r\n\r\n<a:8010sussy:1239135973674323998>\r\n\r\n---\r\n\r\n# INSTALL DS4WINDOWS HERE\r\n\r\nhttps://ds4-windows.com\r\n\r\n---\r\n\r\n3rd June 2026, Updated online patch, redo online patch for latest game update\r\n"
+  },
+  {
     "id": "blades-of-fire-2091020",
     "appId": 2091020,
     "title": "Blades Of Fire - 2091020",
@@ -253,7 +241,7 @@
     "id": "appid-812140-assassins-creed-odyssey",
     "appId": 812140,
     "title": "AppID : 812140 (Assassins Creed Odyssey)",
-    "game": "AppID  (Assassins Creed Odyssey)",
+    "game": "AppID (Assassins Creed Odyssey)",
     "desc": "After bypass, click !RUNTHIS from inside game folder",
     "tags": [
       "bypass"
@@ -293,5 +281,20 @@
     "version": "1.0",
     "date": "2026-05-07",
     "content": "\r\n# Bus Bound - 2095420\r\n\r\n- Added online patch\r\n- Download game\r\n- Bypass Game\r\n"
+  },
+  {
+    "id": "gamble-with-your-friends-3892270",
+    "appId": 3892270,
+    "title": "Gamble With Your Friends - 3892270",
+    "game": "Gamble With Your Friends",
+    "desc": "Tutorial and guide for Gamble With Your Friends.",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-07",
+    "content": "\r\n# Gamble With Your Friends - 3892270\r\n\r\n- Added online patch\r\n- Download game\r\n- Bypass Game\r\n"
   }
 ]

@@ -1,0 +1,78 @@
+[
+  {
+    "id": "two-point-museum-2185060",
+    "appId": 2185060,
+    "title": "Two Point Museum - 2185060",
+    "game": "Two Point Museum",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\r\n# Two Point Museum - 2185060\r\n\r\n# Follow this guide\r\nhttps://discord.com/channels/333191744873299978/1499122656686116944\r\n\r\n## **Prequisites Guide**\r\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \r\nhttps://github.com/Selectively11/CloudRedirect/releases/latest\r\n2. Follow guide completely at <#1495014736515829760> \r\n3. Manifest pinning via CloudRedirect.\r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\r\n2. Turn off Antivirus (real-time protection)\r\n3. Download game** [GAMENAME]** from Steam\r\n4. Click Bypass Game in Steam Unlock\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\r\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\r\n\r\n![Attached Image](assets/two-point-museum-2185060_1499063303933002001.png)\r\n\r\n\r\n![Attached Image](assets/two-point-museum-2185060_1499063305195753586.png)\r\n\r\n---\r\n\r\nRun game from Steam Unlock as shown here, choose HV-Launcher.bat or HV-PlugNPlay.bat\r\n\r\n![Attached Image](assets/two-point-museum-2185060_1499067542864400425.png)\r\n\r\n\r\n![Attached Image](assets/two-point-museum-2185060_1499067543212523662.png)\r\n\r\n---\r\n\r\n## **Prequisites Guide**\r\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \r\n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\r\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\r\n3. Check Virtualization Enable/Disable\r\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\r\n*if not found that words mean is been disabled\r\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\r\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\r\n6. Press F7(driver Signature Enforcement)\r\n7. Add Game From SUO\r\n8. Download game** [GAMENAME]** from Steam\r\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\r\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\r\n"
+  },
+  {
+    "id": "watch-dogs-2-ubisoft-bypass-447040",
+    "appId": 447040,
+    "title": "Watch Dogs 2 Ubisoft bypass - 447040",
+    "game": "Watch Dogs 2",
+    "desc": "After Patching, go to game folder and then go inside \\SteamLibrary\\steamapps\\common\\WatchDogs2\\bin",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\r\n# Watch Dogs 2 Ubisoft bypass - 447040\r\n\r\n- Download the game\r\n- After Patching, go to game folder and then go inside `\\SteamLibrary\\steamapps\\common\\Watch_Dogs2\\bin`\r\n- Start the game through `WatchDogs2.exe`\r\n- Happy Gaming!\r\n\r\n![Attached Image](assets/watch-dogs-2-ubisoft-bypass-447040_1498996428243206264.png)\r\n"
+  },
+  {
+    "id": "wreckfest-2-1203190",
+    "appId": 1203190,
+    "title": "Wreckfest 2- 1203190",
+    "game": "Wreckfest 2",
+    "desc": "Added Wreckfest 2 online patch update",
+    "tags": [
+      "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\r\n# Wreckfest 2- 1203190\r\n\r\nAdded Wreckfest 2 online patch update\r\n- patch the game\r\n- after patching, open the game folder\r\n- run the game from Wreckfest2.exe as admin\r\n- 1203190\r\n"
+  },
+  {
+    "id": "wwe-2k26-3717070",
+    "appId": 3717070,
+    "title": "WWE 2K26 - 3717070",
+    "game": "WWE 2K26",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\r\n# WWE 2K26 - 3717070\r\n\r\n# Follow this guide\r\nhttps://discord.com/channels/333191744873299978/1499122656686116944\r\n\r\n## **Prequisites Guide**\r\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \r\nhttps://github.com/Selectively11/CloudRedirect/releases/latest\r\n2. Follow guide completely at <#1495014736515829760> \r\n3. Manifest pinning via CloudRedirect.\r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\r\n2. Turn off Antivirus (real-time protection)\r\n3. Download game** [GAMENAME]** from Steam\r\n4. Click Bypass Game in Steam Unlock\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\r\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\r\n\r\n![Attached Image](assets/wwe-2k26-3717070_1499092452244721855.png)\r\n\r\n\r\n![Attached Image](assets/wwe-2k26-3717070_1499092452672274614.png)\r\n\r\n---\r\n\r\n![Attached Image](assets/wwe-2k26-3717070_1499120462196641812.png)\r\n\r\n\r\n![Attached Image](assets/wwe-2k26-3717070_1499120462649753870.png)\r\n\r\n---\r\n\r\n## **Prequisites Guide**\r\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \r\n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\r\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\r\n3. Check Virtualization Enable/Disable\r\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\r\n*if not found that words mean is been disabled\r\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\r\n5. Run [VBS.cmd](https://discord.com/channels/333191744873299978/1499122656686116944/1532989862280691763)/ <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\r\n6. Press F7(driver Signature Enforcement)\r\n7. Add Game From SUO\r\n8. Download game** [GAMENAME]** from Steam\r\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\r\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\r\n"
+  },
+  {
+    "id": "1501750-lords-of-the-fallen-tutorial-multiplayer",
+    "appId": 1501750,
+    "title": "[1501750] Lords of the Fallen tutorial Multiplayer",
+    "game": "Lords of the Fallen",
+    "desc": "1. Add Lords of the Fallen Friend's Pass via Steam.",
+    "tags": [
+      "coop",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\r\n# [1501750] Lords of the Fallen tutorial Multiplayer\r\n\r\n**Files for the game:**\r\n1. Add Lords of the Fallen Friend's Pass via Steam.\r\n2. Patch the game via Steam Unlock Onennabe\r\n\r\n**How to start:**\r\n1. Launch Steam, go to your profile.\r\n2. Launch the game through Steam.\r\n\r\n**In the game:**\r\nWe go through the training until you reach the \"altar\".\r\n\r\n**Connection:**\r\nAccept an invitation from a friend.\r\n**Creating a server:**\r\nInteract with the \"altar\" Multiplayer mode Call a friend Invite a friend and wait for him to connect.\r\n"
+  }
+]
