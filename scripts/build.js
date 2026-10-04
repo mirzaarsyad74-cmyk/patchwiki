@@ -64,6 +64,7 @@ const KNOWN_GAME_APPIDS = {
   "assassin's creed odyssey": 812140,
   "assassin's creed mirage": 3035570,
   "assassin's creed shadows": 3159330,
+  "assassin's creed shadow": 3159330,
   "assassin's creed rogue": 311560,
   "assassin's creed syndicate": 368500,
   "assassin's creed black flag": 3751950,
@@ -115,7 +116,7 @@ function parseFrontmatter(raw) {
   let body = raw;
   const fmMatch = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
   if (fmMatch) {
-    for (const line of fmMatch[1].split('\n')) {
+    for (const line of fmMatch[1].split(/\r?\n/)) {
       const m = line.match(/^(\w+)\s*:\s*(.+)$/);
       if (m) fm[m[1].trim().toLowerCase()] = m[2].trim();
     }

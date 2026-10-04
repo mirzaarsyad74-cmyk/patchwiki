@@ -1,294 +1,282 @@
 [
   {
-    "id": "inazuma-eleven-victory-road-2799860",
-    "appId": 2799860,
-    "title": "INAZUMA ELEVEN: Victory Road - 2799860",
-    "game": "INAZUMA ELEVEN: Victory Road",
-    "desc": "After online patch, open game folder, find game .exe via SUO, choose nie.exe",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-06-05",
-    "content": "\r\n# INAZUMA ELEVEN: Victory Road - 2799860\r\n\r\nAfter online patch, open game folder, find game .exe via SUO, choose nie.exe\r\n\r\nOnline Patch the game, after online patch, fix the controller doing the below method.\r\n\r\n\r\nFor those having controller issues, this video worked for me: https://youtu.be/RRcKSSXUdJQ\r\nThe key was copying steam_action_manifest.vdf instead of steam_input_manifast.vdf AND Mapping spacewar buttons with your controller.\r\n"
-  },
-  {
-    "id": "f1-25-3059520",
-    "appId": 3059520,
-    "title": "F1 25 - 3059520",
-    "game": "F1 25",
-    "desc": "Tutorial for F1 25",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-06-04",
-    "content": "\r\n# F1 25 - 3059520\r\n\r\n## **Prequisites Guide**\r\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \r\n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\r\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\r\n3. Check Virtualization Enable/Disable\r\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\r\n*if not found that words mean is been disabled\r\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\r\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\r\n6. Press F7(driver Signature Enforcement)\r\n7. Add Game From SUO\r\n8. Download game** [GAMENAME]** from Steam\r\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\r\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\r\n\r\n---\r\n\r\nF1 25 - 3059520\r\n"
-  },
-  {
-    "id": "grand-theft-auto-v-legacy-271590",
-    "appId": 271590,
-    "title": "Grand Theft Auto V Legacy - 271590",
-    "game": "Grand Theft Auto V Legacy",
-    "desc": "Choose properties, then under General, and type -nobattleye in the launch options",
-    "tags": [
-      "drm"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-06-04",
-    "content": "\r\n# Grand Theft Auto V Legacy - 271590\r\n\r\n# **GTA V Online Private Server**\r\n\r\nChoose properties, then under General, and type `-nobattleye` in the launch options\r\n"
-  },
-  {
-    "id": "prison-architect-233450",
-    "appId": 233450,
-    "title": "Prison Architect - 233450",
-    "game": "Prison Architect",
-    "desc": "Bypass for Prison Architect (online not possible for latest version)",
+    "id": "dragon-age-inquisition-1222690",
+    "appId": 1222690,
+    "title": "Dragon Age™ Inquisition Bypass",
+    "game": "Dragon Age™ Inquisition",
+    "desc": "Dragon Age™ Inquisition Bypass",
     "tags": [
       "bypass"
     ],
-    "author": "Community",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-06-04",
-    "content": "\r\n# Prison Architect - 233450\r\n\r\nBypass for Prison Architect (online not possible for latest version)\r\n\r\n1. Apply Bypass\r\n2. Run game from folder\r\n3. Can use Onennabe Play button for .exe (as shown in picture)\r\n\r\n![Attached Image](assets/prison-architect-233450_1511931956953092248.png)\r\n\r\n---\r\n\r\n![Attached Image](assets/prison-architect-233450_1511932226990903306.png)\r\n"
+    "date": "2026-08-11",
+    "content": "\r\n# Dragon Age™ Inquisition Bypass\r\n\r\n# Dragon Age™ Inquisition Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
   },
   {
-    "id": "007-first-light-lampu-pertama-3768760",
-    "appId": 3768760,
-    "title": "007 First Light (Lampu Pertama) - 3768760",
-    "game": "007 First Light (Lampu Pertama)",
-    "desc": "![Attached Image](assets/007-first-light-lampu-pertama-3768760_1508860156451094649.png)",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-26",
-    "content": "\r\n# 007 First Light (Lampu Pertama) - 3768760\r\n\r\ngoodluck Mat Bond\r\n\r\n![Attached Image](assets/007-first-light-lampu-pertama-3768760_1508860156451094649.png)\r\n\r\n---\r\n\r\nUsing Crack: Voices38\r\n\r\n1) Add game from SUO\r\n2) Off antivirus(realtime protection) and smart app control (win 11)\r\n3) Download game from steam\r\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\r\n5) play from steam\r\n\r\n---\r\n\r\nMake sure game already enables auto update\r\n ```SUO > Tools > Game Auto Update > smart apply/Enable update```\r\nhttps://steamunlockonennabe.click/docs/bypass-and-online-patch/#step-1-smart-apply-tools\r\n\r\n1) Add game from SUO\r\n2) Download game from steam\r\n3) play from steam\r\n\r\n---\r\n\r\n# **If you still use HV/bypass version previously,Is better to make clean install (uninstall>delete game folder>install)**\r\n"
-  },
-  {
-    "id": "forza-horizon-6-2483190-release-date-19-05-2026",
-    "appId": 2483190,
-    "title": "Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)",
-    "game": "Forza Horizon 6",
-    "desc": "Press Win + R -> steam://install/480",
-    "tags": [
-      "online",
-      "bypass",
-      "drm"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-17",
-    "content": "\r\n# Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)\r\n\r\nPress Win + R -> steam://install/480\r\nBypass Game, open Game folder and then run **Enable_Invites_FH6.bat**\r\nPlay the game and sign in to your Microsoft account.\r\n\r\n![Attached Image](assets/forza-horizon-6-2483190-release-date-19-05-2026_1505408943189397624.png)\r\n\r\n---\r\n\r\nFix for Invalid Gaming Service Detected\r\nhttps://www.youtube.com/watch?v=2ZguhQxFNkE\r\n\r\n---\r\n\r\nRun the game from steam\r\n\r\n---\r\n\r\n## One-Time Guide,After that **play game from steam**\r\n\r\n\r\n1) Add game from SUO\r\n2) Off antivirus(realtime protection) and smart app control (win 11)\r\n3) Press Win + R and type `steam://install/480` hit enter\r\n4) Update Xbox app at Microsoft store\r\n5) Unlock game update ```SUO > Tools > Game Auto Update > Click Open > Click Smart Apply```\r\n6) Download game from steam\r\n7) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online Patch```\r\n8) Open Game folder and then run **Enable_Invites_FH6.bat** as admin\r\n9) Play from steam and sign-in using Microsoft account\r\n\r\n---\r\n\r\n<a:8010sussy:1239135973674323998>\r\n\r\n---\r\n\r\n# INSTALL DS4WINDOWS HERE\r\n\r\nhttps://ds4-windows.com\r\n\r\n---\r\n\r\n3rd June 2026, Updated online patch, redo online patch for latest game update\r\n"
-  },
-  {
-    "id": "blades-of-fire-2091020",
-    "appId": 2091020,
-    "title": "Blades Of Fire - 2091020",
-    "game": "Blades Of Fire",
-    "desc": "Added Bypass for latest game version. Play from Steam",
+    "id": "yakuza-like-a-dragon-1235140",
+    "appId": 1235140,
+    "title": "Yakuza: Like a Dragon Bypass",
+    "game": "Yakuza: Like a Dragon",
+    "desc": "Yakuza: Like a Dragon Bypass",
     "tags": [
       "bypass"
     ],
-    "author": "Community",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-16",
-    "content": "\r\n# Blades Of Fire - 2091020\r\n\r\nAdded Bypass for latest game version. Play from Steam\r\n"
+    "date": "2026-08-11",
+    "content": "\r\n# Yakuza: Like a Dragon Bypass\r\n\r\n# Yakuza: Like a Dragon Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
   },
   {
-    "id": "appid-812140-assassins-creed-odyssey",
-    "appId": 812140,
-    "title": "AppID : 812140 (Assassins Creed Odyssey)",
-    "game": "AppID  (Assassins Creed Odyssey)",
-    "desc": "After bypass, click !RUN_THIS from inside game folder",
+    "id": "star-wars-battlefront-ii-1237950",
+    "appId": 1237950,
+    "title": "STAR WARS™ Battlefront™ II Bypass",
+    "game": "STAR WARS™ Battlefront™ II",
+    "desc": "STAR WARS™ Battlefront™ II Bypass",
     "tags": [
       "bypass"
     ],
-    "author": "Community",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-11",
-    "content": "\r\n# AppID : 812140 (Assassins Creed Odyssey)\r\n\r\nAfter bypass, click !RUN_THIS from inside game folder\r\nwait for 2GB download, if download is slow, on WARP and try again.\r\nRUN GAME FROM STEAM\r\n\r\n![Attached Image](assets/appid-812140-assassins-creed-odyssey_1503426079912886272.png)\r\n"
+    "date": "2026-08-11",
+    "content": "\r\n# STAR WARS™ Battlefront™ II Bypass\r\n\r\n# STAR WARS™ Battlefront™ II Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
   },
   {
-    "id": "split-fiction-co-op",
-    "appId": null,
-    "title": "SPLIT FICTION CO-OP",
-    "game": "SPLIT FICTION CO-OP",
-    "desc": "![Attached Image](assets/split-fiction-co-op_1502954283832971284.png)",
-    "tags": [
-      "online",
-      "bypass",
-      "coop"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-10",
-    "content": "\r\n# SPLIT FICTION CO-OP\r\n\r\n# SPLIT FICTION ONLINE CO-OP\r\n- Bypass Game after download\r\n- Now go to Split Fiction Steam store page\r\n- Add Friend's Pass to your Library (Ignore the error)\r\n- Run the game through Steam\r\n- Host Steam game and invite your friend\r\n\r\n![Attached Image](assets/split-fiction-co-op_1502954283832971284.png)\r\n"
-  },
-  {
-    "id": "bus-bound-2095420",
-    "appId": 2095420,
-    "title": "Bus Bound - 2095420",
-    "game": "Bus Bound",
-    "desc": "Tutorial for Bus Bound",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-07",
-    "content": "\r\n# Bus Bound - 2095420\r\n\r\n- Added online patch\r\n- Download game\r\n- Bypass Game\r\n"
-  },
-  {
-    "id": "gamble-with-your-friends-3892270",
-    "appId": 3892270,
-    "title": "Gamble With Your Friends - 3892270",
-    "game": "Gamble With Your Friends",
-    "desc": "Tutorial for Gamble With Your Friends",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-07",
-    "content": "\r\n# Gamble With Your Friends - 3892270\r\n\r\n- Added online patch\r\n- Download game\r\n- Bypass Game\r\n"
-  },
-  {
-    "id": "rest-area-simulator-3732960",
-    "appId": 3732960,
-    "title": "Rest Area Simulator - 3732960",
-    "game": "Rest Area Simulator",
-    "desc": "Tutorial for Rest Area Simulator",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-07",
-    "content": "\r\n# Rest Area Simulator - 3732960\r\n\r\n- Added online patch\r\n- Download game\r\n- Bypass Game\r\n"
-  },
-  {
-    "id": "1222700-a-way-out-bypass",
-    "appId": 1222700,
-    "title": "1222700 A WAY OUT BYPASS",
-    "game": "A WAY OUT",
-    "desc": "or Play using https://parsec.app/",
-    "tags": [
-      "bypass",
-      "coop"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\r\n# 1222700 A WAY OUT BYPASS\r\n\r\nor Play using https://parsec.app/\r\n\r\n---\r\n\r\n## **​Launch the Game**:\r\n```\\SteamLibrary\\steamapps\\common\\AWayOut\\Haze1\\Binaries\\Win64```\r\n​Double-click `AWayOut.exe` inside game folder to start the game\r\n\r\n## Skip this if Offline/SP\r\nInstall the Steam Demo:\r\n1) Open your games installation folder\r\n2) ​Double-click the `install_game.bat` file\r\n\r\nNote: This adds the \"Blastzone 2 Demo\" to your Steam account, which is required to trick Steam into allowing Remote Play.\r\n​Navigate to the Game\r\n\r\n## ​Invite Your Friend:\r\n1) ​Select the Play Local option in the main menu\r\n2) ​Open the Steam Overlay by pressing SHIFT + TAB\r\n3) ​Right-click your friend's name in your friends list and select Remote Play Together to invite them\r\n"
-  },
-  {
-    "id": "1659040-hitman-world-of-assassination",
-    "appId": 1659040,
-    "title": "1659040 HITMAN WORLD OF ASSASSINATION",
-    "game": "HITMAN WORLD OF ASSASSINATION",
-    "desc": "Tutorial for HITMAN WORLD OF ASSASSINATION",
+    "id": "titanfall-2-1237970",
+    "appId": 1237970,
+    "title": "Titanfall® 2 Bypass",
+    "game": "Titanfall® 2",
+    "desc": "1. Download the game from Steam.",
     "tags": [
       "bypass"
     ],
-    "author": "Community",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\r\n# 1659040 HITMAN WORLD OF ASSASSINATION\r\n\r\nGEGE\r\n\r\n---\r\n\r\n1. Bypass Game\r\n2. Play from Steam\r\n3. The official launcher will pop up\r\n4. Play as usual, everything already set up by Bypass\r\n"
+    "date": "2026-08-11",
+    "content": "\r\n# Titanfall® 2 Bypass\r\n\r\n# Titanfall® 2 Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
   },
   {
-    "id": "1702010-sengoku-dynasty",
-    "appId": 1702010,
-    "title": "1702010 SENGOKU DYNASTY",
-    "game": "SENGOKU DYNASTY",
-    "desc": "Tutorial for SENGOKU DYNASTY",
-    "tags": [
-      "general"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\r\n# 1702010 SENGOKU DYNASTY\r\n\r\n\r\n"
-  },
-  {
-    "id": "243470-watch-dogs",
-    "appId": 243470,
-    "title": "243470 WATCH DOGS",
-    "game": "WATCH DOGS",
-    "desc": "Tutorial for WATCH DOGS",
-    "tags": [
-      "general"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\r\n# 243470 WATCH DOGS\r\n\r\n\r\n"
-  },
-  {
-    "id": "311210-cod-black-ops-3-online-bypass",
-    "appId": 311210,
-    "title": "311210 COD BLACK OPS 3 ONLINE BYPASS",
-    "game": "COD BLACK OPS 3",
-    "desc": "311210 COD BLACK OPS 3 ONLINE BYPASS",
+    "id": "star-wars-battlefront-1237980",
+    "appId": 1237980,
+    "title": "STAR WARS™ Battlefront™ Bypass",
+    "game": "STAR WARS™ Battlefront™",
+    "desc": "STAR WARS™ Battlefront™ Bypass",
     "tags": [
       "bypass"
     ],
-    "author": "Community",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\r\n# 311210 COD BLACK OPS 3 ONLINE BYPASS\r\n\r\n311210 COD BLACK OPS 3 ONLINE BYPASS\r\n"
+    "date": "2026-08-11",
+    "content": "\r\n# STAR WARS™ Battlefront™ Bypass\r\n\r\n# STAR WARS™ Battlefront™ Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
   },
   {
-    "id": "939960-far-cry-new-dawn-bypass",
-    "appId": 939960,
-    "title": "939960 FAR CRY NEW DAWN BYPASS",
-    "game": "FAR CRY NEW DAWN",
-    "desc": "Tutorial for FAR CRY NEW DAWN",
+    "id": "mass-effect-andromeda-1238000",
+    "appId": 1238000,
+    "title": "Mass Effect™: Andromeda Bypass",
+    "game": "Mass Effect™: Andromeda",
+    "desc": "Mass Effect™: Andromeda Bypass",
     "tags": [
       "bypass"
     ],
-    "author": "Community",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\r\n# 939960 FAR CRY NEW DAWN BYPASS\r\n\r\nPATCH USING BHSPT\r\n\r\n*Run game through Steam \r\n\r\n*Screen might flicker few times. Just press Alt+Tab to the game mulitple times.\r\n"
+    "date": "2026-08-11",
+    "content": "\r\n# Mass Effect™: Andromeda Bypass\r\n\r\n# Mass Effect™: Andromeda Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
   },
   {
-    "id": "1114150-carx-street-bypass-update-1-10-1",
-    "appId": 1114150,
-    "title": "1114150 CARX STREET BYPASS UPDATE 1.10.1",
-    "game": "CARX STREET",
-    "desc": "Tutorial for CARX STREET",
+    "id": "dead-space-3-1238060",
+    "appId": 1238060,
+    "title": "Dead Space™ 3 Bypass",
+    "game": "Dead Space™ 3",
+    "desc": "1. Download the game from Steam.",
     "tags": [
       "bypass"
     ],
-    "author": "Community",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 1114150 CARX STREET BYPASS UPDATE 1.10.1\r\n\r\n-After patching, open game folder and run the game from CarX Street.exe\r\n"
+    "date": "2026-08-11",
+    "content": "\r\n# Dead Space™ 3 Bypass\r\n\r\n# Dead Space™ 3 Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
   },
   {
-    "id": "1134570-f1-2021-bypass-denuv",
-    "appId": 1134570,
-    "title": "1134570 F1 2021 BYPASS DENUV",
-    "game": "F1 2021  DENUV",
-    "desc": "Tutorial for F1 2021  DENUV",
+    "id": "battlefield-3-1238820",
+    "appId": 1238820,
+    "title": "Battlefield 3™  Bypass",
+    "game": "Battlefield 3™",
+    "desc": "Battlefield 3™  Bypass",
     "tags": [
       "bypass"
     ],
-    "author": "Community",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 1134570 F1 2021 BYPASS DENUV\r\n\r\nrun game from steam\r\n"
+    "date": "2026-08-11",
+    "content": "\r\n# Battlefield 3™  Bypass\r\n\r\n# Battlefield 3™  Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "battlefield-4-1238860",
+    "appId": 1238860,
+    "title": "Battlefield 4™  Bypass",
+    "game": "Battlefield 4™",
+    "desc": "Battlefield 4™  Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Battlefield 4™  Bypass\r\n\r\n# Battlefield 4™  Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "thrive-heavy-lies-the-crown-1245250",
+    "appId": 1245250,
+    "title": "Thrive: Heavy Lies The Crown Online Fix",
+    "game": "Thrive: Heavy Lies The Crown",
+    "desc": "Thrive: Heavy Lies The Crown Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Thrive: Heavy Lies The Crown Online Fix\r\n\r\n# Thrive: Heavy Lies The Crown Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "sentry-1252680",
+    "appId": 1252680,
+    "title": "SENTRY Online Fix",
+    "game": "SENTRY",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# SENTRY Online Fix\r\n\r\n# SENTRY Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "efootball-pes-2021-season-update-1259970",
+    "appId": 1259970,
+    "title": "eFootball PES 2021 SEASON UPDATE Bypass",
+    "game": "eFootball PES 2021 SEASON UPDATE",
+    "desc": "eFootball PES 2021 SEASON UPDATE Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# eFootball PES 2021 SEASON UPDATE Bypass\r\n\r\n# eFootball PES 2021 SEASON UPDATE Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "need-for-speed-rivals-1262600",
+    "appId": 1262600,
+    "title": "Need for Speed™ Rivals Bypass",
+    "game": "Need for Speed™ Rivals",
+    "desc": "Need for Speed™ Rivals Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Need for Speed™ Rivals Bypass\r\n\r\n# Need for Speed™ Rivals Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "blightbound-1263070",
+    "appId": 1263070,
+    "title": "Blightbound Online Fix",
+    "game": "Blightbound",
+    "desc": "Blightbound Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Blightbound Online Fix\r\n\r\n# Blightbound Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "nascar-heat-5-1265860",
+    "appId": 1265860,
+    "title": "NASCAR Heat 5 Online Fix",
+    "game": "NASCAR Heat 5",
+    "desc": "NASCAR Heat 5 Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# NASCAR Heat 5 Online Fix\r\n\r\n# NASCAR Heat 5 Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "ships-at-sea-1266540",
+    "appId": 1266540,
+    "title": "Ships At Sea Online Fix",
+    "game": "Ships At Sea",
+    "desc": "Ships At Sea Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Ships At Sea Online Fix\r\n\r\n# Ships At Sea Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "millennia-1268590",
+    "appId": 1268590,
+    "title": "Millennia Online Fix",
+    "game": "Millennia",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Millennia Online Fix\r\n\r\n# Millennia Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "devour-1274570",
+    "appId": 1274570,
+    "title": "DEVOUR Bypass",
+    "game": "DEVOUR",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# DEVOUR Bypass\r\n\r\n# DEVOUR Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "fuel-12800",
+    "appId": 12800,
+    "title": "FUEL Online Fix",
+    "game": "FUEL",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# FUEL Online Fix\r\n\r\n# FUEL Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "remnant-ii-1282100",
+    "appId": 1282100,
+    "title": "Remnant II Online Fix",
+    "game": "Remnant II",
+    "desc": "Remnant II Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Remnant II Online Fix\r\n\r\n# Remnant II Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
   }
 ]

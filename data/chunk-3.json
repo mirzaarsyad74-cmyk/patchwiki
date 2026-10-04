@@ -1,285 +1,282 @@
 [
   {
-    "id": "1222680-updated-steps-nfs-heat",
-    "appId": 533,
-    "title": "1222680 UPDATED STEPS NFS HEAT",
-    "game": "UPDATED STEPS NFS HEAT",
-    "desc": "After bypass the game",
+    "id": "dirt-2-12840",
+    "appId": 12840,
+    "title": "DiRT 2 Bypass",
+    "game": "DiRT 2",
+    "desc": "1. Download the game from Steam.",
     "tags": [
       "bypass"
     ],
-    "author": "Community",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 1222680 UPDATED STEPS NFS HEAT\r\n\r\nAfter bypass the game \r\n\r\nRun game from suo ( Steam Unlock Onennabe) \r\n\r\nby choose . exe or .bat option from suo\r\n\r\n![Attached Image](assets/1222680-updated-steps-nfs-heat_1531172228933091438.png)\r\n\r\n---\r\n\r\n[Download 20260727-0533-45.3580558.mp4 (3.9 MB)](assets/1222680-updated-steps-nfs-heat_1531172946863980605.mp4)\r\n\r\n---\r\n\r\n1222680 UPDATED STEPS NFS HEAT\r\n"
+    "date": "2026-08-11",
+    "content": "\r\n# DiRT 2 Bypass\r\n\r\n# DiRT 2 Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
   },
   {
-    "id": "1222730-star-wars-squadrons-ea-bypass",
-    "appId": 1222730,
-    "title": "1222730 STAR WARS: SQUADRONS EA BYPASS",
-    "game": "STAR WARS: SQUADRONS",
-    "desc": "Tutorial for STAR WARS: SQUADRONS",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 1222730 STAR WARS: SQUADRONS EA BYPASS\r\n\r\n-After patching, open folder and start game using starwarssquadrons_launcher.exe\r\n"
-  },
-  {
-    "id": "1250410-microsoft-flight-simulator-2020",
-    "appId": 2020,
-    "title": "1250410 Microsoft Flight Simulator (2020)",
-    "game": "Microsoft Flight Simulator",
-    "desc": "Added online supported",
-    "tags": [
-      "general"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 1250410 Microsoft Flight Simulator (2020)\r\n\r\nAdded online supported\r\n\r\n\r\nAfter patch, open game folder\r\nRight Click on GDK_Helper.bat\r\nChoose 3\r\nChoose 1\r\n\r\nIn game, sign in your own xbox account, \r\nIn game download 170GB\r\n"
-  },
-  {
-    "id": "1277400-monster-hunter-stories-2-wings-of-ruin-online",
-    "appId": 1277400,
-    "title": "1277400 MONSTER HUNTER STORIES 2: WINGS OF RUIN ONLINE",
-    "game": "MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "desc": "Online mode only available after the mission A Stranger in Black.",
-    "tags": [
-      "general"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 1277400 MONSTER HUNTER STORIES 2: WINGS OF RUIN ONLINE\r\n\r\n-After patching, start game from Steam\r\nOnline mode only available after the mission A Stranger in Black.\r\n"
-  },
-  {
-    "id": "1313860-ea-sports-fifa-21-bypass",
-    "appId": 1313860,
-    "title": "1313860 EA SPORTS FIFA 21 BYPASS",
-    "game": "EA SPORTS FIFA 21",
-    "desc": "Tutorial for EA SPORTS FIFA 21",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 1313860 EA SPORTS FIFA 21 BYPASS\r\n\r\n-Open game folder after patching\r\n\r\n-Run game using FIFA21.exe\r\n"
-  },
-  {
-    "id": "1328660-nsf-hot-pursuit-remastered-denuv-ea-bypass",
-    "appId": 1328660,
-    "title": "1328660 NSF HOT PURSUIT REMASTERED DENUV & EA BYPASS",
-    "game": "NSF HOT PURSUIT REMASTERED DENUV &",
-    "desc": "After patching, go inside the game foder, start game with NFS11Remastered.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 1328660 NSF HOT PURSUIT REMASTERED DENUV & EA BYPASS\r\n\r\nAfter patching, go inside the game foder, start game with NFS11Remastered.exe\r\n"
-  },
-  {
-    "id": "1506830-fifa-22-bypass",
-    "appId": 1506830,
-    "title": "1506830 FIFA 22 BYPASS",
-    "game": "FIFA 22",
-    "desc": "Tutorial for FIFA 22",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 1506830 FIFA 22 BYPASS\r\n\r\n-After patching, open folder and start game using FIFA22.exe\r\n"
-  },
-  {
-    "id": "2055290-sonic-colors-ultimate",
-    "appId": 2055290,
-    "title": "2055290 SONIC COLORS: ULTIMATE",
-    "game": "SONIC COLORS: ULTIMATE",
-    "desc": "Tutorial for SONIC COLORS: ULTIMATE",
-    "tags": [
-      "general"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 2055290 SONIC COLORS: ULTIMATE\r\n\r\n- After patching, open folder and find exec folder and start game using SonicColorsUltimate.exe\r\n"
-  },
-  {
-    "id": "221100-dayz-priv8-server-online",
-    "appId": 221100,
-    "title": "221100 DAYZ PRIV8 SERVER ONLINE",
-    "game": "DAYZ PRIV8 SERVER",
-    "desc": "register and play using the launcher.",
-    "tags": [
-      "general"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 221100 DAYZ PRIV8 SERVER ONLINE\r\n\r\n-Open game folder after patching\r\n\r\n-use DayZavr Dayz.exe to run the private server host\r\nregister and play using the launcher.\r\n"
-  },
-  {
-    "id": "2215260-scott-pilgrim-vs-the-world-bypass",
-    "appId": 2215260,
-    "title": "2215260  SCOTT PILGRIM VS THE WORLD BYPASS",
-    "game": "SCOTT PILGRIM VS THE WORLD",
-    "desc": "Tutorial for SCOTT PILGRIM VS THE WORLD",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 2215260  SCOTT PILGRIM VS THE WORLD BYPASS\r\n\r\n-After patching, open folder and start game using Scott.exe\r\n"
-  },
-  {
-    "id": "2340870-rugby-25-bypass",
-    "appId": 2340870,
-    "title": "2340870 RUGBY 25 BYPASS",
-    "game": "RUGBY 25",
-    "desc": "Tutorial for RUGBY 25",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 2340870 RUGBY 25 BYPASS\r\n\r\n-After patching\r\n\r\n-Run game from Steam.\r\n"
-  },
-  {
-    "id": "2622380-elden-ring-nightreign-co-op-patch-to-v-1-1-0",
-    "appId": 2622380,
-    "title": "2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
-    "game": "ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
-    "desc": "Updated seamless co-op to v1.1.2",
-    "tags": [
-      "coop"
-    ],
-    "author": "Community",
-    "version": "Updated seamless co-op to v1.1.2",
-    "date": "2026-05-05",
-    "content": "\r\n# 2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0\r\n\r\n-Open folder after patching, run game from nrsc_launcher.exe\r\n\r\n---\r\n\r\nUpdated seamless co-op to v1.1.2\r\n"
-  },
-  {
-    "id": "3240220-gta-v-enhanced-fix",
-    "appId": 3240220,
-    "title": "3240220 GTA V ENHANCED FIX",
-    "game": "GTA V ENHANCED",
-    "desc": "HERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473",
-    "tags": [
-      "general"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 3240220 GTA V ENHANCED FIX\r\n\r\nHERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473\r\n\r\n---\r\n\r\nMissing PlayGTAV.exe earlier\r\n\r\n-Patch and run game from Steam.\r\n\r\n---\r\n\r\n3240220 GTA V ENHANCED FIX\r\n"
-  },
-  {
-    "id": "394510-helldivers-1-online-patch",
-    "appId": 394510,
-    "title": "394510 HELLDIVERS 1 ONLINE PATCH",
-    "game": "HELLDIVERS 1",
-    "desc": "Tutorial for HELLDIVERS 1",
+    "id": "way-of-the-hunter-1288320",
+    "appId": 1288320,
+    "title": "Way of the Hunter Online Fix",
+    "game": "Way of the Hunter",
+    "desc": "Way of the Hunter Online Fix",
     "tags": [
       "online"
     ],
-    "author": "Community",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 394510 HELLDIVERS 1 ONLINE PATCH\r\n\r\n-After patching, open game folder, launch from Launcher.exe\r\n"
+    "date": "2026-08-11",
+    "content": "\r\n# Way of the Hunter Online Fix\r\n\r\n# Way of the Hunter Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
   },
   {
-    "id": "779340-total-war-3-kingdoms-bypass",
-    "appId": 779340,
-    "title": "779340 TOTAL WAR: 3 KINGDOMS BYPASS",
-    "game": "TOTAL WAR: 3 KINGDOMS",
-    "desc": "Tutorial for TOTAL WAR: 3 KINGDOMS",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 779340 TOTAL WAR: 3 KINGDOMS BYPASS\r\n\r\n-After patching, try run the game from steam or game exe inside the folder\r\n\r\n-results may vary\r\n"
-  },
-  {
-    "id": "809890-shining-resonance-refrain-bypass",
-    "appId": 809890,
-    "title": "809890 SHINING RESONANCE REFRAIN BYPASS",
-    "game": "SHINING RESONANCE REFRAIN",
-    "desc": "Tutorial for SHINING RESONANCE REFRAIN",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 809890 SHINING RESONANCE REFRAIN BYPASS\r\n\r\n-After patching, try run the game from steam or game exe inside the folder\r\n\r\n-results may vary\r\n"
-  },
-  {
-    "id": "950050-starlink-battle-for-atlas-ubisoft-bypass",
-    "appId": 950050,
-    "title": "950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS",
-    "game": "STARLINK: BATTLE FOR ATLAS",
-    "desc": "Tutorial for STARLINK: BATTLE FOR ATLAS",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# 950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS\r\n\r\n-After patching, try run the game from steam or game exe inside the folder\r\n\r\n-results may vary\r\n"
-  },
-  {
-    "id": "black-myth-wukong-2358720",
-    "appId": 2358720,
-    "title": "Black Myth: Wukong - 2358720",
-    "game": "Black Myth: Wukong",
-    "desc": "Tutorial for Black Myth: Wukong",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# Black Myth: Wukong - 2358720\r\n\r\n# Updated crack using voices38 crack\r\n- Download game, no need manifest pinning\r\n*- if you ever tried bypassing using hypervisor, delete game folder and uninstall from steam\r\n- reinstall game*- Bypass game and play from Steam.\r\n"
-  },
-  {
-    "id": "star-wars-outlaws-2842040",
-    "appId": 2842040,
-    "title": "Star Wars Outlaws - 2842040",
-    "game": "Star Wars Outlaws",
-    "desc": "https://discord.com/channels/333191744873299978/1499122656686116944",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "Community",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\r\n# Star Wars Outlaws - 2842040\r\n\r\n# Follow this guide\r\nhttps://discord.com/channels/333191744873299978/1499122656686116944\r\n\r\n## **Prequisites Guide**\r\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \r\nhttps://github.com/Selectively11/CloudRedirect/releases/latest\r\n2. Follow guide completely at <#1495014736515829760> \r\n3. Manifest pinning via CloudRedirect.\r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\r\n2. Turn off Antivirus (real-time protection)\r\n3. Download game** [GAMENAME]** from Steam\r\n4. Click Bypass Game in Steam Unlock\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\r\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\r\n\r\n---\r\n\r\n## **Prequisites Guide**\r\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \r\n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \r\n\r\n## **Bypass Hypervisor Guide**\r\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\r\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\r\n3. Check Virtualization Enable/Disable\r\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\r\n*if not found that words mean is been disabled\r\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\r\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\r\n6. Press F7(driver Signature Enforcement)\r\n7. Add Game From SUO\r\n8. Download game** [GAMENAME]** from Steam\r\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\r\n\r\n## **Launch Option**\r\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\r\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\r\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\r\n"
-  },
-  {
-    "id": "1020790-naruto-x-boruto-ultimate-ninja-storm-connections-online-patch",
-    "appId": 1020790,
-    "title": "1020790 NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS ONLINE PATCH",
-    "game": "NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS",
-    "desc": "This also fix save game problem,",
+    "id": "powerwash-simulator-1290000",
+    "appId": 1290000,
+    "title": "PowerWash Simulator Online Fix",
+    "game": "PowerWash Simulator",
+    "desc": "PowerWash Simulator Online Fix",
     "tags": [
       "online"
     ],
-    "author": "Community",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\r\n# 1020790 NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS ONLINE PATCH\r\n\r\nThis also fix save game problem,\r\n-Controller, you have to fix it by pressing SHIFT TAB > Controller and then choose Gamepad template to be able to use your controller.\r\n"
+    "date": "2026-08-11",
+    "content": "\r\n# PowerWash Simulator Online Fix\r\n\r\n# PowerWash Simulator Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "escape-from-kyoto-house-1316700",
+    "appId": 1316700,
+    "title": "Escape from Kyoto House Bypass",
+    "game": "Escape from Kyoto House",
+    "desc": "Escape from Kyoto House Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Escape from Kyoto House Bypass\r\n\r\n# Escape from Kyoto House Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "nioh-2-the-complete-edition-1325200",
+    "appId": 1325200,
+    "title": "Nioh 2 – The Complete Edition Online Fix",
+    "game": "Nioh 2 – The Complete Edition",
+    "desc": "Nioh 2 – The Complete Edition Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Nioh 2 – The Complete Edition Online Fix\r\n\r\n# Nioh 2 – The Complete Edition Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "sons-of-the-forest-1326470",
+    "appId": 1326470,
+    "title": "Sons Of The Forest Online Fix",
+    "game": "Sons Of The Forest",
+    "desc": "Sons Of The Forest Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Sons Of The Forest Online Fix\r\n\r\n# Sons Of The Forest Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "mass-effect-legendary-edition-1328670",
+    "appId": 1328670,
+    "title": "Mass Effect™ Legendary Edition Bypass",
+    "game": "Mass Effect™ Legendary Edition",
+    "desc": "Mass Effect™ Legendary Edition Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Mass Effect™ Legendary Edition Bypass\r\n\r\n# Mass Effect™ Legendary Edition Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "battle-talent-1331510",
+    "appId": 1331510,
+    "title": "Battle Talent Online Fix",
+    "game": "Battle Talent",
+    "desc": "Battle Talent Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Battle Talent Online Fix\r\n\r\n# Battle Talent Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "len-s-island-1335830",
+    "appId": 1335830,
+    "title": "Len's Island Online Fix",
+    "game": "Len's Island",
+    "desc": "Len's Island Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Len's Island Online Fix\r\n\r\n# Len's Island Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "daemon-x-machina-titanic-scion-1342490",
+    "appId": 1342490,
+    "title": "Daemon X Machina: Titanic Scion Online Fix",
+    "game": "Daemon X Machina: Titanic Scion",
+    "desc": "Daemon X Machina: Titanic Scion Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Daemon X Machina: Titanic Scion Online Fix\r\n\r\n# Daemon X Machina: Titanic Scion Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "call-to-arms-panzer-elite-1343070",
+    "appId": 1343070,
+    "title": "Call to Arms: Panzer Elite Online Fix",
+    "game": "Call to Arms: Panzer Elite",
+    "desc": "Call to Arms: Panzer Elite Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Call to Arms: Panzer Elite Online Fix\r\n\r\n# Call to Arms: Panzer Elite Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "brave-escape-1354260",
+    "appId": 1354260,
+    "title": "Brave Escape Bypass",
+    "game": "Brave Escape",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Brave Escape Bypass\r\n\r\n# Brave Escape Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "teenage-mutant-ninja-turtles-shredder-s-revenge-1361510",
+    "appId": 1361510,
+    "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge Bypass",
+    "game": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "desc": "Teenage Mutant Ninja Turtles: Shredder's Revenge Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Teenage Mutant Ninja Turtles: Shredder's Revenge Bypass\r\n\r\n# Teenage Mutant Ninja Turtles: Shredder's Revenge Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "motor-town-behind-the-wheel-1369670",
+    "appId": 1369670,
+    "title": "Motor Town: Behind The Wheel Online Fix",
+    "game": "Motor Town: Behind The Wheel",
+    "desc": "Motor Town: Behind The Wheel Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Motor Town: Behind The Wheel Online Fix\r\n\r\n# Motor Town: Behind The Wheel Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "myth-of-empires-1371580",
+    "appId": 1371580,
+    "title": "Myth of Empires Online Fix",
+    "game": "Myth of Empires",
+    "desc": "Myth of Empires Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Myth of Empires Online Fix\r\n\r\n# Myth of Empires Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "jojo-s-bizarre-adventure-all-star-battle-r-1372110",
+    "appId": 1372110,
+    "title": "JoJo's Bizarre Adventure: All-Star Battle R Bypass",
+    "game": "JoJo's Bizarre Adventure: All-Star Battle R",
+    "desc": "JoJo's Bizarre Adventure: All-Star Battle R Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# JoJo's Bizarre Adventure: All-Star Battle R Bypass\r\n\r\n# JoJo's Bizarre Adventure: All-Star Battle R Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "runescape-dragonwilds-1374490",
+    "appId": 1374490,
+    "title": "RuneScape: Dragonwilds Online Fix",
+    "game": "RuneScape: Dragonwilds",
+    "desc": "RuneScape: Dragonwilds Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# RuneScape: Dragonwilds Online Fix\r\n\r\n# RuneScape: Dragonwilds Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "night-of-the-dead-1377380",
+    "appId": 1377380,
+    "title": "Night of the Dead Online Fix",
+    "game": "Night of the Dead",
+    "desc": "Night of the Dead Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Night of the Dead Online Fix\r\n\r\n# Night of the Dead Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
+  },
+  {
+    "id": "little-nightmares-iii-1392860",
+    "appId": 1392860,
+    "title": "Little Nightmares III Bypass",
+    "game": "Little Nightmares III",
+    "desc": "Little Nightmares III Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Little Nightmares III Bypass\r\n\r\n# Little Nightmares III Bypass\r\n\r\n### Instructions\r\n1. Download the game from Steam.\r\n2. Click **Bypass Game** in Steam Unlock.\r\n3. Launch the game normally.\r\n4. Enjoy!\r\n"
+  },
+  {
+    "id": "everdream-valley-1403650",
+    "appId": 1403650,
+    "title": "Everdream Valley Online Fix",
+    "game": "Everdream Valley",
+    "desc": "Everdream Valley Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\r\n# Everdream Valley Online Fix\r\n\r\n# Everdream Valley Online Fix\r\n\r\n### Instructions\r\n1. Install game\r\n2. Click \"ONLINE PATCH\"\r\n3. Run game from Steam or direct file exe\r\n"
   }
 ]
