@@ -36,6 +36,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Extra safeguard: ensure no files >45MB are ever committed to git
+          if [ -d "tutorials/assets" ]; then
+            find tutorials/assets -type f -size +45M -delete || true
+          fi
           git add tutorials/ data/
           if git diff --staged --quiet; then
             echo "has_changes=false" >> $GITHUB_OUTPUT

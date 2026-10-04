@@ -135,10 +135,24 @@ async function discordFetch(endpoint, authHeader) {
   throw new Error(`Max retries exceeded for ${endpoint}`);
 }
 
+const MAX_ASSET_SIZE_BYTES = 45 * 1024 * 1024; // 45 MB limit to stay safely under GitHub's 50MB/100MB limits
+
 // ── Download Asset File ──────────────────────────────────────────────────
-async function downloadAsset(url, filename) {
+async function downloadAsset(url, filename, reportedSize) {
+  // 1. Check reported size from Discord attachment
+  if (reportedSize && reportedSize > MAX_ASSET_SIZE_BYTES) {
+    const mb = (reportedSize / (1024 * 1024)).toFixed(1);
+    console.log(`  Skipping large file download (${mb} MB > 45 MB limit): ${filename}`);
+    return url; // Keep direct URL
+  }
+
   const destPath = path.join(ASSETS_DIR, filename);
   if (fs.existsSync(destPath)) {
+    const stats = fs.statSync(destPath);
+    if (stats.size > MAX_ASSET_SIZE_BYTES) {
+      fs.unlinkSync(destPath);
+      return url;
+    }
     return `assets/${filename}`;
   }
 
@@ -148,7 +162,21 @@ async function downloadAsset(url, filename) {
       console.warn(`  Failed to download asset ${url}: HTTP ${res.status}`);
       return url; // fallback to original url if download fails
     }
+
+    const contentLength = parseInt(res.headers.get('content-length') || '0', 10);
+    if (contentLength > MAX_ASSET_SIZE_BYTES) {
+      const mb = (contentLength / (1024 * 1024)).toFixed(1);
+      console.log(`  Skipping large download response (${mb} MB > 45 MB limit): ${filename}`);
+      return url;
+    }
+
     const buffer = Buffer.from(await res.arrayBuffer());
+    if (buffer.length > MAX_ASSET_SIZE_BYTES) {
+      const mb = (buffer.length / (1024 * 1024)).toFixed(1);
+      console.log(`  Downloaded buffer exceeds size limit (${mb} MB): ${filename}`);
+      return url;
+    }
+
     fs.writeFileSync(destPath, buffer);
     console.log(`  Downloaded asset: assets/${filename}`);
     return `assets/${filename}`;
@@ -282,13 +310,14 @@ async function main() {
           for (const att of msg.attachments) {
             const ext = path.extname(att.filename || '').toLowerCase() || '.png';
             const safeAttName = `${slug}_${att.id}${ext}`;
-            const localRel = await downloadAsset(att.url, safeAttName);
+            const localRel = await downloadAsset(att.url, safeAttName, att.size);
 
             const isImg = /\.(png|jpg|jpeg|webp|gif)$/i.test(ext);
             if (isImg) {
               text += `\n\n![Attached Image](${localRel})\n`;
             } else {
-              text += `\n\n[Download ${att.filename}](${localRel})\n`;
+              const sizeLabel = att.size ? ` (${(att.size / (1024 * 1024)).toFixed(1)} MB)` : '';
+              text += `\n\n[Download ${att.filename}${sizeLabel}](${localRel})\n`;
             }
           }
         }
@@ -358,13 +387,14 @@ ${fullContent}
         for (const att of msg.attachments) {
           const ext = path.extname(att.filename || '').toLowerCase() || '.png';
           const safeAttName = `${slug}_${att.id}${ext}`;
-          const localRel = await downloadAsset(att.url, safeAttName);
+          const localRel = await downloadAsset(att.url, safeAttName, att.size);
 
           const isImg = /\.(png|jpg|jpeg|webp|gif)$/i.test(ext);
           if (isImg) {
             text += `\n\n![Attached Image](${localRel})\n`;
           } else {
-            text += `\n\n[Download ${att.filename}](${localRel})\n`;
+            const sizeLabel = att.size ? ` (${(att.size / (1024 * 1024)).toFixed(1)} MB)` : '';
+            text += `\n\n[Download ${att.filename}${sizeLabel}](${localRel})\n`;
           }
         }
       }
