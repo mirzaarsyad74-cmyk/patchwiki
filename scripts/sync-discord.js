@@ -1,10 +1,11 @@
 #!/usr/bin/env node
 /**
- * Discord Channel / Forum Scraper for Tutorial
+ * Discord Channel & Forum Scraper for Tutorial / CloudRedirect
  *
- * Automatically fetches guides from Discord channel/forum,
- * downloads attachments to /tutorials/assets/ (splitting files >45MB into parts so no asset is ignored),
- * formats them with full frontmatter that CloudRedirect can read and match,
+ * Automatically fetches guides from Discord Forum & Text channels,
+ * supports both Bot tokens and User Account tokens (using Discord web client endpoints),
+ * filters out casual chat while capturing all guides, downloads assets (splitting files >45MB),
+ * formats them with full CloudRedirect-compatible YAML frontmatter (appId, title, game, desc, tags),
  * and saves/overwrites them as .md files inside /tutorials/.
  */
 
@@ -12,7 +13,12 @@ const fs   = require('fs');
 const path = require('path');
 
 // ── Configuration ────────────────────────────────────────────────────────
-const CHANNEL_ID = process.env.DISCORD_CHANNEL_ID || '1498980524297818142';
+const RAW_CHANNELS = process.env.DISCORD_CHANNEL_IDS || process.env.DISCORD_CHANNEL_ID || '1498980524297818142';
+const CHANNEL_IDS  = RAW_CHANNELS.split(/[,;\s]+/).map(s => s.trim()).filter(Boolean);
+
+const RAW_EXTRA_THREADS = process.env.EXTRA_THREAD_IDS || '1512676091373031507';
+const EXTRA_THREAD_IDS  = RAW_EXTRA_THREADS.split(/[,;\s]+/).map(s => s.trim()).filter(Boolean);
+
 const GUILD_ID   = process.env.DISCORD_GUILD_ID   || '333191744873299978';
 const RAW_TOKEN  = (process.env.DISCORD_TOKEN || process.env.DISCORD_BOT_TOKEN || '').trim();
 
@@ -40,6 +46,9 @@ const TAG_RULES = [
 
 // Fallback dictionary for common Steam games if AppID is omitted from thread title
 const KNOWN_GAME_APPIDS = {
+  'onimusha way of the sword': 2638890,
+  'onimusha: way of the sword': 2638890,
+  'onimusha': 2638890,
   'elden ring': 1245620,
   'palworld': 1623730,
   'carx street': 1114150,
@@ -122,10 +131,10 @@ function detectTags(text) {
 }
 
 function extractAppId(filename, title, game, body) {
-  const fullText = [filename || '', title || '', game || '', (body || '').slice(0, 1000)].join(' ');
+  const fullText = [filename || '', title || '', game || '', (body || '').slice(0, 5000)].join(' ');
   
-  // 1. Steam store or community URL
-  const mLink = fullText.match(/(?:store\.steampowered\.com|steamcommunity\.com)\/app\/(\d{3,9})/i);
+  // 1. Steam store, community, or steamdb URL
+  const mLink = fullText.match(/(?:store\.steampowered\.com|steamcommunity\.com|steamdb\.info)\/app\/(\d{3,9})/i);
   if (mLink) return parseInt(mLink[1], 10);
 
   // 2. Explicit appid label
@@ -235,7 +244,8 @@ async function resolveAuthHeader(token) {
       }
     });
     if (res.ok) {
-      console.log('Authenticated successfully with User Token.');
+      const u = await res.json().catch(() => ({}));
+      console.log(`Authenticated successfully with User Token (${u.username || 'User'}).`);
       return token;
     }
   } catch (err) {}
@@ -251,7 +261,7 @@ async function discordFetch(endpoint, authHeader) {
     const res = await fetch(url, {
       headers: {
         'Authorization': authHeader,
-        'User-Agent': 'Tutorial-Sync/1.0',
+        'User-Agent': authHeader.startsWith('Bot ') ? 'Tutorial-Sync/1.0' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'application/json'
       }
     });
@@ -359,11 +369,6 @@ async function downloadAsset(url, safeFilename, reportedSize) {
       console.log(`    Wrote ${partName} (${(slice.length / (1024*1024)).toFixed(1)} MB)`);
     }
 
-    // If whole file previously existed, remove it so git doesn't track both
-    if (fs.existsSync(destPath)) {
-      try { fs.unlinkSync(destPath); } catch (e) {}
-    }
-
     return {
       isSplit: true,
       files: partFiles,
@@ -372,7 +377,7 @@ async function downloadAsset(url, safeFilename, reportedSize) {
       baseName: safeFilename
     };
   } catch (err) {
-    console.warn(`  Error downloading asset ${url}: ${err.message}`);
+    console.warn(`  Error downloading asset ${safeFilename}: ${err.message}`);
     return { fallbackUrl: url };
   }
 }
@@ -382,9 +387,7 @@ function loadState() {
   if (fs.existsSync(STATE_FILE)) {
     try {
       return JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));
-    } catch (e) {
-      console.warn('Could not parse sync state file, starting fresh.');
-    }
+    } catch (e) {}
   }
   return { lastSync: null, syncedItems: {} };
 }
@@ -394,173 +397,216 @@ function saveState(state) {
   fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2), 'utf8');
 }
 
-// ── Main Sync Logic ──────────────────────────────────────────────────────
-async function main() {
-  console.log('=== Tutorial Discord Channel Scraper ===');
-  console.log(`Channel ID : ${CHANNEL_ID}`);
-  console.log(`Guild ID   : ${GUILD_ID}`);
-  console.log(`Force Overwrite : ${FORCE_OVERWRITE}`);
+// ── Forum Thread Retrieval (User Token & Bot Token Compatible) ───────────
+async function getForumThreads(channelId, authHeader) {
+  const threadMap = new Map();
 
-  if (!fs.existsSync(TUTORIALS_DIR)) fs.mkdirSync(TUTORIALS_DIR, { recursive: true });
-  if (!fs.existsSync(ASSETS_DIR)) fs.mkdirSync(ASSETS_DIR, { recursive: true });
-
-  const authHeader = await resolveAuthHeader(RAW_TOKEN);
-  const state = loadState();
-  let newOrUpdatedCount = 0;
-
-  // 1. Inspect channel to determine if it's a Forum (type 15) or regular channel
-  let channelInfo = null;
+  // Strategy 1: Guild active threads (/guilds/{GUILD_ID}/threads/active) - Bot tokens
   try {
-    channelInfo = await discordFetch(`/channels/${CHANNEL_ID}`, authHeader);
-    console.log(`Channel Name: #${channelInfo.name} (type: ${channelInfo.type})`);
+    const activeData = await discordFetch(`/guilds/${GUILD_ID}/threads/active`, authHeader);
+    const activeThreads = (activeData.threads || []).filter(t => t.parent_id === channelId);
+    for (const t of activeThreads) threadMap.set(t.id, t);
+    if (activeThreads.length > 0) {
+      console.log(`  [Strategy 1 - Guild Active] Found ${activeThreads.length} active thread(s).`);
+    }
   } catch (err) {
-    console.warn(`Could not fetch channel details directly: ${err.message}. Attempting thread/message fallbacks...`);
+    console.log(`  [Strategy 1 - Guild Active] Skipped (${err.message}). Using client forum search...`);
   }
 
-  const isForum = channelInfo && (channelInfo.type === 15 || channelInfo.type === 16);
-
-  if (isForum) {
-    console.log('Detected Discord Forum channel. Fetching forum threads...');
-    const threadMap = new Map();
-
-    // A. Active threads
-    try {
-      const activeData = await discordFetch(`/guilds/${GUILD_ID}/threads/active`, authHeader);
-      const activeThreads = (activeData.threads || []).filter(t => t.parent_id === CHANNEL_ID);
-      for (const t of activeThreads) threadMap.set(t.id, t);
-      console.log(`Found ${activeThreads.length} active thread(s) in this forum.`);
-    } catch (err) {
-      console.warn(`Warning: Could not fetch active threads from guild: ${err.message}`);
-    }
-
-    // B. Archived public threads
-    try {
-      let beforeTimestamp = null;
-      let hasMore = true;
-      let archivedCount = 0;
-
-      while (hasMore) {
-        const query = beforeTimestamp ? `?before=${encodeURIComponent(beforeTimestamp)}&limit=100` : '?limit=100';
-        const archivedData = await discordFetch(`/channels/${CHANNEL_ID}/threads/archived/public${query}`, authHeader);
-        const threads = archivedData.threads || [];
-        for (const t of threads) threadMap.set(t.id, t);
-        archivedCount += threads.length;
-
-        if (archivedData.has_more && threads.length > 0) {
-          const lastThread = threads[threads.length - 1];
-          beforeTimestamp = lastThread.thread_metadata?.archive_timestamp;
-          await sleep(300);
-        } else {
-          hasMore = false;
+  // Strategy 2: User token client forum search (archived=false for active threads)
+  // This is the EXACT endpoint Discord Web Client uses when browsing active forum posts!
+  try {
+    let offset = 0;
+    let hasMore = true;
+    let searchActiveCount = 0;
+    while (hasMore && offset < 500) {
+      const searchRes = await discordFetch(`/channels/${channelId}/threads/search?archived=false&sort_by=last_message_time&sort_order=desc&limit=25&offset=${offset}`, authHeader);
+      const threads = searchRes.threads || [];
+      for (const t of threads) {
+        if (!threadMap.has(t.id)) {
+          threadMap.set(t.id, t);
+          searchActiveCount++;
         }
       }
-      console.log(`Found ${archivedCount} archived thread(s) in this forum.`);
-    } catch (err) {
-      console.warn(`Warning: Could not fetch archived threads: ${err.message}`);
+      if (searchRes.has_more && threads.length > 0) {
+        offset += threads.length;
+        await sleep(350);
+      } else {
+        hasMore = false;
+      }
     }
+    console.log(`  [Strategy 2 - Forum Search Active] Found ${searchActiveCount} active thread(s).`);
+  } catch (err) {
+    console.warn(`  [Strategy 2 - Forum Search Active] Warning: ${err.message}`);
+  }
 
-    console.log(`Total threads to process: ${threadMap.size}`);
+  // Strategy 3: Channel-level threads/active endpoint
+  try {
+    const chanActive = await discordFetch(`/channels/${channelId}/threads/active`, authHeader);
+    const threads = chanActive.threads || (Array.isArray(chanActive) ? chanActive : []);
+    let count = 0;
+    for (const t of threads) {
+      if (!threadMap.has(t.id)) {
+        threadMap.set(t.id, t);
+        count++;
+      }
+    }
+    if (count > 0) console.log(`  [Strategy 3 - Channel Active] Found ${count} additional active thread(s).`);
+  } catch (err) {}
 
-    // Process each thread
-    for (const [threadId, thread] of threadMap.entries()) {
-      const lastEdited = thread.thread_metadata?.archive_timestamp || thread.last_message_id;
-      const prev = state.syncedItems[threadId];
+  // Strategy 4: Archived Public Threads (/channels/{id}/threads/archived/public)
+  try {
+    let beforeTimestamp = null;
+    let hasMore = true;
+    let archivedCount = 0;
 
-      const gameTitle = thread.name.trim();
-      const safeBase = sanitizeFilename(gameTitle);
-      const slug = slugify(gameTitle);
-      const filename = `${safeBase || threadId}.md`;
-      const filePath = path.join(TUTORIALS_DIR, filename);
-
-      // Check if up to date unless FORCE_OVERWRITE is set or file is missing
-      if (!FORCE_OVERWRITE && prev && prev.lastEdited === lastEdited && fs.existsSync(filePath)) {
-        continue;
+    while (hasMore) {
+      const query = beforeTimestamp ? `?before=${encodeURIComponent(beforeTimestamp)}&limit=100` : '?limit=100';
+      const archivedData = await discordFetch(`/channels/${channelId}/threads/archived/public${query}`, authHeader);
+      const threads = archivedData.threads || [];
+      for (const t of threads) {
+        if (!threadMap.has(t.id)) {
+          threadMap.set(t.id, t);
+          archivedCount++;
+        }
       }
 
-      console.log(`\nProcessing thread: "${thread.name}" (${threadId})`);
-      await sleep(250);
-
-      // Fetch messages inside the thread
-      let messages = [];
-      try {
-        messages = await discordFetch(`/channels/${threadId}/messages?limit=100`, authHeader);
-        messages.sort((a, b) => new Date(a.timestamp) - new Date(b.timestamp)); // oldest first
-      } catch (err) {
-        console.warn(`Could not fetch messages for thread ${threadId}: ${err.message}`);
-        continue;
+      if (archivedData.has_more && threads.length > 0) {
+        const lastThread = threads[threads.length - 1];
+        beforeTimestamp = lastThread.thread_metadata?.archive_timestamp;
+        await sleep(300);
+      } else {
+        hasMore = false;
       }
+    }
+    console.log(`  [Strategy 4 - Archived Public] Found ${archivedCount} archived thread(s).`);
+  } catch (err) {
+    console.warn(`  [Strategy 4 - Archived Public] Warning: ${err.message}`);
+  }
 
-      if (messages.length === 0) continue;
+  // Strategy 5: Archived Private Threads (/channels/{id}/users/@me/threads/archived/private)
+  try {
+    const privData = await discordFetch(`/channels/${channelId}/users/@me/threads/archived/private?limit=100`, authHeader);
+    const threads = privData.threads || [];
+    for (const t of threads) {
+      if (!threadMap.has(t.id)) threadMap.set(t.id, t);
+    }
+  } catch (err) {}
 
-      const firstMsg = messages[0];
-      const authorName = firstMsg.author?.global_name || firstMsg.author?.username || 'Community';
-      const date = (firstMsg.timestamp || new Date().toISOString()).split('T')[0];
+  return threadMap;
+}
 
-      // Combine message content and attachments
-      let bodySections = [];
+// ── Thread Processor (Formats CloudRedirect-Compatible Guides) ────────────
+async function processThread(threadId, thread, authHeader, state) {
+  const lastEdited = thread.thread_metadata?.archive_timestamp || thread.last_message_id;
+  const prev = state.syncedItems[threadId];
 
-      for (const msg of messages) {
-        let text = msg.content || '';
+  const gameTitle = (thread.name || `Guide-${threadId}`).trim();
+  const safeBase = sanitizeFilename(gameTitle);
+  const slug = slugify(gameTitle);
+  const filename = `${safeBase || threadId}.md`;
+  const filePath = path.join(TUTORIALS_DIR, filename);
 
-        // Process attachments
-        if (msg.attachments && msg.attachments.length > 0) {
-          for (const att of msg.attachments) {
-            const ext = path.extname(att.filename || '').toLowerCase() || '.png';
-            const safeAttName = `${slug}_${att.id}${ext}`;
-            const assetRes = await downloadAsset(att.url, safeAttName, att.size);
+  // Check if up to date unless FORCE_OVERWRITE is set or file is missing
+  if (!FORCE_OVERWRITE && prev && prev.lastEdited === lastEdited && fs.existsSync(filePath)) {
+    return false;
+  }
 
-            if (assetRes.fallbackUrl) {
-              text += `\n\n[Download ${att.filename}](${assetRes.fallbackUrl})\n`;
-            } else if (!assetRes.isSplit) {
-              const isImg = /\.(png|jpg|jpeg|webp|gif)$/i.test(ext);
-              if (isImg) {
-                text += `\n\n![Attached Image](${assetRes.files[0]})\n`;
-              } else {
-                const sizeLabel = att.size ? ` (${(att.size / (1024 * 1024)).toFixed(1)} MB)` : '';
-                text += `\n\n[Download ${att.filename}${sizeLabel}](${assetRes.files[0]})\n`;
-              }
-            } else {
-              // File is split into parts (>45MB)
-              const totalMb = (assetRes.totalSize / (1024 * 1024)).toFixed(1);
-              const partLinks = assetRes.files.map((p, idx) => {
-                const pMb = (assetRes.partSizes[idx] / (1024 * 1024)).toFixed(1);
-                return `- [Download Part ${idx + 1} (${pMb} MB)](${p})`;
-              }).join('\n');
+  console.log(`\nProcessing thread: "${thread.name}" (${threadId})`);
+  await sleep(200);
 
-              text += `\n\n### Download ${att.filename} (${totalMb} MB)\n` +
-                      `> **Note:** This file exceeds 45 MB and has been split into ${assetRes.files.length} parts for direct download:\n` +
-                      `${partLinks}\n\n` +
-                      `**To recombine on Windows (CMD):**\n` +
-                      `\`\`\`cmd\ncopy /b "${safeAttName}.part*" "${att.filename}"\n\`\`\`\n` +
-                      `**To recombine on Linux / Mac:**\n` +
-                      `\`\`\`bash\ncat "${safeAttName}.part"* > "${att.filename}"\n\`\`\`\n`;
-            }
+  // Fetch messages inside the thread (paginate if > 100)
+  let messages = [];
+  try {
+    let beforeMsgId = null;
+    let hasMore = true;
+    while (hasMore && messages.length < 300) {
+      const q = beforeMsgId ? `?before=${beforeMsgId}&limit=100` : '?limit=100';
+      const batch = await discordFetch(`/channels/${threadId}/messages${q}`, authHeader);
+      if (!batch || batch.length === 0) break;
+      messages = messages.concat(batch);
+      beforeMsgId = batch[batch.length - 1].id;
+      if (batch.length < 100) hasMore = false;
+      await sleep(200);
+    }
+    messages.sort((a, b) => new Date(a.timestamp) - new Date(b.timestamp)); // oldest first
+  } catch (err) {
+    console.warn(`Could not fetch messages for thread ${threadId}: ${err.message}`);
+    return false;
+  }
+
+  if (messages.length === 0) return false;
+
+  const firstMsg = messages[0];
+  const authorName = firstMsg.author?.global_name || firstMsg.author?.username || 'Community';
+  const date = (firstMsg.timestamp || new Date().toISOString()).split('T')[0];
+
+  // Combine message content and attachments
+  let bodySections = [];
+
+  for (const msg of messages) {
+    let text = msg.content || '';
+
+    // Process attachments
+    if (msg.attachments && msg.attachments.length > 0) {
+      for (const att of msg.attachments) {
+        const ext = path.extname(att.filename || '').toLowerCase() || '.png';
+        const safeAttName = `${slug}_${att.id}${ext}`;
+        const assetRes = await downloadAsset(att.url, safeAttName, att.size);
+
+        if (assetRes.fallbackUrl) {
+          text += `\n\n[Download ${att.filename}](${assetRes.fallbackUrl})\n`;
+        } else if (!assetRes.isSplit) {
+          const isImg = /\.(png|jpg|jpeg|webp|gif)$/i.test(ext);
+          if (isImg) {
+            text += `\n\n![Attached Image](${assetRes.files[0]})\n`;
+          } else {
+            const sizeLabel = att.size ? ` (${(att.size / (1024 * 1024)).toFixed(1)} MB)` : '';
+            text += `\n\n[Download ${att.filename}${sizeLabel}](${assetRes.files[0]})\n`;
           }
-        }
+        } else {
+          // File is split into parts (>45MB)
+          const totalMb = (assetRes.totalSize / (1024 * 1024)).toFixed(1);
+          const partLinks = assetRes.files.map((p, idx) => {
+            const pMb = (assetRes.partSizes[idx] / (1024 * 1024)).toFixed(1);
+            return `- [Download Part ${idx + 1} (${pMb} MB)](${p})`;
+          }).join('\n');
 
-        if (text.trim()) {
-          bodySections.push(text.trim());
-        }
-      }
-
-      const fullContent = bodySections.join('\n\n---\n\n');
-      const detectedTags = detectTags(`${gameTitle} ${fullContent}`);
-      const tagsStr = detectedTags.length > 0 ? detectedTags.join(', ') : 'general';
-
-      const appId = extractAppId(safeBase, gameTitle, gameTitle, fullContent);
-      const cleanGame = cleanGameName(gameTitle, gameTitle, safeBase);
-
-      // Create a clean summary description
-      let summaryDesc = `Tutorial and guide for ${cleanGame}.`;
-      for (const line of fullContent.split('\n')) {
-        const trimmed = line.trim().replace(/[*#>`_-]/g, '').trim();
-        if (trimmed.length > 25 && !trimmed.startsWith('http') && !trimmed.startsWith('![')) {
-          summaryDesc = trimmed.slice(0, 160);
-          break;
+          text += `\n\n### Download ${att.filename} (${totalMb} MB)\n` +
+                  `> **Note:** This file exceeds 45 MB and has been split into ${assetRes.files.length} parts for direct download:\n` +
+                  `${partLinks}\n\n` +
+                  `**To recombine on Windows (CMD):**\n` +
+                  `\`\`\`cmd\ncopy /b "${safeAttName}.part*" "${att.filename}"\n\`\`\`\n` +
+                  `**To recombine on Linux / Mac:**\n` +
+                  `\`\`\`bash\ncat "${safeAttName}.part"* > "${att.filename}"\n\`\`\`\n`;
         }
       }
+    }
 
-      const mdContent = `---
+    if (text.trim()) {
+      bodySections.push(text.trim());
+    }
+  }
+
+  const fullContent = bodySections.join('\n\n---\n\n');
+  const detectedTags = detectTags(`${gameTitle} ${fullContent}`);
+  const tagsStr = detectedTags.length > 0 ? detectedTags.join(', ') : 'general';
+
+  const appId = extractAppId(safeBase, gameTitle, gameTitle, fullContent);
+  const cleanGame = cleanGameName(gameTitle, gameTitle, safeBase);
+
+  // Create a clean summary description
+  let summaryDesc = `Tutorial and guide for ${cleanGame}.`;
+  for (const line of fullContent.split('\n')) {
+    const trimmed = line.trim().replace(/[*#>`_-]/g, '').trim();
+    if (trimmed.length > 25 && !trimmed.startsWith('http') && !trimmed.startsWith('![')) {
+      summaryDesc = trimmed.slice(0, 160);
+      break;
+    }
+  }
+
+  // Format CloudRedirect-compatible YAML frontmatter
+  const mdContent = `---
 id: ${slug}
 title: ${gameTitle}
 game: ${cleanGame}
@@ -576,97 +622,155 @@ date: ${date}
 ${fullContent}
 `;
 
-      fs.writeFileSync(filePath, mdContent, 'utf8');
-      console.log(`  Wrote tutorial to tutorials/${filename} [AppID: ${appId || 'N/A'}]`);
+  fs.writeFileSync(filePath, mdContent, 'utf8');
+  console.log(`  Wrote tutorial to tutorials/${filename} [AppID: ${appId || 'N/A'}]`);
 
-      state.syncedItems[threadId] = {
-        lastEdited,
-        filename,
-        title: gameTitle,
-        appId: appId || null,
-        syncedAt: new Date().toISOString()
-      };
-      newOrUpdatedCount++;
+  state.syncedItems[threadId] = {
+    lastEdited,
+    filename,
+    title: gameTitle,
+    appId: appId || null,
+    syncedAt: new Date().toISOString()
+  };
+  return true;
+}
+
+// ── Text Channel Processor (Extracts Real Guides, Ignores Casual Chatter) ─
+async function processTextChannel(channelId, channelInfo, authHeader, state) {
+  console.log(`Processing Text Channel #${channelInfo.name || channelId} (${channelId})...`);
+
+  // 1. Also check if the text channel has any active/archived threads
+  try {
+    const textThreads = await getForumThreads(channelId, authHeader);
+    if (textThreads.size > 0) {
+      console.log(`  Found ${textThreads.size} thread(s) attached to this text channel.`);
+      for (const [threadId, thread] of textThreads.entries()) {
+        await processThread(threadId, thread, authHeader, state);
+      }
+    }
+  } catch (err) {}
+
+  // 2. Fetch pinned messages (pinned messages in tutorial channels are key guides)
+  const pinnedIds = new Set();
+  try {
+    const pins = await discordFetch(`/channels/${channelId}/pins`, authHeader);
+    console.log(`  Found ${pins.length} pinned message(s).`);
+    for (const p of pins) pinnedIds.add(p.id);
+  } catch (err) {}
+
+  // 3. Fetch message history with pagination (up to 500 messages)
+  let allMessages = [];
+  let beforeId = null;
+  let hasMore = true;
+
+  while (hasMore && allMessages.length < 500) {
+    const query = beforeId ? `?before=${beforeId}&limit=100` : '?limit=100';
+    try {
+      const msgs = await discordFetch(`/channels/${channelId}/messages${query}`, authHeader);
+      if (!msgs || msgs.length === 0) break;
+      allMessages = allMessages.concat(msgs);
+      beforeId = msgs[msgs.length - 1].id;
+      if (msgs.length < 100) hasMore = false;
+      await sleep(250);
+    } catch (err) {
+      console.warn(`  Failed fetching messages batch: ${err.message}`);
+      break;
+    }
+  }
+  console.log(`  Retrieved ${allMessages.length} total messages from #${channelInfo.name || channelId}.`);
+
+  // 4. Filter for real guides / tutorials vs casual chat
+  const guideMessages = allMessages.filter(msg => {
+    if (pinnedIds.has(msg.id)) return true;
+    const text = (msg.content || '').toLowerCase();
+    const hasAttachments = msg.attachments && msg.attachments.length > 0;
+    const hasAppId = extractAppId('', msg.content, '', msg.content) !== null;
+    const hasGuideKeyword = /(?:bypass|online\s*fix|onlinefix|online\s*patch|steam\s*emu|goldberg|tutorial|guide|install|how\s*to\s*play|instructions|crack)/i.test(text);
+
+    // Ignore short chat/banter
+    const isShortChat = text.length < 50 && !hasAttachments && !hasAppId;
+    const isChatter = /^(?:hi|hello|hey|thanks|thank you|ty|gg|is it working|work\?|help|plz|pls|anyone|what|yes|no|ok|cool|nice|lol|lmao)\b/i.test(text.trim());
+
+    if (isShortChat || (isChatter && !hasAttachments && !hasAppId)) return false;
+
+    return hasAttachments || hasAppId || hasGuideKeyword;
+  });
+
+  console.log(`  Identified ${guideMessages.length} guide/tutorial message(s) from chat history.`);
+
+  let count = 0;
+  for (const msg of guideMessages) {
+    if (!msg.content && (!msg.attachments || msg.attachments.length === 0)) continue;
+
+    const lastEdited = msg.edited_timestamp || msg.timestamp;
+    const prev = state.syncedItems[msg.id];
+
+    const firstLine = msg.content.split('\n')[0].replace(/^[#*\s]+/, '').trim();
+    const gameTitle = firstLine.slice(0, 80) || `Guide-${msg.id}`;
+    const safeBase = sanitizeFilename(gameTitle);
+    const slug = slugify(gameTitle);
+    const filename = `${safeBase || msg.id}.md`;
+    const filePath = path.join(TUTORIALS_DIR, filename);
+
+    if (!FORCE_OVERWRITE && prev && prev.lastEdited === lastEdited && fs.existsSync(filePath)) {
+      continue;
     }
 
-  } else {
-    // Regular text channel
-    console.log('Fetching messages from channel...');
-    const messages = await discordFetch(`/channels/${CHANNEL_ID}/messages?limit=100`, authHeader);
-    console.log(`Retrieved ${messages.length} message(s).`);
+    const authorName = msg.author?.global_name || msg.author?.username || 'Community';
+    const date = (msg.timestamp || new Date().toISOString()).split('T')[0];
 
-    for (const msg of messages) {
-      if (!msg.content && (!msg.attachments || msg.attachments.length === 0)) continue;
+    let text = msg.content || '';
 
-      const lastEdited = msg.edited_timestamp || msg.timestamp;
-      const prev = state.syncedItems[msg.id];
+    if (msg.attachments && msg.attachments.length > 0) {
+      for (const att of msg.attachments) {
+        const ext = path.extname(att.filename || '').toLowerCase() || '.png';
+        const safeAttName = `${slug}_${att.id}${ext}`;
+        const assetRes = await downloadAsset(att.url, safeAttName, att.size);
 
-      const firstLine = msg.content.split('\n')[0].replace(/^[#*\s]+/, '').trim();
-      const gameTitle = firstLine || `Guide-${msg.id}`;
-      const safeBase = sanitizeFilename(gameTitle);
-      const slug = slugify(gameTitle);
-      const filename = `${safeBase || msg.id}.md`;
-      const filePath = path.join(TUTORIALS_DIR, filename);
-
-      if (!FORCE_OVERWRITE && prev && prev.lastEdited === lastEdited && fs.existsSync(filePath)) {
-        continue;
-      }
-
-      const authorName = msg.author?.global_name || msg.author?.username || 'Community';
-      const date = (msg.timestamp || new Date().toISOString()).split('T')[0];
-
-      let text = msg.content || '';
-
-      if (msg.attachments && msg.attachments.length > 0) {
-        for (const att of msg.attachments) {
-          const ext = path.extname(att.filename || '').toLowerCase() || '.png';
-          const safeAttName = `${slug}_${att.id}${ext}`;
-          const assetRes = await downloadAsset(att.url, safeAttName, att.size);
-
-          if (assetRes.fallbackUrl) {
-            text += `\n\n[Download ${att.filename}](${assetRes.fallbackUrl})\n`;
-          } else if (!assetRes.isSplit) {
-            const isImg = /\.(png|jpg|jpeg|webp|gif)$/i.test(ext);
-            if (isImg) {
-              text += `\n\n![Attached Image](${assetRes.files[0]})\n`;
-            } else {
-              const sizeLabel = att.size ? ` (${(att.size / (1024 * 1024)).toFixed(1)} MB)` : '';
-              text += `\n\n[Download ${att.filename}${sizeLabel}](${assetRes.files[0]})\n`;
-            }
+        if (assetRes.fallbackUrl) {
+          text += `\n\n[Download ${att.filename}](${assetRes.fallbackUrl})\n`;
+        } else if (!assetRes.isSplit) {
+          const isImg = /\.(png|jpg|jpeg|webp|gif)$/i.test(ext);
+          if (isImg) {
+            text += `\n\n![Attached Image](${assetRes.files[0]})\n`;
           } else {
-            const totalMb = (assetRes.totalSize / (1024 * 1024)).toFixed(1);
-            const partLinks = assetRes.files.map((p, idx) => {
-              const pMb = (assetRes.partSizes[idx] / (1024 * 1024)).toFixed(1);
-              return `- [Download Part ${idx + 1} (${pMb} MB)](${p})`;
-            }).join('\n');
-
-            text += `\n\n### Download ${att.filename} (${totalMb} MB)\n` +
-                    `> **Note:** This file exceeds 45 MB and has been split into ${assetRes.files.length} parts for direct download:\n` +
-                    `${partLinks}\n\n` +
-                    `**To recombine on Windows (CMD):**\n` +
-                    `\`\`\`cmd\ncopy /b "${safeAttName}.part*" "${att.filename}"\n\`\`\`\n` +
-                    `**To recombine on Linux / Mac:**\n` +
-                    `\`\`\`bash\ncat "${safeAttName}.part"* > "${att.filename}"\n\`\`\`\n`;
+            const sizeLabel = att.size ? ` (${(att.size / (1024 * 1024)).toFixed(1)} MB)` : '';
+            text += `\n\n[Download ${att.filename}${sizeLabel}](${assetRes.files[0]})\n`;
           }
+        } else {
+          const totalMb = (assetRes.totalSize / (1024 * 1024)).toFixed(1);
+          const partLinks = assetRes.files.map((p, idx) => {
+            const pMb = (assetRes.partSizes[idx] / (1024 * 1024)).toFixed(1);
+            return `- [Download Part ${idx + 1} (${pMb} MB)](${p})`;
+          }).join('\n');
+
+          text += `\n\n### Download ${att.filename} (${totalMb} MB)\n` +
+                  `> **Note:** This file exceeds 45 MB and has been split into ${assetRes.files.length} parts for direct download:\n` +
+                  `${partLinks}\n\n` +
+                  `**To recombine on Windows (CMD):**\n` +
+                  `\`\`\`cmd\ncopy /b "${safeAttName}.part*" "${att.filename}"\n\`\`\`\n` +
+                  `**To recombine on Linux / Mac:**\n` +
+                  `\`\`\`bash\ncat "${safeAttName}.part"* > "${att.filename}"\n\`\`\`\n`;
         }
       }
+    }
 
-      const detectedTags = detectTags(`${gameTitle} ${text}`);
-      const tagsStr = detectedTags.length > 0 ? detectedTags.join(', ') : 'general';
+    const detectedTags = detectTags(`${gameTitle} ${text}`);
+    const tagsStr = detectedTags.length > 0 ? detectedTags.join(', ') : 'general';
 
-      const appId = extractAppId(safeBase, gameTitle, gameTitle, text);
-      const cleanGame = cleanGameName(gameTitle, gameTitle, safeBase);
+    const appId = extractAppId(safeBase, gameTitle, gameTitle, text);
+    const cleanGame = cleanGameName(gameTitle, gameTitle, safeBase);
 
-      let summaryDesc = `Tutorial and guide for ${cleanGame}.`;
-      for (const line of text.split('\n')) {
-        const trimmed = line.trim().replace(/[*#>`_-]/g, '').trim();
-        if (trimmed.length > 25 && !trimmed.startsWith('http') && !trimmed.startsWith('![')) {
-          summaryDesc = trimmed.slice(0, 160);
-          break;
-        }
+    let summaryDesc = `Tutorial and guide for ${cleanGame}.`;
+    for (const line of text.split('\n')) {
+      const trimmed = line.trim().replace(/[*#>`_-]/g, '').trim();
+      if (trimmed.length > 25 && !trimmed.startsWith('http') && !trimmed.startsWith('![')) {
+        summaryDesc = trimmed.slice(0, 160);
+        break;
       }
+    }
 
-      const mdContent = `---
+    const mdContent = `---
 id: ${slug}
 title: ${gameTitle}
 game: ${cleanGame}
@@ -682,25 +786,92 @@ date: ${date}
 ${text}
 `;
 
-      fs.writeFileSync(filePath, mdContent, 'utf8');
-      console.log(`  Wrote tutorial to tutorials/${filename} [AppID: ${appId || 'N/A'}]`);
+    fs.writeFileSync(filePath, mdContent, 'utf8');
+    console.log(`  Wrote tutorial to tutorials/${filename} [AppID: ${appId || 'N/A'}]`);
 
-      state.syncedItems[msg.id] = {
-        lastEdited,
-        filename,
-        title: gameTitle,
-        appId: appId || null,
-        syncedAt: new Date().toISOString()
-      };
-      newOrUpdatedCount++;
-      await sleep(150);
+    state.syncedItems[msg.id] = {
+      lastEdited,
+      filename,
+      title: gameTitle,
+      appId: appId || null,
+      syncedAt: new Date().toISOString()
+    };
+    count++;
+    await sleep(150);
+  }
+
+  return count;
+}
+
+// ── Main Sync Logic ──────────────────────────────────────────────────────
+async function main() {
+  console.log('=== Tutorial Discord Channel Scraper for CloudRedirect ===');
+  console.log(`Channel(s)      : ${CHANNEL_IDS.join(', ')}`);
+  console.log(`Guild ID        : ${GUILD_ID}`);
+  console.log(`Extra Threads   : ${EXTRA_THREAD_IDS.join(', ')}`);
+  console.log(`Force Overwrite : ${FORCE_OVERWRITE}`);
+
+  if (!fs.existsSync(TUTORIALS_DIR)) fs.mkdirSync(TUTORIALS_DIR, { recursive: true });
+  if (!fs.existsSync(ASSETS_DIR)) fs.mkdirSync(ASSETS_DIR, { recursive: true });
+
+  const authHeader = await resolveAuthHeader(RAW_TOKEN);
+  const state = loadState();
+  let newOrUpdatedCount = 0;
+
+  // Process configured channels
+  for (const chanId of CHANNEL_IDS) {
+    let channelInfo = null;
+    try {
+      channelInfo = await discordFetch(`/channels/${chanId}`, authHeader);
+      console.log(`\n========================================`);
+      console.log(`Channel #${channelInfo.name} (${chanId}, type: ${channelInfo.type})`);
+      console.log(`========================================`);
+    } catch (err) {
+      console.warn(`Could not fetch channel details directly for ${chanId}: ${err.message}`);
+    }
+
+    const isForum = channelInfo && (channelInfo.type === 15 || channelInfo.type === 16);
+
+    if (isForum) {
+      console.log('Detected Discord Forum channel. Fetching active & archived forum threads...');
+      const threadMap = await getForumThreads(chanId, authHeader);
+      console.log(`Total forum threads to process: ${threadMap.size}`);
+
+      for (const [threadId, thread] of threadMap.entries()) {
+        const updated = await processThread(threadId, thread, authHeader, state);
+        if (updated) newOrUpdatedCount++;
+      }
+    } else {
+      const added = await processTextChannel(chanId, channelInfo || { name: chanId, type: 0 }, authHeader, state);
+      newOrUpdatedCount += added;
+    }
+  }
+
+  // Process explicit extra threads (guarantees specific guides like Onimusha are fetched)
+  if (EXTRA_THREAD_IDS.length > 0) {
+    console.log(`\n========================================`);
+    console.log(`Checking Explicit Extra Threads (${EXTRA_THREAD_IDS.length})...`);
+    console.log(`========================================`);
+
+    for (const threadId of EXTRA_THREAD_IDS) {
+      const prev = state.syncedItems[threadId];
+      if (!prev || FORCE_OVERWRITE) {
+        try {
+          const thread = await discordFetch(`/channels/${threadId}`, authHeader);
+          console.log(`Found explicit thread: "${thread.name}" (${threadId})`);
+          const updated = await processThread(threadId, thread, authHeader, state);
+          if (updated) newOrUpdatedCount++;
+        } catch (err) {
+          console.warn(`Could not fetch explicit thread ${threadId}: ${err.message}`);
+        }
+      }
     }
   }
 
   state.lastSync = new Date().toISOString();
   saveState(state);
 
-  console.log(`\n=== Sync Finished! ${newOrUpdatedCount} guide(s) created or updated. ===`);
+  console.log(`\n=== Sync Finished! ${newOrUpdatedCount} guide(s) created or updated for CloudRedirect. ===`);
 }
 
 main().catch(err => {

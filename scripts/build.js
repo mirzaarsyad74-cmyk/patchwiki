@@ -29,6 +29,9 @@ const TAG_RULES = [
 ];
 
 const KNOWN_GAME_APPIDS = {
+  'onimusha way of the sword': 2638890,
+  'onimusha: way of the sword': 2638890,
+  'onimusha': 2638890,
   'elden ring': 1245620,
   'palworld': 1623730,
   'carx street': 1114150,

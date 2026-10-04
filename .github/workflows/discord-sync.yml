@@ -10,6 +10,14 @@ on:
         description: 'Force overwrite and re-download all guides'
         required: false
         default: 'true'
+      channel_ids:
+        description: 'Channel IDs to scrape (comma-separated, default is online-bypass-tutorial)'
+        required: false
+        default: '1498980524297818142'
+      extra_threads:
+        description: 'Specific thread IDs to guarantee scrape (e.g. Onimusha)'
+        required: false
+        default: '1512676091373031507'
 
 permissions:
   contents: write
@@ -37,9 +45,10 @@ jobs:
       - name: Scrape Discord Channel
         env:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-          DISCORD_CHANNEL_ID: '1498980524297818142'
+          DISCORD_CHANNEL_IDS: ${{ inputs.channel_ids || '1498980524297818142' }}
           DISCORD_GUILD_ID: '333191744873299978'
-          OVERWRITE_ALL: 'true'
+          EXTRA_THREAD_IDS: ${{ inputs.extra_threads || '1512676091373031507' }}
+          OVERWRITE_ALL: ${{ inputs.force_overwrite || 'true' }}
         run: node scripts/sync-discord.js
 
       - name: Split Upload and Commit Changes
