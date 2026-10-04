@@ -2,7 +2,7 @@
 
 Community-driven wiki for online patches, DRM bypasses, and game co-op emulation guides.
 
-**Live site:** https://3circledesign.github.io/patchwiki
+**Live site:** https://mirzaarsyad74-cmyk.github.io/patchwiki/
 
 ---
 
