@@ -1,5 +1,121 @@
 [
   {
+    "id": "bus-bound-2095420",
+    "appId": 2095420,
+    "title": "Bus Bound - 2095420",
+    "game": "Bus Bound",
+    "desc": "Tutorial and guide for Bus Bound.",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-07",
+    "content": "\n# Bus Bound - 2095420\n\n- Added online patch\n- Download game\n- Bypass Game\n"
+  },
+  {
+    "id": "gamble-with-your-friends-3892270",
+    "appId": 3892270,
+    "title": "Gamble With Your Friends - 3892270",
+    "game": "Gamble With Your Friends",
+    "desc": "Tutorial and guide for Gamble With Your Friends.",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-07",
+    "content": "\n# Gamble With Your Friends - 3892270\n\n- Added online patch\n- Download game\n- Bypass Game\n"
+  },
+  {
+    "id": "rest-area-simulator-3732960",
+    "appId": 3732960,
+    "title": "Rest Area Simulator - 3732960",
+    "game": "Rest Area Simulator",
+    "desc": "Tutorial and guide for Rest Area Simulator.",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-07",
+    "content": "\n# Rest Area Simulator - 3732960\n\n- Added online patch\n- Download game\n- Bypass Game\n"
+  },
+  {
+    "id": "1222700-a-way-out-bypass",
+    "appId": 1222700,
+    "title": "1222700 A WAY OUT BYPASS",
+    "game": "A WAY OUT",
+    "desc": "or Play using https://parsec.app/",
+    "tags": [
+      "bypass",
+      "coop"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 1222700 A WAY OUT BYPASS\n\nor Play using https://parsec.app/\n\n---\n\n## **​Launch the Game**:\n```\\SteamLibrary\\steamapps\\common\\AWayOut\\Haze1\\Binaries\\Win64```\n​Double-click `AWayOut.exe` inside game folder to start the game\n\n## Skip this if Offline/SP\nInstall the Steam Demo:\n1) Open your games installation folder\n2) ​Double-click the `install_game.bat` file\n\nNote: This adds the \"Blastzone 2 Demo\" to your Steam account, which is required to trick Steam into allowing Remote Play.\n​Navigate to the Game\n\n## ​Invite Your Friend:\n1) ​Select the Play Local option in the main menu\n2) ​Open the Steam Overlay by pressing SHIFT + TAB\n3) ​Right-click your friend's name in your friends list and select Remote Play Together to invite them\n"
+  },
+  {
+    "id": "1659040-hitman-world-of-assassination",
+    "appId": 1659040,
+    "title": "1659040 HITMAN WORLD OF ASSASSINATION",
+    "game": "HITMAN WORLD OF ASSASSINATION",
+    "desc": "3. The official launcher will pop up",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 1659040 HITMAN WORLD OF ASSASSINATION\n\nGEGE\n\n---\n\n1. Bypass Game\n2. Play from Steam\n3. The official launcher will pop up\n4. Play as usual, everything already set up by Bypass\n"
+  },
+  {
+    "id": "1702010-sengoku-dynasty",
+    "appId": 1702010,
+    "title": "1702010 SENGOKU DYNASTY",
+    "game": "SENGOKU DYNASTY",
+    "desc": "Tutorial and guide for SENGOKU DYNASTY.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 1702010 SENGOKU DYNASTY\n\n\n"
+  },
+  {
+    "id": "243470-watch-dogs",
+    "appId": 243470,
+    "title": "243470 WATCH DOGS",
+    "game": "WATCH DOGS",
+    "desc": "Tutorial and guide for WATCH DOGS.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 243470 WATCH DOGS\n\n\n"
+  },
+  {
+    "id": "311210-cod-black-ops-3-online-bypass",
+    "appId": 311210,
+    "title": "311210 COD BLACK OPS 3 ONLINE BYPASS",
+    "game": "COD BLACK OPS 3",
+    "desc": "311210 COD BLACK OPS 3 ONLINE BYPASS",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 311210 COD BLACK OPS 3 ONLINE BYPASS\n\n311210 COD BLACK OPS 3 ONLINE BYPASS\n"
+  },
+  {
     "id": "939960-far-cry-new-dawn-bypass",
     "appId": 939960,
     "title": "939960 FAR CRY NEW DAWN BYPASS",
@@ -166,118 +282,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 221100 DAYZ PRIV8 SERVER ONLINE\n\n-Open game folder after patching\n\n-use DayZavr Dayz.exe to run the private server host\nregister and play using the launcher.\n"
-  },
-  {
-    "id": "2215260-scott-pilgrim-vs-the-world-bypass",
-    "appId": 2215260,
-    "title": "2215260  SCOTT PILGRIM VS THE WORLD BYPASS",
-    "game": "SCOTT PILGRIM VS THE WORLD",
-    "desc": "After patching, open folder and start game using Scott.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 2215260  SCOTT PILGRIM VS THE WORLD BYPASS\n\n-After patching, open folder and start game using Scott.exe\n"
-  },
-  {
-    "id": "2340870-rugby-25-bypass",
-    "appId": 2340870,
-    "title": "2340870 RUGBY 25 BYPASS",
-    "game": "RUGBY 25",
-    "desc": "Tutorial and guide for RUGBY 25.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 2340870 RUGBY 25 BYPASS\n\n-After patching\n\n-Run game from Steam.\n"
-  },
-  {
-    "id": "2622380-elden-ring-nightreign-co-op-patch-to-v-1-1-0",
-    "appId": 2622380,
-    "title": "2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
-    "game": "ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
-    "desc": "Open folder after patching, run game from nrsclauncher.exe",
-    "tags": [
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0\n\n-Open folder after patching, run game from nrsc_launcher.exe\n\n---\n\nUpdated seamless co-op to v1.1.2\n"
-  },
-  {
-    "id": "3240220-gta-v-enhanced-fix",
-    "appId": 3240220,
-    "title": "3240220 GTA V ENHANCED FIX",
-    "game": "GTA V ENHANCED",
-    "desc": "HERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 3240220 GTA V ENHANCED FIX\n\nHERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473\n\n---\n\nMissing PlayGTAV.exe earlier\n\n-Patch and run game from Steam.\n\n---\n\n3240220 GTA V ENHANCED FIX\n"
-  },
-  {
-    "id": "394510-helldivers-1-online-patch",
-    "appId": 394510,
-    "title": "394510 HELLDIVERS 1 ONLINE PATCH",
-    "game": "HELLDIVERS 1",
-    "desc": "After patching, open game folder, launch from Launcher.exe",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 394510 HELLDIVERS 1 ONLINE PATCH\n\n-After patching, open game folder, launch from Launcher.exe\n"
-  },
-  {
-    "id": "779340-total-war-3-kingdoms-bypass",
-    "appId": 779340,
-    "title": "779340 TOTAL WAR: 3 KINGDOMS BYPASS",
-    "game": "TOTAL WAR: 3 KINGDOMS",
-    "desc": "After patching, try run the game from steam or game exe inside the folder",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 779340 TOTAL WAR: 3 KINGDOMS BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
-  },
-  {
-    "id": "809890-shining-resonance-refrain-bypass",
-    "appId": 809890,
-    "title": "809890 SHINING RESONANCE REFRAIN BYPASS",
-    "game": "SHINING RESONANCE REFRAIN",
-    "desc": "After patching, try run the game from steam or game exe inside the folder",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 809890 SHINING RESONANCE REFRAIN BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
-  },
-  {
-    "id": "950050-starlink-battle-for-atlas-ubisoft-bypass",
-    "appId": 950050,
-    "title": "950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS",
-    "game": "STARLINK: BATTLE FOR ATLAS",
-    "desc": "After patching, try run the game from steam or game exe inside the folder",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
   }
 ]

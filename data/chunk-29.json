@@ -1,5 +1,118 @@
 [
   {
+    "id": "2215260-scott-pilgrim-vs-the-world-bypass",
+    "appId": 2215260,
+    "title": "2215260  SCOTT PILGRIM VS THE WORLD BYPASS",
+    "game": "SCOTT PILGRIM VS THE WORLD",
+    "desc": "After patching, open folder and start game using Scott.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 2215260  SCOTT PILGRIM VS THE WORLD BYPASS\n\n-After patching, open folder and start game using Scott.exe\n"
+  },
+  {
+    "id": "2340870-rugby-25-bypass",
+    "appId": 2340870,
+    "title": "2340870 RUGBY 25 BYPASS",
+    "game": "RUGBY 25",
+    "desc": "Tutorial and guide for RUGBY 25.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 2340870 RUGBY 25 BYPASS\n\n-After patching\n\n-Run game from Steam.\n"
+  },
+  {
+    "id": "2622380-elden-ring-nightreign-co-op-patch-to-v-1-1-0",
+    "appId": 2622380,
+    "title": "2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
+    "game": "ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
+    "desc": "Open folder after patching, run game from nrsclauncher.exe",
+    "tags": [
+      "coop"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0\n\n-Open folder after patching, run game from nrsc_launcher.exe\n\n---\n\nUpdated seamless co-op to v1.1.2\n"
+  },
+  {
+    "id": "3240220-gta-v-enhanced-fix",
+    "appId": 3240220,
+    "title": "3240220 GTA V ENHANCED FIX",
+    "game": "GTA V ENHANCED",
+    "desc": "HERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 3240220 GTA V ENHANCED FIX\n\nHERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473\n\n---\n\nMissing PlayGTAV.exe earlier\n\n-Patch and run game from Steam.\n\n---\n\n3240220 GTA V ENHANCED FIX\n"
+  },
+  {
+    "id": "394510-helldivers-1-online-patch",
+    "appId": 394510,
+    "title": "394510 HELLDIVERS 1 ONLINE PATCH",
+    "game": "HELLDIVERS 1",
+    "desc": "After patching, open game folder, launch from Launcher.exe",
+    "tags": [
+      "online"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 394510 HELLDIVERS 1 ONLINE PATCH\n\n-After patching, open game folder, launch from Launcher.exe\n"
+  },
+  {
+    "id": "779340-total-war-3-kingdoms-bypass",
+    "appId": 779340,
+    "title": "779340 TOTAL WAR: 3 KINGDOMS BYPASS",
+    "game": "TOTAL WAR: 3 KINGDOMS",
+    "desc": "After patching, try run the game from steam or game exe inside the folder",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 779340 TOTAL WAR: 3 KINGDOMS BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
+  },
+  {
+    "id": "809890-shining-resonance-refrain-bypass",
+    "appId": 809890,
+    "title": "809890 SHINING RESONANCE REFRAIN BYPASS",
+    "game": "SHINING RESONANCE REFRAIN",
+    "desc": "After patching, try run the game from steam or game exe inside the folder",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 809890 SHINING RESONANCE REFRAIN BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
+  },
+  {
+    "id": "950050-starlink-battle-for-atlas-ubisoft-bypass",
+    "appId": 950050,
+    "title": "950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS",
+    "game": "STARLINK: BATTLE FOR ATLAS",
+    "desc": "After patching, try run the game from steam or game exe inside the folder",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
+  },
+  {
     "id": "black-myth-wukong-2358720",
     "appId": 2358720,
     "title": "Black Myth: Wukong - 2358720",
@@ -12,6 +125,22 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# Black Myth: Wukong - 2358720\n\n# Updated crack using voices38 crack\n- Download game, no need manifest pinning\n*- if you ever tried bypassing using hypervisor, delete game folder and uninstall from steam\n- reinstall game*- Bypass game and play from Steam.\n"
+  },
+  {
+    "id": "borderlands-4-1285190",
+    "appId": 1285190,
+    "title": "Borderlands® 4 - 1285190",
+    "game": "Borderlands® 4",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# Borderlands® 4 - 1285190\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
   },
   {
     "id": "star-wars-outlaws-2842040",
@@ -155,132 +284,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 2058180 JUDGMENT BYPASS\n\n-After patching, open game folder,\n-open runtime/media,\n-Start the game from Judgment.exe,\n-Disable antivirus as it might delete EMP.dll,\n-Support only until WIN 24H2\n"
-  },
-  {
-    "id": "2077750-rennsport",
-    "appId": 2077750,
-    "title": "2077750 RENNSPORT",
-    "game": "RENNSPORT",
-    "desc": "no bypass needed but u need to register account and login using the account in the game",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 2077750 RENNSPORT\n\nno bypass needed but u need to register account and login using the account in the game\nyou will be able to play online with official server\n"
-  },
-  {
-    "id": "2191500-vampire-bloodlord-rising",
-    "appId": 2191500,
-    "title": "2191500 VAMPIRE: BLOODLORD RISING",
-    "game": "VAMPIRE: BLOODLORD RISING",
-    "desc": "Start game from Steam and then login to epic games",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 2191500 VAMPIRE: BLOODLORD RISING\n\n-After patch\n-Start game from Steam and then login to epic games\n"
-  },
-  {
-    "id": "287700-metal-gear-solid-v-the-phantom-pain",
-    "appId": 287700,
-    "title": "287700 METAL GEAR SOLID V: THE PHANTOM PAIN",
-    "game": "METAL GEAR SOLID V: THE PHANTOM PAIN",
-    "desc": "Patch and then play from steam",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 287700 METAL GEAR SOLID V: THE PHANTOM PAIN\n\nExclusive for Onennabe\n\nPatch and then play from steam\n\n![Attached Image](assets/287700-metal-gear-solid-v-the-phantom-pain_1500854126832255158.png)\n"
-  },
-  {
-    "id": "3501070-car-service-together",
-    "appId": 3501070,
-    "title": "3501070 CAR SERVICE TOGETHER",
-    "game": "CAR SERVICE TOGETHER",
-    "desc": "Tutorial and guide for CAR SERVICE TOGETHER.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 3501070 CAR SERVICE TOGETHER\n\n-run game from Steam\n"
-  },
-  {
-    "id": "3569500-card-shop-simulator-online",
-    "appId": 3569500,
-    "title": "3569500 CARD SHOP SIMULATOR ONLINE",
-    "game": "CARD SHOP SIMULATOR",
-    "desc": "Tutorial and guide for CARD SHOP SIMULATOR.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 3569500 CARD SHOP SIMULATOR ONLINE\n\n-run game from Steam\n"
-  },
-  {
-    "id": "3681010-nioh-3-online-patch",
-    "appId": 3681010,
-    "title": "3681010 NIOH 3 ONLINE PATCH",
-    "game": "NIOH 3",
-    "desc": "After patch, play game from Steam,",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 3681010 NIOH 3 ONLINE PATCH\n\n-After patch, play game from Steam,\n-Make sure antivirus is disabled before starting game,\n-Progress through story first before unlocking story co-op mode.\n"
-  },
-  {
-    "id": "47790-medal-of-honor-ea-bypass",
-    "appId": 47790,
-    "title": "47790 MEDAL OF HONOR EA BYPASS",
-    "game": "MEDAL OF HONOR",
-    "desc": "Tutorial and guide for MEDAL OF HONOR.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 47790 MEDAL OF HONOR EA BYPASS\n\nPlay from Steam.\n"
-  },
-  {
-    "id": "49540-bypass-for-aliens-colonial-marines",
-    "appId": 49540,
-    "title": "49540 BYPASS FOR ALIENS: COLONIAL MARINES",
-    "game": "ALIENS: COLONIAL MARINES",
-    "desc": "After patch, open game folder and then open Binaries  Win32",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 49540 BYPASS FOR ALIENS: COLONIAL MARINES\n\n-After patch, open game folder and then open Binaries > Win32\n\" C:\\SteamLibrary\\steamapps\\common\\Aliens Colonial Marines\\Binaries\\Win32\"\n-Right click ACM.exe , run as administrator\n\n![Attached Image](assets/49540-bypass-for-aliens-colonial-marines_1500857490592633003.png)\n"
-  },
-  {
-    "id": "55150-bypass-for-warhammer-40k-space-marine-anniversary-edition",
-    "appId": 55150,
-    "title": "55150 bypass for Warhammer 40k Space Marine Anniversary Edition",
-    "game": "Warhammer 40k Space Marine Anniversary Edition",
-    "desc": "Make sure turn off antivirus, the crack is detected heavily by win defender",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 55150 bypass for Warhammer 40k Space Marine Anniversary Edition\n\n-Make sure turn off antivirus, the crack is detected heavily by win defender\n\n-After patch, run game from Steam\n"
   }
 ]

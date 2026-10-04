@@ -1,5 +1,161 @@
 [
   {
+    "id": "resident-evil-requiem-3764200",
+    "appId": 3764200,
+    "title": "Resident Evil Requiem - 3764200",
+    "game": "Resident Evil Requiem",
+    "desc": "Download Game, make sure game auto update is lock.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-02",
+    "content": "\n# Resident Evil Requiem - 3764200\n\nDownload Game, make sure game auto update is lock. \nthen bypass game, play from steam\n\n---\n\n<:5726toothymaw:1239134161835655198>\n\n---\n\nGot same issues?\n\nDownload [REFramework](https://github.com/praydog/REFramework-nightly/releases/download/nightly-01424-d1461375aee4ec3f313170f8eaad12064eb542d9/REFramework.zip)\n\n• Extract folder and copy/move **dinput8.dll** to game installation Folder and try run game again\n\n![Attached Image](assets/resident-evil-requiem-3764200_1554156829628698684.jpg)\n"
+  },
+  {
+    "id": "1088850-marvel-s-guardians-of-the-galaxy-denuv-bypass",
+    "appId": 1088850,
+    "title": "(1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS",
+    "game": "MARVEL'S GUARDIANS OF THE GALAXY",
+    "desc": "tested on win11 build 26100.6725",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS\n\n-run game from steam,\n-tested on win11 build 26100.6725\n"
+  },
+  {
+    "id": "1262560-need-for-speed-most-wanted-ea-bypass",
+    "appId": 1262560,
+    "title": "(1262560) NEED FOR SPEED MOST WANTED EA BYPASS",
+    "game": "NEED FOR SPEED MOST WANTED",
+    "desc": "After patch, open folder and run the game from NFS13.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (1262560) NEED FOR SPEED MOST WANTED EA BYPASS\n\n-After patch, open folder and run the game from NFS13.exe\n"
+  },
+  {
+    "id": "1677280-company-of-heroes-3-denuv-bypass",
+    "appId": 1677280,
+    "title": "(1677280) COMPANY OF HEROES 3 DENUV BYPASS",
+    "game": "COMPANY OF HEROES 3",
+    "desc": "Tutorial and guide for COMPANY OF HEROES 3.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (1677280) COMPANY OF HEROES 3 DENUV BYPASS\n\n-Run game from Steam\n"
+  },
+  {
+    "id": "1693980-dead-space-remake-denu-bypass",
+    "appId": 1693980,
+    "title": "(1693980) DEAD SPACE REMAKE DENU BYPASS",
+    "game": "DEAD SPACE REMAKE",
+    "desc": "run game from steam after patch,",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (1693980) DEAD SPACE REMAKE DENU BYPASS\n\n-run game from steam after patch,\n-wait for shader complete build.\n"
+  },
+  {
+    "id": "2129530-reanimal-online-co-op",
+    "appId": 2129530,
+    "title": "(2129530) REANIMAL ONLINE CO-OP",
+    "game": "REANIMAL",
+    "desc": "Just add friend pass from Steam Store and then play with your friend via normal steam invite",
+    "tags": [
+      "online",
+      "coop"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (2129530) REANIMAL ONLINE CO-OP\n\n-Just add friend pass from Steam Store and then play with your friend via normal steam invite\n\n![Attached Image](assets/2129530-reanimal-online-co-op_1499261977397035098.png)\n"
+  },
+  {
+    "id": "2221920-ubisoft-bypass-for-immortals-fenyx-rising",
+    "appId": 2221920,
+    "title": "(2221920) UBISOFT BYPASS FOR IMMORTALS FENYX RISING",
+    "game": "IMMORTALS FENYX RISING",
+    "desc": "Open folder and run game from \"scimitarenginewin64vs2017dx11fx.exe\"",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (2221920) UBISOFT BYPASS FOR IMMORTALS FENYX RISING\n\n-Open folder and run game from \"scimitar_engine_win64_vs2017_dx11_fx.exe\"\n"
+  },
+  {
+    "id": "629820-maneater-denuv-bypass",
+    "appId": 629820,
+    "title": "(629820) MANEATER DENUV BYPASS",
+    "game": "MANEATER",
+    "desc": "if cant run from steam, run from binaries/win64 folder,",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (629820) MANEATER DENUV BYPASS\n\n-run game from steam,\n-if cant run from steam, run from binaries/win64 folder,\n-if can, means its only compatible with WIN 11\n"
+  },
+  {
+    "id": "637100-sonic-forces-denuv-bypass",
+    "appId": 637100,
+    "title": "(637100) SONIC FORCES DENUV BYPASS",
+    "game": "SONIC FORCES",
+    "desc": "Tutorial and guide for SONIC FORCES.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (637100) SONIC FORCES DENUV BYPASS\n\n-run game from steam\n"
+  },
+  {
+    "id": "added-monster-hunter-world-online-582010",
+    "appId": 582010,
+    "title": "Added Monster Hunter: World Online- 582010",
+    "game": "Monster Hunter: World",
+    "desc": "After patch, open game folder and run the game via Launcher.exe",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# Added Monster Hunter: World Online- 582010\n\n- After patch, open game folder and run the game via Launcher.exe\n"
+  },
+  {
+    "id": "battlefield-6-2807960",
+    "appId": 2807960,
+    "title": "Battlefield 6 - 2807960",
+    "game": "Battlefield 6",
+    "desc": "Enter the game folder, you can use \"Downloaded Game\" button.",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# Battlefield 6 - 2807960\n\n- After install game\n- Enter the game folder, you can use \"Downloaded Game\" button.\n - go inside folder Battlefield 6/SP/bf6.exe\n- Launch game from bf6.exe\n\nor \n\nUse Steam Unlock Onennabe and open the game panel. Click Play > Choose EXE > choose the bf6.exe that is located in SP/bf6.exe\n\n![Attached Image](assets/battlefield-6-2807960_1499284193539260557.png)\n\n---\n\n![Attached Image](assets/battlefield-6-2807960_1501181242626805791.png)\n"
+  },
+  {
     "id": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-1490890",
     "appId": 1490890,
     "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles - 1490890",
@@ -137,161 +293,5 @@
     "version": "1.0",
     "date": "2026-04-30",
     "content": "\n# The First Berserker: Khazan - 2680010\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n# <a:5567alertblue:1400478576351907871> The First Berserker Khazan (2680010) denuv0 bypass added.. <a:5567alertblue:1400478576351907871>\n\nThose who use hypervisor previously, click remove hypervisor patch first, then Click Bypass Game.\n"
-  },
-  {
-    "id": "1413480-shin-megami-tensei-iii-nocturne-hd-remaster-denu-bypass",
-    "appId": 1413480,
-    "title": "(1413480) SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER DENU BYPASS",
-    "game": "SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER",
-    "desc": "Tutorial and guide for SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# (1413480) SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER DENU BYPASS\n\n-run game from steam\n"
-  },
-  {
-    "id": "1430190-killing-floor-3",
-    "appId": 1430190,
-    "title": "(1430190) KILLING FLOOR 3",
-    "game": "KILLING FLOOR 3",
-    "desc": "Run Killing Floor 3 from inside folder after patching bypass, its inside Binaries/Win64 folder,",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# (1430190) KILLING FLOOR 3\n\n-Run Killing Floor 3 from inside folder after patching bypass, its inside Binaries/Win64 folder, \n\n-run Nightfallclient_win64_shipping.exe\n\n![Attached Image](assets/1430190-killing-floor-3_1499095294632263750.png)\n\n---\n\n- Use Manifest Pinning from CloudRedirect in order to use bypass the online requirements\n\n---\n\n- or use entirely standalone\n"
-  },
-  {
-    "id": "228200-company-of-heroes-bypass",
-    "appId": 228200,
-    "title": "(228200) COMPANY OF HEROES BYPASS",
-    "game": "COMPANY OF HEROES",
-    "desc": "Open folder after patch and run from RelicCOH.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# (228200) COMPANY OF HEROES BYPASS\n\n-Open folder after patch and run from RelicCOH.exe\n"
-  },
-  {
-    "id": "2951630-total-war-pharaoh-dynasties-denu-bypass",
-    "appId": 2951630,
-    "title": "(2951630) TOTAL WAR: PHARAOH DYNASTIES DENU BYPASS",
-    "game": "TOTAL WAR: PHARAOH DYNASTIES",
-    "desc": "Tutorial and guide for TOTAL WAR: PHARAOH DYNASTIES.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# (2951630) TOTAL WAR: PHARAOH DYNASTIES DENU BYPASS\n\n-run game from steam\n"
-  },
-  {
-    "id": "770240-pro-evolution-soccer-2019-denuvo-bypass",
-    "appId": 770240,
-    "title": "(770240) PRO EVOLUTION SOCCER 2019 DENUVO BYPASS",
-    "game": "PRO EVOLUTION SOCCER 2019",
-    "desc": "After patch run from Steam",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# (770240) PRO EVOLUTION SOCCER 2019 DENUVO BYPASS\n\n- After patch run from Steam\n"
-  },
-  {
-    "id": "816020-jump-force",
-    "appId": 816020,
-    "title": "(816020) JUMP FORCE",
-    "game": "JUMP FORCE",
-    "desc": "I fixed mine by reinstalling the AntiCheat software, can be found it \"yourinstalldrive\":\\SteamLibrary\\steamapps\\common\\JUMP FORCE\\EasyAntiCheat",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# (816020) JUMP FORCE\n\nI fixed mine by reinstalling the Anti-Cheat software, can be found it \"yourinstalldrive\":\\SteamLibrary\\steamapps\\common\\JUMP FORCE\\EasyAntiCheat\n\n![Attached Image](assets/816020-jump-force_1499097716683182261.png)\n"
-  },
-  {
-    "id": "added-cure-a-hospital-simulator-online-patch-2786550",
-    "appId": 2786550,
-    "title": "Added CURE - A Hospital Simulator online patch (2786550)",
-    "game": "CURE - A Hospital Simulator",
-    "desc": "try run from steam once patch or",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added CURE - A Hospital Simulator online patch (2786550)\n\n- try run from steam once patch or\n- open game folder and run from **Cure.exe**\n"
-  },
-  {
-    "id": "added-denu-bypass-for-doom-the-dark-ages-3017860",
-    "appId": 3017860,
-    "title": "Added DENU bypass for Doom: The Dark Ages - 3017860",
-    "game": "Doom: The Dark Ages",
-    "desc": "Run game from steam upon bypass game done",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added DENU bypass for Doom: The Dark Ages - 3017860\n\n- Run game from steam upon bypass game done\n"
-  },
-  {
-    "id": "added-earth-defense-force-6-2291060",
-    "appId": 2291060,
-    "title": "Added Earth Defense Force 6- 2291060",
-    "game": "rth Defense Force 6",
-    "desc": "login epic games pop up in browser, then go back to game after login.",
-    "tags": [
-      "online"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Earth Defense Force 6- 2291060\n\n- After online patch\n- play game from steam\n- login epic games pop up in browser, then go back to game after login.\n"
-  },
-  {
-    "id": "added-occupy-mars-the-game-758690",
-    "appId": 758690,
-    "title": "Added Occupy Mars: The Game- 758690",
-    "game": "Occupy Mars: The Game",
-    "desc": "you can join lobby in online coop or host your own game.",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Occupy Mars: The Game- 758690\n\n- you can join lobby in online co-op or host your own game.\n\n![Attached Image](assets/added-occupy-mars-the-game-758690_1498980809388986458.png)\n"
-  },
-  {
-    "id": "added-re9-game-and-bypass-only-works-using-standalone-version-3764200",
-    "appId": 3764200,
-    "title": "Added RE9 Game and bypass, only works using standalone version!!3764200",
-    "game": "RE9 Game and , only works using standalone version",
-    "desc": "This version is released month ago and just cracked yesterday.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added RE9 Game and bypass, only works using standalone version!!3764200\n\nThis version is released month ago and just cracked yesterday.\n\nUpdated RE9 Bypass to works with latest RE9 version, standalone and steam now same version, bypass is 500mb.\n"
   }
 ]

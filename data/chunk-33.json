@@ -1,5 +1,269 @@
 [
   {
+    "id": "added-starrupture-online-patch-1631270",
+    "appId": 1631270,
+    "title": "Added StarRupture online patch - 1631270",
+    "game": "StarRupture",
+    "desc": "try run from steam once patch or",
+    "tags": [
+      "online",
+      "coop"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added StarRupture online patch - 1631270\n\n-try run from steam once patch or\n-open game folder and run game via StarRuptureGameSteam.exe\n-Session Type -> Invite Only -> Start Game -> ESC+We invite friends\n\n---\n\nAdded StarRupture online patch - 1631270\n"
+  },
+  {
+    "id": "added-super-battle-golf-4069520",
+    "appId": 4069520,
+    "title": "Added Super Battle Golf (4069520)",
+    "game": "Super Battle Golf",
+    "desc": "Tutorial and guide for Super Battle Golf.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Super Battle Golf (4069520)\n\n- patch and run from steam\n"
+  },
+  {
+    "id": "added-bypass-for-lego-horizon-adventures-2428810",
+    "appId": 2428810,
+    "title": "Added bypass for LEGO Horizon Adventures- (2428810)",
+    "game": "LEGO Horizon Adventures",
+    "desc": "After patch, run from steam",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added bypass for LEGO Horizon Adventures- (2428810)\n\nAfter patch, run from steam\n"
+  },
+  {
+    "id": "assassin-creed-mirage-3035570",
+    "appId": 3035570,
+    "title": "Assassin Creed Mirage (3035570)",
+    "game": "Assassin Creed Mirage",
+    "desc": "Update crack to use Voices38 denu crack",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Assassin Creed Mirage (3035570)\n\n- All DLC unlocked \n- run game from steam\n\n---\n\n5/5\n- Update crack to use Voices38 denu crack\n- Game may stutter after long hours of gaming session for few people. fix is pause the game, it will clear the RAM usage\n- initial starting will take very long time.\n"
+  },
+  {
+    "id": "assassin-s-creed-syndicate-368500",
+    "appId": 368500,
+    "title": "Assassin's Creed Syndicate - 368500",
+    "game": "Assassin's Creed Syndicate",
+    "desc": "Turn off Antivirus or exclude the game folder from windows Defender or antivirus",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Assassin's Creed Syndicate - 368500\n\n- Turn off Anti-virus or exclude the game folder from windows Defender or anti-virus\n- Start the game from Steam or inside the game folder\n- at the `Press Any Key to continue` sometimes will hang, you will have to end task i task manager\n- then try again, tips: wait for few seconds or around 20seconds before click any key to continue\n"
+  },
+  {
+    "id": "beamng-drive-284160-multiplayer-mod-tutorial",
+    "appId": 284160,
+    "title": "BeamNG.Drive - 284160 Multiplayer mod tutorial",
+    "game": "BeamNG.Drive",
+    "desc": "1. Launch the game in single player first, play for a bit.",
+    "tags": [
+      "coop"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# BeamNG.Drive - 284160 Multiplayer mod tutorial\n\n1. Launch the game in single player first, play for a bit.\n2. Then next step is go to game installation folder, launch `BeamMP-Launcher.exe`\n3. It will do some installation for Multiplayer mod.\n4. Then the normal BeamNG.drive game launcher will show up.\n5. Play the game! Enjoy!\n"
+  },
+  {
+    "id": "call-of-duty-black-ops-cold-war-1985810",
+    "appId": 1985810,
+    "title": "Call of Duty: Black Ops Cold War - 1985810",
+    "game": "Call of Duty: Black Ops Cold War",
+    "desc": "2. From Steam Unlock, click Play, choose exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Call of Duty: Black Ops Cold War - 1985810\n\n1. Bypass Game\n2. From Steam Unlock, click Play, choose exe\n3. Launch using  BlackOpsColdWar.exe\n"
+  },
+  {
+    "id": "call-of-duty-modern-warfare-iii-3595270",
+    "appId": 3595270,
+    "title": "Call of Duty: Modern Warfare III - 3595270",
+    "game": "Call of Duty: Modern Warfare III",
+    "desc": "Firstly, make sure the path on where you put the game folder is short and doesn't contain non latin characters or symbols to avoid issues with game launching.",
+    "tags": [
+      "bypass",
+      "coop",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Call of Duty: Modern Warfare III - 3595270\n\n- Firstly, make sure the path on where you put the game folder is short and doesn't contain non latin characters or symbols to avoid issues with game launching.\n- Extract everything in this archive into where you installed the game.\n- Start the game ONLY FROM !start_cod23.bat (for MP) or !start_sp23.bat (for SP) and keep the console window open until it closes by itself when you close the game.\n- If running either *.bat doesn't do anything, read the 1st step again (or check bootstrapper.log).\n\n![Attached Image](assets/call-of-duty-modern-warfare-iii-3595270_1499023253304246353.png)\n\n---\n\n## **How To Bypass**\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n\n## **Launch Option (From Folder Only)**\n1) !start_cod23.bat (for MP)\n2) !start_sp23.bat (for SP)\n\nMP: Multiplayer (online)\n​SP: Singleplayer \n\n```keep the console window open until it closes```\n"
+  },
+  {
+    "id": "carx-street-1114150",
+    "appId": 1114150,
+    "title": "CarX Street - 1114150",
+    "game": "CarX Street",
+    "desc": "1. Download game Carx from Steam",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# CarX Street - 1114150\n\n1. Download game Carx from Steam\n2. Bypass game and launching the game using CarX Street.exe\n"
+  },
+  {
+    "id": "crimson-desert-3321460",
+    "appId": 3321460,
+    "title": "Crimson Desert - 3321460",
+    "game": "Crimson Desert",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Crimson Desert - 3321460\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/crimson-desert-3321460_1499035872069419008.png)\n\n\n![Attached Image](assets/crimson-desert-3321460_1499035873050759198.png)\n\n---\n\n<:5726toothymaw:1239134161835655198>\n\n---\n\nUsing Crack: Voices38\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
+  },
+  {
+    "id": "dirt-4-online-patch-421020",
+    "appId": 421020,
+    "title": "DiRT 4 online patch - 421020",
+    "game": "DiRT 4",
+    "desc": "Finish the prologue tutorial.",
+    "tags": [
+      "online",
+      "coop"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# DiRT 4 online patch - 421020\n\n- Finish the prologue tutorial.\n- Once finish, exit the academy, go to events\n- select Multiplayer > Jam Sessions\n- Friend join the lobby created.\n\n![Attached Image](assets/dirt-4-online-patch-421020_1498981715014844519.png)\n"
+  },
+  {
+    "id": "digimon-story-time-stranger-1984270",
+    "appId": 1984270,
+    "title": "Digimon Story Time Stranger - 1984270",
+    "game": "Digimon Story Time Stranger",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Digimon Story Time Stranger - 1984270\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/digimon-story-time-stranger-1984270_1499139332424859678.png)\n"
+  },
+  {
+    "id": "dragon-age-inquisition-denuv0-and-ea-bypass-1222690",
+    "appId": 1222690,
+    "title": "Dragon Age™ Inquisition DENUV0 and EA bypass - 1222690",
+    "game": "Dragon Age™ Inquisition DENUV0 and",
+    "desc": "run game from inside folder DragonAgeInquisition.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Dragon Age™ Inquisition DENUV0 and EA bypass - 1222690\n\n- run game from inside folder **DragonAgeInquisition.exe**\n- dont run from Steam\n"
+  },
+  {
+    "id": "echoes-of-elysium-online-patch-2644050",
+    "appId": 2644050,
+    "title": "Echoes of Elysium Online Patch  (2644050)",
+    "game": "Echoes of Elysium",
+    "desc": "try run from steam once patch or",
+    "tags": [
+      "online"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Echoes of Elysium Online Patch  (2644050)\n\ntry run from steam once patch or \nopen game folder & run from Elysium.exe\n"
+  },
+  {
+    "id": "fc-26-hypervisor-denuvo-ea-bypass-3405690",
+    "appId": 3405690,
+    "title": "FC 26 Hypervisor Denuvo + EA bypass - 3405690",
+    "game": "FC 26 Hypervisor Denuvo +",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# FC 26 Hypervisor Denuvo + EA bypass - 3405690\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\nFC 26 Hypervisor Denuvo + EA bypass - 3405690\n\n---\n\n![Attached Image](assets/fc-26-hypervisor-denuvo-ea-bypass-3405690_1498988920913002558.png)\n\n---\n\n![Attached Image](assets/fc-26-hypervisor-denuvo-ea-bypass-3405690_1499036069298045109.png)\n\n\n![Attached Image](assets/fc-26-hypervisor-denuvo-ea-bypass-3405690_1499036069780394005.png)\n\n---\n\n7. Run game from HV-PlugNPlay.bat from SteamUnlock Onennabe\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+  },
+  {
+    "id": "fraymakers-online-patch-1420350",
+    "appId": 1420350,
+    "title": "Fraymakers online patch- 1420350",
+    "game": "Fraymakers",
+    "desc": "Create lobbies and invites your friends",
+    "tags": [
+      "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Fraymakers online patch- 1420350\n\n- Create lobbies and invites your friends\n"
+  },
+  {
+    "id": "how-to-bypass-denuvo-games-using-bypass-game-button",
+    "appId": null,
+    "title": "How to Bypass Denuvo Games using Bypass Game button?",
+    "game": "How to  Denuvo Games using  Game button?",
+    "desc": "Before Downloading game at steam make sure game already lock version at SUO",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# How to Bypass Denuvo Games using Bypass Game button?\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\nBefore Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > find game``` \nby default is (🔒 Lock)\nDisable=🔒 Lock\nEnable=🔓Unlock\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n\n---\n\n1. Search Core Isolation at start menu\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1499122792296222780.png)\n\n---\n\n2. Turn off Memory Intergrity\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1499122910231793916.png)\n\n---\n\n3. Follow the tutorial for CloudRedirect\nhttps://discordapp.com/channels/333191744873299978/1495014736515829760, IMPORTANT! USE MANIFEST PINNING AS SHOWN HERE, and then Restart Steam\n\nNOTE: YOU DO THIS ONLY ONCE\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1499123492044541972.png)\n\n---\n\n4. Download your denuv0 game in steam\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1499123847071535195.png)\n\n---\n\n5. Once Finish Download, click Bypass Game\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1499124138986574064.png)\n\n---\n\n6. Once that is done, open the game from Steam Unlock, Click Play > Choose EXE\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1499126143398314105.png)\n\n---\n\n7. Try and Launch the game using .exe or .bat\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1499126721151107273.png)\n\n---\n\nChoose 1\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1499138000737796266.png)\n\n---\n\nChoose 1 again to restart\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1499138141519478844.png)\n\n---\n\nAfter PC restart, you maybe prompted with this screen, just PRESS F7\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1499138832229208314.png)\n\n---\n\nAnd then try Play your game again.\n\n---\n\n# THIS IS ONE TIME ONLY\nIf you encounter this error, please enable VT-x / SVM in your BIOS, follow the video below\n\n1. for MSI https://www.youtube.com/watch?v=qKIcbKNI-g0\n2. for GigaByte https://www.youtube.com/watch?v=fpHEbny3Mhs\n3. for ASRock https://www.youtube.com/watch?v=p0QeY9tyAbI\n4. for ASUS https://www.youtube.com/watch?v=bQDVvhtBeO4\n5. for DELL https://www.youtube.com/watch?v=n-C1hz42Qxw\n6. for Lenovo https://www.youtube.com/watch?v=EEDddQTq-QE\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1499298238409347092.png)\n\n---\n\n<@&1213140603618201610> ALL PLEASE READ SAMPAI HABIS, RUN VBS.CMD TO FIX ALL ERROR\n\n1. ENABLE VIRTUALIZATION FROM BIOS IN YOUR PC ( 1 TIME ONLY)\n2. TURN OFF CORE ISOLATION MEMORY INTERGRITY\n3. RUN FROM HV-LAUNCHER OR HV-PLUGNPLAY\n\nI SEE ALL NOT FINISH READING THIS TUTORIAL AT ALL AND ASSUME PLUG N PLAY ONLY\n\n---\n\nTO ENSURE YOUR VIRTUALIZATION SUCCESSFULLY TURNED ON, GO TO TASK MANAGER > PERFORMANCE , CHECK VIRTUALIZATION IS ENABLED OR NOT, IF NOT REPEAT ABOVE BIOS STEP.\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1499974029715701830.png)\n\n---\n\n# HYPERVISOR ONLY WORK WITH CERTAIN GAME VERSION, THATS THE PURPOSE OF MANIFEST PINNING, DO NOT ASK FOR GAME UPDATE\n-# PIRATE CAN'T BE CHOOSERS\n\n---\n\n# **!! IMPORTANT !!**\nIf you encounter this error. Download this file VBS.CMD version 1.7 and run it. \n# THIS IS ONE TIME ONLY\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1503770739415847055.png)\n\n\n[Download VBS.cmd (0.1 MB)](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1503770739722027098.cmd)\n\n---\n\nVBS changelog\n\n> ## VBS Script 1.7\n> \n> **Changelog:**\n> \n> - Added detection for mapped network drives. Running the script from a mapped network drive, including shared folders in virtual machines that appear as mapped networks drives, is not supported and the script will now exit with an appropriate message instead of outright crashing. [This is a Windows issue and not the script's.](https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/mapped-drives-not-available-from-elevated-command)\n> \n> - When a Windows Hello PIN is both enabled and protected by VBS on Windows 11, the script cannot continue and prompts the user to disable their PIN first. This further addresses Windows Hello related issues.\n> - Added detection for Parallels Desktop for Mac. The script now checks BIOS and system manufacturer information to detect Parallels and exits with an appropriate message.\n> - The script now checks if it’s running on an unsupported version of Windows (Windows 10, version 1909 or lower), and if so, prompts the user to update their Windows.\n> - Fixed boot entry detection not working on Single Language editions of Windows by reading the value by position instead of searching for the word \"identifier\".\n> - Fixed an issue where disabling VBS with Credential Guard enabled on Windows 10 could require two reboots before fully taking effect.\n> - Added detection and disabling of additional registry keys for Enhanced Sign-in Security, covering keys that were previously missed.\n> - Fixed an issue where Startup Settings wouldn't show up on boot in a system that has disabled advanced boot options.\n> - The script now checks whether the Windows architecture is unsupported, and if so, prompts the user to exit.\n> - Updated introductory notes.\n> - Minor improvements.\n> - Bug fixes.\n> - We rely on user reports to identify and fix issues. If you encounter any problems, please report them at <#1487541874431365230>.\n> As a reminder, the \"Run as administrator\" option in the context menu will fail to execute the script on paths that contain certain special characters. **This is a Windows issue and not the script's.**\n> We recommend that instructions avoid explicitly directing users to run the script with administrative privileges. Instead, users should launch the script normally and, if prompted, simply approve the UAC dialog to grant the necessary privileges.\n> In order to fix this, open Command Prompt as administrator, then paste in and execute these commands:\n> ```cmd\n> set _r=^%SystemRoot^%\n> reg add HKLM\\SOFTWARE\\Classes\\batfile\\shell\\runas\\command /f /v \"\" /t REG_EXPAND_SZ /d \"%_r%\\System32\\cmd.exe /C \\\"\\\"%1\\\" %*\\\"\"\n> reg add HKLM\\SOFTWARE\\Classes\\cmdfile\\shell\\runas\\command /f /v \"\" /t REG_EXPAND_SZ /d \"%_r%\\System32\\cmd.exe /C \\\"\\\"%1\\\" %*\\\"\"\n> ```\n> From the documentation of KMS_VL_ALL:\n> ||https://i.postimg.cc/K86VFcWy/image.png||\n> \n> Special thanks to both [WindowsAddict](https://forums.mydigitallife.net/members/windows_addict.1668103/) and [abbodi1406](https://forums.mydigitallife.net/members/abbodi1406.204274/) for helping with this.\n\n---\n\nIF HAPPEN TO HAVE THIS ERROR DON'T PANIC AS WELL \n\njust follow this \n\nhttps://www.youtube.com/watch?v=Vzm2YQDcsfw\n\n![Attached Image](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1510500173288308766.png)\n\n---\n\nVBS CMD update 1.7.2\n\n- Improved boot entry identifier detection, addressing issues for some dual boot systems.\n- Added an error message for when the current boot entry could not be identified.\n- Added detection and disabling of Hypervisor-Enforced Paging Translation.\n- Updated introductory notes.\n- Minor improvements.\n\n[Download VBS_1.7.2.cmd (0.1 MB)](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1518952328311345222.cmd)\n\n---\n\n**VBS Script 1.8**\n**Changelog:**\n\n- The script now enables Test Signing instead of taking the user to disable driver signature enforcement through the Startup Settings in cases where Secure Boot is off. This approach is more stable, and does not need to be reapplied after every restart. Learn more about Test Signing here.\n- Improved Windows Hello detection.\n- Updated introductory notes.\n- Minor improvements.\n- Bug fixes.\n\nAs a reminder, the \"Run as administrator\" option in the context menu will fail to execute the script on paths that contain certain special characters. This is a Windows issue and not the script's.\n\nWe recommend that instructions avoid explicitly directing users to run the script with administrative privileges. Instead, users should launch the script normally and, if prompted, simply approve the UAC dialog to grant the necessary privileges.\n\nIn order to fix this, open Command Prompt as administrator, then paste in and execute these commands:\n\n[Download VBS_1.cmd (0.1 MB)](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1524094981894307912.cmd)\n\n---\n\n**VBS 1.9**\n**Changelog:**\n\n• Added a check for Bitdefender Advanced Threat Defense. The script will now warn the user when Bitdefender Advanced Threat Defense is on, as it may cause an “Initialization error 5” message in certain games that use VMProtect, notably Ubisoft and Capcom titles.\n• Added a check for MacType. The script will now warn the user when MacType is running as it’s known to cause games to silently crash. The script may also disable MacType when it’s set to run as a service.\n• Updated introductory notes.\n• Bug fixes\n\n[Download VBS_1.9.cmd (0.1 MB)](assets/how-to-bypass-denuvo-games-using-bypass-game-button_1532989862192480337.cmd)\n"
+  },
+  {
+    "id": "name-sonic-racing-crossworlds-2486820",
+    "appId": 2486820,
+    "title": "Name: Sonic Racing: CrossWorlds - 2486820",
+    "game": "Name: Sonic Racing: CrossWorlds",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Name: Sonic Racing: CrossWorlds - 2486820\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499063277332729866.png)\n\n\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499063280608743566.png)\n\n---\n\nRun game from Steam Unlock as shown here, choose HV-Launcher.bat or HV-PlugNPlay.bat\n\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499091266556788838.png)\n\n\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499091267009646702.png)\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+  },
+  {
     "id": "overcooked-all-you-can-eat-online-method-1243830",
     "appId": 1243830,
     "title": "Overcooked! All you can eat Online method- 1243830",
@@ -26,211 +290,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# PRAGMATA - 3357650\n\n1. Unlock Game from SUO\n2. Go to \"Game Auto Update\" in SUO inside Tools\n3. Click Smart Apply\n4. Download Game in Steam\n5. Apply Bypass Game\n6. Play from Steam\n\n---\n\n15/5 Updated to use voices38 crack\n"
-  },
-  {
-    "id": "paper-bride-series-from-1-6-online-check-bypass",
-    "appId": null,
-    "title": "Paper Bride Series from 1 - 6 online check bypass",
-    "game": "Paper Bride Series from 1 - 6  check",
-    "desc": "Download the attached, extract and copy all the folders and paste into Appdata/Roaming",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Paper Bride Series from 1 - 6 online check bypass\n\n- Download the attached, extract and copy all the folders and paste into Appdata/Roaming\n- Using **WIN + R**, TYPE **%appdata% ** , you should be in Roaming folder\n- Paste all the copied folder into  the Roaming folder\n- Use Online Patch/Bypass button\n- Play game from Steam.\n\n- For 1879380, 1735950, 1939790, 2286770, 2600570, 3227760\n\n![Attached Image](assets/paper-bride-series-from-1-6-online-check-bypass_1498997756516241418.png)\n\n\n![Attached Image](assets/paper-bride-series-from-1-6-online-check-bypass_1498997757250109491.png)\n\n---\n\n### Download PaperBride_1to6_series_patch.rar (136.4 MB)\n> **Note:** This file exceeds 45 MB and has been split into 4 parts for direct download:\n- [Download Part 1 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part01)\n- [Download Part 2 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part02)\n- [Download Part 3 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part03)\n- [Download Part 4 (1.4 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part04)\n\n**To recombine on Windows (CMD):**\n```cmd\ncopy /b \"paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part*\" \"PaperBride_1to6_series_patch.rar\"\n```\n**To recombine on Linux / Mac:**\n```bash\ncat \"paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part\"* > \"PaperBride_1to6_series_patch.rar\"\n```\n"
-  },
-  {
-    "id": "persona-4-golden-denu-bypass-111300",
-    "appId": 111300,
-    "title": "Persona 4 Golden Denu Bypass - 111300",
-    "game": "Persona 4 Golden",
-    "desc": "after bypass game, go inside game folder",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Persona 4 Golden Denu Bypass - 111300\n\n- after bypass game, go inside game folder\n- run Persona4GoldenDownloader.bat\n- this will download additional bypass files, total of 58 parts\n- use WARP if download is too slow.\n- once done, play the game using P4G.exe\n"
-  },
-  {
-    "id": "rdr2-bypass-guide-1174180-red-dead-redemption-2",
-    "appId": 1174180,
-    "title": "RDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2",
-    "game": "RDR2   RED DEAD REDEMPTION 2",
-    "desc": "run game using Launcher.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# RDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2\n\n- open game folder\n- run game using Launcher.exe\n\n---\n\nRed Dead Redemption 2\n\n---\n\nRDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2\n"
-  },
-  {
-    "id": "riders-republic-2290180",
-    "appId": 2290180,
-    "title": "RIDERS REPUBLIC - 2290180",
-    "game": "RIDERS REPUBLIC",
-    "desc": "Run the game by double click on Start.exe in the installation folder.",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# RIDERS REPUBLIC - 2290180\n\n- Patch it\n- Run the game by double click on `Start.exe` in the installation folder.\n- Game is offline only and playable in ZEN mode. Basically like creative mode alone..sadge\n"
-  },
-  {
-    "id": "rayman-30th-anniversary-edition-1435114",
-    "appId": 1435114,
-    "title": "Rayman: 30th Anniversary Edition - 1435114",
-    "game": "Rayman: 30th Anniversary Edition",
-    "desc": "after patch, run from Steam directly",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Rayman: 30th Anniversary Edition - 1435114\n\n- after patch, run from Steam directly\n"
-  },
-  {
-    "id": "resident-evil-6-221040",
-    "appId": 221040,
-    "title": "Resident Evil 6 (221040)",
-    "game": "Resident Evil 6",
-    "desc": "Tutorial and guide for Resident Evil 6.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Resident Evil 6 (221040)\n\n- Patch & Run from Steam\n"
-  },
-  {
-    "id": "rise-of-the-ronin-online-co-op-play-1340990",
-    "appId": 1340990,
-    "title": "Rise of the Ronin Online Co-op play - 1340990",
-    "game": "Rise of the Ronin  play",
-    "desc": "Play through prologue, and finished all the tutorial (took me good 1hour)",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Rise of the Ronin Online Co-op play - 1340990\n\n- Play through prologue, and finished all the tutorial (took me good 1hour)\n- Play with friends through `Cooperate` in game\n- Recruit backup or join your friends game\n"
-  },
-  {
-    "id": "ritual-party-online-patch-3140720",
-    "appId": 3140720,
-    "title": "Ritual Party Online Patch (3140720)",
-    "game": "Ritual Party",
-    "desc": "invite friends from steam overlay",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Ritual Party Online Patch (3140720)\n\n- run game from steam\n- invite friends from steam overlay\n"
-  },
-  {
-    "id": "the-rogue-prince-of-persia-bypass-ubisoft-2717880",
-    "appId": 2717880,
-    "title": "The Rogue Prince of Persia Bypass ubisoft (2717880)",
-    "game": "The Rogue Prince of Persia  ubisoft",
-    "desc": "Run game from steam upon patch",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# The Rogue Prince of Persia Bypass ubisoft (2717880)\n\n-Run game from steam upon patch\n"
-  },
-  {
-    "id": "two-point-museum-2185060",
-    "appId": 2185060,
-    "title": "Two Point Museum - 2185060",
-    "game": "Two Point Museum",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Two Point Museum - 2185060\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/two-point-museum-2185060_1499063303933002001.png)\n\n\n![Attached Image](assets/two-point-museum-2185060_1499063305195753586.png)\n\n---\n\nRun game from Steam Unlock as shown here, choose HV-Launcher.bat or HV-PlugNPlay.bat\n\n![Attached Image](assets/two-point-museum-2185060_1499067542864400425.png)\n\n\n![Attached Image](assets/two-point-museum-2185060_1499067543212523662.png)\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "wwe-2k26-3717070",
-    "appId": 3717070,
-    "title": "WWE 2K26 - 3717070",
-    "game": "WWE 2K26",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# WWE 2K26 - 3717070\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/wwe-2k26-3717070_1499092452244721855.png)\n\n\n![Attached Image](assets/wwe-2k26-3717070_1499092452672274614.png)\n\n---\n\n![Attached Image](assets/wwe-2k26-3717070_1499120462196641812.png)\n\n\n![Attached Image](assets/wwe-2k26-3717070_1499120462649753870.png)\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run [VBS.cmd](https://discord.com/channels/333191744873299978/1499122656686116944/1532989862280691763)/ <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "watch-dogs-2-ubisoft-bypass-447040",
-    "appId": 447040,
-    "title": "Watch Dogs 2 Ubisoft bypass - 447040",
-    "game": "Watch Dogs 2",
-    "desc": "After Patching, go to game folder and then go inside \\SteamLibrary\\steamapps\\common\\WatchDogs2\\bin",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Watch Dogs 2 Ubisoft bypass - 447040\n\n- Download the game\n- After Patching, go to game folder and then go inside `\\SteamLibrary\\steamapps\\common\\Watch_Dogs2\\bin`\n- Start the game through `WatchDogs2.exe`\n- Happy Gaming!\n\n![Attached Image](assets/watch-dogs-2-ubisoft-bypass-447040_1498996428243206264.png)\n"
-  },
-  {
-    "id": "wreckfest-2-1203190",
-    "appId": 1203190,
-    "title": "Wreckfest 2- 1203190",
-    "game": "Wreckfest 2",
-    "desc": "Added Wreckfest 2 online patch update",
-    "tags": [
-      "online"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Wreckfest 2- 1203190\n\nAdded Wreckfest 2 online patch update\n- patch the game\n- after patching, open the game folder\n- run the game from Wreckfest2.exe as admin\n- 1203190\n"
-  },
-  {
-    "id": "1501750-lords-of-the-fallen-tutorial-multiplayer",
-    "appId": 1501750,
-    "title": "[1501750] Lords of the Fallen tutorial Multiplayer",
-    "game": "Lords of the Fallen",
-    "desc": "1. Add Lords of the Fallen Friend's Pass via Steam.",
-    "tags": [
-      "coop",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# [1501750] Lords of the Fallen tutorial Multiplayer\n\n**Files for the game:**\n1. Add Lords of the Fallen Friend's Pass via Steam.\n2. Patch the game via Steam Unlock Onennabe\n\n**How to start:**\n1. Launch Steam, go to your profile.\n2. Launch the game through Steam.\n\n**In the game:**\nWe go through the training until you reach the \"altar\".\n\n**Connection:**\nAccept an invitation from a friend.\n**Creating a server:**\nInteract with the \"altar\" Multiplayer mode Call a friend Invite a friend and wait for him to connect.\n"
   }
 ]

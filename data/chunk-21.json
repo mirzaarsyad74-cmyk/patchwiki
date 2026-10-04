@@ -1,5 +1,61 @@
 [
   {
+    "id": "3831120",
+    "appId": 3831120,
+    "title": "江山北望 Bypass",
+    "game": "江山北望",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# 江山北望 Bypass\n\n# 江山北望 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "nascar-25-3873970",
+    "appId": 3873970,
+    "title": "NASCAR 25 Online Fix",
+    "game": "NASCAR 25",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# NASCAR 25 Online Fix\n\n# NASCAR 25 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "tekken-7-389730",
+    "appId": 389730,
+    "title": "TEKKEN 7 Online Fix",
+    "game": "TEKKEN 7",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# TEKKEN 7 Online Fix\n\n# TEKKEN 7 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "tom-clancy-s-splinter-cell-pandora-tomorrow-3929740",
+    "appId": 3929740,
+    "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow Bypass",
+    "game": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "desc": "Tom Clancy's Splinter Cell: Pandora Tomorrow Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Tom Clancy's Splinter Cell: Pandora Tomorrow Bypass\n\n# Tom Clancy's Splinter Cell: Pandora Tomorrow Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "squad-393380",
     "appId": 393380,
     "title": "Squad Online Fix",
@@ -222,61 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Attack on Titan / A.O.T. Wings of Freedom Online Fix\n\n# Attack on Titan / A.O.T. Wings of Freedom Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "a-game-about-chopping-trees-4512570",
-    "appId": 4512570,
-    "title": "A Game About Chopping Trees Online Fix",
-    "game": "A Game About Chopping Trees",
-    "desc": "A Game About Chopping Trees Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# A Game About Chopping Trees Online Fix\n\n# A Game About Chopping Trees Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "company-of-heroes-legacy-edition-4560",
-    "appId": 4560,
-    "title": "Company of Heroes - Legacy Edition Bypass",
-    "game": "Company of Heroes - Legacy Edition",
-    "desc": "Company of Heroes - Legacy Edition Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Company of Heroes - Legacy Edition Bypass\n\n# Company of Heroes - Legacy Edition Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "dragonsword-awakening-4570720",
-    "appId": 4570720,
-    "title": "DragonSword : Awakening Online Fix",
-    "game": "DragonSword : Awakening",
-    "desc": "DragonSword : Awakening Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# DragonSword : Awakening Online Fix\n\n# DragonSword : Awakening Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "red-flag-4601770",
-    "appId": 4601770,
-    "title": "Red Flag Online Fix",
-    "game": "Red Flag",
-    "desc": "2. Click \"ONLINE PATCH\"",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Red Flag Online Fix\n\n# Red Flag Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]
