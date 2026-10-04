@@ -1,5 +1,66 @@
 [
   {
+    "id": "1722840",
+    "title": "Everdell Bypass",
+    "game": "Everdell (1722840)",
+    "desc": "Tutorial: Everdell Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub --AutoGen--",
+    "version": "Unknown",
+    "date": "2026-08-11",
+    "content": "\n# Everdell Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "1722870",
+    "title": "Clank! Online Fix",
+    "game": "Clank! (1722870)",
+    "desc": "Tutorial: Clank! Online Fix",
+    "tags": [
+      "online-fix",
+      "coop",
+      "multiplayer",
+      "online"
+    ],
+    "author": "ProSub --AutoGen--",
+    "version": "Unknown",
+    "date": "2026-08-11",
+    "content": "\n# Clank! Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "1726130",
+    "title": "Pathless Woods Online Fix",
+    "game": "Pathless Woods (1726130)",
+    "desc": "Tutorial: Pathless Woods Online Fix",
+    "tags": [
+      "online-fix",
+      "coop",
+      "multiplayer",
+      "online"
+    ],
+    "author": "ProSub --AutoGen--",
+    "version": "Unknown",
+    "date": "2026-08-11",
+    "content": "\n# Pathless Woods Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "1729140",
+    "title": "Hired 2 Die Online Fix",
+    "game": "Hired 2 Die (1729140)",
+    "desc": "Tutorial: Hired 2 Die Online Fix",
+    "tags": [
+      "online-fix",
+      "coop",
+      "multiplayer",
+      "online"
+    ],
+    "author": "ProSub --AutoGen--",
+    "version": "Unknown",
+    "date": "2026-08-11",
+    "content": "\n# Hired 2 Die Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "1732420",
     "title": "Spanky! Online Fix",
     "game": "Spanky! (1732420)",
@@ -671,66 +732,5 @@
     "version": "Unknown",
     "date": "2026-08-11",
     "content": "\n# Sonic Colors: Ultimate Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "2058180",
-    "title": "Judgment Bypass",
-    "game": "Judgment (2058180)",
-    "desc": "Tutorial: Judgment Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Judgment Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "2059530",
-    "title": "Dawn of Defiance Online Fix",
-    "game": "Dawn of Defiance (2059530)",
-    "desc": "Tutorial: Dawn of Defiance Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Dawn of Defiance Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "2070270",
-    "title": "Cloudheim Online Fix",
-    "game": "Cloudheim (2070270)",
-    "desc": "Tutorial: Cloudheim Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Cloudheim Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "2076010",
-    "title": "UNDER NIGHT IN-BIRTH II Sys:Celes Online Fix",
-    "game": "UNDER NIGHT IN-BIRTH II Sys:Celes (2076010)",
-    "desc": "Tutorial: UNDER NIGHT IN-BIRTH II Sys:Celes Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# UNDER NIGHT IN-BIRTH II Sys:Celes Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

@@ -1,5 +1,66 @@
 [
   {
+    "id": "2271930",
+    "title": "IfSunSets Online Fix",
+    "game": "IfSunSets (2271930)",
+    "desc": "Tutorial: IfSunSets Online Fix",
+    "tags": [
+      "online-fix",
+      "coop",
+      "multiplayer",
+      "online"
+    ],
+    "author": "ProSub --AutoGen--",
+    "version": "Unknown",
+    "date": "2026-08-11",
+    "content": "\n# IfSunSets Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "227300",
+    "title": "Euro Truck Simulator 2 Online Fix",
+    "game": "Euro Truck Simulator 2 (227300)",
+    "desc": "Tutorial: Euro Truck Simulator 2 Online Fix",
+    "tags": [
+      "online-fix",
+      "coop",
+      "multiplayer",
+      "online"
+    ],
+    "author": "ProSub --AutoGen--",
+    "version": "Unknown",
+    "date": "2026-08-11",
+    "content": "\n# Euro Truck Simulator 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "2273980",
+    "title": "Orcs Must Die! Deathtrap Online Fix",
+    "game": "Orcs Must Die! Deathtrap (2273980)",
+    "desc": "Tutorial: Orcs Must Die! Deathtrap Online Fix",
+    "tags": [
+      "online-fix",
+      "coop",
+      "multiplayer",
+      "online"
+    ],
+    "author": "ProSub --AutoGen--",
+    "version": "Unknown",
+    "date": "2026-08-11",
+    "content": "\n# Orcs Must Die! Deathtrap Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "228200",
+    "title": "Company of Heroes Bypass",
+    "game": "Company of Heroes (228200)",
+    "desc": "Tutorial: Company of Heroes Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub --AutoGen--",
+    "version": "Unknown",
+    "date": "2026-08-11",
+    "content": "\n# Company of Heroes Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "2286770",
     "title": "纸嫁衣4红丝缠 Bypass",
     "game": "纸嫁衣4红丝缠 (2286770)",
@@ -674,63 +735,5 @@
     "version": "Unknown",
     "date": "2026-08-11",
     "content": "\n# TRANSFORMERS Rise of the Dark Spark Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "2483190",
-    "title": "Forza Horizon 6 Online Fix",
-    "game": "Forza Horizon 6 (2483190)",
-    "desc": "Tutorial: Forza Horizon 6 Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Forza Horizon 6 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "2492040",
-    "title": "FATAL FURY: City of the Wolves Bypass",
-    "game": "FATAL FURY: City of the Wolves (2492040)",
-    "desc": "Tutorial: FATAL FURY: City of the Wolves Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# FATAL FURY: City of the Wolves Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "2499860",
-    "title": "DRAGON QUEST VII Reimagined Bypass",
-    "game": "DRAGON QUEST VII Reimagined (2499860)",
-    "desc": "Tutorial: DRAGON QUEST VII Reimagined Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# DRAGON QUEST VII Reimagined Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "250900",
-    "title": "The Binding of Isaac: Rebirth Online Fix",
-    "game": "The Binding of Isaac: Rebirth (250900)",
-    "desc": "Tutorial: The Binding of Isaac: Rebirth Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# The Binding of Isaac: Rebirth Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

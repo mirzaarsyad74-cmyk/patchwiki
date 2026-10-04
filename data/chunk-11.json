@@ -1,5 +1,70 @@
 [
   {
+    "id": "523660",
+    "title": "HYPERCHARGE: Unboxed Online Fix",
+    "game": "HYPERCHARGE: Unboxed (523660)",
+    "desc": "Tutorial: HYPERCHARGE: Unboxed Online Fix",
+    "tags": [
+      "online-fix",
+      "coop",
+      "multiplayer",
+      "online"
+    ],
+    "author": "ProSub --AutoGen--",
+    "version": "Unknown",
+    "date": "2026-08-11",
+    "content": "\n# HYPERCHARGE: Unboxed Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "526870",
+    "title": "Satisfactory Online Fix",
+    "game": "Satisfactory (526870)",
+    "desc": "Tutorial: Satisfactory Online Fix",
+    "tags": [
+      "online-fix",
+      "coop",
+      "multiplayer",
+      "online"
+    ],
+    "author": "ProSub --AutoGen--",
+    "version": "Unknown",
+    "date": "2026-08-11",
+    "content": "\n# Satisfactory Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "534380",
+    "title": "Dying Light 2: Reloaded Edition Online Fix",
+    "game": "Dying Light 2: Reloaded Edition (534380)",
+    "desc": "Tutorial: Dying Light 2: Reloaded Edition Online Fix",
+    "tags": [
+      "online-fix",
+      "coop",
+      "multiplayer",
+      "online",
+      "bypass"
+    ],
+    "author": "ProSub --AutoGen--",
+    "version": "Unknown",
+    "date": "2026-08-11",
+    "content": "\n# Dying Light 2: Reloaded Edition Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "544750",
+    "title": "SOULCALIBUR VI Online Fix",
+    "game": "SOULCALIBUR VI (544750)",
+    "desc": "Tutorial: SOULCALIBUR VI Online Fix",
+    "tags": [
+      "online-fix",
+      "coop",
+      "multiplayer",
+      "online"
+    ],
+    "author": "ProSub --AutoGen--",
+    "version": "Unknown",
+    "date": "2026-08-11",
+    "content": "\n# SOULCALIBUR VI Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "550",
     "title": "Left 4 Dead 2 Online Fix",
     "game": "Left 4 Dead 2 (550)",
@@ -668,63 +733,5 @@
     "version": "Unknown",
     "date": "2026-08-11",
     "content": "\n# Resident Evil 2 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "892970",
-    "title": "Valheim Online Fix",
-    "game": "Valheim (892970)",
-    "desc": "Tutorial: Valheim Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Valheim Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "899440",
-    "title": "GOD EATER 3 Online Fix",
-    "game": "GOD EATER 3 (899440)",
-    "desc": "Tutorial: GOD EATER 3 Online Fix",
-    "tags": [
-      "online-fix",
-      "coop",
-      "multiplayer",
-      "online"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# GOD EATER 3 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "911400",
-    "title": "Assassin's Creed III Remastered Bypass",
-    "game": "Assassin's Creed III Remastered (911400)",
-    "desc": "Tutorial: Assassin's Creed III Remastered Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Assassin's Creed III Remastered Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "916440",
-    "title": "Anno 1800 Bypass",
-    "game": "Anno 1800 (916440)",
-    "desc": "Tutorial: Anno 1800 Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub --AutoGen--",
-    "version": "Unknown",
-    "date": "2026-08-11",
-    "content": "\n# Anno 1800 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]
