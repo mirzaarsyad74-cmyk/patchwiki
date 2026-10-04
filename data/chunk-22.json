@@ -1,5 +1,33 @@
 [
   {
+    "id": "tom-clancy-s-ghost-recon-wildlands-460930",
+    "appId": 460930,
+    "title": "Tom Clancy's Ghost Recon® Wildlands Bypass",
+    "game": "Tom Clancy's Ghost Recon® Wildlands",
+    "desc": "Tom Clancy's Ghost Recon® Wildlands Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Tom Clancy's Ghost Recon® Wildlands Bypass\n\n# Tom Clancy's Ghost Recon® Wildlands Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "dead-space-2-47780",
+    "appId": 47780,
+    "title": "Dead Space 2 Bypass",
+    "game": "Dead Space 2",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Dead Space 2 Bypass\n\n# Dead Space 2 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "need-for-speed-hot-pursuit-47870",
     "appId": 47870,
     "title": "Need for Speed_ Hot Pursuit Bypass",
@@ -251,33 +279,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Left 4 Dead 2 Online Fix\n\n# Left 4 Dead 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "dark-souls-remastered-570940",
-    "appId": 570940,
-    "title": "DARK SOULS™: REMASTERED Online Fix",
-    "game": "DARK SOULS™: REMASTERED",
-    "desc": "DARK SOULS™: REMASTERED Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# DARK SOULS™: REMASTERED Online Fix\n\n# DARK SOULS™: REMASTERED Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "golf-it-571740",
-    "appId": 571740,
-    "title": "Golf It! Online Fix",
-    "game": "Golf It!",
-    "desc": "2. Click \"ONLINE PATCH\"",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Golf It! Online Fix\n\n# Golf It! Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

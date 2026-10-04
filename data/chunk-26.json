@@ -1,17 +1,17 @@
 [
   {
-    "id": "ea-sports-college-football-27-4032350",
-    "appId": 4032350,
-    "title": "EA SPORTS™ College Football 27 - 4032350",
-    "game": "EA SPORTS™ College Football 27",
-    "desc": "\"Tools Game Auto Update  Smart Apply\" is completed",
+    "id": "assassin-s-creed-shadows-3159330",
+    "appId": 3159330,
+    "title": "Assassin's Creed Shadows - 3159330",
+    "game": "Assassin's Creed Shadows",
+    "desc": "If you ever use Hypervisor version of the game, please go to Steam Unlock Onennabe  Library  REMOVE HYPERVISOR PATCH first",
     "tags": [
       "bypass"
     ],
     "author": "The Weekdys",
     "version": "1.0",
-    "date": "2026-07-16",
-    "content": "\n# EA SPORTS™ College Football 27 - 4032350\n\nInstall Game, Make sure \n\"**Tools> Game Auto Update > Smart Apply**\" is completed\nApply Bypass Game from Library in SUO.\nPlay from SUO, choose exe and select CollegeFB27.exe\n\n![Attached Image](assets/ea-sports-college-football-27-4032350_1527179897452368004.png)\n"
+    "date": "2026-07-18",
+    "content": "\n# Assassin's Creed Shadows - 3159330\n\nIf you ever use Hypervisor version of the game, please go to **Steam Unlock Onennabe -> Library -> REMOVE HYPERVISOR PATCH** first\n\n1. Click Update Game or Unlock Game\n2. Install game in steam\n3. Then **Steam Unlock Onennabe -> Library -> Bypass Game\n4. Press 2nd time Bypass Game after it add to exclusion\n5. Play the game from Steam Unlock > Choose .exe.\n\n![Attached Image](assets/assassin-s-creed-shadows-3159330_1527925551627767898.png)\n"
   },
   {
     "id": "unravel-two-1225570",
@@ -206,6 +206,22 @@
     "content": "\n# RESPONDING - 2658040\n\nDone install \n\nMake sure game has been Enable Game Auto Update in Tools Section. \n\nEnable Online Function in games library at SUO ( SteamUnlock Onennabe.\n\nPlay from Steam \n\nhttps://steamdb.info/tech/SDK/EpicOnlineServices\n\nIf game found in this list and unable to launch/play online try \"Enable Online Fix\"\n\n![Attached Image](assets/responding-2658040_1520648218558599289.png)\n"
   },
   {
+    "id": "responding-2658040",
+    "appId": 2658040,
+    "title": "RESPONDING - 2658040",
+    "game": "RESPONDING",
+    "desc": "Make sure game has been Enable Game Auto Update in Tools Section.",
+    "tags": [
+      "online",
+      "crack",
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-06-28",
+    "content": "\n# RESPONDING - 2658040\n\nDone install \n\nMake sure game has been Enable Game Auto Update in Tools Section. \n\nEnable Online Function in games library at SUO ( SteamUnlock Onennabe.\n\nPlay from Steam \n\nhttps://steamdb.info/tech/SDK/EpicOnlineServices\n\nIf game found in this list and unable to launch/play online try \"Enable Online Fix\"\n\n![Attached Image](assets/responding-2658040_1520648218558599289.png)\n"
+  },
+  {
     "id": "hogwarts-legacy-990080",
     "appId": 990080,
     "title": "Hogwarts Legacy - 990080",
@@ -280,20 +296,5 @@
     "version": "1.0",
     "date": "2026-06-12",
     "content": "\n# Company of Heroes 3 - 1677280\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
-  },
-  {
-    "id": "meccha-chameleon-4704690",
-    "appId": 4704690,
-    "title": "Meccha Chameleon - 4704690",
-    "game": "Meccha Chameleon",
-    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
-    "tags": [
-      "online",
-      "drm"
-    ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
-    "version": "1.0",
-    "date": "2026-06-12",
-    "content": "\n# Meccha Chameleon - 4704690\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online Patch```\n5) play from steam\n"
   }
 ]
