@@ -1,11 +1,11 @@
 ---
-game: The Dark Pictures Anthology: House of Ashes - 1281590
-author: The Weekdys
+game: The Dark Pictures Anthology House of Ashes
+appid: 1281590
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-08-02
 ---
-
 # The Dark Pictures Anthology: House of Ashes - 1281590
 
 After bypass, Run game from SUO, choose HouseOfAshes.exe

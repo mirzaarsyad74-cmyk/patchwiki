@@ -1,11 +1,11 @@
 ---
-game: Watch Dogs 2 Ubisoft bypass - 447040
-author: The Weekdys
+game: Watch Dogs 2
+appid: 447040
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-29
 ---
-
 # Watch Dogs 2 Ubisoft bypass - 447040
 
 - Download the game

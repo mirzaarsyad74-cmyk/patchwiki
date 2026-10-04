@@ -1,11 +1,11 @@
 ---
-game: No Man's Sky - 275850
-author: The Weekdys
+game: No Man's Sky
+appid: 275850
+author: Community
 version: Unknown
-tags: online, bypass
+tags: general
 date: 2026-08-02
 ---
-
 # No Man's Sky - 275850
 
 To be able to play this game, since there are no online patch or bypass.

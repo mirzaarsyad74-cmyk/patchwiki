@@ -1,11 +1,11 @@
 ---
-game: Mafia : The Old Country - 1941540
-author: The Weekdys
+game: Mafia The Old Country
+appid: 1941540
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-05-04
 ---
-
 # Mafia : The Old Country - 1941540
 
 1. Unlock Game from SUO

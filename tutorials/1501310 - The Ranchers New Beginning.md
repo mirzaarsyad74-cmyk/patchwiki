@@ -1,11 +1,11 @@
 ---
-game: 1501310 - The Ranchers New Beginning
-author: The Weekdys
+game: The Ranchers New Beginning
+appid: 1501310
+author: Community
 version: Unknown
 tags: general
 date: 2026-08-01
 ---
-
 # 1501310 - The Ranchers New Beginning
 
 After finish downloading the game, click Patch Standalone in Library > The Ranchers > Patch Standalone

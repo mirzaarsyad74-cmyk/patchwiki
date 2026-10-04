@@ -1,11 +1,11 @@
 ---
-game: 1238840 BATTLEFIELD 1 BYPASS
-author: MinamiRX20
+game: BATTLEFIELD 1
+appid: 1238840
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-05-04
 ---
-
 # 1238840 BATTLEFIELD 1 BYPASS
 
 -Download is pretty large around 300mb

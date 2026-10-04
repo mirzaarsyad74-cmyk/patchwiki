@@ -1,11 +1,11 @@
 ---
-game: The Sims 3 (47890)
-author: ProSub
+game: The Sims 3
+appid: 47890
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-08-09
 ---
-
 # The Sims 3 (47890)
 
 1. Click bypass 

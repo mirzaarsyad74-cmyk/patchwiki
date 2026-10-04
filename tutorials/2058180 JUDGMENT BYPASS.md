@@ -1,11 +1,11 @@
 ---
-game: 2058180 JUDGMENT BYPASS
-author: MinamiRX20
+game: JUDGMENT
+appid: 2058180
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-05-04
 ---
-
 # 2058180 JUDGMENT BYPASS
 
 -After patching, open game folder,

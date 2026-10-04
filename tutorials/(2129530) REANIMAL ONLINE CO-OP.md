@@ -1,11 +1,11 @@
 ---
-game: (2129530) REANIMAL ONLINE CO-OP
-author: MinamiRX20
+game: REANIMAL
+appid: 2129530
+author: Community
 version: Unknown
-tags: online, coop
+tags: general
 date: 2026-04-30
 ---
-
 # (2129530) REANIMAL ONLINE CO-OP
 
 -Just add friend pass from Steam Store and then play with your friend via normal steam invite

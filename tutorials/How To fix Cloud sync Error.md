@@ -1,11 +1,11 @@
 ---
-game: How To fix Cloud sync Error
-author: MinamiRX20
+game: How To  Cloud sync Error
+appid: 2026
+author: Community
 version: Unknown
 tags: general
 date: 2026-07-28
 ---
-
 # How To fix Cloud sync Error
 
 ## Disable Cloud save

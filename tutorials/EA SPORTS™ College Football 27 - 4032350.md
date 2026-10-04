@@ -1,11 +1,11 @@
 ---
-game: EA SPORTS™ College Football 27 - 4032350
-author: The Weekdys
+game: EA SPORTS™ College Football 27
+appid: 4032350
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-07-16
 ---
-
 # EA SPORTS™ College Football 27 - 4032350
 
 Install Game, Make sure 

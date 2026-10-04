@@ -1,11 +1,11 @@
 ---
-game: Rest Area Simulator - 3732960
-author: The Weekdys
+game: Rest Area Simulator
+appid: 3732960
+author: Community
 version: Unknown
-tags: online, bypass
+tags: general
 date: 2026-05-07
 ---
-
 # Rest Area Simulator - 3732960
 
 - Added online patch

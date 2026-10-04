@@ -1,11 +1,11 @@
 ---
-game: Company of Heroes 3 - 1677280
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+game: Company of Heroes 3
+appid: 1677280
+author: Community
 version: Unknown
-tags: bypass, drm
+tags: general
 date: 2026-06-12
 ---
-
 # Company of Heroes 3 - 1677280
 
 1) Add game from SUO

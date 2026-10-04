@@ -43,6 +43,43 @@ function detectTags(text) {
   return [...found];
 }
 
+function extractAppId(filename, title, game, body) {
+  const fullText = [filename || '', title || '', game || '', (body || '').slice(0, 400)].join(' ');
+  const mParen = fullText.match(/[\(\[]\s*(\d{3,9})\s*[\)\]]/);
+  if (mParen) return parseInt(mParen[1], 10);
+  const mDash = fullText.match(/[-:]\s*(\d{3,9})\b/);
+  if (mDash) return parseInt(mDash[1], 10);
+  const mFileNum = (filename || '').match(/^(\d{3,9})$/);
+  if (mFileNum) return parseInt(mFileNum[1], 10);
+  const mAppWord = fullText.match(/(?:appid|app)\s*[:=]?\s*(\d{3,9})\b/i);
+  if (mAppWord) return parseInt(mAppWord[1], 10);
+  const mIso = fullText.match(/\b(\d{4,8})\b/);
+  if (mIso) return parseInt(mIso[1], 10);
+  const mLink = (body || '').match(/store\.steampowered\.com\/app\/(\d{3,9})/i);
+  if (mLink) return parseInt(mLink[1], 10);
+  return null;
+}
+
+function cleanGameName(rawGame, rawTitle, filename) {
+  let g = (rawGame || rawTitle || filename || '').trim();
+  g = g.replace(/^#+\s*/, '');
+  g = g.replace(/^\s*[\(\[]\s*\d{3,9}\s*[\)\]]\s*/, '');
+  g = g.replace(/^Added\s+(?:DENUVO?|DENUV0?|DENU|EA)?\s*(?:bypass\s+for\s+|bypass\s+|online\s+patch\s+for\s+|online\s+patch\s+)?/i, '');
+  g = g.replace(/^AppID\s+\d+\s*\(([^)]+)\)/i, '$1');
+  g = g.replace(/^(?:UBISOFT\s+)?BYPASS\s+FOR\s+/i, '');
+  g = g.replace(/^FOR\s+/i, '');
+  g = g.replace(/[\(\[]\s*\d{3,9}\s*[\)\]]/g, '');
+  g = g.replace(/[-:]\s*\d{3,9}\b/g, '');
+  g = g.replace(/^\s*\d{4,9}\s+/, '');
+  g = g.replace(/\b(?:DENUV0?|DENUVO?|DENU|EA|UBISOFT)\s+BYPASS\b/gi, '');
+  g = g.replace(/\b(?:ONLINE\s+PATCH|ONLINE\s+FIX|ONLINE\s+CO-OP|ONLINE\s+METHOD|ONLINE)\b/gi, '');
+  g = g.replace(/\b(?:SEAMLESS\s+CO-OP|MULTIPLAYER\s+MOD\s+TUTORIAL|MULTIPLAYER)\b/gi, '');
+  g = g.replace(/\b(?:BYPASS|GUIDE|TUTORIAL|FIX|UPDATED\s+INSTRUCTION|UPDATE\s+[\d.]+)\b/gi, '');
+  g = g.replace(/^[-:\s,()\[\]]+|[-:\s,()\[\]]+$/g, '').trim();
+  if (g.includes('(') && !g.includes(')')) g += ')';
+  return g || rawGame || rawTitle || 'Unknown Game';
+}
+
 function sanitizeFilename(name) {
   return name
     .replace(/[<>:"/\\|?*\x00-\x1F]/g, '') // remove illegal filesystem characters
@@ -331,9 +368,11 @@ async function main() {
       const detectedTags = detectTags(`${gameTitle} ${fullContent}`);
       const tagsStr = detectedTags.length > 0 ? detectedTags.join(', ') : 'general';
 
+      const appId = extractAppId(safeBase, gameTitle, gameTitle, fullContent);
+      const cleanGame = cleanGameName(gameTitle, gameTitle, safeBase);
       const mdContent = `---
-game: ${gameTitle}
-author: ${authorName}
+game: ${cleanGame}
+` + (appId ? ("appid: " + appId + "\n") : "") + `author: ${authorName}
 version: Unknown
 tags: ${tagsStr}
 date: ${date}
@@ -402,9 +441,11 @@ ${fullContent}
       const detectedTags = detectTags(`${gameTitle} ${text}`);
       const tagsStr = detectedTags.length > 0 ? detectedTags.join(', ') : 'general';
 
+      const appId = extractAppId(safeBase, gameTitle, gameTitle, text);
+      const cleanGame = cleanGameName(gameTitle, gameTitle, safeBase);
       const mdContent = `---
-game: ${gameTitle}
-author: ${authorName}
+game: ${cleanGame}
+` + (appId ? ("appid: " + appId + "\n") : "") + `author: ${authorName}
 version: Unknown
 tags: ${tagsStr}
 date: ${date}

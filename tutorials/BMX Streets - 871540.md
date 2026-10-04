@@ -1,11 +1,11 @@
 ---
-game: BMX Streets - 871540
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+game: BMX Streets
+appid: 871540
+author: Community
 version: Unknown
-tags: online, drm
+tags: general
 date: 2026-06-15
 ---
-
 # BMX Streets - 871540
 
 1) Add game from SUO

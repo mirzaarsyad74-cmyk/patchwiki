@@ -1,11 +1,11 @@
 ---
-game: Call of Duty: World at War - 10090
-author: The Weekdys
+game: Call of Duty World at War
+appid: 10090
+author: Community
 version: Unknown
-tags: online, bypass, coop
+tags: general
 date: 2026-08-14
 ---
-
 # Call of Duty: World at War - 10090
 
 The bypass is working for solo game, online co-op is not tested, but you can read the README - COD WAW ONLINE CRACK.txt

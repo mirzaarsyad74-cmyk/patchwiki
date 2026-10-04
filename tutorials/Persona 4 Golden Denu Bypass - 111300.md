@@ -1,11 +1,11 @@
 ---
-game: Persona 4 Golden Denu Bypass - 111300
-author: The Weekdys
+game: Persona 4 Golden
+appid: 111300
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-29
 ---
-
 # Persona 4 Golden Denu Bypass - 111300
 
 - after bypass game, go inside game folder

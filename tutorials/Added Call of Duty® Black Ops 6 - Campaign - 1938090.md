@@ -1,11 +1,11 @@
 ---
-game: Added Call of Duty®: Black Ops 6 - Campaign - 1938090
-author: The Weekdys
+game: Call of Duty® Black Ops 6 - Campaign
+appid: 1938090
+author: Community
 version: Unknown
 tags: general
 date: 2026-04-29
 ---
-
 # Added Call of Duty®: Black Ops 6 - Campaign - 1938090
 
 - Game should be in Call of Duty (1938090), download the whole thing, make sure this 3 DLC is ticked

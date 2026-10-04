@@ -1,23 +1,13 @@
 ---
-game: RESPONDING - 2658040
-author: MinamiRX20
+game: Responding
+appid: 2658040
+author: Community
 version: Unknown
-tags: online, crack
-date: 2026-06-28
+tags: general
+date: 2026-08-02
 ---
+# Responding - 2658040
 
-# RESPONDING - 2658040
+To be able to play this game, go to the SUO > Library > find the game Responding > Enable Online Function
 
-Done install 
-
-Make sure game has been Enable Game Auto Update in Tools Section. 
-
-Enable Online Function in games library at SUO ( SteamUnlock Onennabe.
-
-Play from Steam 
-
-https://steamdb.info/tech/SDK/EpicOnlineServices
-
-If game found in this list and unable to launch/play online try "Enable Online Fix"
-
-![Attached Image](assets/responding---2658040_1520648218558599289.png)
+-# but this game is shit

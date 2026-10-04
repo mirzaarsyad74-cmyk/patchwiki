@@ -1,11 +1,11 @@
 ---
-game: Planet Zoo - 703080
-author: MinamiRX20
+game: Planet Zoo
+appid: 703080
+author: Community
 version: Unknown
-tags: bypass, crack, drm
+tags: general
 date: 2026-04-30
 ---
-
 # Planet Zoo - 703080
 
 -Run game from Steam, if cannot, open folder and run PlanetZoo.exe as administrator,

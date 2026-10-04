@@ -1,11 +1,11 @@
 ---
-game: 3681010 NIOH 3 ONLINE PATCH
-author: MinamiRX20
+game: NIOH 3
+appid: 3681010
+author: Community
 version: Unknown
-tags: online, coop
+tags: general
 date: 2026-05-04
 ---
-
 # 3681010 NIOH 3 ONLINE PATCH
 
 -After patch, play game from Steam,

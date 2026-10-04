@@ -1,11 +1,11 @@
 ---
-game: Overcooked! All you can eat Online method- 1243830
-author: The Weekdys
+game: Overcooked! All you can eat
+appid: 1243830
+author: Community
 version: Unknown
 tags: general
 date: 2026-04-29
 ---
-
 # Overcooked! All you can eat Online method- 1243830
 
 - Go to Game installation folder

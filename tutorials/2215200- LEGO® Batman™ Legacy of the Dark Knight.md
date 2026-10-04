@@ -1,11 +1,11 @@
 ---
-game: 2215200- LEGO® Batman™: Legacy of the Dark Knight
-author: MinamiRX20
+game: 2215200- LEGO® Batman™ Legacy of the Dark Knight
+appid: 2215200
+author: Community
 version: Unknown
-tags: bypass, drm
+tags: general
 date: 2026-05-24
 ---
-
 # 2215200- LEGO® Batman™: Legacy of the Dark Knight
 
 1) Unlock game - install at right SSD /HDD depends on requirements

@@ -1,11 +1,11 @@
 ---
-game: (228200) COMPANY OF HEROES BYPASS
-author: MinamiRX20
+game: COMPANY OF HEROES
+appid: 228200
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-29
 ---
-
 # (228200) COMPANY OF HEROES BYPASS
 
 -Open folder after patch and run from RelicCOH.exe

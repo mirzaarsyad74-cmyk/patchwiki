@@ -1,11 +1,11 @@
 ---
-game: TOTAL WAR SAGA : TROY - 1099410
-author: The Weekdys
+game: TOTAL WAR SAGA TROY
+appid: 1099410
+author: Community
 version: Unknown
-tags: bypass, crack, drm
+tags: general
 date: 2026-07-04
 ---
-
 # TOTAL WAR SAGA : TROY - 1099410
 
 **Unlocking Game and Preparation**

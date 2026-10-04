@@ -1,11 +1,11 @@
 ---
-game: Black Myth: Wukong - 2358720
-author: The Weekdys
+game: Black Myth Wukong
+appid: 2358720
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-05-05
 ---
-
 # Black Myth: Wukong - 2358720
 
 # Updated crack using voices38 crack

@@ -1,11 +1,11 @@
 ---
-game: Battlefield 6 - 2807960
-author: The Weekdys
+game: Battlefield 6
+appid: 2807960
+author: Community
 version: Unknown
 tags: general
 date: 2026-04-30
 ---
-
 # Battlefield 6 - 2807960
 
 - After install game

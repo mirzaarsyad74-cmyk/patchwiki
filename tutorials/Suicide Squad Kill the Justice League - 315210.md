@@ -1,11 +1,11 @@
 ---
-game: Suicide Squad Kill the Justice League - 315210
-author: The Weekdys
+game: Suicide Squad Kill the Justice League
+appid: 315210
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-08-05
 ---
-
 # Suicide Squad Kill the Justice League - 315210
 
 After downloading game and BYPASS GAME, run the game from SUO and choose new-SuicideSquad_KTJL.exe.

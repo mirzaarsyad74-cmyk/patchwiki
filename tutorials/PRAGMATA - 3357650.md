@@ -1,11 +1,11 @@
 ---
-game: PRAGMATA - 3357650
-author: The Weekdys
+game: PRAGMATA
+appid: 3357650
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-29
 ---
-
 # PRAGMATA - 3357650
 
 1. Unlock Game from SUO

@@ -1,11 +1,11 @@
 ---
-game: 2000950 - Call of Duty®: Modern Warfare®
-author: The Weekdys
+game: Call of Duty® Modern Warfare®
+appid: 2000950
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-29
 ---
-
 # 2000950 - Call of Duty®: Modern Warfare®
 
 Added campaign mode crack for CODMW

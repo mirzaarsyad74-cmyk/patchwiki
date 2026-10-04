@@ -1277,24 +1277,62 @@ let tutorials = [];
 let currentFilter = 'all';
 
 async function loadTutorials() {
-  try {
-    // Fetch index.json — all tutorials WITHOUT content (small file, fast)
-    const res = await fetch('index.json');
-    if (!res.ok) throw new Error('no index');
-    tutorials = await res.json();
-  } catch {
     try {
-      // fallback to tutorials.json for backwards compat
-      const res2 = await fetch('tutorials.json');
-      if (!res2.ok) throw new Error('no json');
-      tutorials = await res2.json();
+      const res = await fetch('index.json');
+      if (!res.ok) throw new Error('no index');
+      tutorials = await res.json();
     } catch {
-      tutorials = SAMPLE_TUTORIALS;
+      try {
+        const res2 = await fetch('tutorials.json');
+        if (!res2.ok) throw new Error('no json');
+        tutorials = await res2.json();
+      } catch {
+        tutorials = SAMPLE_TUTORIALS;
+      }
+    }
+    updateStats();
+    handleUrlRouting();
+  }
+
+  function handleUrlRouting() {
+    const params = new URLSearchParams(window.location.search);
+    const searchQ = params.get('search') || params.get('q');
+    const appIdParam = params.get('appid') || params.get('appId');
+    const tutorialParam = params.get('tutorial') || params.get('id');
+
+    let hashTutorialId = null;
+    if (window.location.hash && window.location.hash.startsWith('#read/')) {
+      hashTutorialId = decodeURIComponent(window.location.hash.substring(6));
+    }
+
+    if (tutorialParam || hashTutorialId) {
+      navigate('read', tutorialParam || hashTutorialId, false);
+    } else if (appIdParam) {
+      const match = tutorials.find(t => t.appId && String(t.appId) === String(appIdParam));
+      if (match) {
+        navigate('read', match.id, false);
+      } else {
+        const input = document.getElementById('search-input');
+        if (input) input.value = searchQ || appIdParam;
+        renderGrid(tutorials);
+      }
+    } else if (searchQ) {
+      const input = document.getElementById('search-input');
+      if (input) input.value = searchQ;
+      renderGrid(tutorials);
+    } else {
+      renderGrid(tutorials);
     }
   }
-  renderGrid(tutorials);
-  updateStats();
-}
+
+  window.addEventListener('hashchange', () => {
+    if (window.location.hash && window.location.hash.startsWith('#read/')) {
+      const id = decodeURIComponent(window.location.hash.substring(6));
+      navigate('read', id, false);
+    } else if (!window.location.hash) {
+      navigate('home', null, false);
+    }
+  });
 
 // Cache for loaded chunks
 const chunkCache = {};
@@ -1342,7 +1380,7 @@ function updateStats() {
 }
 
 // ─── NAVIGATION ────────────────────────────────────────────────
-function navigate(page, id) {
+function navigate(page, id, updateHash = true) {
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
   document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
 
@@ -1350,9 +1388,18 @@ function navigate(page, id) {
   const nb = document.getElementById('nav-' + page);
   if (nb) nb.classList.add('active');
 
-  if (page === 'home') renderGrid(tutorials);
-  if (page === 'read' && id) renderReader(id); // async, non-blocking
-  if (page === 'about') renderAbout();
+  if (page === 'home') {
+    if (updateHash && window.location.hash) history.pushState(null, '', window.location.pathname + window.location.search);
+    renderGrid(tutorials);
+  }
+  if (page === 'read' && id) {
+    if (updateHash) window.location.hash = '#read/' + encodeURIComponent(id);
+    renderReader(id);
+  }
+  if (page === 'about') {
+    if (updateHash && window.location.hash) history.pushState(null, '', window.location.pathname + window.location.search);
+    renderAbout();
+  }
 
   window.scrollTo(0, 0);
 }
@@ -1375,7 +1422,7 @@ function renderGrid(list) {
   const grid = document.getElementById('tutorial-grid');
   const q = document.getElementById('search-input').value.toLowerCase();
   let shown = list.filter(t => {
-    const matchQ = !q || t.title.toLowerCase().includes(q) || t.game.toLowerCase().includes(q) || t.desc.toLowerCase().includes(q);
+    const matchQ = !q || t.title.toLowerCase().includes(q) || (t.game && t.game.toLowerCase().includes(q)) || (t.desc && t.desc.toLowerCase().includes(q)) || (t.appId && String(t.appId).includes(q));
     const matchF = currentFilter === 'all' || t.tags.includes(currentFilter);
     return matchQ && matchF;
   });
@@ -1393,7 +1440,7 @@ function renderGrid(list) {
 
   grid.innerHTML = shown.map(t => `
     <div class="tutorial-card" onclick="navigate('read','${t.id}')">
-      <div class="card-tags">${t.tags.map(tagHTML).join('')}</div>
+      <div class="card-tags">${t.tags.map(tagHTML).join('')}${t.appId ? `<span class="tag tag-appid" style="background:rgba(56,120,181,0.25);color:#79c0ff;border:1px solid rgba(88,166,255,0.4)">AppID: ${t.appId}</span>` : ''}</div>
       <div class="card-title">${t.title}</div>
       <div class="card-desc">${t.desc}</div>
       <div class="card-meta">
@@ -1422,11 +1469,12 @@ async function renderReader(id) {
   const t = await loadTutorialContent(id);
   if (!t) { navigate('home'); return; }
 
-  document.getElementById('reader-tags').innerHTML = t.tags.map(tagHTML).join('');
+  document.getElementById('reader-tags').innerHTML = [...t.tags.map(tagHTML), (t.appId ? `<a href="https://store.steampowered.com/app/${t.appId}/" target="_blank" class="tag" style="background:rgba(56,120,181,0.25);color:#79c0ff;border:1px solid rgba(88,166,255,0.4);text-decoration:none">AppID: ${t.appId} ↗</a>` : '')].join('');
   document.getElementById('reader-title').textContent = t.title;
   document.getElementById('reader-meta').innerHTML = `
     <div class="reader-meta-item"><div class="avatar">${t.author[0].toUpperCase()}</div>${t.author}</div>
     <div class="reader-meta-item">🎮 ${t.game}</div>
+      ${t.appId ? `<div class="reader-meta-item">🆔 Steam AppID: <b>${t.appId}</b></div>` : ''}
     ${t.version ? `<div class="reader-meta-item">🔧 ${t.version}</div>` : ''}
     <div class="reader-meta-item">📅 ${t.date}</div>
   `;

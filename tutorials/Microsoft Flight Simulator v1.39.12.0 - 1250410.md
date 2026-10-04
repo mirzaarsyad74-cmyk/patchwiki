@@ -1,11 +1,11 @@
 ---
-game: Microsoft Flight Simulator v1.39.12.0 - 1250410
-author: The Weekdys
+game: Microsoft Flight Simulator v1.39.12.0
+appid: 1250410
+author: Community
 version: Unknown
 tags: general
 date: 2026-08-05
 ---
-
 # Microsoft Flight Simulator v1.39.12.0 - 1250410
 
 After patch, open game folder

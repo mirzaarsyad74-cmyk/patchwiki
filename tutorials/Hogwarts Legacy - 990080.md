@@ -1,11 +1,11 @@
 ---
-game: Hogwarts Legacy - 990080
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+game: Hogwarts Legacy
+appid: 990080
+author: Community
 version: Unknown
-tags: bypass, drm
+tags: general
 date: 2026-06-27
 ---
-
 # Hogwarts Legacy - 990080
 
 Using Crack: Voices38

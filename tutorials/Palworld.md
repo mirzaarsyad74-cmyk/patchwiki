@@ -1,8 +1,9 @@
 ---
-game: PALWORLD - 1623730
-author: Kaunter Pertanyaan
-version: 
-tags: online, coop
+game: Palworld
+appid: 1623730
+author: Community
+version: Unknown
+tags: general
 date: 2026-08-05
 ---
 # PALWORLD - 1623730

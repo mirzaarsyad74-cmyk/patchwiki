@@ -1,11 +1,11 @@
 ---
-game: 242760 ( The Forest)
-author: MinamiRX20
+game: The Forest
+appid: 242760
+author: Community
 version: Unknown
-tags: online, drm
+tags: general
 date: 2026-06-13
 ---
-
 # 242760 ( The Forest)
 
 1. Unlock the game from SUO.

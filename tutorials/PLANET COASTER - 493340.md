@@ -1,11 +1,11 @@
 ---
-game: PLANET COASTER - 493340
-author: The Weekdys
+game: PLANET COASTER
+appid: 493340
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-08-29
 ---
-
 # PLANET COASTER - 493340
 
 1. Unlocked game via SUO.

@@ -1,11 +1,11 @@
 ---
-game: Echoes of Aincrad - 2244210
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+game: Echoes of Aincrad
+appid: 2244210
+author: Community
 version: Unknown
-tags: bypass, crack, drm
+tags: general
 date: 2026-07-11
 ---
-
 # Echoes of Aincrad - 2244210
 
 ## **Prequisites Guide**

@@ -1,11 +1,11 @@
 ---
-game: DiRT 4 online patch - 421020
-author: The Weekdys
+game: DiRT 4
+appid: 421020
+author: Community
 version: Unknown
-tags: online, coop
+tags: general
 date: 2026-04-29
 ---
-
 # DiRT 4 online patch - 421020
 
 - Finish the prologue tutorial.

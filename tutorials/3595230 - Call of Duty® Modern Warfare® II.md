@@ -1,11 +1,11 @@
 ---
-game: 3595230 - Call of Duty®: Modern Warfare® II
-author: The Weekdys
+game: Call of Duty® Modern Warfare® II
+appid: 3595230
+author: Community
 version: Unknown
-tags: bypass, coop, drm
+tags: general
 date: 2026-04-29
 ---
-
 # 3595230 - Call of Duty®: Modern Warfare® II
 
 - Start the game ONLY FROM !start_cod22.bat (for MP) or !start_sp22.bat (for SP) and keep the console window open until it closes by itself when you close the game.

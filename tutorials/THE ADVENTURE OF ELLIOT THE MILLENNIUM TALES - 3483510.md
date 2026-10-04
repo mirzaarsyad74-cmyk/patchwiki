@@ -1,11 +1,11 @@
 ---
-game: THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES - 3483510
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+game: THE ADVENTURE OF ELLIOT THE MILLENNIUM TALES
+appid: 3483510
+author: Community
 version: Unknown
-tags: bypass, crack, drm
+tags: general
 date: 2026-06-19
 ---
-
 # THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES - 3483510
 
 ## **Prequisites Guide**

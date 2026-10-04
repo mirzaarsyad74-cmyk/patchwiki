@@ -1,11 +1,11 @@
 ---
 game: Assassin's Creed Shadows
-author: yuumi
-version: 
-tags: bypass, drm
+appid: 2026
+author: Community
+version: Unknown
+tags: general
 date: 2026-08-05
 ---
-
 # A guide to play Assassin's Creed Shadow
 > ⚠️ **Warning:** If you ever use Hypervisor version of the game, please go to Steam Unlock Onennabe -> Library -> REMOVE HYPERVISOR PATCH first
 

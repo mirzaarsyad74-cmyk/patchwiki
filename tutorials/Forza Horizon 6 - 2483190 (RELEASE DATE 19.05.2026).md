@@ -1,11 +1,11 @@
 ---
-game: Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)
-author: The Weekdys
+game: Forza Horizon 6  (RELEASE DATE 19.05.2026)
+appid: 2483190
+author: Community
 version: Unknown
-tags: online, bypass, drm
+tags: general
 date: 2026-05-17
 ---
-
 # Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)
 
 Press Win + R -> steam://install/480

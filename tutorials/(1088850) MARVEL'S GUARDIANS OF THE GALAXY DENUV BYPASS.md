@@ -1,11 +1,11 @@
 ---
-game: (1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS
-author: MinamiRX20
+game: MARVEL'S GUARDIANS OF THE GALAXY
+appid: 1088850
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-30
 ---
-
 # (1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS
 
 -run game from steam,

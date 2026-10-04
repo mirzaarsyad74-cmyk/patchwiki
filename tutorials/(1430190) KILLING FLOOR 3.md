@@ -1,11 +1,11 @@
 ---
-game: (1430190) KILLING FLOOR 3
-author: MinamiRX20
+game: KILLING FLOOR 3
+appid: 1430190
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-29
 ---
-
 # (1430190) KILLING FLOOR 3
 
 -Run Killing Floor 3 from inside folder after patching bypass, its inside Binaries/Win64 folder, 

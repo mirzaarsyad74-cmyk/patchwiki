@@ -1,11 +1,11 @@
 ---
-game: 1020790 NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS ONLINE PATCH
-author: MinamiRX20
+game: NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS
+appid: 1020790
+author: Community
 version: Unknown
-tags: online
+tags: general
 date: 2026-05-04
 ---
-
 # 1020790 NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS ONLINE PATCH
 
 This also fix save game problem,

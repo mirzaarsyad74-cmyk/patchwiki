@@ -1,11 +1,11 @@
 ---
-game: 1250410 Microsoft Flight Simulator (2020)
-author: MinamiRX20
+game: Microsoft Flight Simulator
+appid: 2020
+author: Community
 version: Unknown
 tags: general
 date: 2026-05-05
 ---
-
 # 1250410 Microsoft Flight Simulator (2020)
 
 Added online supported

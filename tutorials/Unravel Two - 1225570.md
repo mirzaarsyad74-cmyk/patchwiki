@@ -1,11 +1,11 @@
 ---
-game: Unravel Two - 1225570
-author: The Weekdys
+game: Unravel Two
+appid: 1225570
+author: Community
 version: Unknown
-tags: online
+tags: general
 date: 2026-07-15
 ---
-
 # Unravel Two - 1225570
 
 After installation complete.

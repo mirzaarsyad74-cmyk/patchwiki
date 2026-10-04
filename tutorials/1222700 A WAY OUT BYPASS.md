@@ -1,11 +1,11 @@
 ---
-game: 1222700 A WAY OUT BYPASS
-author: MinamiRX20
+game: A WAY OUT
+appid: 1222700
+author: Community
 version: Unknown
-tags: bypass, coop
+tags: general
 date: 2026-05-06
 ---
-
 # 1222700 A WAY OUT BYPASS
 
 or Play using https://parsec.app/

@@ -1,11 +1,11 @@
 ---
-game: Paper Bride Series from 1 - 6 online check bypass
-author: The Weekdys
+game: Paper Bride Series from 1 - 6  check
+appid: 2026
+author: Community
 version: Unknown
-tags: online, bypass
+tags: general
 date: 2026-04-29
 ---
-
 # Paper Bride Series from 1 - 6 online check bypass
 
 - Download the attached, extract and copy all the folders and paste into Appdata/Roaming

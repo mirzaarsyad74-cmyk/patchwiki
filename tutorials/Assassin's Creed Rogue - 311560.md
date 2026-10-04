@@ -1,11 +1,11 @@
 ---
-game: Assassin's Creed Rogue - 311560
-author: MinamiRX20
+game: Assassin's Creed Rogue
+appid: 311560
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-06-30
 ---
-
 # Assassin's Creed Rogue - 311560
 
 1) Unlock the Game, Make sure the game is locked under Game update section in SUO (SteamUnlock Onennabe) 

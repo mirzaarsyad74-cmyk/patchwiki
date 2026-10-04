@@ -1,11 +1,11 @@
 ---
-game: 007 First Light (Lampu Pertama) - 3768760
-author: The Weekdys
+game: 007 First Light (Lampu Pertama)
+appid: 3768760
+author: Community
 version: Unknown
-tags: bypass, drm
+tags: general
 date: 2026-05-26
 ---
-
 # 007 First Light (Lampu Pertama) - 3768760
 
 goodluck Mat Bond

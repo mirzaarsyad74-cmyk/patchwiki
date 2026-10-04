@@ -1,11 +1,11 @@
 ---
-game: WILD HEARTS - 1938010
-author: The Weekdys
+game: WILD HEARTS
+appid: 1938010
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-07-13
 ---
-
 # WILD HEARTS - 1938010
 
 1. Unlock game as usual from Steam Unlock

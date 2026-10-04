@@ -1,11 +1,11 @@
 ---
-game: Metaphor: ReFantazio - 2679460
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+game: Metaphor ReFantazio
+appid: 2679460
+author: Community
 version: Unknown
-tags: bypass, crack, drm
+tags: general
 date: 2026-08-04
 ---
-
 # Metaphor: ReFantazio - 2679460
 
 ## **Prequisites Guide**

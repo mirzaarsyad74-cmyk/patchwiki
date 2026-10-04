@@ -1,11 +1,11 @@
 ---
-game: CARX STREET BYPASS UPDATE 1.10.1 - 1114150
-author: Kaunter Pertanyaan
-version: CARX STREET BYPASS version 1.10.1
-tags: bypass
+game: CarX Street
+appid: 1114150
+author: Community
+version: Unknown
+tags: general
 date: 2026-08-05
 ---
-
 # CARX STREET BYPASS version 1.10.1
 - Currently this bypass version works only for game 1.10.1
 - Unlock the game and make sure the game is lock version in Tools > Game Auto Update

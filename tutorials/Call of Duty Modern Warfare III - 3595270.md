@@ -1,11 +1,11 @@
 ---
-game: Call of Duty: Modern Warfare III - 3595270
-author: The Weekdys
+game: Call of Duty Modern Warfare III
+appid: 3595270
+author: Community
 version: Unknown
-tags: bypass, coop, drm
+tags: general
 date: 2026-04-29
 ---
-
 # Call of Duty: Modern Warfare III - 3595270
 
 - Firstly, make sure the path on where you put the game folder is short and doesn't contain non latin characters or symbols to avoid issues with game launching.

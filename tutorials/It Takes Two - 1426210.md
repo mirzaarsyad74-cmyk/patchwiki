@@ -1,11 +1,11 @@
 ---
-game: It Takes Two - 1426210
-author: The Weekdys
+game: It Takes Two
+appid: 1426210
+author: Community
 version: Unknown
-tags: coop
+tags: general
 date: 2026-04-30
 ---
-
 # It Takes Two - 1426210
 
 Special instructions for It Takes Two

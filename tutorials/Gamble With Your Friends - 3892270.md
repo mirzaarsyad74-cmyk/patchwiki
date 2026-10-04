@@ -1,11 +1,11 @@
 ---
-game: Gamble With Your Friends - 3892270
-author: The Weekdys
+game: Gamble With Your Friends
+appid: 3892270
+author: Community
 version: Unknown
-tags: online, bypass
+tags: general
 date: 2026-05-07
 ---
-
 # Gamble With Your Friends - 3892270
 
 - Added online patch

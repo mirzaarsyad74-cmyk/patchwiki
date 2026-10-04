@@ -1,11 +1,11 @@
 ---
-game: 1659040 HITMAN WORLD OF ASSASSINATION
-author: MinamiRX20
+game: HITMAN WORLD OF ASSASSINATION
+appid: 1659040
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-05-06
 ---
-
 # 1659040 HITMAN WORLD OF ASSASSINATION
 
 GEGE

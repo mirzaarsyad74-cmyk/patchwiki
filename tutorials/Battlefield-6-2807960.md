@@ -1,11 +1,11 @@
 ---
-game: Battlefield 6 - 2807960
-author: Kaunter Pertanyaan
-version: 
-tags: bypass
+game: Battlefield-6
+appid: 2807960
+author: Community
+version: Unknown
+tags: general
 date: 2026-08-05
 ---
-
 - After install game.
 - Click ```Bypass Game```
 - Open game folder by going to Steam Unlock Onennabe > Library > go to the game > Click Open Folder

@@ -1,11 +1,11 @@
 ---
-game: [1501750] Lords of the Fallen tutorial Multiplayer
-author: The Weekdys
+game: Lords of the Fallen
+appid: 1501750
+author: Community
 version: Unknown
-tags: coop, drm
+tags: general
 date: 2026-04-29
 ---
-
 # [1501750] Lords of the Fallen tutorial Multiplayer
 
 **Files for the game:**

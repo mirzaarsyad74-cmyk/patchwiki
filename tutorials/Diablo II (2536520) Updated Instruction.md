@@ -1,11 +1,11 @@
 ---
-game: Diablo II (2536520) Updated Instruction
-author: MinamiRX20
+game: Diablo II
+appid: 2536520
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-05-04
 ---
-
 # Diablo II (2536520) Updated Instruction
 
 updated diablo bypass patch

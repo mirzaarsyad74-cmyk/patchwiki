@@ -1,11 +1,11 @@
 ---
-game: Assassin's Creed Shadows - 3159330
-author: The Weekdys
+game: Assassin's Creed Shadows
+appid: 3159330
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-07-18
 ---
-
 # Assassin's Creed Shadows - 3159330
 
 If you ever use Hypervisor version of the game, please go to **Steam Unlock Onennabe -> Library -> REMOVE HYPERVISOR PATCH** first

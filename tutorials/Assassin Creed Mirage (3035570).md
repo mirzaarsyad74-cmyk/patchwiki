@@ -1,11 +1,11 @@
 ---
-game: Assassin Creed Mirage (3035570)
-author: MinamiRX20
+game: Assassin Creed Mirage
+appid: 3035570
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-29
 ---
-
 # Assassin Creed Mirage (3035570)
 
 - All DLC unlocked 

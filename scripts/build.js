@@ -2,15 +2,17 @@
 /**
  * PatchWiki build script
  * Reads every .md file under /tutorials/
- * Writes /dist/tutorials/ chunk files + index.json manifest
+ * Extracts Steam AppID and normalized game titles
+ * Writes /dist/ and root data chunk files + index.json manifest
  */
 
 const fs   = require('fs');
 const path = require('path');
 
-const TUTORIALS_DIR = path.join(__dirname, '..', 'tutorials');
-const DIST_DIR      = path.join(__dirname, '..', 'dist');
-const INDEX_SRC     = path.join(__dirname, '..', 'index.html');
+const ROOT_DIR      = path.join(__dirname, '..');
+const TUTORIALS_DIR = path.join(ROOT_DIR, 'tutorials');
+const DIST_DIR      = path.join(ROOT_DIR, 'dist');
+const INDEX_SRC     = path.join(ROOT_DIR, 'index.html');
 const CHUNK_SIZE    = 50; // tutorials per chunk file
 
 const TAG_RULES = [
@@ -27,7 +29,6 @@ function detectTags(text) {
   for (const rule of TAG_RULES) {
     if (rule.keywords.some(kw => lower.includes(kw))) found.add(rule.tag);
   }
-  // also keep original tags if they're one of our known ones
   return [...found];
 }
 
@@ -38,11 +39,59 @@ function parseFrontmatter(raw) {
   if (fmMatch) {
     for (const line of fmMatch[1].split('\n')) {
       const m = line.match(/^(\w+)\s*:\s*(.+)$/);
-      if (m) fm[m[1].trim()] = m[2].trim();
+      if (m) fm[m[1].trim().toLowerCase()] = m[2].trim();
     }
     body = fmMatch[2];
   }
   return { fm, body };
+}
+
+function extractAppId(fm, filename, title, game, body) {
+  if (fm.appid || fm.steam_appid || fm.app_id) {
+    const n = parseInt(fm.appid || fm.steam_appid || fm.app_id, 10);
+    if (!isNaN(n) && n > 0) return n;
+  }
+  const fullText = [filename, title, game, (body || '').slice(0, 400)].join(' ');
+
+  const mParen = fullText.match(/[\(\[]\s*(\d{3,9})\s*[\)\]]/);
+  if (mParen) return parseInt(mParen[1], 10);
+
+  const mDash = fullText.match(/[-:]\s*(\d{3,9})\b/);
+  if (mDash) return parseInt(mDash[1], 10);
+
+  const mFileNum = filename.match(/^(\d{3,9})$/);
+  if (mFileNum) return parseInt(mFileNum[1], 10);
+
+  const mAppWord = fullText.match(/(?:appid|app)\s*[:=]?\s*(\d{3,9})\b/i);
+  if (mAppWord) return parseInt(mAppWord[1], 10);
+
+  const mIso = fullText.match(/\b(\d{4,8})\b/);
+  if (mIso) return parseInt(mIso[1], 10);
+
+  const mLink = (body || '').match(/store\.steampowered\.com\/app\/(\d{3,9})/i);
+  if (mLink) return parseInt(mLink[1], 10);
+
+  return null;
+}
+
+function cleanGameName(rawGame, rawTitle, filename) {
+  let g = (rawGame || rawTitle || filename || '').trim();
+  g = g.replace(/^#+\s*/, '');
+  g = g.replace(/^\s*[\(\[]\s*\d{3,9}\s*[\)\]]\s*/, '');
+  g = g.replace(/^Added\s+(?:DENUVO?|DENUV0?|DENU|EA)?\s*(?:bypass\s+for\s+|bypass\s+|online\s+patch\s+for\s+|online\s+patch\s+)?/i, '');
+  g = g.replace(/^AppID\s+\d+\s*\(([^)]+)\)/i, '$1');
+  g = g.replace(/^(?:UBISOFT\s+)?BYPASS\s+FOR\s+/i, '');
+  g = g.replace(/^FOR\s+/i, '');
+  g = g.replace(/[\(\[]\s*\d{3,9}\s*[\)\]]/g, '');
+  g = g.replace(/[-:]\s*\d{3,9}\b/g, '');
+  g = g.replace(/^\s*\d{4,9}\s+/, '');
+  g = g.replace(/\b(?:DENUV0?|DENUVO?|DENU|EA|UBISOFT)\s+BYPASS\b/gi, '');
+  g = g.replace(/\b(?:ONLINE\s+PATCH|ONLINE\s+FIX|ONLINE\s+CO-OP|ONLINE\s+METHOD|ONLINE)\b/gi, '');
+  g = g.replace(/\b(?:SEAMLESS\s+CO-OP|MULTIPLAYER\s+MOD\s+TUTORIAL|MULTIPLAYER)\b/gi, '');
+  g = g.replace(/\b(?:BYPASS|GUIDE|TUTORIAL|FIX|UPDATED\s+INSTRUCTION|UPDATE\s+[\d.]+)\b/gi, '');
+  g = g.replace(/^[-:\s,()\[\]]+|[-:\s,()\[\]]+$/g, '').trim();
+  if (g.includes('(') && !g.includes(')')) g += ')';
+  return g || rawGame || rawTitle || 'Unknown Game';
 }
 
 function parseTitle(md) {
@@ -80,8 +129,11 @@ function walk(dir) {
   let files = [];
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);
-    if (entry.isDirectory()) files = files.concat(walk(full));
-    else if (entry.name.endsWith('.md')) files.push(full);
+    if (entry.isDirectory()) {
+      if (entry.name !== 'assets') files = files.concat(walk(full));
+    } else if (entry.name.endsWith('.md')) {
+      files.push(full);
+    }
   }
   return files;
 }
@@ -89,9 +141,11 @@ function walk(dir) {
 function build() {
   if (!fs.existsSync(DIST_DIR)) fs.mkdirSync(DIST_DIR, { recursive: true });
 
-  // Create dist/data/ folder for chunks
   const dataDir = path.join(DIST_DIR, 'data');
   if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
+
+  const rootDataDir = path.join(ROOT_DIR, 'data');
+  if (!fs.existsSync(rootDataDir)) fs.mkdirSync(rootDataDir, { recursive: true });
 
   const mdFiles = fs.existsSync(TUTORIALS_DIR) ? walk(TUTORIALS_DIR) : [];
   console.log(`Found ${mdFiles.length} tutorial(s) in /tutorials/`);
@@ -106,18 +160,17 @@ function build() {
     const slugPath = slugify(relPath.replace(/\//g, '-'));
 
     const title   = fm.title   || parseTitle(body)   || filename;
-    const game    = fm.game    || title.split('—')[0].split('-')[0].trim();
-    const author  = fm.author  || 'Anonymous';
+    const appId   = extractAppId(fm, filename, title, fm.game, body);
+    const game    = cleanGameName(fm.game, title, filename);
+    const author  = fm.author  || 'Community';
     const version = fm.version || parseVersion(body);
-    const desc    = fm.desc    || fm.description || parseDesc(body) || `Tutorial: ${title}`;
+    const desc    = fm.desc    || fm.description || parseDesc(body) || `Tutorial for ${game}`;
     const date    = fm.date    || fs.statSync(file).mtime.toISOString().split('T')[0];
     const id      = fm.id      || slugPath;
 
-    // Tags: frontmatter wins if present, otherwise auto-detect
     let tags;
     if (fm.tags) {
       tags = fm.tags.split(',').map(t => t.trim()).filter(Boolean);
-      // normalize to our tag names
       const normalized = detectTags(raw);
       tags = [...new Set([...tags, ...normalized])];
     } else {
@@ -125,51 +178,46 @@ function build() {
       if (tags.length === 0) tags = ['general'];
     }
 
-    // Store full content separately (in chunk), index entry has no content
-    tutorials.push({ id, title, game, desc, tags, author, version, date, content: body });
+    tutorials.push({ id, appId, title, game, desc, tags, author, version, date, content: body });
   }
 
-  // Sort newest first
   tutorials.sort((a, b) => b.date.localeCompare(a.date));
 
-  // ── Split into chunks ──────────────────────────────────────────
-  // Index = all entries WITHOUT content (for grid display)
-  // Chunks = batches WITH content (loaded on-demand when reading a tutorial)
   const index = tutorials.map(({ content, ...rest }) => rest);
 
-  // Write index.json (no content = small file)
-  const indexPath = path.join(DIST_DIR, 'index.json');
   const indexStr = JSON.stringify(index, null, 2);
-  fs.writeFileSync(indexPath, indexStr, 'utf8');
-  console.log(`Wrote index.json — ${tutorials.length} entries, ${(Buffer.byteLength(indexStr)/1024).toFixed(1)} KB`);
+  fs.writeFileSync(path.join(DIST_DIR, 'index.json'), indexStr, 'utf8');
+  fs.writeFileSync(path.join(ROOT_DIR, 'index.json'), indexStr, 'utf8');
+  console.log(`Wrote index.json - ${tutorials.length} entries, ${(Buffer.byteLength(indexStr)/1024).toFixed(1)} KB`);
 
-  // Write chunk files with content
   const chunks = [];
   for (let i = 0; i < tutorials.length; i += CHUNK_SIZE) {
     const chunk = tutorials.slice(i, i + CHUNK_SIZE);
     const chunkNum = Math.floor(i / CHUNK_SIZE);
-    const chunkPath = path.join(dataDir, `chunk-${chunkNum}.json`);
+    const chunkFileName = `chunk-${chunkNum}.json`;
     const chunkStr = JSON.stringify(chunk, null, 2);
-    fs.writeFileSync(chunkPath, chunkStr, 'utf8');
-    chunks.push({ file: `data/chunk-${chunkNum}.json`, ids: chunk.map(t => t.id) });
-    console.log(`  chunk-${chunkNum}.json — ${chunk.length} tutorials, ${(Buffer.byteLength(chunkStr)/1024).toFixed(1)} KB`);
+
+    fs.writeFileSync(path.join(dataDir, chunkFileName), chunkStr, 'utf8');
+    fs.writeFileSync(path.join(rootDataDir, chunkFileName), chunkStr, 'utf8');
+
+    chunks.push({ file: `data/${chunkFileName}`, ids: chunk.map(t => t.id) });
+    console.log(`  ${chunkFileName} - ${chunk.length} tutorials, ${(Buffer.byteLength(chunkStr)/1024).toFixed(1)} KB`);
   }
 
-  // Write manifest.json (maps tutorial id → chunk file)
   const manifest = {};
   for (const chunk of chunks) {
     for (const id of chunk.ids) manifest[id] = chunk.file;
   }
-  fs.writeFileSync(path.join(DIST_DIR, 'manifest.json'), JSON.stringify(manifest), 'utf8');
-  console.log(`Wrote manifest.json — ${Object.keys(manifest).length} id→chunk mappings`);
+  const manifestStr = JSON.stringify(manifest, null, 2);
+  fs.writeFileSync(path.join(DIST_DIR, 'manifest.json'), manifestStr, 'utf8');
+  fs.writeFileSync(path.join(ROOT_DIR, 'manifest.json'), manifestStr, 'utf8');
+  console.log(`Wrote manifest.json - ${Object.keys(manifest).length} id mappings`);
 
-  // Keep tutorials.json for backwards compat (index only, no content)
   fs.writeFileSync(path.join(DIST_DIR, 'tutorials.json'), indexStr, 'utf8');
+  fs.writeFileSync(path.join(ROOT_DIR, 'tutorials.json'), indexStr, 'utf8');
 
-  // Copy index.html
   fs.copyFileSync(INDEX_SRC, path.join(DIST_DIR, 'index.html'));
 
-  // Copy assets folder if present
   const assetsSrc = path.join(TUTORIALS_DIR, 'assets');
   const assetsDist = path.join(DIST_DIR, 'assets');
   if (fs.existsSync(assetsSrc)) {
@@ -177,13 +225,12 @@ function build() {
     console.log(`Copied assets to dist/assets`);
   }
 
-  // Copy favicon if present
-  const icoSrc = path.join(__dirname, '..', 'steamunlock_wannabe.ico');
+  const icoSrc = path.join(ROOT_DIR, 'steamunlock_wannabe.ico');
   if (fs.existsSync(icoSrc)) {
     fs.copyFileSync(icoSrc, path.join(DIST_DIR, 'steamunlock_wannabe.ico'));
   }
 
-  console.log('\nBuild complete ✓');
+  console.log('\nBuild complete!');
 }
 
 build();

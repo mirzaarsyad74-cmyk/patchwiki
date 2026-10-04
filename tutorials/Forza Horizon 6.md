@@ -1,11 +1,11 @@
 ---
 game: Forza Horizon 6
-author: yuumi
-version: 
-tags: online, bypass, coop
+appid: 2026
+author: Community
+version: Unknown
+tags: general
 date: 2026-08-05
 ---
-
 # Forza Horizon 6 Tutorial
 **Note: You can play with people who owns the legitimate copy of the game !**
 

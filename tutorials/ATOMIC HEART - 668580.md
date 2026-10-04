@@ -1,11 +1,11 @@
 ---
-game: ATOMIC HEART - 668580
-author: The Weekdys
+game: ATOMIC HEART
+appid: 668580
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-07-05
 ---
-
 # ATOMIC HEART - 668580
 
 1. Unlock Game in Steam via Steam Unlock

@@ -1,11 +1,11 @@
 ---
-game: 2239550 WATCH DOGS LEGION
-author: The Weekdys
+game: WATCH DOGS LEGION
+appid: 2239550
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-07-09
 ---
-
 # 2239550 WATCH DOGS LEGION
 
 After Bypass Game. Start Game from Steam.

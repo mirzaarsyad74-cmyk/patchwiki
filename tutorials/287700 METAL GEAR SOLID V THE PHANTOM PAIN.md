@@ -1,11 +1,11 @@
 ---
-game: 287700 METAL GEAR SOLID V: THE PHANTOM PAIN
-author: MinamiRX20
+game: METAL GEAR SOLID V THE PHANTOM PAIN
+appid: 287700
+author: Community
 version: Unknown
 tags: general
 date: 2026-05-04
 ---
-
 # 287700 METAL GEAR SOLID V: THE PHANTOM PAIN
 
 Exclusive for Onennabe

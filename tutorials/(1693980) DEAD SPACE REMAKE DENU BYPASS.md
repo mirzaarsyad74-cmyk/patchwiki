@@ -1,11 +1,11 @@
 ---
-game: (1693980) DEAD SPACE REMAKE DENU BYPASS
-author: MinamiRX20
+game: DEAD SPACE REMAKE
+appid: 1693980
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-30
 ---
-
 # (1693980) DEAD SPACE REMAKE DENU BYPASS
 
 -run game from steam after patch,

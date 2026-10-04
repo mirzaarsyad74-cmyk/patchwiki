@@ -1,11 +1,11 @@
 ---
-game: Assassin's Creed Syndicate - 368500
-author: The Weekdys
+game: Assassin's Creed Syndicate
+appid: 368500
+author: Community
 version: Unknown
 tags: general
 date: 2026-04-29
 ---
-
 # Assassin's Creed Syndicate - 368500
 
 - Turn off Anti-virus or exclude the game folder from windows Defender or anti-virus

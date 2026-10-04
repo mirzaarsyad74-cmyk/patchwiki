@@ -1,11 +1,11 @@
 ---
-game: Jurassic world Evolution 3 - 2958130
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+game: Jurassic world Evolution 3
+appid: 2958130
+author: Community
 version: Unknown
-tags: bypass, crack, drm
+tags: general
 date: 2026-08-04
 ---
-
 # Jurassic world Evolution 3 - 2958130
 
 ## **Prequisites Guide**

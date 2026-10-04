@@ -1,11 +1,11 @@
 ---
-game: 1313860 EA SPORTS FIFA 21 BYPASS
-author: MinamiRX20
+game: EA SPORTS FIFA 21
+appid: 1313860
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-05-05
 ---
-
 # 1313860 EA SPORTS FIFA 21 BYPASS
 
 -Open game folder after patching

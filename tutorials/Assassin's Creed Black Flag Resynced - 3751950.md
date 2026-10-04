@@ -1,11 +1,11 @@
 ---
-game: Assassin's Creed Black Flag Resynced - 3751950
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+game: Assassin's Creed Black Flag Resynced
+appid: 3751950
+author: Community
 version: Unknown
-tags: bypass, crack, drm
+tags: general
 date: 2026-07-09
 ---
-
 # Assassin's Creed Black Flag Resynced - 3751950
 
 ## **Prequisites Guide**

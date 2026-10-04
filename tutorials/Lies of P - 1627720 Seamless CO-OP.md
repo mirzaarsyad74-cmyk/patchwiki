@@ -1,11 +1,11 @@
 ---
-game: Lies of P - 1627720 Seamless CO-OP
-author: The Weekdys
+game: Lies of P
+appid: 1627720
+author: Community
 version: Unknown
-tags: bypass, coop
+tags: general
 date: 2026-07-08
 ---
-
 # Lies of P - 1627720 Seamless CO-OP
 
 1. After Bypass Game, Open game Folder

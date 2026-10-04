@@ -1,11 +1,11 @@
 ---
-game: AppID : 812140 (Assassins Creed Odyssey)
-author: The Weekdys
+game: AppID 812140 (Assassins Creed Odyssey)
+appid: 812140
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-05-11
 ---
-
 # AppID : 812140 (Assassins Creed Odyssey)
 
 After bypass, click !RUN_THIS from inside game folder

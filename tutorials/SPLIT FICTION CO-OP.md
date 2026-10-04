@@ -1,11 +1,11 @@
 ---
 game: SPLIT FICTION CO-OP
-author: The Weekdys
+appid: 2026
+author: Community
 version: Unknown
-tags: online, bypass, coop
+tags: general
 date: 2026-05-10
 ---
-
 # SPLIT FICTION CO-OP
 
 # SPLIT FICTION ONLINE CO-OP

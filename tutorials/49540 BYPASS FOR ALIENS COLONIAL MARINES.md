@@ -1,11 +1,11 @@
 ---
-game: 49540 BYPASS FOR ALIENS: COLONIAL MARINES
-author: MinamiRX20
+game: FOR ALIENS COLONIAL MARINES
+appid: 49540
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-05-04
 ---
-
 # 49540 BYPASS FOR ALIENS: COLONIAL MARINES
 
 -After patch, open game folder and then open Binaries > Win32

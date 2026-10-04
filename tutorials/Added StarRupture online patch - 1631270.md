@@ -1,11 +1,11 @@
 ---
-game: Added StarRupture online patch - 1631270
-author: MinamiRX20
+game: StarRupture
+appid: 1631270
+author: Community
 version: Unknown
-tags: online, coop
+tags: general
 date: 2026-04-29
 ---
-
 # Added StarRupture online patch - 1631270
 
 -try run from steam once patch or

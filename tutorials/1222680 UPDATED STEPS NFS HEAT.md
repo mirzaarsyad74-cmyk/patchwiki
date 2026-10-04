@@ -1,11 +1,11 @@
 ---
-game: 1222680 UPDATED STEPS NFS HEAT
-author: MinamiRX20
+game: UPDATED STEPS NFS HEAT
+appid: 1222680
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-05-05
 ---
-
 # 1222680 UPDATED STEPS NFS HEAT
 
 After bypass the game 

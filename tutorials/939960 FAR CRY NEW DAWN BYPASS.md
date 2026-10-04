@@ -1,11 +1,11 @@
 ---
-game: 939960 FAR CRY NEW DAWN BYPASS
-author: MinamiRX20
+game: FAR CRY NEW DAWN
+appid: 939960
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-05-06
 ---
-
 # 939960 FAR CRY NEW DAWN BYPASS
 
 PATCH USING BHSPT

@@ -1,11 +1,11 @@
 ---
-game: 928960 - Godfall Ultimate Edition
-author: The Weekdys
+game: Godfall Ultimate Edition
+appid: 928960
+author: Community
 version: Unknown
-tags: online
+tags: general
 date: 2026-08-01
 ---
-
 # 928960 - Godfall Ultimate Edition
 
 After Downloading Game

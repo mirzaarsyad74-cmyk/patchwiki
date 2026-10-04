@@ -1,8 +1,9 @@
 ---
-game: Crimson Desert - 3321460
-author: Kaunter Pertanyaan
-version: 
-tags: bypass, drm
+game: Crimson Desert
+appid: 3321460
+author: Community
+version: Unknown
+tags: general
 date: 2026-08-05
 ---
 # Crimson Desert - 3321460

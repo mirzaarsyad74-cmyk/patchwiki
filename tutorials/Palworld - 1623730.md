@@ -1,11 +1,11 @@
 ---
-game: Palworld  - 1623730
-author: The Weekdys
+game: Palworld
+appid: 1623730
+author: Community
 version: Unknown
-tags: online
+tags: general
 date: 2026-08-05
 ---
-
 # Palworld  - 1623730
 
 # BEFORE ANYTHING ELSE

@@ -1,11 +1,11 @@
 ---
-game: CarX Street - 1114150
-author: The Weekdys
+game: CarX Street
+appid: 1114150
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-29
 ---
-
 # CarX Street - 1114150
 
 1. Download game Carx from Steam

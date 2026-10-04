@@ -1,11 +1,11 @@
 ---
-game: 47790 MEDAL OF HONOR EA BYPASS
-author: MinamiRX20
+game: MEDAL OF HONOR
+appid: 47790
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-05-04
 ---
-
 # 47790 MEDAL OF HONOR EA BYPASS
 
 Play from Steam.

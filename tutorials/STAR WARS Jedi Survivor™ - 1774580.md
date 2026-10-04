@@ -1,11 +1,11 @@
 ---
-game: STAR WARS Jedi: Survivor™ - 1774580
-author: The Weekdys
+game: STAR WARS Jedi Survivor™
+appid: 1774580
+author: Community
 version: Unknown
 tags: general
 date: 2026-04-29
 ---
-
 # STAR WARS Jedi: Survivor™ - 1774580
 
 - after patch, open folder

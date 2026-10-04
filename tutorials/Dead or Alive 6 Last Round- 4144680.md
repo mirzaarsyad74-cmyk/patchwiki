@@ -1,11 +1,11 @@
 ---
-game: Dead or Alive 6 Last Round- 4144680
-author: The Weekdys
+game: Dead or Alive 6 Last Round
+appid: 4144680
+author: Community
 version: Unknown
-tags: online
+tags: general
 date: 2026-07-08
 ---
-
 # Dead or Alive 6 Last Round- 4144680
 
 Add this game version  into your library by using WIN + R and copy below and paste into it

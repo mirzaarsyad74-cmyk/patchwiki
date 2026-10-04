@@ -1,11 +1,11 @@
 ---
-game: INAZUMA ELEVEN: Victory Road - 2799860
-author: The Weekdys
+game: INAZUMA ELEVEN Victory Road
+appid: 2799860
+author: Community
 version: Unknown
-tags: online, bypass
+tags: general
 date: 2026-06-05
 ---
-
 # INAZUMA ELEVEN: Victory Road - 2799860
 
 After online patch, open game folder, find game .exe via SUO, choose nie.exe

@@ -1,11 +1,11 @@
 ---
-game: Added Mass Effect™: Andromeda EA Bypass - 1238000
-author: The Weekdys
+game: Mass Effect™ Andromeda
+appid: 1238000
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-29
 ---
-
 # Added Mass Effect™: Andromeda EA Bypass - 1238000
 
 - After patching, open game folder and run the game using MassEffectAndromeda.exe

@@ -1,11 +1,11 @@
 ---
-game: BeamNG.Drive - 284160 Multiplayer mod tutorial
-author: The Weekdys
+game: BeamNG.Drive
+appid: 284160
+author: Community
 version: Unknown
-tags: coop
+tags: general
 date: 2026-04-29
 ---
-
 # BeamNG.Drive - 284160 Multiplayer mod tutorial
 
 1. Launch the game in single player first, play for a bit.

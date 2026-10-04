@@ -1,11 +1,11 @@
 ---
-game: ELDEN Ring Guide - 1245620
-author: The Weekdys
+game: ELDEN Ring
+appid: 1245620
+author: Community
 version: Unknown
-tags: coop
+tags: general
 date: 2026-04-30
 ---
-
 # ELDEN Ring Guide - 1245620
 
 - Go to game installation folder

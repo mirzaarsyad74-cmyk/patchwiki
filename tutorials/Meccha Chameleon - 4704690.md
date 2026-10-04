@@ -1,11 +1,11 @@
 ---
-game: Meccha Chameleon - 4704690
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+game: Meccha Chameleon
+appid: 4704690
+author: Community
 version: Unknown
-tags: online, drm
+tags: general
 date: 2026-06-12
 ---
-
 # Meccha Chameleon - 4704690
 
 1) Add game from SUO

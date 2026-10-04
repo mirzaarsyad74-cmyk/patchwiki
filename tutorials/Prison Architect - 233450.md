@@ -1,11 +1,11 @@
 ---
-game: Prison Architect - 233450
-author: ProSub
+game: Prison Architect
+appid: 233450
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-06-04
 ---
-
 # Prison Architect - 233450
 
 Bypass for Prison Architect (online not possible for latest version)

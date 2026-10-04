@@ -1,11 +1,11 @@
 ---
-game: Added RE9 Game and bypass, only works using standalone version!!3764200
-author: MinamiRX20
+game: RE9 Game and , only works using standalone version!!3764200
+appid: 2026
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-29
 ---
-
 # Added RE9 Game and bypass, only works using standalone version!!3764200
 
 This version is released month ago and just cracked yesterday.

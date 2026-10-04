@@ -1,11 +1,11 @@
 ---
-game: (629820) MANEATER DENUV BYPASS
-author: MinamiRX20
+game: MANEATER
+appid: 629820
+author: Community
 version: Unknown
-tags: bypass
+tags: general
 date: 2026-04-30
 ---
-
 # (629820) MANEATER DENUV BYPASS
 
 -run game from steam,

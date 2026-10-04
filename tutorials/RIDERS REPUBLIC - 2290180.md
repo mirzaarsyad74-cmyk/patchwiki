@@ -1,11 +1,11 @@
 ---
-game: RIDERS REPUBLIC - 2290180
-author: The Weekdys
+game: RIDERS REPUBLIC
+appid: 2290180
+author: Community
 version: Unknown
 tags: general
 date: 2026-04-29
 ---
-
 # RIDERS REPUBLIC - 2290180
 
 - Patch it

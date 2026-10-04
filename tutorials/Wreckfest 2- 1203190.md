@@ -1,11 +1,11 @@
 ---
-game: Wreckfest 2- 1203190
-author: The Weekdys
+game: Wreckfest 2
+appid: 1203190
+author: Community
 version: Unknown
-tags: online
+tags: general
 date: 2026-04-29
 ---
-
 # Wreckfest 2- 1203190
 
 Added Wreckfest 2 online patch update
