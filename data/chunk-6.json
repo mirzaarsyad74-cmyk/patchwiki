@@ -1,65 +1,5 @@
 [
   {
-    "id": "added-monster-hunter-world-online-582010",
-    "appId": 582010,
-    "title": "Added Monster Hunter: World Online- 582010",
-    "game": "Monster Hunter: World",
-    "desc": "After patch, open game folder and run the game via Launcher.exe",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# Added Monster Hunter: World Online- 582010\n\n- After patch, open game folder and run the game via Launcher.exe\n"
-  },
-  {
-    "id": "battlefield-6-2807960",
-    "appId": 2807960,
-    "title": "Battlefield 6 - 2807960",
-    "game": "Battlefield 6",
-    "desc": "Enter the game folder, you can use \"Downloaded Game\" button.",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# Battlefield 6 - 2807960\n\n- After install game\n- Enter the game folder, you can use \"Downloaded Game\" button.\n - go inside folder Battlefield 6/SP/bf6.exe\n- Launch game from bf6.exe\n\nor \n\nUse Steam Unlock Onennabe and open the game panel. Click Play > Choose EXE > choose the bf6.exe that is located in SP/bf6.exe\n\n![Attached Image](assets/battlefield-6-2807960_1499284193539260557.png)\n\n---\n\n![Attached Image](assets/battlefield-6-2807960_1501181242626805791.png)\n"
-  },
-  {
-    "id": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-1490890",
-    "appId": 1490890,
-    "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles - 1490890",
-    "game": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles - 1490890\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-2928600",
-    "appId": 2928600,
-    "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 - 2928600",
-    "game": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 - 2928600\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
     "id": "elden-ring-guide-1245620",
     "appId": 1245620,
     "title": "ELDEN Ring Guide - 1245620",
@@ -252,36 +192,6 @@
     "content": "\n# (816020) JUMP FORCE\n\nI fixed mine by reinstalling the Anti-Cheat software, can be found it \"yourinstalldrive\":\\SteamLibrary\\steamapps\\common\\JUMP FORCE\\EasyAntiCheat\n\n![Attached Image](assets/816020-jump-force_1499097716683182261.png)\n"
   },
   {
-    "id": "2000950-call-of-duty-modern-warfare",
-    "appId": 2000950,
-    "title": "2000950 - Call of Duty®: Modern Warfare®",
-    "game": "Call of Duty®: Modern Warfare®",
-    "desc": "Added campaign mode crack for CODMW",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# 2000950 - Call of Duty®: Modern Warfare®\n\nAdded campaign mode crack for CODMW\n- 2000950\n\nHow to use?\n- After patching, open game folder\n- Run !start_cod.bat\n\nNotice: problem with campaign mode is there's no save checkpoint at all\nWorkaround is below\n\nFor anyone having game save issues.\n\nFYI Gang, the workaround is you can unlock all missions so that at least you can load up the next mission after closing the game.\nAfter starting the game, one of the cmd.exe press the Right \"CTRL\" + \"/\"\nAnother CMD will pop out and say \"enter command\"\nType \"unlock_missions\" and enter\n"
-  },
-  {
-    "id": "3595230-call-of-duty-modern-warfare-ii",
-    "appId": 3595230,
-    "title": "3595230 - Call of Duty®: Modern Warfare® II",
-    "game": "Call of Duty®: Modern Warfare® II",
-    "desc": "Start the game ONLY FROM !startcod22.bat (for MP) or !startsp22.bat (for SP) and keep the console window open until it closes by itself when you close the game.",
-    "tags": [
-      "bypass",
-      "coop",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# 3595230 - Call of Duty®: Modern Warfare® II\n\n- Start the game ONLY FROM !start_cod22.bat (for MP) or !start_sp22.bat (for SP) and keep the console window open until it closes by itself when you close the game.\n\n---\n\n## **How To Bypass**\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n\n## **Launch Option (From Folder Only)**\n1) !start_cod22.bat (for MP)\n2) !start_sp22.bat (for SP) \n\nMP: Multiplayer (online)\n​SP: Singleplayer\n\n```keep the console window open until it closes```\n"
-  },
-  {
     "id": "added-cure-a-hospital-simulator-online-patch-2786550",
     "appId": 2786550,
     "title": "Added CURE - A Hospital Simulator online patch (2786550)",
@@ -294,5 +204,90 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Added CURE - A Hospital Simulator online patch (2786550)\n\n- try run from steam once patch or\n- open game folder and run from **Cure.exe**\n"
+  },
+  {
+    "id": "added-denu-bypass-for-doom-the-dark-ages-3017860",
+    "appId": 3017860,
+    "title": "Added DENU bypass for Doom: The Dark Ages - 3017860",
+    "game": "Doom: The Dark Ages",
+    "desc": "Run game from steam upon bypass game done",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added DENU bypass for Doom: The Dark Ages - 3017860\n\n- Run game from steam upon bypass game done\n"
+  },
+  {
+    "id": "added-earth-defense-force-6-2291060",
+    "appId": 2291060,
+    "title": "Added Earth Defense Force 6- 2291060",
+    "game": "rth Defense Force 6",
+    "desc": "login epic games pop up in browser, then go back to game after login.",
+    "tags": [
+      "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Earth Defense Force 6- 2291060\n\n- After online patch\n- play game from steam\n- login epic games pop up in browser, then go back to game after login.\n"
+  },
+  {
+    "id": "added-occupy-mars-the-game-758690",
+    "appId": 758690,
+    "title": "Added Occupy Mars: The Game- 758690",
+    "game": "Occupy Mars: The Game",
+    "desc": "you can join lobby in online coop or host your own game.",
+    "tags": [
+      "online",
+      "coop"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Occupy Mars: The Game- 758690\n\n- you can join lobby in online co-op or host your own game.\n\n![Attached Image](assets/added-occupy-mars-the-game-758690_1498980809388986458.png)\n"
+  },
+  {
+    "id": "added-re9-game-and-bypass-only-works-using-standalone-version-3764200",
+    "appId": 3764200,
+    "title": "Added RE9 Game and bypass, only works using standalone version!!3764200",
+    "game": "RE9 Game and , only works using standalone version",
+    "desc": "This version is released month ago and just cracked yesterday.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added RE9 Game and bypass, only works using standalone version!!3764200\n\nThis version is released month ago and just cracked yesterday.\n\nUpdated RE9 Bypass to works with latest RE9 version, standalone and steam now same version, bypass is 500mb.\n"
+  },
+  {
+    "id": "added-rogue-point-online-patch-1843840",
+    "appId": 1843840,
+    "title": "Added Rogue Point online patch- 1843840",
+    "game": "Rogue Point",
+    "desc": "try run from steam once patch or",
+    "tags": [
+      "online"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Rogue Point online patch- 1843840\n\n-try run from steam once patch or\nopen game folder and run game via Tango.exe\n"
+  },
+  {
+    "id": "added-scott-pilgrim-ex-online-patch-2640950",
+    "appId": 2640950,
+    "title": "Added Scott Pilgrim EX online patch- 2640950",
+    "game": "Scott Pilgrim EX",
+    "desc": "try run from steam once patch or",
+    "tags": [
+      "online"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Scott Pilgrim EX online patch- 2640950\n\n- try run from steam once patch or\n- open game folder and run from **Game.exe**\n"
   }
 ]

@@ -1,19 +1,5 @@
 [
   {
-    "id": "ea-sports-college-football-27-4032350",
-    "appId": 4032350,
-    "title": "EA SPORTS™ College Football 27 - 4032350",
-    "game": "EA SPORTS™ College Football 27",
-    "desc": "\"Tools Game Auto Update  Smart Apply\" is completed",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-07-16",
-    "content": "\n# EA SPORTS™ College Football 27 - 4032350\n\nInstall Game, Make sure \n\"**Tools> Game Auto Update > Smart Apply**\" is completed\nApply Bypass Game from Library in SUO.\nPlay from SUO, choose exe and select CollegeFB27.exe\n\n![Attached Image](assets/ea-sports-college-football-27-4032350_1527179897452368004.png)\n"
-  },
-  {
     "id": "unravel-two-1225570",
     "appId": 1225570,
     "title": "Unravel Two - 1225570",
@@ -295,5 +281,19 @@
     "version": "1.0",
     "date": "2026-06-12",
     "content": "\n# Meccha Chameleon - 4704690\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online Patch```\n5) play from steam\n"
+  },
+  {
+    "id": "pes2013-221430",
+    "appId": 221430,
+    "title": "PES2013 - 221430",
+    "game": "PES2013",
+    "desc": "3. Click RunThisFirst, install it",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-06-07",
+    "content": "\n# PES2013 - 221430\n\n1. Bypass Game\n2. Open game folder\n3. Click RunThisFirst, install it\n4. Run game from inside folder via pes2013.exe\n"
   }
 ]
