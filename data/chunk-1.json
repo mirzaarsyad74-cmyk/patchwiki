@@ -1,298 +1,282 @@
 [
   {
-    "id": "unravel-two-1225570",
-    "appId": 1225570,
-    "title": "Unravel Two - 1225570",
-    "game": "Unravel Two",
-    "desc": "After installation complete.",
+    "id": "nascar-heat-4-1127980",
+    "appId": 1127980,
+    "title": "NASCAR Heat 4  Bypass",
+    "game": "NASCAR Heat 4",
+    "desc": "NASCAR Heat 4 (1127980) Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# NASCAR Heat 4  Bypass\n\n# NASCAR Heat 4 (1127980) Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "medieval-dynasty-1129580",
+    "appId": 1129580,
+    "title": "Medieval Dynasty Online Fix",
+    "game": "Medieval Dynasty",
+    "desc": "Medieval Dynasty Online Fix",
     "tags": [
       "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-07-15",
-    "content": "\n# Unravel Two - 1225570\n\nAfter installation complete.\nClick Online Patch, then do below steps, make sure steam is running.\n\n**Activating Steam Remote Play**\n1. Press Windows + R ; \n2. Copy ```steam://install/349620```\nand then paste the text field and click OK ; \n3. Start installing BlastZone 2 Demo for a couple of seconds, stop and delete; \n4. Open Folder and then Launch the game from UnravelTwo.exe\n"
+    "date": "2026-08-11",
+    "content": "\n# Medieval Dynasty Online Fix\n\n# Medieval Dynasty Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "wild-hearts-1938010",
-    "appId": 1938010,
-    "title": "WILD HEARTS - 1938010",
-    "game": "WILD HEARTS",
-    "desc": "1. Unlock game as usual from Steam Unlock",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-07-13",
-    "content": "\n# WILD HEARTS - 1938010\n\n1. Unlock game as usual from Steam Unlock\n2. From Steam Unlock > Tools > Game Auto Update > Open > Smart Apply\n3. Download game from Steam\n4. Bypass Game\n**\nHow to play**\n1. **MAKE SURE EA APP IS CLOSE OR SHUT IT DOWN**\n2. From Steam Unlock > Library > Play > Choose .exe > choose **WILD HEARTS.exe**\n\n![Attached Image](assets/wild-hearts-1938010_1526166791343313028.png)\n\n---\n\n**Karakuri Edition + preorder unlock**\n1. Download the save game attached\n2. Open WIN + R, copy below\n```shell:personal\\KoeiTecmo```\n3. Paste into the text field, press Enter\n4. Open the KoeiTecmo.rar, drag and drop **KoeiTecmo** inside the .rar into the opened Documents folder from step 3.\n5. Replaced if prompted.\n6. Start Game.\n\n[Download KoeiTecmo.rar (0.0 MB)](assets/wild-hearts-1938010_1526169537496748152.rar)\n\n\n![Attached Image](assets/wild-hearts-1938010_1526169537798475786.png)\n"
-  },
-  {
-    "id": "echoes-of-aincrad-2244210",
-    "appId": 2244210,
-    "title": "Echoes of Aincrad - 2244210",
-    "game": "Echoes of Aincrad",
-    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
-    "version": "1.0",
-    "date": "2026-07-11",
-    "content": "\n# Echoes of Aincrad - 2244210\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n\n![Attached Image](assets/echoes-of-aincrad-2244210_1525388083485212772.webp)\n"
-  },
-  {
-    "id": "2239550-watch-dogs-legion",
-    "appId": 2239550,
-    "title": "2239550 WATCH DOGS LEGION",
-    "game": "WATCH DOGS LEGION",
-    "desc": "After Bypass Game. Start Game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-07-09",
-    "content": "\n# 2239550 WATCH DOGS LEGION\n\nAfter Bypass Game. Start Game from Steam.\n\n![Attached Image](assets/2239550-watch-dogs-legion_1524640046198685706.png)\n"
-  },
-  {
-    "id": "assassin-s-creed-black-flag-resynced-3751950",
-    "appId": 3751950,
-    "title": "Assassin's Creed Black Flag Resynced - 3751950",
-    "game": "Assassin's Creed Black Flag Resynced",
-    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
-    "version": "1.0",
-    "date": "2026-07-09",
-    "content": "\n# Assassin's Creed Black Flag Resynced - 3751950\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n\n![Attached Image](assets/assassin-s-creed-black-flag-resynced-3751950_1524840572177617027.jpg)\n\n---\n\nGame Updated to version 1.0.4\nUpdate Game and then do** \"Hypervisor Bypass Patch\"** upon game is updated.\n\n---\n\nNote: Delete steam64.dll and steam_api64.dll.\n"
-  },
-  {
-    "id": "dead-or-alive-6-last-round-4144680",
-    "appId": 4144680,
-    "title": "Dead or Alive 6 Last Round- 4144680",
-    "game": "Dead or Alive 6 Last Round",
-    "desc": "Add this game version  into your library by using WIN + R and copy below and paste into it",
+    "id": "overthrown-1133500",
+    "appId": 1133500,
+    "title": "Overthrown Online Fix",
+    "game": "Overthrown",
+    "desc": "Overthrown Online Fix",
     "tags": [
       "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-07-08",
-    "content": "\n# Dead or Alive 6 Last Round- 4144680\n\nAdd this game version  into your library by using WIN + R and copy below and paste into it\n\n```steam://subscriptioninstall/1698936```\n\nor go to the game store page and click add to library\nhttps://store.steampowered.com/app/4144680/DEAD_OR_ALIVE_6_Last_Round/\n\nAfter online patch, play game from Steam and play online\n\n![Attached Image](assets/dead-or-alive-6-last-round-4144680_1524449320978481232.png)\n"
+    "date": "2026-08-11",
+    "content": "\n# Overthrown Online Fix\n\n# Overthrown Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "lies-of-p-1627720-seamless-co-op",
-    "appId": 1627720,
-    "title": "Lies of P - 1627720 Seamless CO-OP",
-    "game": "Lies of P",
-    "desc": "1. After Bypass Game, Open game Folder",
+    "id": "ultimate-fishing-simulator-2-1136380",
+    "appId": 1136380,
+    "title": "Ultimate Fishing® Simulator 2 Online Fix",
+    "game": "Ultimate Fishing® Simulator 2",
+    "desc": "Ultimate Fishing® Simulator 2 Online Fix",
     "tags": [
-      "bypass",
-      "coop"
+      "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-07-08",
-    "content": "\n# Lies of P - 1627720 Seamless CO-OP\n\n1. After Bypass Game, Open game Folder\n2. Go to this folder and run the game via  **LiesofP\\Binaries\\Win64\\LOP-Win64-Shipping.exe**\n3. Load to the main menu, and exit the game. This Step is only once.\n4. Launch the game via** LOP.exe**\n\n**Host a Game** --> Next --> Enter the Lobby Password --> Host --> Waiting for another player to connect.\n\n**Join a Game** --> Next --> Enter your friend's Lobby Password --> Join.\n\n![Attached Image](assets/lies-of-p-1627720-seamless-co-op_1524444544098238666.png)\n"
+    "date": "2026-08-11",
+    "content": "\n# Ultimate Fishing® Simulator 2 Online Fix\n\n# Ultimate Fishing® Simulator 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "atomic-heart-668580",
-    "appId": 668580,
-    "title": "ATOMIC HEART - 668580",
-    "game": "ATOMIC HEART",
-    "desc": "1. Unlock Game in Steam via Steam Unlock",
+    "id": "travellers-rest-1139980",
+    "appId": 1139980,
+    "title": "Travellers Rest Online Fix",
+    "game": "Travellers Rest",
+    "desc": "Travellers Rest Online Fix",
     "tags": [
-      "bypass"
+      "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-07-05",
-    "content": "\n# ATOMIC HEART - 668580\n\n1. Unlock Game in Steam via Steam Unlock\n2. Use Bypass Game button in Library tab to apply patch\n3. Make sure to turn off antivirus or follow the step to automatically add the game folder to exclusion after installation.\n4. Run game from Steam.\n\n![Attached Image](assets/atomic-heart-668580_1523203290727190688.png)\n"
+    "date": "2026-08-11",
+    "content": "\n# Travellers Rest Online Fix\n\n# Travellers Rest Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "total-war-saga-troy-1099410",
-    "appId": 1099410,
-    "title": "TOTAL WAR SAGA : TROY - 1099410",
-    "game": "TOTAL WAR SAGA : TROY",
-    "desc": "Unlocking Game and Preparation",
+    "id": "ready-or-not-1144200",
+    "appId": 1144200,
+    "title": "Ready or Not Online Fix",
+    "game": "Ready or Not",
+    "desc": "Ready or Not Online Fix",
     "tags": [
-      "bypass",
-      "crack",
-      "drm"
+      "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-07-04",
-    "content": "\n# TOTAL WAR SAGA : TROY - 1099410\n\n**Unlocking Game and Preparation**\n1. Unlock Game in Steam Unlock\n2. Install Game \n3. Follow guide in  https://discord.com/channels/333191744873299978/1499122656686116944\na. Enable Virtualization\nb. Disable Memory Core integrity\nc. Disable Driver Signature Enforcement\n\n**For easier where and which step you havent do, download this tool.**\n1. Download #HV Tools https://discord.com/channels/333191744873299978/1512676091373031507\n2. Run HV Tools and then see which one is in red text, you know that you havent done the step.\n\nRun game from HV-PlugNPlay.bat after all the above step\n\n![Attached Image](assets/total-war-saga-troy-1099410_1522969637854248980.png)\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+    "date": "2026-08-11",
+    "content": "\n# Ready or Not Online Fix\n\n# Ready or Not Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "f1-22-1692250",
-    "appId": 1692250,
-    "title": "F1 22 - 1692250",
-    "game": "F1 22",
-    "desc": "Unlock the game via Steam Unlock",
+    "id": "prototype-2-115320",
+    "appId": 115320,
+    "title": "PROTOTYPE 2 Bypass",
+    "game": "PROTOTYPE 2",
+    "desc": "1. Download the game from Steam.",
     "tags": [
       "bypass"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-07-02",
-    "content": "\n# F1 22 - 1692250\n\nUnlock the game via Steam Unlock\n1. Click Update Game in Library if you previously downloaded it via other method\n2. Bypass the game\n3. Open the game Folder\n4. Delete 2 things\n- sl.dlss.dll\n- egodumper.exe\n5. Run game from Steam.\n\n![Attached Image](assets/f1-22-1692250_1522183738409353346.png)\n"
+    "date": "2026-08-11",
+    "content": "\n# PROTOTYPE 2 Bypass\n\n# PROTOTYPE 2 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   },
   {
-    "id": "assassin-s-creed-rogue-311560",
-    "appId": 311560,
-    "title": "Assassin's Creed Rogue - 311560",
-    "game": "Assassin's Creed Rogue",
-    "desc": "1) Unlock the Game, Make sure the game is locked under Game update section in SUO (SteamUnlock Onennabe)",
+    "id": "coral-island-1158160",
+    "appId": 1158160,
+    "title": "Coral Island Online Fix",
+    "game": "Coral Island",
+    "desc": "Coral Island Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Coral Island Online Fix\n\n# Coral Island Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "crusader-kings-iii-1158310",
+    "appId": 1158310,
+    "title": "Crusader Kings III Online Fix",
+    "game": "Crusader Kings III",
+    "desc": "Crusader Kings III Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Crusader Kings III Online Fix\n\n# Crusader Kings III Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "aragami-2-1158370",
+    "appId": 1158370,
+    "title": "Aragami 2 Online Fix",
+    "game": "Aragami 2",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Aragami 2 Online Fix\n\n# Aragami 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "voidtrain-1159690",
+    "appId": 1159690,
+    "title": "Voidtrain Online Fix",
+    "game": "Voidtrain",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Voidtrain Online Fix\n\n# Voidtrain Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "star-wars-jedi-fallen-order-1172380",
+    "appId": 1172380,
+    "title": "STAR WARS Jedi: Fallen Order™ Bypass",
+    "game": "STAR WARS Jedi: Fallen Order™",
+    "desc": "STAR WARS Jedi: Fallen Order™ Bypass",
     "tags": [
       "bypass"
     ],
-    "author": "MinamiRX20",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-06-30",
-    "content": "\n# Assassin's Creed Rogue - 311560\n\n1) Unlock the Game, Make sure the game is locked under Game update section in SUO (SteamUnlock Onennabe) \n\n2) Install, Off Antivirus and bypass the game as pernormal. \nOpen the folder after successful bypass from there either double click or open as administrator (LumaPlay_x64.exe ). \n\nDisclaimer : DLC won't work\n\nThanks. Have a nice day <:5726toothymaw:1239134161835655198>\n\n![Attached Image](assets/assassin-s-creed-rogue-311560_1521542257180934144.png)\n"
+    "date": "2026-08-11",
+    "content": "\n# STAR WARS Jedi: Fallen Order™ Bypass\n\n# STAR WARS Jedi: Fallen Order™ Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   },
   {
-    "id": "solo-leveling-2373990",
-    "appId": 2373990,
-    "title": "Solo Leveling 2373990",
-    "game": "Solo Leveling 2373990",
-    "desc": "Game is not online, the bypass is just merely making the game offline, no you cannot play with friends. Bypass the game and enjoy Solo Leveling, uh i mean.. I m",
+    "id": "go-fight-fantastic-1183530",
+    "appId": 1183530,
+    "title": "Go Fight Fantastic Bypass",
+    "game": "Go Fight Fantastic",
+    "desc": "Go Fight Fantastic Bypass",
     "tags": [
       "bypass"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-06-29",
-    "content": "\n# Solo Leveling 2373990\n\nGame is not online, the bypass is just merely making the game offline, no you cannot play with friends. Bypass the game and enjoy Solo Leveling, uh i mean.. I mean playing solo..\n\n![Attached Image](assets/solo-leveling-2373990_1521001516268388513.png)\n\n---\n\nSolo Leveling 2373990\n"
+    "date": "2026-08-11",
+    "content": "\n# Go Fight Fantastic Bypass\n\n# Go Fight Fantastic Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   },
   {
-    "id": "hogwarts-legacy-990080",
-    "appId": 990080,
-    "title": "Hogwarts Legacy - 990080",
-    "game": "Hogwarts Legacy",
-    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
+    "id": "house-flipper-2-1190970",
+    "appId": 1190970,
+    "title": "House Flipper 2 Online Fix",
+    "game": "House Flipper 2",
+    "desc": "House Flipper 2 Online Fix",
     "tags": [
-      "bypass",
-      "drm"
+      "online"
     ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-06-27",
-    "content": "\n# Hogwarts Legacy - 990080\n\nUsing Crack: Voices38\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
+    "date": "2026-08-11",
+    "content": "\n# House Flipper 2 Online Fix\n\n# House Flipper 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "the-adventure-of-elliot-the-millennium-tales-3483510",
-    "appId": 3483510,
-    "title": "THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES - 3483510",
-    "game": "THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES",
-    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "id": "the-dark-pictures-anthology-little-hope-1194630",
+    "appId": 1194630,
+    "title": "The Dark Pictures Anthology: Little Hope Online Fix",
+    "game": "The Dark Pictures Anthology: Little Hope",
+    "desc": "The Dark Pictures Anthology: Little Hope Online Fix",
     "tags": [
-      "bypass",
-      "crack",
-      "drm"
+      "online"
     ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-06-19",
-    "content": "\n# THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES - 3483510\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+    "date": "2026-08-11",
+    "content": "\n# The Dark Pictures Anthology: Little Hope Online Fix\n\n# The Dark Pictures Anthology: Little Hope Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "bmx-streets-871540",
-    "appId": 871540,
-    "title": "BMX Streets - 871540",
-    "game": "BMX Streets",
-    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
+    "id": "deathground-1200770",
+    "appId": 1200770,
+    "title": "Deathground Online Fix",
+    "game": "Deathground",
+    "desc": "Deathground Online Fix",
     "tags": [
-      "online",
-      "drm"
+      "online"
     ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-06-15",
-    "content": "\n# BMX Streets - 871540\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online patch```\n5) play from steam\n"
+    "date": "2026-08-11",
+    "content": "\n# Deathground Online Fix\n\n# Deathground Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "242760-the-forest",
-    "appId": 242760,
-    "title": "242760 ( The Forest)",
-    "game": "The Forest",
-    "desc": "1. Unlock the game from SUO.",
+    "id": "enshrouded-1203620",
+    "appId": 1203620,
+    "title": "Enshrouded Online Fix",
+    "game": "Enshrouded",
+    "desc": "Enshrouded Online Fix",
     "tags": [
-      "online",
-      "drm"
+      "online"
     ],
-    "author": "MinamiRX20",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-06-13",
-    "content": "\n# 242760 ( The Forest)\n\n1. Unlock the game from SUO.\n\n2. Download and install as usual.\n\n3. Temporarily disable your antivirus, especially Real-time Protection:\n*Open Windows Security\n*Go to Virus & threat protection\n*Click Manage settings\n*Turn Real-time Protection OFF\n\n4. Apply the online patch.\n\n5. Verify integrity of game files at steam at game properties.\n\n6. Go to your game installation folder:\n*Steam → steamapps → common → The Forest\n*Locate TheForest32.exe\n*Right-click TheForest32.exe → Properties → Compatibility\nTick \"Run this program as an administrator\"\n*Click Apply → OK\n\n7. Launch the game from Steam.\n\n![Attached Image](assets/242760-the-forest_1515383560373276733.png)\n\n---\n\n![Attached Image](assets/242760-the-forest_1515384473313738893.png)\n\n---\n\nSila hold shift bila run exe juga untuk memaksa pop up ni.\n\n![Attached Image](assets/242760-the-forest_1515390327849095278.png)\n"
+    "date": "2026-08-11",
+    "content": "\n# Enshrouded Online Fix\n\n# Enshrouded Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "company-of-heroes-3-1677280",
-    "appId": 1677280,
-    "title": "Company of Heroes 3 - 1677280",
-    "game": "Company of Heroes 3",
-    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
-    "version": "1.0",
-    "date": "2026-06-12",
-    "content": "\n# Company of Heroes 3 - 1677280\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
-  },
-  {
-    "id": "meccha-chameleon-4704690",
-    "appId": 4704690,
-    "title": "Meccha Chameleon - 4704690",
-    "game": "Meccha Chameleon",
-    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
-    "tags": [
-      "online",
-      "drm"
-    ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
-    "version": "1.0",
-    "date": "2026-06-12",
-    "content": "\n# Meccha Chameleon - 4704690\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online Patch```\n5) play from steam\n"
-  },
-  {
-    "id": "pes2013-221430",
-    "appId": 221430,
-    "title": "PES2013 - 221430",
-    "game": "PES2013",
-    "desc": "3. Click RunThisFirst, install it",
+    "id": "grand-theft-auto-iv-the-complete-edition-12210",
+    "appId": 12210,
+    "title": "Grand Theft Auto IV: The Complete Edition Bypass",
+    "game": "Grand Theft Auto IV: The Complete Edition",
+    "desc": "Grand Theft Auto IV: The Complete Edition Bypass",
     "tags": [
       "bypass"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-06-07",
-    "content": "\n# PES2013 - 221430\n\n1. Bypass Game\n2. Open game folder\n3. Click RunThisFirst, install it\n4. Run game from inside folder via pes2013.exe\n"
+    "date": "2026-08-11",
+    "content": "\n# Grand Theft Auto IV: The Complete Edition Bypass\n\n# Grand Theft Auto IV: The Complete Edition Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   },
   {
-    "id": "nba-2k14-255480",
-    "appId": 255480,
-    "title": "NBA 2K14 - 255480",
-    "game": "NBA 2K14",
-    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
+    "id": "the-sims-4-1222670",
+    "appId": 1222670,
+    "title": "The Sims™ 4 Bypass",
+    "game": "The Sims™ 4",
+    "desc": "1. Download the game from Steam.",
     "tags": [
-      "bypass",
-      "drm"
+      "bypass"
     ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-06-06",
-    "content": "\n# NBA 2K14 - 255480\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
+    "date": "2026-08-11",
+    "content": "\n# The Sims™ 4 Bypass\n\n# The Sims™ 4 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "need-for-speed-heat-1222680",
+    "appId": 1222680,
+    "title": "Need for Speed™ Heat Bypass",
+    "game": "Need for Speed™ Heat",
+    "desc": "Need for Speed™ Heat Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Need for Speed™ Heat Bypass\n\n# Need for Speed™ Heat Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

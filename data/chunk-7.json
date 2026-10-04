@@ -1,293 +1,282 @@
 [
   {
-    "id": "added-sniper-elite-4-denuv0-bypass-312660",
-    "appId": 312660,
-    "title": "Added Sniper Elite 4 Denuv0 bypass - 312660",
-    "game": "Sniper Elite 4",
-    "desc": "run game from stpse4dx11.exe or stpse4dx12.exe after patching/download,",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Sniper Elite 4 Denuv0 bypass - 312660\n\n- run game from **stp-se4dx11.exe or stp-se4dx12.exe **after patching/download, \n- works with current steam version\n"
-  },
-  {
-    "id": "added-starrupture-online-patch-1631270",
-    "appId": 1631270,
-    "title": "Added StarRupture online patch - 1631270",
-    "game": "StarRupture",
-    "desc": "try run from steam once patch or",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added StarRupture online patch - 1631270\n\n-try run from steam once patch or\n-open game folder and run game via StarRuptureGameSteam.exe\n-Session Type -> Invite Only -> Start Game -> ESC+We invite friends\n\n---\n\nAdded StarRupture online patch - 1631270\n"
-  },
-  {
-    "id": "added-super-battle-golf-4069520",
-    "appId": 4069520,
-    "title": "Added Super Battle Golf (4069520)",
-    "game": "Super Battle Golf",
-    "desc": "Tutorial and guide for Super Battle Golf.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Super Battle Golf (4069520)\n\n- patch and run from steam\n"
-  },
-  {
-    "id": "added-bypass-for-lego-horizon-adventures-2428810",
-    "appId": 2428810,
-    "title": "Added bypass for LEGO Horizon Adventures- (2428810)",
-    "game": "LEGO Horizon Adventures",
-    "desc": "After patch, run from steam",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added bypass for LEGO Horizon Adventures- (2428810)\n\nAfter patch, run from steam\n"
-  },
-  {
-    "id": "assassin-creed-mirage-3035570",
-    "appId": 3035570,
-    "title": "Assassin Creed Mirage (3035570)",
-    "game": "Assassin Creed Mirage",
-    "desc": "Update crack to use Voices38 denu crack",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Assassin Creed Mirage (3035570)\n\n- All DLC unlocked \n- run game from steam\n\n---\n\n5/5\n- Update crack to use Voices38 denu crack\n- Game may stutter after long hours of gaming session for few people. fix is pause the game, it will clear the RAM usage\n- initial starting will take very long time.\n"
-  },
-  {
-    "id": "assassin-s-creed-syndicate-368500",
-    "appId": 368500,
-    "title": "Assassin's Creed Syndicate - 368500",
-    "game": "Assassin's Creed Syndicate",
-    "desc": "Turn off Antivirus or exclude the game folder from windows Defender or antivirus",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Assassin's Creed Syndicate - 368500\n\n- Turn off Anti-virus or exclude the game folder from windows Defender or anti-virus\n- Start the game from Steam or inside the game folder\n- at the `Press Any Key to continue` sometimes will hang, you will have to end task i task manager\n- then try again, tips: wait for few seconds or around 20seconds before click any key to continue\n"
-  },
-  {
-    "id": "beamng-drive-284160-multiplayer-mod-tutorial",
-    "appId": 284160,
-    "title": "BeamNG.Drive - 284160 Multiplayer mod tutorial",
-    "game": "BeamNG.Drive",
-    "desc": "1. Launch the game in single player first, play for a bit.",
-    "tags": [
-      "coop"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# BeamNG.Drive - 284160 Multiplayer mod tutorial\n\n1. Launch the game in single player first, play for a bit.\n2. Then next step is go to game installation folder, launch `BeamMP-Launcher.exe`\n3. It will do some installation for Multiplayer mod.\n4. Then the normal BeamNG.drive game launcher will show up.\n5. Play the game! Enjoy!\n"
-  },
-  {
-    "id": "call-of-duty-black-ops-cold-war-1985810",
-    "appId": 1985810,
-    "title": "Call of Duty: Black Ops Cold War - 1985810",
-    "game": "Call of Duty: Black Ops Cold War",
-    "desc": "2. From Steam Unlock, click Play, choose exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Call of Duty: Black Ops Cold War - 1985810\n\n1. Bypass Game\n2. From Steam Unlock, click Play, choose exe\n3. Launch using  BlackOpsColdWar.exe\n"
-  },
-  {
-    "id": "call-of-duty-modern-warfare-iii-3595270",
-    "appId": 3595270,
-    "title": "Call of Duty: Modern Warfare III - 3595270",
-    "game": "Call of Duty: Modern Warfare III",
-    "desc": "Firstly, make sure the path on where you put the game folder is short and doesn't contain non latin characters or symbols to avoid issues with game launching.",
-    "tags": [
-      "bypass",
-      "coop",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Call of Duty: Modern Warfare III - 3595270\n\n- Firstly, make sure the path on where you put the game folder is short and doesn't contain non latin characters or symbols to avoid issues with game launching.\n- Extract everything in this archive into where you installed the game.\n- Start the game ONLY FROM !start_cod23.bat (for MP) or !start_sp23.bat (for SP) and keep the console window open until it closes by itself when you close the game.\n- If running either *.bat doesn't do anything, read the 1st step again (or check bootstrapper.log).\n\n![Attached Image](assets/call-of-duty-modern-warfare-iii-3595270_1499023253304246353.png)\n\n---\n\n## **How To Bypass**\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n\n## **Launch Option (From Folder Only)**\n1) !start_cod23.bat (for MP)\n2) !start_sp23.bat (for SP)\n\nMP: Multiplayer (online)\n​SP: Singleplayer \n\n```keep the console window open until it closes```\n"
-  },
-  {
-    "id": "carx-street-1114150",
-    "appId": 1114150,
-    "title": "CarX Street - 1114150",
-    "game": "CarX Street",
-    "desc": "1. Download game Carx from Steam",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# CarX Street - 1114150\n\n1. Download game Carx from Steam\n2. Bypass game and launching the game using CarX Street.exe\n"
-  },
-  {
-    "id": "crimson-desert-3321460",
-    "appId": 3321460,
-    "title": "Crimson Desert - 3321460",
-    "game": "Crimson Desert",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Crimson Desert - 3321460\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/crimson-desert-3321460_1499035872069419008.png)\n\n\n![Attached Image](assets/crimson-desert-3321460_1499035873050759198.png)\n\n---\n\n<:5726toothymaw:1239134161835655198>\n\n---\n\nUsing Crack: Voices38\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
-  },
-  {
-    "id": "dirt-4-online-patch-421020",
-    "appId": 421020,
-    "title": "DiRT 4 online patch - 421020",
-    "game": "DiRT 4",
-    "desc": "Finish the prologue tutorial.",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# DiRT 4 online patch - 421020\n\n- Finish the prologue tutorial.\n- Once finish, exit the academy, go to events\n- select Multiplayer > Jam Sessions\n- Friend join the lobby created.\n\n![Attached Image](assets/dirt-4-online-patch-421020_1498981715014844519.png)\n"
-  },
-  {
-    "id": "digimon-story-time-stranger-1984270",
-    "appId": 1984270,
-    "title": "Digimon Story Time Stranger - 1984270",
-    "game": "Digimon Story Time Stranger",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Digimon Story Time Stranger - 1984270\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/digimon-story-time-stranger-1984270_1499139332424859678.png)\n"
-  },
-  {
-    "id": "echoes-of-elysium-online-patch-2644050",
-    "appId": 2644050,
-    "title": "Echoes of Elysium Online Patch  (2644050)",
-    "game": "Echoes of Elysium",
-    "desc": "try run from steam once patch or",
+    "id": "funko-fusion-1843310",
+    "appId": 1843310,
+    "title": "FUNKO FUSION Online Fix",
+    "game": "FUNKO FUSION",
+    "desc": "FUNKO FUSION Online Fix",
     "tags": [
       "online"
     ],
-    "author": "MinamiRX20",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Echoes of Elysium Online Patch  (2644050)\n\ntry run from steam once patch or \nopen game folder & run from Elysium.exe\n"
+    "date": "2026-08-11",
+    "content": "\n# FUNKO FUSION Online Fix\n\n# FUNKO FUSION Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "fc-26-hypervisor-denuvo-ea-bypass-3405690",
-    "appId": 3405690,
-    "title": "FC 26 Hypervisor Denuvo + EA bypass - 3405690",
-    "game": "FC 26 Hypervisor Denuvo +",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# FC 26 Hypervisor Denuvo + EA bypass - 3405690\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\nFC 26 Hypervisor Denuvo + EA bypass - 3405690\n\n---\n\n![Attached Image](assets/fc-26-hypervisor-denuvo-ea-bypass-3405690_1498988920913002558.png)\n\n---\n\n![Attached Image](assets/fc-26-hypervisor-denuvo-ea-bypass-3405690_1499036069298045109.png)\n\n\n![Attached Image](assets/fc-26-hypervisor-denuvo-ea-bypass-3405690_1499036069780394005.png)\n\n---\n\n7. Run game from HV-PlugNPlay.bat from SteamUnlock Onennabe\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "fraymakers-online-patch-1420350",
-    "appId": 1420350,
-    "title": "Fraymakers online patch- 1420350",
-    "game": "Fraymakers",
-    "desc": "Create lobbies and invites your friends",
+    "id": "dreadhaunt-1855580",
+    "appId": 1855580,
+    "title": "DreadHaunt Online Fix",
+    "game": "DreadHaunt",
+    "desc": "DreadHaunt Online Fix",
     "tags": [
       "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Fraymakers online patch- 1420350\n\n- Create lobbies and invites your friends\n"
+    "date": "2026-08-11",
+    "content": "\n# DreadHaunt Online Fix\n\n# DreadHaunt Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "name-sonic-racing-crossworlds-2486820",
-    "appId": 2486820,
-    "title": "Name: Sonic Racing: CrossWorlds - 2486820",
-    "game": "Name: Sonic Racing: CrossWorlds",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "id": "vein-1857950",
+    "appId": 1857950,
+    "title": "VEIN Online Fix",
+    "game": "VEIN",
+    "desc": "2. Click \"ONLINE PATCH\"",
     "tags": [
-      "bypass",
-      "crack",
-      "drm"
+      "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Name: Sonic Racing: CrossWorlds - 2486820\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499063277332729866.png)\n\n\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499063280608743566.png)\n\n---\n\nRun game from Steam Unlock as shown here, choose HV-Launcher.bat or HV-PlugNPlay.bat\n\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499091266556788838.png)\n\n\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499091267009646702.png)\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+    "date": "2026-08-11",
+    "content": "\n# VEIN Online Fix\n\n# VEIN Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "overcooked-all-you-can-eat-online-method-1243830",
-    "appId": 1243830,
-    "title": "Overcooked! All you can eat Online method- 1243830",
-    "game": "Overcooked! All you can eat",
-    "desc": "Go to Game installation folder",
+    "id": "in-sink-1858650",
+    "appId": 1858650,
+    "title": "In Sink Online Fix",
+    "game": "In Sink",
+    "desc": "2. Click \"ONLINE PATCH\"",
     "tags": [
-      "general"
+      "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Overcooked! All you can eat Online method- 1243830\n\n- Go to Game installation folder\n- Set the game `Overcooked All You Can Eat.exe` run as admin, and also the `XboxLiveAuth.exe` run as admin too. \n- Launch the game using  `XboxLiveAuth.exe` and choose online. The game works and connected to your Xbox account\n\nNOTE: Make sure your XBOX /Microsoft email account used to log in is the same in Microsoft Store account and disable 2FA. Suggest to create new dummy account for XBOX/Microsoft.\n\n![Attached Image](assets/overcooked-all-you-can-eat-online-method-1243830_1498983075894263879.png)\n\n\n![Attached Image](assets/overcooked-all-you-can-eat-online-method-1243830_1498983076498505798.png)\n\n\n![Attached Image](assets/overcooked-all-you-can-eat-online-method-1243830_1498983077009952830.png)\n\n---\n\nOvercooked! All you can eat Online method- 1243830\n"
+    "date": "2026-08-11",
+    "content": "\n# In Sink Online Fix\n\n# In Sink Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "pragmata-3357650",
-    "appId": 3357650,
-    "title": "PRAGMATA - 3357650",
-    "game": "PRAGMATA",
-    "desc": "2. Go to \"Game Auto Update\" in SUO inside Tools",
+    "id": "daimon-blades-1869500",
+    "appId": 1869500,
+    "title": "Daimon Blades Online Fix",
+    "game": "Daimon Blades",
+    "desc": "Daimon Blades Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Daimon Blades Online Fix\n\n# Daimon Blades Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "jujutsu-kaisen-cursed-clash-1877020",
+    "appId": 1877020,
+    "title": "Jujutsu Kaisen Cursed Clash Online Fix",
+    "game": "Jujutsu Kaisen Cursed Clash",
+    "desc": "Jujutsu Kaisen Cursed Clash Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Jujutsu Kaisen Cursed Clash Online Fix\n\n# Jujutsu Kaisen Cursed Clash Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "2-1879380",
+    "appId": 1879380,
+    "title": "纸嫁衣2奘铃村 Bypass",
+    "game": "纸嫁衣2奘铃村",
+    "desc": "1. Download the game from Steam.",
     "tags": [
       "bypass"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# PRAGMATA - 3357650\n\n1. Unlock Game from SUO\n2. Go to \"Game Auto Update\" in SUO inside Tools\n3. Click Smart Apply\n4. Download Game in Steam\n5. Apply Bypass Game\n6. Play from Steam\n\n---\n\n15/5 Updated to use voices38 crack\n"
+    "date": "2026-08-11",
+    "content": "\n# 纸嫁衣2奘铃村 Bypass\n\n# 纸嫁衣2奘铃村 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   },
   {
-    "id": "paper-bride-series-from-1-6-online-check-bypass",
-    "appId": null,
-    "title": "Paper Bride Series from 1 - 6 online check bypass",
-    "game": "Paper Bride Series from 1 - 6  check",
-    "desc": "Download the attached, extract and copy all the folders and paste into Appdata/Roaming",
+    "id": "armored-core-vi-fires-of-rubicon-1888160",
+    "appId": 1888160,
+    "title": "ARMORED CORE™ VI FIRES OF RUBICON™ Online Fix",
+    "game": "ARMORED CORE™ VI FIRES OF RUBICON™",
+    "desc": "ARMORED CORE™ VI FIRES OF RUBICON™ Online Fix",
     "tags": [
-      "online",
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# ARMORED CORE™ VI FIRES OF RUBICON™ Online Fix\n\n# ARMORED CORE™ VI FIRES OF RUBICON™ Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "cryptid-farm-1892140",
+    "appId": 1892140,
+    "title": "Cryptid Farm Bypass",
+    "game": "Cryptid Farm",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
       "bypass"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Paper Bride Series from 1 - 6 online check bypass\n\n- Download the attached, extract and copy all the folders and paste into Appdata/Roaming\n- Using **WIN + R**, TYPE **%appdata% ** , you should be in Roaming folder\n- Paste all the copied folder into  the Roaming folder\n- Use Online Patch/Bypass button\n- Play game from Steam.\n\n- For 1879380, 1735950, 1939790, 2286770, 2600570, 3227760\n\n![Attached Image](assets/paper-bride-series-from-1-6-online-check-bypass_1498997756516241418.png)\n\n\n![Attached Image](assets/paper-bride-series-from-1-6-online-check-bypass_1498997757250109491.png)\n\n---\n\n### Download PaperBride_1to6_series_patch.rar (136.4 MB)\n> **Note:** This file exceeds 45 MB and has been split into 4 parts for direct download:\n- [Download Part 1 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part01)\n- [Download Part 2 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part02)\n- [Download Part 3 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part03)\n- [Download Part 4 (1.4 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part04)\n\n**To recombine on Windows (CMD):**\n```cmd\ncopy /b \"paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part*\" \"PaperBride_1to6_series_patch.rar\"\n```\n**To recombine on Linux / Mac:**\n```bash\ncat \"paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part\"* > \"PaperBride_1to6_series_patch.rar\"\n```\n"
+    "date": "2026-08-11",
+    "content": "\n# Cryptid Farm Bypass\n\n# Cryptid Farm Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "solium-infernum-1893810",
+    "appId": 1893810,
+    "title": "Solium Infernum Online Fix",
+    "game": "Solium Infernum",
+    "desc": "Solium Infernum Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Solium Infernum Online Fix\n\n# Solium Infernum Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "absolum-1904480",
+    "appId": 1904480,
+    "title": "Absolum Online Fix",
+    "game": "Absolum",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Absolum Online Fix\n\n# Absolum Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "tears-of-metal-1913120",
+    "appId": 1913120,
+    "title": "Tears of Metal Online Fix",
+    "game": "Tears of Metal",
+    "desc": "Tears of Metal Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Tears of Metal Online Fix\n\n# Tears of Metal Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "demonologist-1929610",
+    "appId": 1929610,
+    "title": "Demonologist Bypass",
+    "game": "Demonologist",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Demonologist Bypass\n\n# Demonologist Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "lost-skies-1931180",
+    "appId": 1931180,
+    "title": "Lost Skies Online Fix",
+    "game": "Lost Skies",
+    "desc": "Lost Skies Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Lost Skies Online Fix\n\n# Lost Skies Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "3-1939790",
+    "appId": 1939790,
+    "title": "纸嫁衣3鸳鸯债 Bypass",
+    "game": "纸嫁衣3鸳鸯债",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# 纸嫁衣3鸳鸯债 Bypass\n\n# 纸嫁衣3鸳鸯债 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "diesel-legacy-the-brazen-age-1959140",
+    "appId": 1959140,
+    "title": "Diesel Legacy: The Brazen Age Online Fix",
+    "game": "Diesel Legacy: The Brazen Age",
+    "desc": "Diesel Legacy: The Brazen Age Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Diesel Legacy: The Brazen Age Online Fix\n\n# Diesel Legacy: The Brazen Age Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "call-of-duty-black-ops-6-campaign-1938090-1962663",
+    "appId": 1962663,
+    "title": "Added Call of Duty®: Black Ops 6 - Campaign - 1938090",
+    "game": "Call of Duty®: Black Ops 6 - Campaign",
+    "desc": "Added Call of Duty®: Black Ops 6 - Campaign - 1938090",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Added Call of Duty®: Black Ops 6 - Campaign - 1938090\n\n# Added Call of Duty®: Black Ops 6 - Campaign - 1938090\n\nGame should be in Call of Duty (1938090), download the whole thing, make sure this 3 DLC is ticked\n,\nIf the game is not showing, you need to add Call of Duty Warzone  https://store.steampowered.com/app/1962663/Call\\_of\\_Duty\\_Warzone/ first\n,\nHow to use\n\nAfter patching, open game folder\n,\nRun game using start\\_sp24.bat\n,\nDo not close the CMD Window\n,\nAll mission is unlocked by default.\n,\n\n!\\[Attached Image](https://media.discordapp.net/attachments/1499014000061452358/1499014000405512303/image.png?ex=6a7bb454&is=6a7a62d4&hm=21b0dfef8c7095499ba620b6171af7983edc5ae5c641d6a690113c7db03fd57c&=&format=webp&quality=lossless&width=1536&height=828)\n\n\nhttps://youtu.be/9hZq0x0NNxQ\n"
+  },
+  {
+    "id": "call-of-duty-modern-warfare-2000950",
+    "appId": 2000950,
+    "title": "Call of Duty®: Modern Warfare® Bypass",
+    "game": "Call of Duty®: Modern Warfare®",
+    "desc": "Call of Duty®: Modern Warfare® Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Call of Duty®: Modern Warfare® Bypass\n\n# Call of Duty®: Modern Warfare® Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "split-fiction-2001120",
+    "appId": 2001120,
+    "title": "Split Fiction Online Fix",
+    "game": "Split Fiction",
+    "desc": "Split Fiction Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Split Fiction Online Fix\n\n# Split Fiction Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "out-of-ore-2009350",
+    "appId": 2009350,
+    "title": "Out of Ore Online Fix",
+    "game": "Out of Ore",
+    "desc": "Out of Ore Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Out of Ore Online Fix\n\n# Out of Ore Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

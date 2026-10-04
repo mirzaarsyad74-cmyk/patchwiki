@@ -1,296 +1,284 @@
 [
   {
-    "id": "diablo-ii-2536520-updated-instruction",
-    "appId": 2536520,
-    "title": "Diablo II (2536520) Updated Instruction",
-    "game": "Diablo II",
-    "desc": "updated diablo bypass patch",
+    "id": "spirit-of-the-island-1592110",
+    "appId": 1592110,
+    "title": "Spirit Of The Island Online Fix",
+    "game": "Spirit Of The Island",
+    "desc": "Spirit Of The Island Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Spirit Of The Island Online Fix\n\n# Spirit Of The Island Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "sackboy-a-big-adventure-1599660",
+    "appId": 1599660,
+    "title": "Sackboy™: A Big Adventure Online Fix",
+    "game": "Sackboy™: A Big Adventure",
+    "desc": "Sackboy™: A Big Adventure Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Sackboy™: A Big Adventure Online Fix\n\n# Sackboy™: A Big Adventure Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "v-rising-1604030",
+    "appId": 1604030,
+    "title": "V Rising Online Fix",
+    "game": "V Rising",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# V Rising Online Fix\n\n# V Rising Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "broken-arrow-1604270",
+    "appId": 1604270,
+    "title": "Broken Arrow Bypass",
+    "game": "Broken Arrow",
+    "desc": "1. Download the game from Steam.",
     "tags": [
       "bypass"
     ],
-    "author": "MinamiRX20",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# Diablo II (2536520) Updated Instruction\n\nupdated diablo bypass patch\n\n-Run the game ONETIME from WannabeLauncher.exe in game directory.\n-Next time can play the game directly from the Steam.\n-If the game stuck on \"Playing\" on steam;\n-Run  WannabeLauncher.exe or just delete steam_api64.dll from the Diablo II directories.\n"
+    "date": "2026-08-11",
+    "content": "\n# Broken Arrow Bypass\n\n# Broken Arrow Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   },
   {
-    "id": "mafia-the-old-country-1941540",
-    "appId": 1941540,
-    "title": "Mafia : The Old Country - 1941540",
-    "game": "Mafia : The Old Country",
-    "desc": "2. Go to \"Game Auto Update\" in SUO inside Tools",
+    "id": "ghost-exorcism-inc-1618540",
+    "appId": 1618540,
+    "title": "Ghost Exorcism INC Online Fix",
+    "game": "Ghost Exorcism INC",
+    "desc": "Ghost Exorcism INC Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Ghost Exorcism INC Online Fix\n\n# Ghost Exorcism INC Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "swat-commander-1619310",
+    "appId": 1619310,
+    "title": "SWAT Commander Online Fix",
+    "game": "SWAT Commander",
+    "desc": "SWAT Commander Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# SWAT Commander Online Fix\n\n# SWAT Commander Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "core-keeper-1621690",
+    "appId": 1621690,
+    "title": "Core Keeper Online Fix",
+    "game": "Core Keeper",
+    "desc": "Core Keeper Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Core Keeper Online Fix\n\n# Core Keeper Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "space-for-sale-1624060",
+    "appId": 1624060,
+    "title": "Space for Sale Bypass",
+    "game": "Space for Sale",
+    "desc": "Space for Sale Bypass",
     "tags": [
       "bypass"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# Mafia : The Old Country - 1941540\n\n1. Unlock Game from SUO\n2. Go to \"Game Auto Update\" in SUO inside Tools\n3. Click Smart Apply\n4. Download Game in Steam\n5. Apply Bypass Game\n6. Play from Steam\n\n---\n\n<:5726toothymaw:1239134161835655198>\n"
+    "date": "2026-08-11",
+    "content": "\n# Space for Sale Bypass\n\n# Space for Sale Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   },
   {
-    "id": "anno-117-pax-romana-3274580",
-    "appId": 3274580,
-    "title": "Anno 117 : Pax Romana - 3274580",
-    "game": "Anno 117 : Pax Romana",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "id": "coridden-1656930",
+    "appId": 1656930,
+    "title": "Coridden Online Fix",
+    "game": "Coridden",
+    "desc": "2. Click \"ONLINE PATCH\"",
     "tags": [
-      "bypass",
-      "crack",
-      "drm"
+      "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-02",
-    "content": "\n# Anno 117 : Pax Romana - 3274580\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+    "date": "2026-08-11",
+    "content": "\n# Coridden Online Fix\n\n# Coridden Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "avatar-frontiers-of-pandora-2840770",
-    "appId": 2840770,
-    "title": "Avatar: Frontiers of Pandora - 2840770",
-    "game": "Avatar: Frontiers of Pandora",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "id": "slime-rancher-2-1657630",
+    "appId": 1657630,
+    "title": "Slime Rancher 2 Online Fix",
+    "game": "Slime Rancher 2",
+    "desc": "Slime Rancher 2 Online Fix",
     "tags": [
-      "bypass",
-      "drm"
+      "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-02",
-    "content": "\n# Avatar: Frontiers of Pandora - 2840770\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n<:5726toothymaw:1239134161835655198>\n\n---\n\nAvatar: Frontiers of Pandora - 2840770\n\n---\n\nUsing Crack: Voices38\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
+    "date": "2026-08-11",
+    "content": "\n# Slime Rancher 2 Online Fix\n\n# Slime Rancher 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "dragon-quest-vii-reimagined-2499860",
-    "appId": 2499860,
-    "title": "DRAGON QUEST VII Reimagined - 2499860",
-    "game": "DRAGON QUEST VII Reimagined",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "id": "firefighting-simulator-ignite-1669480",
+    "appId": 1669480,
+    "title": "Firefighting Simulator: Ignite Online Fix",
+    "game": "Firefighting Simulator: Ignite",
+    "desc": "Firefighting Simulator: Ignite Online Fix",
     "tags": [
-      "bypass",
-      "drm"
+      "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-02",
-    "content": "\n# DRAGON QUEST VII Reimagined - 2499860\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n"
+    "date": "2026-08-11",
+    "content": "\n# Firefighting Simulator: Ignite Online Fix\n\n# Firefighting Simulator: Ignite Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "life-is-strange-reunion-2624870",
-    "appId": 2624870,
-    "title": "Life is Strange : Reunion - 2624870",
-    "game": "Life is Strange : Reunion",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "id": "gundam-breaker-4-1672500",
+    "appId": 1672500,
+    "title": "GUNDAM BREAKER 4 Online Fix",
+    "game": "GUNDAM BREAKER 4",
+    "desc": "GUNDAM BREAKER 4 Online Fix",
     "tags": [
-      "bypass",
-      "crack",
-      "drm"
+      "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-02",
-    "content": "\n# Life is Strange : Reunion - 2624870\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\nLife is Strange : Reunion - 2624870\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+    "date": "2026-08-11",
+    "content": "\n# GUNDAM BREAKER 4 Online Fix\n\n# GUNDAM BREAKER 4 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "prince-of-persia-the-lost-crown-2751000",
-    "appId": 2751000,
-    "title": "Prince of Persia The Lost Crown - 2751000",
-    "game": "Prince of Persia The Lost Crown",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "id": "prophunter-1682050",
+    "appId": 1682050,
+    "title": "PropHunter Online Fix",
+    "game": "PropHunter",
+    "desc": "PropHunter Online Fix",
     "tags": [
-      "bypass",
-      "crack",
-      "drm"
+      "online"
     ],
-    "author": "The Weekdys",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-05-02",
-    "content": "\n# Prince of Persia The Lost Crown - 2751000\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\nPrince of Persia The Lost Crown - 2751000\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+    "date": "2026-08-11",
+    "content": "\n# PropHunter Online Fix\n\n# PropHunter Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "1088850-marvel-s-guardians-of-the-galaxy-denuv-bypass",
-    "appId": 1088850,
-    "title": "(1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS",
-    "game": "MARVEL'S GUARDIANS OF THE GALAXY",
-    "desc": "tested on win11 build 26100.6725",
+    "id": "persona-5-royal-1687950",
+    "appId": 1687950,
+    "title": "Persona 5 Royal Bypass",
+    "game": "Persona 5 Royal",
+    "desc": "Persona 5 Royal Bypass",
     "tags": [
       "bypass"
     ],
-    "author": "MinamiRX20",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS\n\n-run game from steam,\n-tested on win11 build 26100.6725\n"
+    "date": "2026-08-11",
+    "content": "\n# Persona 5 Royal Bypass\n\n# Persona 5 Royal Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   },
   {
-    "id": "1262560-need-for-speed-most-wanted-ea-bypass",
-    "appId": 1262560,
-    "title": "(1262560) NEED FOR SPEED MOST WANTED EA BYPASS",
-    "game": "NEED FOR SPEED MOST WANTED",
-    "desc": "After patch, open folder and run the game from NFS13.exe",
+    "id": "bleach-rebirth-of-souls-1689620",
+    "appId": 1689620,
+    "title": "BLEACH Rebirth of Souls Online Fix",
+    "game": "BLEACH Rebirth of Souls",
+    "desc": "BLEACH Rebirth of Souls Online Fix",
+    "tags": [
+      "drm",
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# BLEACH Rebirth of Souls Online Fix\n\n# BLEACH Rebirth of Souls Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "ground-branch-16900",
+    "appId": 16900,
+    "title": "GROUND BRANCH Online Fix",
+    "game": "GROUND BRANCH",
+    "desc": "GROUND BRANCH Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# GROUND BRANCH Online Fix\n\n# GROUND BRANCH Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "hellbreach-vegas-1691320",
+    "appId": 1691320,
+    "title": "Hellbreach: Vegas Online Fix",
+    "game": "Hellbreach: Vegas",
+    "desc": "Hellbreach: Vegas Online Fix",
+    "tags": [
+      "drm",
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Hellbreach: Vegas Online Fix\n\n# Hellbreach: Vegas Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "sengoku-dynasty-1702010",
+    "appId": 1702010,
+    "title": "Sengoku Dynasty Bypass",
+    "game": "Sengoku Dynasty",
+    "desc": "Sengoku Dynasty Bypass",
     "tags": [
       "bypass"
     ],
-    "author": "MinamiRX20",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (1262560) NEED FOR SPEED MOST WANTED EA BYPASS\n\n-After patch, open folder and run the game from NFS13.exe\n"
+    "date": "2026-08-11",
+    "content": "\n# Sengoku Dynasty Bypass\n\n# Sengoku Dynasty Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   },
   {
-    "id": "1677280-company-of-heroes-3-denuv-bypass",
-    "appId": 1677280,
-    "title": "(1677280) COMPANY OF HEROES 3 DENUV BYPASS",
-    "game": "COMPANY OF HEROES 3",
-    "desc": "Tutorial and guide for COMPANY OF HEROES 3.",
+    "id": "drug-dealer-simulator-2-1708850",
+    "appId": 1708850,
+    "title": "Drug Dealer Simulator 2 Online Fix",
+    "game": "Drug Dealer Simulator 2",
+    "desc": "Drug Dealer Simulator 2 Online Fix",
     "tags": [
-      "bypass"
+      "online"
     ],
-    "author": "MinamiRX20",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (1677280) COMPANY OF HEROES 3 DENUV BYPASS\n\n-Run game from Steam\n"
+    "date": "2026-08-11",
+    "content": "\n# Drug Dealer Simulator 2 Online Fix\n\n# Drug Dealer Simulator 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   },
   {
-    "id": "1693980-dead-space-remake-denu-bypass",
-    "appId": 1693980,
-    "title": "(1693980) DEAD SPACE REMAKE DENU BYPASS",
-    "game": "DEAD SPACE REMAKE",
-    "desc": "run game from steam after patch,",
+    "id": "abyssus-1721110",
+    "appId": 1721110,
+    "title": "Abyssus Online Fix",
+    "game": "Abyssus",
+    "desc": "2. Click \"ONLINE PATCH\"",
     "tags": [
-      "bypass"
+      "online"
     ],
-    "author": "MinamiRX20",
+    "author": "ProSub",
     "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (1693980) DEAD SPACE REMAKE DENU BYPASS\n\n-run game from steam after patch,\n-wait for shader complete build.\n"
-  },
-  {
-    "id": "2129530-reanimal-online-co-op",
-    "appId": 2129530,
-    "title": "(2129530) REANIMAL ONLINE CO-OP",
-    "game": "REANIMAL",
-    "desc": "Just add friend pass from Steam Store and then play with your friend via normal steam invite",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (2129530) REANIMAL ONLINE CO-OP\n\n-Just add friend pass from Steam Store and then play with your friend via normal steam invite\n\n![Attached Image](assets/2129530-reanimal-online-co-op_1499261977397035098.png)\n"
-  },
-  {
-    "id": "2221920-ubisoft-bypass-for-immortals-fenyx-rising",
-    "appId": 2221920,
-    "title": "(2221920) UBISOFT BYPASS FOR IMMORTALS FENYX RISING",
-    "game": "IMMORTALS FENYX RISING",
-    "desc": "Open folder and run game from \"scimitarenginewin64vs2017dx11fx.exe\"",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (2221920) UBISOFT BYPASS FOR IMMORTALS FENYX RISING\n\n-Open folder and run game from \"scimitar_engine_win64_vs2017_dx11_fx.exe\"\n"
-  },
-  {
-    "id": "629820-maneater-denuv-bypass",
-    "appId": 629820,
-    "title": "(629820) MANEATER DENUV BYPASS",
-    "game": "MANEATER",
-    "desc": "if cant run from steam, run from binaries/win64 folder,",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (629820) MANEATER DENUV BYPASS\n\n-run game from steam,\n-if cant run from steam, run from binaries/win64 folder,\n-if can, means its only compatible with WIN 11\n"
-  },
-  {
-    "id": "637100-sonic-forces-denuv-bypass",
-    "appId": 637100,
-    "title": "(637100) SONIC FORCES DENUV BYPASS",
-    "game": "SONIC FORCES",
-    "desc": "Tutorial and guide for SONIC FORCES.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (637100) SONIC FORCES DENUV BYPASS\n\n-run game from steam\n"
-  },
-  {
-    "id": "added-monster-hunter-world-online-582010",
-    "appId": 582010,
-    "title": "Added Monster Hunter: World Online- 582010",
-    "game": "Monster Hunter: World",
-    "desc": "After patch, open game folder and run the game via Launcher.exe",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# Added Monster Hunter: World Online- 582010\n\n- After patch, open game folder and run the game via Launcher.exe\n"
-  },
-  {
-    "id": "battlefield-6-2807960",
-    "appId": 2807960,
-    "title": "Battlefield 6 - 2807960",
-    "game": "Battlefield 6",
-    "desc": "Enter the game folder, you can use \"Downloaded Game\" button.",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# Battlefield 6 - 2807960\n\n- After install game\n- Enter the game folder, you can use \"Downloaded Game\" button.\n - go inside folder Battlefield 6/SP/bf6.exe\n- Launch game from bf6.exe\n\nor \n\nUse Steam Unlock Onennabe and open the game panel. Click Play > Choose EXE > choose the bf6.exe that is located in SP/bf6.exe\n\n![Attached Image](assets/battlefield-6-2807960_1499284193539260557.png)\n\n---\n\n![Attached Image](assets/battlefield-6-2807960_1501181242626805791.png)\n"
-  },
-  {
-    "id": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-1490890",
-    "appId": 1490890,
-    "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles - 1490890",
-    "game": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles - 1490890\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-2928600",
-    "appId": 2928600,
-    "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 - 2928600",
-    "game": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 - 2928600\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "elden-ring-guide-1245620",
-    "appId": 1245620,
-    "title": "ELDEN Ring Guide - 1245620",
-    "game": "ELDEN Ring",
-    "desc": "Go to game installation folder",
-    "tags": [
-      "coop"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# ELDEN Ring Guide - 1245620\n\n- Go to game installation folder\n- Run as administrator `ersc_launcher.exe` inside the folder `ELDEN RING/Game`\n**How to play with friends**\n- Go through the prologue. (you need to get to the first place of grace and activate it) \n***Connection: Go to the inventory***\n- Use the item Effigy of Malenia. You will be automatically connected to the host.\n***Server creation:***\n- Go to inventory. Use the Tiny Great Pot item. Waiting for friends to connect\n\n# NOTES: \nDEFAULT CO-OP PASSWORD IS **suo_elden**\n\n---\n\nUpdate Seamless co-op to 1.9.9\n\n---\n\nStep by step on how to play Seamless Coop with Mods using mod engine 2\n(DO NOT LAUNCH USING ERSC IF YOU WANT MOD, USE launchmod_eldenring.bat inside mod engine 2 folder):\n\n1. Download mod engine 2: https://github.com/soulsmods/ModEngine2/releases/tag/release-2.1.0\n\n2. Extract to any location,preferably, inside Elden Ring for Easier searching\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526087303339049000.png)\n\n---\n\n3. Inside mods engine folder, create a folder called dlls\n\n---\n\nthis will be the place we put any mods with dll extension\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526087776867717201.png)\n\n---\n\nexample of QOL mods:\n\n---\n\nTransmogrify Armor, Glorious merchant, Quest Log\n\n---\n\n4. Open the file called config_eldenring.toml\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526088288744636516.png)\n\n---\n\n5. Edit the line external dlls line\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526089029022519407.png)\n\n---\n\nthe line depends on your location and mods installed,example:\n\nexternal_dlls = [\n    \"dlls/ermerchant.dll\",\n    \"dlls/ertransmogrify.dll\",\n    \"dlls/erquestlog.dll\",\n    \"F:\\\\SteamLibrary\\\\steamapps\\\\common\\\\ELDEN RING\\\\Game\\\\SeamlessCoop\\\\ersc.dll\",\n]\n\none line always stay for seamless coop which is\nD:\\\\SteamLibrary\\\\steamapps\\\\common\\\\ELDEN RING\\\\Game\\\\SeamlessCoop\\\\ersc.dll\",\n\nif you install Elden Ring at C, it will be C,if D if will be D, and vice versa\n\n---\n\nmost mods will also tell you how to install them\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526089317964054609.png)\n\n---\n\nLast, run the bat file to launch the games with mods\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526089484720930916.png)\n"
+    "date": "2026-08-11",
+    "content": "\n# Abyssus Online Fix\n\n# Abyssus Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]
