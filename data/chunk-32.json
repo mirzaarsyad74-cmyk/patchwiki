@@ -1,5 +1,20 @@
 [
   {
+    "id": "the-first-berserker-khazan-2680010",
+    "appId": 2680010,
+    "title": "The First Berserker: Khazan - 2680010",
+    "game": "The First Berserker: Khazan",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# The First Berserker: Khazan - 2680010\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n# <a:5567alertblue:1400478576351907871> The First Berserker Khazan (2680010) denuv0 bypass added.. <a:5567alertblue:1400478576351907871>\n\nThose who use hypervisor previously, click remove hypervisor patch first, then Click Bypass Game.\n"
+  },
+  {
     "id": "1413480-shin-megami-tensei-iii-nocturne-hd-remaster-denu-bypass",
     "appId": 1413480,
     "title": "(1413480) SHIN MEGAMI TENSEI III NOCTURNE HD REMASTER DENU BYPASS",
@@ -268,19 +283,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Added Slay the Spire 2 online patch - 2868840\n\n- try run from steam once patch or\n- open game folder and run from **SlayTheSpire2.exe**\n"
-  },
-  {
-    "id": "added-sniper-elite-4-denuv0-bypass-312660",
-    "appId": 312660,
-    "title": "Added Sniper Elite 4 Denuv0 bypass - 312660",
-    "game": "Sniper Elite 4",
-    "desc": "run game from stpse4dx11.exe or stpse4dx12.exe after patching/download,",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Sniper Elite 4 Denuv0 bypass - 312660\n\n- run game from **stp-se4dx11.exe or stp-se4dx12.exe **after patching/download, \n- works with current steam version\n"
   }
 ]

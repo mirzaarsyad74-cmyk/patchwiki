@@ -1,5 +1,19 @@
 [
   {
+    "id": "221100-dayz-priv8-server-online",
+    "appId": 221100,
+    "title": "221100 DAYZ PRIV8 SERVER ONLINE",
+    "game": "DAYZ PRIV8 SERVER",
+    "desc": "Open game folder after patching",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 221100 DAYZ PRIV8 SERVER ONLINE\n\n-Open game folder after patching\n\n-use DayZavr Dayz.exe to run the private server host\nregister and play using the launcher.\n"
+  },
+  {
     "id": "2215260-scott-pilgrim-vs-the-world-bypass",
     "appId": 2215260,
     "title": "2215260  SCOTT PILGRIM VS THE WORLD BYPASS",
@@ -270,19 +284,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 1953520 WRC GENERATIONS BYPASS\n\nSkip the account registration in game and play.\n"
-  },
-  {
-    "id": "2058180-judgment-bypass",
-    "appId": 2058180,
-    "title": "2058180 JUDGMENT BYPASS",
-    "game": "JUDGMENT",
-    "desc": "After patching, open game folder,",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 2058180 JUDGMENT BYPASS\n\n-After patching, open game folder,\n-open runtime/media,\n-Start the game from Judgment.exe,\n-Disable antivirus as it might delete EMP.dll,\n-Support only until WIN 24H2\n"
   }
 ]

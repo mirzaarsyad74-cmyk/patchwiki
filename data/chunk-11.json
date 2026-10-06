@@ -1,5 +1,19 @@
 [
   {
+    "id": "just-another-night-shift-2331130",
+    "appId": 2331130,
+    "title": "Just Another Night Shift Online Fix",
+    "game": "Just Another Night Shift",
+    "desc": "Just Another Night Shift Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Just Another Night Shift Online Fix\n\n# Just Another Night Shift Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "castlevania-lords-of-shadow-ultimate-edition-234080",
     "appId": 234080,
     "title": "Castlevania: Lords of Shadow - Ultimate Edition Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Farm Together 2 Online Fix\n\n# Farm Together 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "assassin-s-creed-iv-black-flag-242050",
-    "appId": 242050,
-    "title": "Assassin's Creed IV Black Flag Bypass",
-    "game": "Assassin's Creed IV Black Flag",
-    "desc": "Assassin's Creed IV Black Flag Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Assassin's Creed IV Black Flag Bypass\n\n# Assassin's Creed IV Black Flag Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

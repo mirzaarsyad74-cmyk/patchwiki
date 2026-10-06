@@ -1,5 +1,19 @@
 [
   {
+    "id": "added-sniper-elite-4-denuv0-bypass-312660",
+    "appId": 312660,
+    "title": "Added Sniper Elite 4 Denuv0 bypass - 312660",
+    "game": "Sniper Elite 4",
+    "desc": "run game from stpse4dx11.exe or stpse4dx12.exe after patching/download,",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Sniper Elite 4 Denuv0 bypass - 312660\n\n- run game from **stp-se4dx11.exe or stp-se4dx12.exe **after patching/download, \n- works with current steam version\n"
+  },
+  {
     "id": "added-starrupture-online-patch-1631270",
     "appId": 1631270,
     "title": "Added StarRupture online patch - 1631270",
@@ -276,19 +290,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Overcooked! All you can eat Online method- 1243830\n\n- Go to Game installation folder\n- Set the game `Overcooked All You Can Eat.exe` run as admin, and also the `XboxLiveAuth.exe` run as admin too. \n- Launch the game using  `XboxLiveAuth.exe` and choose online. The game works and connected to your Xbox account\n\nNOTE: Make sure your XBOX /Microsoft email account used to log in is the same in Microsoft Store account and disable 2FA. Suggest to create new dummy account for XBOX/Microsoft.\n\n![Attached Image](assets/overcooked-all-you-can-eat-online-method-1243830_1498983075894263879.png)\n\n\n![Attached Image](assets/overcooked-all-you-can-eat-online-method-1243830_1498983076498505798.png)\n\n\n![Attached Image](assets/overcooked-all-you-can-eat-online-method-1243830_1498983077009952830.png)\n\n---\n\nOvercooked! All you can eat Online method- 1243830\n"
-  },
-  {
-    "id": "pragmata-3357650",
-    "appId": 3357650,
-    "title": "PRAGMATA - 3357650",
-    "game": "PRAGMATA",
-    "desc": "2. Go to \"Game Auto Update\" in SUO inside Tools",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# PRAGMATA - 3357650\n\n1. Unlock Game from SUO\n2. Go to \"Game Auto Update\" in SUO inside Tools\n3. Click Smart Apply\n4. Download Game in Steam\n5. Apply Bypass Game\n6. Play from Steam\n\n---\n\n15/5 Updated to use voices38 crack\n"
   }
 ]
