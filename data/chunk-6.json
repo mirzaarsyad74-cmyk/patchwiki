@@ -1,5 +1,19 @@
 [
   {
+    "id": "gundam-breaker-4-1672500",
+    "appId": 1672500,
+    "title": "GUNDAM BREAKER 4 Online Fix",
+    "game": "GUNDAM BREAKER 4",
+    "desc": "GUNDAM BREAKER 4 Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# GUNDAM BREAKER 4 Online Fix\n\n# GUNDAM BREAKER 4 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "prophunter-1682050",
     "appId": 1682050,
     "title": "PropHunter Online Fix",
@@ -266,19 +280,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# DRAGON BALL: Sparking! ZERO Online Fix\n\n# DRAGON BALL: Sparking! ZERO Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "haste-1796470",
-    "appId": 1796470,
-    "title": "Haste Online Fix",
-    "game": "Haste",
-    "desc": "2. Click \"ONLINE PATCH\"",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Haste Online Fix\n\n# Haste Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

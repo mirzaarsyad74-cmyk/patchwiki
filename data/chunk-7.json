@@ -1,5 +1,19 @@
 [
   {
+    "id": "haste-1796470",
+    "appId": 1796470,
+    "title": "Haste Online Fix",
+    "game": "Haste",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Haste Online Fix\n\n# Haste Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "mega-man-battle-network-legacy-collection-vol-1-1798010",
     "appId": 1798010,
     "title": "Mega Man Battle Network Legacy Collection Vol. 1 Bypass",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Tears of Metal Online Fix\n\n# Tears of Metal Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "demonologist-1929610",
-    "appId": 1929610,
-    "title": "Demonologist Bypass",
-    "game": "Demonologist",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Demonologist Bypass\n\n# Demonologist Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

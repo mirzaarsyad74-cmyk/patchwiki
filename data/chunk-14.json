@@ -1,5 +1,19 @@
 [
   {
+    "id": "voyagers-of-nera-2686630",
+    "appId": 2686630,
+    "title": "Voyagers of Nera Online Fix",
+    "game": "Voyagers of Nera",
+    "desc": "Voyagers of Nera Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Voyagers of Nera Online Fix\n\n# Voyagers of Nera Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "godbreakers-2687400",
     "appId": 2687400,
     "title": "GODBREAKERS Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Bunker Invaders Online Fix\n\n# Bunker Invaders Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "revenge-of-the-savage-planet-2787320",
-    "appId": 2787320,
-    "title": "Revenge of the Savage Planet Online Fix",
-    "game": "Revenge of the Savage Planet",
-    "desc": "Revenge of the Savage Planet Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Revenge of the Savage Planet Online Fix\n\n# Revenge of the Savage Planet Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

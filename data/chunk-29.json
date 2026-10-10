@@ -1,5 +1,19 @@
 [
   {
+    "id": "2055290-sonic-colors-ultimate",
+    "appId": 2055290,
+    "title": "2055290 SONIC COLORS: ULTIMATE",
+    "game": "SONIC COLORS: ULTIMATE",
+    "desc": "After patching, open folder and find exec folder and start game using SonicColorsUltimate.exe",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 2055290 SONIC COLORS: ULTIMATE\n\n- After patching, open folder and find exec folder and start game using SonicColorsUltimate.exe\n"
+  },
+  {
     "id": "221100-dayz-priv8-server-online",
     "appId": 221100,
     "title": "221100 DAYZ PRIV8 SERVER ONLINE",
@@ -270,19 +284,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 1609370 CARAVANNERS: CO-OP OPEN WORLD CAMPING ONLINE PATCH\n\nStart game from steam\n"
-  },
-  {
-    "id": "1953520-wrc-generations-bypass",
-    "appId": 1953520,
-    "title": "1953520 WRC GENERATIONS BYPASS",
-    "game": "WRC GENERATIONS",
-    "desc": "Skip the account registration in game and play.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 1953520 WRC GENERATIONS BYPASS\n\nSkip the account registration in game and play.\n"
   }
 ]

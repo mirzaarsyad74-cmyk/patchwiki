@@ -1,5 +1,19 @@
 [
   {
+    "id": "assassin-s-creed-iii-remastered-911400",
+    "appId": 911400,
+    "title": "Assassin's Creed III Remastered Bypass",
+    "game": "Assassin's Creed III Remastered",
+    "desc": "Assassin's Creed III Remastered Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Assassin's Creed III Remastered Bypass\n\n# Assassin's Creed III Remastered Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "dead-island-2-934700",
     "appId": 934700,
     "title": "Dead Island 2 Online Fix",
@@ -270,19 +284,5 @@
     "version": "1.0",
     "date": "2026-08-04",
     "content": "\n# Metaphor: ReFantazio - 2679460\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "far-cry-5-552520",
-    "appId": 552520,
-    "title": "Far Cry 5 - 552520",
-    "game": "Far Cry 5",
-    "desc": "After Bypass, run game from SUO, choose exe FarCry5.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-08-02",
-    "content": "\n# Far Cry 5 - 552520\n\nAfter Bypass, run game from SUO, choose exe FarCry5.exe\n\n![Attached Image](assets/far-cry-5-552520_1533373335499440239.png)\n"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "appid-812140-assassins-creed-odyssey",
+    "appId": 812140,
+    "title": "AppID : 812140 (Assassins Creed Odyssey)",
+    "game": "AppID (Assassins Creed Odyssey)",
+    "desc": "3. click !RUNTHIS from inside game folder",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-11",
+    "content": "\n# AppID : 812140 (Assassins Creed Odyssey)\n\nAssassin's Creed Odyssey\n\n1. Bypass Game\n2. Open game folder \n3. click !RUN_THIS from inside game folder\n4. wait for 2GB download, if download is slow, on WARP and try again.\n5. Total parts is 22 parts of .rar file.\n\nRUN GAME FROM STEAM after complete\n\n![Attached Image](assets/appid-812140-assassins-creed-odyssey_1503426079912886272.png)\n"
+  },
+  {
     "id": "split-fiction-co-op",
     "appId": null,
     "title": "SPLIT FICTION CO-OP",
@@ -270,19 +284,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 1506830 FIFA 22 BYPASS\n\n-After patching, open folder and start game using FIFA22.exe\n"
-  },
-  {
-    "id": "2055290-sonic-colors-ultimate",
-    "appId": 2055290,
-    "title": "2055290 SONIC COLORS: ULTIMATE",
-    "game": "SONIC COLORS: ULTIMATE",
-    "desc": "After patching, open folder and find exec folder and start game using SonicColorsUltimate.exe",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 2055290 SONIC COLORS: ULTIMATE\n\n- After patching, open folder and find exec folder and start game using SonicColorsUltimate.exe\n"
   }
 ]

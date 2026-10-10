@@ -1,5 +1,19 @@
 [
   {
+    "id": "just-cause-4-517630",
+    "appId": 517630,
+    "title": "Just Cause 4 Bypass",
+    "game": "Just Cause 4",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Just Cause 4 Bypass\n\n# Just Cause 4 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "hypercharge-unboxed-523660",
     "appId": 523660,
     "title": "HYPERCHARGE: Unboxed Online Fix",
@@ -265,19 +279,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# DiRT Rally 2.0 Online Fix\n\n# DiRT Rally 2.0 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "zombie-army-4-dead-war-694280",
-    "appId": 694280,
-    "title": "Zombie Army 4: Dead War Bypass",
-    "game": "Zombie Army 4: Dead War",
-    "desc": "Zombie Army 4: Dead War Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Zombie Army 4: Dead War Bypass\n\n# Zombie Army 4: Dead War Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

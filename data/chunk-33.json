@@ -1,5 +1,19 @@
 [
   {
+    "id": "added-slay-the-spire-2-online-patch-2868840",
+    "appId": 2868840,
+    "title": "Added Slay the Spire 2 online patch - 2868840",
+    "game": "Slay the Spire 2",
+    "desc": "try run from steam once patch or",
+    "tags": [
+      "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Slay the Spire 2 online patch - 2868840\n\n- try run from steam once patch or\n- open game folder and run from **SlayTheSpire2.exe**\n"
+  },
+  {
     "id": "added-sniper-elite-4-denuv0-bypass-312660",
     "appId": 312660,
     "title": "Added Sniper Elite 4 Denuv0 bypass - 312660",
@@ -276,19 +290,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Name: Sonic Racing: CrossWorlds - 2486820\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499063277332729866.png)\n\n\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499063280608743566.png)\n\n---\n\nRun game from Steam Unlock as shown here, choose HV-Launcher.bat or HV-PlugNPlay.bat\n\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499091266556788838.png)\n\n\n![Attached Image](assets/name-sonic-racing-crossworlds-2486820_1499091267009646702.png)\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "overcooked-all-you-can-eat-online-method-1243830",
-    "appId": 1243830,
-    "title": "Overcooked! All you can eat Online method- 1243830",
-    "game": "Overcooked! All you can eat",
-    "desc": "Go to Game installation folder",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Overcooked! All you can eat Online method- 1243830\n\n- Go to Game installation folder\n- Set the game `Overcooked All You Can Eat.exe` run as admin, and also the `XboxLiveAuth.exe` run as admin too. \n- Launch the game using  `XboxLiveAuth.exe` and choose online. The game works and connected to your Xbox account\n\nNOTE: Make sure your XBOX /Microsoft email account used to log in is the same in Microsoft Store account and disable 2FA. Suggest to create new dummy account for XBOX/Microsoft.\n\n![Attached Image](assets/overcooked-all-you-can-eat-online-method-1243830_1498983075894263879.png)\n\n\n![Attached Image](assets/overcooked-all-you-can-eat-online-method-1243830_1498983076498505798.png)\n\n\n![Attached Image](assets/overcooked-all-you-can-eat-online-method-1243830_1498983077009952830.png)\n\n---\n\nOvercooked! All you can eat Online method- 1243830\n"
   }
 ]

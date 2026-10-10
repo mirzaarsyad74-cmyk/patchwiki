@@ -1,5 +1,19 @@
 [
   {
+    "id": "revenge-of-the-savage-planet-2787320",
+    "appId": 2787320,
+    "title": "Revenge of the Savage Planet Online Fix",
+    "game": "Revenge of the Savage Planet",
+    "desc": "Revenge of the Savage Planet Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Revenge of the Savage Planet Online Fix\n\n# Revenge of the Savage Planet Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "another-try-2-2788040",
     "appId": 2788040,
     "title": "Another Try 2 Bypass",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Tabletop Simulator Online Fix\n\n# Tabletop Simulator Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "descending-the-woods-2868070",
-    "appId": 2868070,
-    "title": "Descending The Woods Online Fix",
-    "game": "Descending The Woods",
-    "desc": "Descending The Woods Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Descending The Woods Online Fix\n\n# Descending The Woods Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

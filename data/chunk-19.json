@@ -1,5 +1,19 @@
 [
   {
+    "id": "r-e-p-o-3241660",
+    "appId": 3241660,
+    "title": "R.E.P.O. Online Fix",
+    "game": "R.E.P.O.",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# R.E.P.O. Online Fix\n\n# R.E.P.O. Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "outworld-station-3242950",
     "appId": 3242950,
     "title": "Outworld Station Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Sniper: Ghost Warrior Bypass\n\n# Sniper: Ghost Warrior Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "stellar-blade-3489700",
-    "appId": 3489700,
-    "title": "Stellar Blade™ Bypass",
-    "game": "Stellar Blade™",
-    "desc": "Stellar Blade™ Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Stellar Blade™ Bypass\n\n# Stellar Blade™ Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]
