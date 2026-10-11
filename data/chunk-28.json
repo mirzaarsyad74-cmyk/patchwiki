@@ -1,5 +1,19 @@
 [
   {
+    "id": "blades-of-fire-2091020",
+    "appId": 2091020,
+    "title": "Blades Of Fire - 2091020",
+    "game": "Blades Of Fire",
+    "desc": "Added Bypass for latest game version. Play from Steam",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-16",
+    "content": "\n# Blades Of Fire - 2091020\n\nAdded Bypass for latest game version. Play from Steam\n"
+  },
+  {
     "id": "appid-812140-assassins-creed-odyssey",
     "appId": 812140,
     "title": "AppID : 812140 (Assassins Creed Odyssey)",
@@ -270,19 +284,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 1328660 NSF HOT PURSUIT REMASTERED DENUV & EA BYPASS\n\nAfter patching, go inside the game foder, start game with NFS11Remastered.exe\n"
-  },
-  {
-    "id": "1506830-fifa-22-bypass",
-    "appId": 1506830,
-    "title": "1506830 FIFA 22 BYPASS",
-    "game": "FIFA 22",
-    "desc": "After patching, open folder and start game using FIFA22.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 1506830 FIFA 22 BYPASS\n\n-After patching, open folder and start game using FIFA22.exe\n"
   }
 ]

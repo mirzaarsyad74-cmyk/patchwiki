@@ -1,5 +1,19 @@
 [
   {
+    "id": "f1-22-1692250",
+    "appId": 1692250,
+    "title": "F1 22 - 1692250",
+    "game": "F1 22",
+    "desc": "Unlock the game via Steam Unlock",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-07-02",
+    "content": "\n# F1 22 - 1692250\n\nUnlock the game via Steam Unlock\n1. Click Update Game in Library if you previously downloaded it via other method\n2. Bypass the game\n3. Open the game Folder\n4. Delete 2 things\n- sl.dlss.dll\n- egodumper.exe\n5. Run game from Steam.\n\n![Attached Image](assets/f1-22-1692250_1522183738409353346.png)\n"
+  },
+  {
     "id": "assassin-s-creed-rogue-311560",
     "appId": 311560,
     "title": "Assassin's Creed Rogue - 311560",
@@ -281,19 +295,5 @@
     "version": "1.0",
     "date": "2026-05-17",
     "content": "\n# Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)\n\nPress Win + R -> steam://install/480\nBypass Game, open Game folder and then run **Enable_Invites_FH6.bat**\nPlay the game and sign in to your Microsoft account.\n\n![Attached Image](assets/forza-horizon-6-2483190-release-date-19-05-2026_1505408943189397624.png)\n\n---\n\nFix for Invalid Gaming Service Detected\nhttps://www.youtube.com/watch?v=2ZguhQxFNkE\n\n---\n\nRun the game from steam\n\n---\n\n## One-Time Guide,After that **play game from steam**\n\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Press Win + R and type `steam://install/480` hit enter\n4) Update Xbox app at Microsoft store\n5) Unlock game update ```SUO > Tools > Game Auto Update > Click Open > Click Smart Apply```\n6) Download game from steam\n7) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online Patch```\n8) Open Game folder and then run **Enable_Invites_FH6.bat** as admin\n9) Play from steam and sign-in using Microsoft account\n\n---\n\n<a:8010sussy:1239135973674323998>\n\n---\n\n# INSTALL DS4WINDOWS HERE\n\nhttps://ds4-windows.com\n\n---\n\n3rd June 2026, Updated online patch, redo online patch for latest game update\n"
-  },
-  {
-    "id": "blades-of-fire-2091020",
-    "appId": 2091020,
-    "title": "Blades Of Fire - 2091020",
-    "game": "Blades Of Fire",
-    "desc": "Added Bypass for latest game version. Play from Steam",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-16",
-    "content": "\n# Blades Of Fire - 2091020\n\nAdded Bypass for latest game version. Play from Steam\n"
   }
 ]

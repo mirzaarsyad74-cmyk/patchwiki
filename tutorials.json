@@ -1,5 +1,19 @@
 [
   {
+    "id": "general-knowledge",
+    "appId": null,
+    "title": "General Knowledge",
+    "game": "General Knowledge",
+    "desc": "If you use other controller other than Xbox Controller wired or wireless, if the game doesnt detect, download DS4Windows https://ds4windows.com/download/ryochan",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-10-11"
+  },
+  {
     "id": "suo-remote",
     "appId": null,
     "title": "SUO Remote",

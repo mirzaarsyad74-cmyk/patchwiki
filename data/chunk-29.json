@@ -1,5 +1,19 @@
 [
   {
+    "id": "1506830-fifa-22-bypass",
+    "appId": 1506830,
+    "title": "1506830 FIFA 22 BYPASS",
+    "game": "FIFA 22",
+    "desc": "After patching, open folder and start game using FIFA22.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 1506830 FIFA 22 BYPASS\n\n-After patching, open folder and start game using FIFA22.exe\n"
+  },
+  {
     "id": "2055290-sonic-colors-ultimate",
     "appId": 2055290,
     "title": "2055290 SONIC COLORS: ULTIMATE",
@@ -269,20 +283,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 1359090 ZERO HOUR BYPASS\n\n-After bypass, run game from steam,\n-Play offline mode story only.\n"
-  },
-  {
-    "id": "1609370-caravanners-co-op-open-world-camping-online-patch",
-    "appId": 1609370,
-    "title": "1609370 CARAVANNERS: CO-OP OPEN WORLD CAMPING ONLINE PATCH",
-    "game": "CARAVANNERS: CO-OP OPEN WORLD CAMPING",
-    "desc": "Tutorial and guide for CARAVANNERS: CO-OP OPEN WORLD CAMPING.",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 1609370 CARAVANNERS: CO-OP OPEN WORLD CAMPING ONLINE PATCH\n\nStart game from steam\n"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "conan-exiles-440900",
+    "appId": 440900,
+    "title": "Conan Exiles Online Fix",
+    "game": "Conan Exiles",
+    "desc": "Conan Exiles Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Conan Exiles Online Fix\n\n# Conan Exiles Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "grid-2-44350",
     "appId": 44350,
     "title": "GRID 2 Bypass",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# F1 2017 Online Fix\n\n# F1 2017 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "my-summer-car-516750",
-    "appId": 516750,
-    "title": "My Summer Car Online Fix",
-    "game": "My Summer Car",
-    "desc": "My Summer Car Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# My Summer Car Online Fix\n\n# My Summer Car Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]
