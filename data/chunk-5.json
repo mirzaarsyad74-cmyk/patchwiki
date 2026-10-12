@@ -1,5 +1,19 @@
 [
   {
+    "id": "hyper-light-breaker-1534840",
+    "appId": 1534840,
+    "title": "Hyper Light Breaker Online Fix",
+    "game": "Hyper Light Breaker",
+    "desc": "Hyper Light Breaker Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Hyper Light Breaker Online Fix\n\n# Hyper Light Breaker Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "lego-voyagers-1538550",
     "appId": 1538550,
     "title": "LEGO® Voyagers Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Coridden Online Fix\n\n# Coridden Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "slime-rancher-2-1657630",
-    "appId": 1657630,
-    "title": "Slime Rancher 2 Online Fix",
-    "game": "Slime Rancher 2",
-    "desc": "Slime Rancher 2 Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Slime Rancher 2 Online Fix\n\n# Slime Rancher 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

@@ -1,5 +1,21 @@
 [
   {
+    "id": "forza-horizon-6-2483190-release-date-19-05-2026",
+    "appId": 2483190,
+    "title": "Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)",
+    "game": "Forza Horizon 6",
+    "desc": "Press Win + R  steam://install/480",
+    "tags": [
+      "online",
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-17",
+    "content": "\n# Forza Horizon 6 - 2483190 (RELEASE DATE 19.05.2026)\n\nPress Win + R -> steam://install/480\nBypass Game, open Game folder and then run **Enable_Invites_FH6.bat**\nPlay the game and sign in to your Microsoft account.\n\n![Attached Image](assets/forza-horizon-6-2483190-release-date-19-05-2026_1505408943189397624.png)\n\n---\n\nFix for Invalid Gaming Service Detected\nhttps://www.youtube.com/watch?v=2ZguhQxFNkE\n\n---\n\nRun the game from steam\n\n---\n\n## One-Time Guide,After that **play game from steam**\n\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Press Win + R and type `steam://install/480` hit enter\n4) Update Xbox app at Microsoft store\n5) Unlock game update ```SUO > Tools > Game Auto Update > Click Open > Click Smart Apply```\n6) Download game from steam\n7) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online Patch```\n8) Open Game folder and then run **Enable_Invites_FH6.bat** as admin\n9) Play from steam and sign-in using Microsoft account\n\n---\n\n<a:8010sussy:1239135973674323998>\n\n---\n\n# INSTALL DS4WINDOWS HERE\n\nhttps://ds4-windows.com\n\n---\n\n3rd June 2026, Updated online patch, redo online patch for latest game update\n"
+  },
+  {
     "id": "blades-of-fire-2091020",
     "appId": 2091020,
     "title": "Blades Of Fire - 2091020",
@@ -270,19 +286,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 1313860 EA SPORTS FIFA 21 BYPASS\n\n-Open game folder after patching\n\n-Run game using FIFA21.exe\n"
-  },
-  {
-    "id": "1328660-nsf-hot-pursuit-remastered-denuv-ea-bypass",
-    "appId": 1328660,
-    "title": "1328660 NSF HOT PURSUIT REMASTERED DENUV & EA BYPASS",
-    "game": "NSF HOT PURSUIT REMASTERED DENUV &",
-    "desc": "After patching, go inside the game foder, start game with NFS11Remastered.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 1328660 NSF HOT PURSUIT REMASTERED DENUV & EA BYPASS\n\nAfter patching, go inside the game foder, start game with NFS11Remastered.exe\n"
   }
 ]
