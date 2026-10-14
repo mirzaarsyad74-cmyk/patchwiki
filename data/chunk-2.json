@@ -1,5 +1,33 @@
 [
   {
+    "id": "prototype-2-115320",
+    "appId": 115320,
+    "title": "PROTOTYPE 2 Bypass",
+    "game": "PROTOTYPE 2",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# PROTOTYPE 2 Bypass\n\n# PROTOTYPE 2 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "coral-island-1158160",
+    "appId": 1158160,
+    "title": "Coral Island Online Fix",
+    "game": "Coral Island",
+    "desc": "Coral Island Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Coral Island Online Fix\n\n# Coral Island Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "crusader-kings-iii-1158310",
     "appId": 1158310,
     "title": "Crusader Kings III Online Fix",
@@ -250,33 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Mass Effect™: Andromeda Bypass\n\n# Mass Effect™: Andromeda Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "dead-space-3-1238060",
-    "appId": 1238060,
-    "title": "Dead Space™ 3 Bypass",
-    "game": "Dead Space™ 3",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Dead Space™ 3 Bypass\n\n# Dead Space™ 3 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "battlefield-3-1238820",
-    "appId": 1238820,
-    "title": "Battlefield 3™  Bypass",
-    "game": "Battlefield 3™",
-    "desc": "Battlefield 3™  Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Battlefield 3™  Bypass\n\n# Battlefield 3™  Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

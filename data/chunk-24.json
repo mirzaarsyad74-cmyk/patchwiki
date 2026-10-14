@@ -1,5 +1,33 @@
 [
   {
+    "id": "raft-648800",
+    "appId": 648800,
+    "title": "Raft Online Fix",
+    "game": "Raft",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Raft Online Fix\n\n# Raft Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "heroes-of-hammerwatch-677120",
+    "appId": 677120,
+    "title": "Heroes of Hammerwatch Online Fix",
+    "game": "Heroes of Hammerwatch",
+    "desc": "Heroes of Hammerwatch Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Heroes of Hammerwatch Online Fix\n\n# Heroes of Hammerwatch Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "outriders-680420",
     "appId": 680420,
     "title": "OUTRIDERS Online Fix",
@@ -250,33 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Tribes of Midgard Online Fix\n\n# Tribes of Midgard Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "we-were-here-together-865360",
-    "appId": 865360,
-    "title": "We Were Here Together Online Fix",
-    "game": "We Were Here Together",
-    "desc": "We Were Here Together Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# We Were Here Together Online Fix\n\n# We Were Here Together Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "granblue-fantasy-relink-881020",
-    "appId": 881020,
-    "title": "Granblue Fantasy: Relink Online Fix",
-    "game": "Granblue Fantasy: Relink",
-    "desc": "Granblue Fantasy: Relink Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Granblue Fantasy: Relink Online Fix\n\n# Granblue Fantasy: Relink Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

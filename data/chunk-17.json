@@ -1,5 +1,33 @@
 [
   {
+    "id": "the-jackbox-survey-scramble-2948640",
+    "appId": 2948640,
+    "title": "The Jackbox Survey Scramble Online Fix",
+    "game": "The Jackbox Survey Scramble",
+    "desc": "The Jackbox Survey Scramble Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# The Jackbox Survey Scramble Online Fix\n\n# The Jackbox Survey Scramble Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "ratatan-2949320",
+    "appId": 2949320,
+    "title": "Ratatan Online Fix",
+    "game": "Ratatan",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Ratatan Online Fix\n\n# Ratatan Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "grocery-store-simulator-2961880",
     "appId": 2961880,
     "title": "Grocery Store Simulator Online Fix",
@@ -250,33 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# TCG Card Shop Simulator Bypass\n\n# TCG Card Shop Simulator Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "granny-escape-together-3070520",
-    "appId": 3070520,
-    "title": "Granny: Escape Together Online Fix",
-    "game": "Granny: Escape Together",
-    "desc": "Granny: Escape Together Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Granny: Escape Together Online Fix\n\n# Granny: Escape Together Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "voodoo-fishin-3071240",
-    "appId": 3071240,
-    "title": "Voodoo Fishin' Online Fix",
-    "game": "Voodoo Fishin'",
-    "desc": "Voodoo Fishin' Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Voodoo Fishin' Online Fix\n\n# Voodoo Fishin' Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "backrooms-extractions-2835530",
+    "appId": 2835530,
+    "title": "Backrooms: Extractions Bypass",
+    "game": "Backrooms: Extractions",
+    "desc": "Backrooms: Extractions Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Backrooms: Extractions Bypass\n\n# Backrooms: Extractions Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "buckshot-roulette-2835570",
+    "appId": 2835570,
+    "title": "Buckshot Roulette Online Fix",
+    "game": "Buckshot Roulette",
+    "desc": "Buckshot Roulette Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Buckshot Roulette Online Fix\n\n# Buckshot Roulette Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "subterror-2846060",
     "appId": 2846060,
     "title": "Subterror Online Fix",
@@ -251,33 +279,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Night Club Simulator Online Fix\n\n# Night Club Simulator Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "the-jackbox-survey-scramble-2948640",
-    "appId": 2948640,
-    "title": "The Jackbox Survey Scramble Online Fix",
-    "game": "The Jackbox Survey Scramble",
-    "desc": "The Jackbox Survey Scramble Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# The Jackbox Survey Scramble Online Fix\n\n# The Jackbox Survey Scramble Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "ratatan-2949320",
-    "appId": 2949320,
-    "title": "Ratatan Online Fix",
-    "game": "Ratatan",
-    "desc": "2. Click \"ONLINE PATCH\"",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Ratatan Online Fix\n\n# Ratatan Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

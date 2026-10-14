@@ -1,5 +1,33 @@
 [
   {
+    "id": "iracing-arcade-3226450",
+    "appId": 3226450,
+    "title": "iRacing Arcade Bypass",
+    "game": "iRacing Arcade",
+    "desc": "iRacing Arcade Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# iRacing Arcade Bypass\n\n# iRacing Arcade Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "6-3227760",
+    "appId": 3227760,
+    "title": "纸嫁衣6千秋魇 Bypass",
+    "game": "纸嫁衣6千秋魇",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# 纸嫁衣6千秋魇 Bypass\n\n# 纸嫁衣6千秋魇 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "bodyrecords-3232040",
     "appId": 3232040,
     "title": "BodyRecords Online Fix",
@@ -250,33 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Cafemart Simulator Online Fix\n\n# Cafemart Simulator Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "cheaters-cheetah-3438990",
-    "appId": 3438990,
-    "title": "Cheaters Cheetah Online Fix",
-    "game": "Cheaters Cheetah",
-    "desc": "Cheaters Cheetah Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Cheaters Cheetah Online Fix\n\n# Cheaters Cheetah Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "fuel-harvest-together-3441460",
-    "appId": 3441460,
-    "title": "Fuel Harvest Together Online Fix",
-    "game": "Fuel Harvest Together",
-    "desc": "Fuel Harvest Together Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Fuel Harvest Together Online Fix\n\n# Fuel Harvest Together Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

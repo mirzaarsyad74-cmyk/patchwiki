@@ -1,5 +1,31 @@
 [
   {
+    "id": "ds4-auto-setup",
+    "appId": null,
+    "title": "DS4 auto setup",
+    "game": "DS4 auto setup",
+    "desc": "Tutorial and guide for DS4 auto setup.",
+    "tags": [
+      "general"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-10-14"
+  },
+  {
+    "id": "wand",
+    "appId": null,
+    "title": "Wand",
+    "game": "Wand",
+    "desc": "🪄 Wand / WeMod AutoUpdater & Tools",
+    "tags": [
+      "general"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-10-14"
+  },
+  {
     "id": "wand-wemod-pro",
     "appId": null,
     "title": "Wand/Wemod Pro",
