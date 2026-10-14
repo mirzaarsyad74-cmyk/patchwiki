@@ -1,5 +1,19 @@
 [
   {
+    "id": "crusader-kings-iii-1158310",
+    "appId": 1158310,
+    "title": "Crusader Kings III Online Fix",
+    "game": "Crusader Kings III",
+    "desc": "Crusader Kings III Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Crusader Kings III Online Fix\n\n# Crusader Kings III Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "aragami-2-1158370",
     "appId": 1158370,
     "title": "Aragami 2 Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Battlefield 3™  Bypass\n\n# Battlefield 3™  Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "battlefield-4-1238860",
-    "appId": 1238860,
-    "title": "Battlefield 4™  Bypass",
-    "game": "Battlefield 4™",
-    "desc": "Battlefield 4™  Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Battlefield 4™  Bypass\n\n# Battlefield 4™  Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

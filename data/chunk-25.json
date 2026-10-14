@@ -1,5 +1,19 @@
 [
   {
+    "id": "resident-evil-2-883710",
+    "appId": 883710,
+    "title": "Resident Evil 2 Bypass",
+    "game": "Resident Evil 2",
+    "desc": "Resident Evil 2 Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Resident Evil 2 Bypass\n\n# Resident Evil 2 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "valheim-892970",
     "appId": 892970,
     "title": "Valheim Online Fix",
@@ -266,19 +280,5 @@
     "version": "1.0",
     "date": "2026-08-05",
     "content": "\n# Suicide Squad Kill the Justice League - 315210\n\nAfter downloading game and BYPASS GAME, run the game from SUO and choose new-SuicideSquad_KTJL.exe.\n\n![Attached Image](assets/suicide-squad-kill-the-justice-league-315210_1534621979926331442.png)\n"
-  },
-  {
-    "id": "vbs",
-    "appId": null,
-    "title": "#VBS",
-    "game": "VBS",
-    "desc": "Guide Disable Windows Hello",
-    "tags": [
-      "general"
-    ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
-    "version": "1.0",
-    "date": "2026-08-04",
-    "content": "\n# #VBS\n\n## Guide Disable Windows Hello\n\nhttps://www.youtube.com/watch?v=Vzm2YQDcsfw\n\n![Attached Image](assets/vbs_1534219090212688134.jpg)\n\n---\n\n#VBS\n"
   }
 ]

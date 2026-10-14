@@ -1,5 +1,19 @@
 [
   {
+    "id": "bodyrecords-3232040",
+    "appId": 3232040,
+    "title": "BodyRecords Online Fix",
+    "game": "BodyRecords",
+    "desc": "BodyRecords Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# BodyRecords Online Fix\n\n# BodyRecords Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "dragon-ball-xenoverse-323470",
     "appId": 323470,
     "title": "DRAGON BALL XENOVERSE Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Fuel Harvest Together Online Fix\n\n# Fuel Harvest Together Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "idigging-3447690",
-    "appId": 3447690,
-    "title": "iDigging Bypass",
-    "game": "iDigging",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# iDigging Bypass\n\n# iDigging Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

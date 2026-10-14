@@ -1,5 +1,19 @@
 [
   {
+    "id": "1313860-ea-sports-fifa-21-bypass",
+    "appId": 1313860,
+    "title": "1313860 EA SPORTS FIFA 21 BYPASS",
+    "game": "EA SPORTS FIFA 21",
+    "desc": "Open game folder after patching",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 1313860 EA SPORTS FIFA 21 BYPASS\n\n-Open game folder after patching\n\n-Run game using FIFA21.exe\n"
+  },
+  {
     "id": "1328660-nsf-hot-pursuit-remastered-denuv-ea-bypass",
     "appId": 1328660,
     "title": "1328660 NSF HOT PURSUIT REMASTERED DENUV & EA BYPASS",
@@ -267,19 +281,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 1272080 PAY DAY 3\n\n<:5726toothymaw:1239134161835655198>\n"
-  },
-  {
-    "id": "1359090-zero-hour-bypass",
-    "appId": 1359090,
-    "title": "1359090 ZERO HOUR BYPASS",
-    "game": "ZERO HOUR",
-    "desc": "After bypass, run game from steam,",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 1359090 ZERO HOUR BYPASS\n\n-After bypass, run game from steam,\n-Play offline mode story only.\n"
   }
 ]
