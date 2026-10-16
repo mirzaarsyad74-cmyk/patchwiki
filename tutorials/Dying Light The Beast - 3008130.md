@@ -3,7 +3,7 @@ id: dying-light-the-beast-3008130
 title: Dying Light: The Beast - 3008130
 game: Dying Light: The Beast
 appid: 3008130
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: 1. Download EPIC Games Store at https://store.epicgames.com/
 tags: online

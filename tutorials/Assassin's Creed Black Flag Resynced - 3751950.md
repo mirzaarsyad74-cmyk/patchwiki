@@ -3,7 +3,7 @@ id: assassin-s-creed-black-flag-resynced-3751950
 title: Assassin's Creed Black Flag Resynced - 3751950
 game: Assassin's Creed Black Flag Resynced
 appid: 3751950
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: ⚠️ Before Downloading game at steam make sure game already lock version at SUO
 tags: bypass, crack, drm

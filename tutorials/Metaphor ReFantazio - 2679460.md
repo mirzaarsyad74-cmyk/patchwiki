@@ -3,7 +3,7 @@ id: metaphor-refantazio-2679460
 title: Metaphor: ReFantazio - 2679460
 game: Metaphor: ReFantazio
 appid: 2679460
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: ⚠️ Before Downloading game at steam make sure game already lock version at SUO
 tags: bypass, crack, drm

@@ -3,7 +3,7 @@ id: meccha-chameleon-4704690
 title: Meccha Chameleon - 4704690
 game: Meccha Chameleon
 appid: 4704690
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: 2) Off antivirus(realtime protection) and smart app control (win 11)
 tags: online, drm

@@ -3,7 +3,7 @@ id: jurassic-world-evolution-3-2958130
 title: Jurassic world Evolution 3 - 2958130
 game: Jurassic world Evolution 3
 appid: 2958130
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: ⚠️ Before Downloading game at steam make sure game already lock version at SUO
 tags: bypass, crack, drm

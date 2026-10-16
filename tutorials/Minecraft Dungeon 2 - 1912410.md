@@ -3,7 +3,7 @@ id: minecraft-dungeon-2-1912410
 title: Minecraft Dungeon 2 - 1912410
 game: Minecraft Dungeon 2
 appid: 1912410
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: Make sure Game Already Locked Version(by default is locked)
 tags: bypass, drm

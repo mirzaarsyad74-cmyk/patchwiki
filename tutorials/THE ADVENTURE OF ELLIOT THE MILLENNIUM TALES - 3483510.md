@@ -3,7 +3,7 @@ id: the-adventure-of-elliot-the-millennium-tales-3483510
 title: THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES - 3483510
 game: THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES
 appid: 3483510
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: ⚠️ Before Downloading game at steam make sure game already lock version at SUO
 tags: bypass, crack, drm

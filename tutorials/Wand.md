@@ -2,7 +2,7 @@
 id: wand
 title: Wand
 game: Wand
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: 🪄 Wand / WeMod AutoUpdater & Tools
 tags: bypass
@@ -46,7 +46,3 @@ If you encounter this popup:
 4. Click **Start**.
 
 > **Note:** This is a patch and not a cracked app. Any new software updates will require you to apply the patch again.
-
----
-
-[Download WandEnhancer.exe (3.8 MB)](assets/wand_1560530943213576202.exe)

@@ -3,7 +3,7 @@ id: echoes-of-aincrad-2244210
 title: Echoes of Aincrad - 2244210
 game: Echoes of Aincrad
 appid: 2244210
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: ⚠️ Before Downloading game at steam make sure game already lock version at SUO
 tags: bypass, crack, drm

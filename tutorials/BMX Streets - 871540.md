@@ -3,7 +3,7 @@ id: bmx-streets-871540
 title: BMX Streets - 871540
 game: BMX Streets
 appid: 871540
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: 2) Off antivirus(realtime protection) and smart app control (win 11)
 tags: online, drm

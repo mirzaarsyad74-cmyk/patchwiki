@@ -3,7 +3,7 @@ id: company-of-heroes-3-1677280
 title: Company of Heroes 3 - 1677280
 game: Company of Heroes 3
 appid: 1677280
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: 2) Off antivirus(realtime protection) and smart app control (win 11)
 tags: bypass, drm

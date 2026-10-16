@@ -2,7 +2,7 @@
 id: hv-tools
 title: #HV Tools
 game: HV Tools
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: • Automatically Detects Motherboard Brand
 tags: bypass

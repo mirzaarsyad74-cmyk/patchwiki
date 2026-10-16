@@ -3,7 +3,7 @@ id: hogwarts-legacy-990080
 title: Hogwarts Legacy - 990080
 game: Hogwarts Legacy
 appid: 990080
-author: ♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕
+author: Ryunosuke
 version: 1.0
 desc: 2) Off antivirus(realtime protection) and smart app control (win 11)
 tags: bypass, drm
