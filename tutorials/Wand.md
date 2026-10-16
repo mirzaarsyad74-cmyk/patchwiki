@@ -49,4 +49,4 @@ If you encounter this popup:
 
 ---
 
-[Download Wand_Pro_Patcher.exe (3.8 MB)](assets/wand_1560501937286152392.exe)
+[Download WandEnhancer.exe (3.8 MB)](assets/wand_1560530943213576202.exe)
