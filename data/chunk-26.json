@@ -36,7 +36,7 @@
     "tags": [
       "general"
     ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "author": "Ryunosuke",
     "version": "1.0",
     "date": "2026-08-04",
     "content": "\n# #VBS\n\n## Guide Disable Windows Hello\n\nhttps://www.youtube.com/watch?v=Vzm2YQDcsfw\n\n![Attached Image](assets/vbs_1534219090212688134.jpg)\n\n---\n\n#VBS\n"
@@ -52,7 +52,7 @@
       "crack",
       "drm"
     ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "author": "Ryunosuke",
     "version": "1.0",
     "date": "2026-08-04",
     "content": "\n# Jurassic world Evolution 3 - 2958130\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n\n---\n\n# game updated to latest 1.4.2 version, \n1. redownload from server\n2. redo another hypervisor bypass \nto get latest update\n"
@@ -68,7 +68,7 @@
       "crack",
       "drm"
     ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "author": "Ryunosuke",
     "version": "1.0",
     "date": "2026-08-04",
     "content": "\n# Metaphor: ReFantazio - 2679460\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
@@ -254,7 +254,7 @@
       "crack",
       "drm"
     ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "author": "Ryunosuke",
     "version": "1.0",
     "date": "2026-07-11",
     "content": "\n# Echoes of Aincrad - 2244210\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n\n![Attached Image](assets/echoes-of-aincrad-2244210_1525388083485212772.webp)\n"
@@ -284,7 +284,7 @@
       "crack",
       "drm"
     ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "author": "Ryunosuke",
     "version": "1.0",
     "date": "2026-07-09",
     "content": "\n# Assassin's Creed Black Flag Resynced - 3751950\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n\n![Attached Image](assets/assassin-s-creed-black-flag-resynced-3751950_1524840572177617027.jpg)\n\n---\n\nGame Updated to version 1.0.4\nUpdate Game and then do** \"Hypervisor Bypass Patch\"** upon game is updated.\n\n---\n\nNote: Delete steam64.dll and steam_api64.dll.\n"
