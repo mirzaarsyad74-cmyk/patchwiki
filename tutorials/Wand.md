@@ -46,3 +46,23 @@ If you encounter this popup:
 4. Click **Start**.
 
 > **Note:** This is a patch and not a cracked app. Any new software updates will require you to apply the patch again.
+
+---
+
+🚀 **Check out WandEnhancer — Open Source Wand / WeMod Companion Tool!**
+
+Looking to get more out of Wand? **WandEnhancer** is an open-source tool that adds remote mobile controls, unlocks pro features, and automates patching:
+
+👉 **GitHub:** <https://github.com/k1tbyte/Wand-Enhancer>
+
+**Key Features:**
+🔹 **Mobile / Web Remote Control:** Control cheats from your phone via local Wi-Fi & QR code
+🔹 **Pro Unlocked:** Full interactive controls and sliders unlocked client-side
+🔹 **1-Click Auto Patch:** Fast, reliable patching with backup and auto-repair
+🔹 **Update-Proof:** Auto-reapplies when the app updates
+🔹 **DevTools Enabled:** Press `F12` to inspect the UI
+🔹 **100% Free & Open-Source:** No shady installers, no paid keys, clean code
+
+Download the latest release here:
+
+[Download WandEnhancer.exe (3.8 MB)](assets/wand_1560673704625573888.exe)
