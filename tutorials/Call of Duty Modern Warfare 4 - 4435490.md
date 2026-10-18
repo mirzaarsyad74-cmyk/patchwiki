@@ -33,3 +33,26 @@ This game is single player campaign only, so don't request for multiplayer
 ---
 
 Call of Duty: Modern Warfare 4 - 4435490
+
+---
+
+Got these problems???
+
+### 🛠️ Steam Download & Game Fix Guide
+
+Hey everyone! If you're running into issues, follow these steps carefully to get it sorted:
+
+**Step 1️⃣: Redownload from Server**
+* Open Steam Unlock > library > **1938090, CALL OF DUTY**  and click **Redownload from server**.
+
+**Step 2️⃣: Clear Download Cache**
+* Open **Steam Unlock**, go to **Tools**, and select **Clear Steam download cache**
+* Wait a moment for it to finish updating.
+
+**Step 3️⃣: Bypass Again**
+* Perform the **bypass** step once more.
+
+**Step 4️⃣: Launch from Folder**
+* Finally, navigate directly to the game's folder and try launching the game from there (!start_sp26.bat)
+
+![Attached Image](assets/call-of-duty-modern-warfare-4-4435490_1561422734716571738.webp)
