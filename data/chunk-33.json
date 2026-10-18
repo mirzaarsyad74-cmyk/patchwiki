@@ -1,5 +1,33 @@
 [
   {
+    "id": "added-my-hero-academia-all-s-justice-online-patch-2362050",
+    "appId": 2362050,
+    "title": "Added  MY HERO ACADEMIA: All’s Justice online patch - 2362050",
+    "game": "MY HERO ACADEMIA: All’s Justice",
+    "desc": "open game folder and Launch the game via HeroGame\\Binaries\\Win64\\AJGAME.exe",
+    "tags": [
+      "online"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added  MY HERO ACADEMIA: All’s Justice online patch - 2362050\n\nopen game folder and Launch the game via HeroGame\\Binaries\\Win64\\AJGAME.exe\n\n---\n\nAdded  MY HERO ACADEMIA: All’s Justice online patch - 2362050\n"
+  },
+  {
+    "id": "added-mass-effect-andromeda-ea-bypass-1238000",
+    "appId": 1238000,
+    "title": "Added Mass Effect™: Andromeda EA Bypass - 1238000",
+    "game": "Mass Effect™: Andromeda",
+    "desc": "After patching, open game folder and run the game using MassEffectAndromeda.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Mass Effect™: Andromeda EA Bypass - 1238000\n\n- After patching, open game folder and run the game using MassEffectAndromeda.exe\n- do not run from steam, it will open EA.\n"
+  },
+  {
     "id": "added-occupy-mars-the-game-758690",
     "appId": 758690,
     "title": "Added Occupy Mars: The Game- 758690",
@@ -257,33 +285,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Digimon Story Time Stranger - 1984270\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/digimon-story-time-stranger-1984270_1499139332424859678.png)\n"
-  },
-  {
-    "id": "dragon-age-inquisition-denuv0-and-ea-bypass-1222690",
-    "appId": 1222690,
-    "title": "Dragon Age™ Inquisition DENUV0 and EA bypass - 1222690",
-    "game": "Dragon Age™ Inquisition DENUV0 and",
-    "desc": "run game from inside folder DragonAgeInquisition.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Dragon Age™ Inquisition DENUV0 and EA bypass - 1222690\n\n- run game from inside folder **DragonAgeInquisition.exe**\n- dont run from Steam\n"
-  },
-  {
-    "id": "echoes-of-elysium-online-patch-2644050",
-    "appId": 2644050,
-    "title": "Echoes of Elysium Online Patch  (2644050)",
-    "game": "Echoes of Elysium",
-    "desc": "try run from steam once patch or",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Echoes of Elysium Online Patch  (2644050)\n\ntry run from steam once patch or \nopen game folder & run from Elysium.exe\n"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "call-of-duty-modern-warfare-4-4435490",
+    "appId": 4435490,
+    "title": "Call of Duty: Modern Warfare 4 - 4435490",
+    "game": "Call of Duty: Modern Warfare 4",
+    "desc": "This game is single player campaign only, so don't request for multiplayer",
+    "tags": [
+      "bypass",
+      "coop"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-10-18"
+  },
+  {
     "id": "ds4-auto-setup",
     "appId": null,
     "title": "DS4 auto setup",
@@ -50,6 +64,20 @@
     "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-10-12"
+  },
+  {
+    "id": "general-knowledge",
+    "appId": null,
+    "title": "#General Knowledge",
+    "game": "General Knowledge",
+    "desc": "If you use other controller other than Xbox Controller wired or wireless, if the game doesnt detect, download DS4Windows https://ds4windows.com/download/ryochan",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-10-11"
   },
   {
     "id": "general-knowledge",

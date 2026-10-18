@@ -1,5 +1,33 @@
 [
   {
+    "id": "star-wars-battlefront-1237980",
+    "appId": 1237980,
+    "title": "STAR WARS™ Battlefront™ Bypass",
+    "game": "STAR WARS™ Battlefront™",
+    "desc": "STAR WARS™ Battlefront™ Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# STAR WARS™ Battlefront™ Bypass\n\n# STAR WARS™ Battlefront™ Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "mass-effect-andromeda-1238000",
+    "appId": 1238000,
+    "title": "Mass Effect™: Andromeda Bypass",
+    "game": "Mass Effect™: Andromeda",
+    "desc": "Mass Effect™: Andromeda Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Mass Effect™: Andromeda Bypass\n\n# Mass Effect™: Andromeda Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "dead-space-3-1238060",
     "appId": 1238060,
     "title": "Dead Space™ 3 Bypass",
@@ -250,33 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Escape from Kyoto House Bypass\n\n# Escape from Kyoto House Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "nioh-2-the-complete-edition-1325200",
-    "appId": 1325200,
-    "title": "Nioh 2 – The Complete Edition Online Fix",
-    "game": "Nioh 2 – The Complete Edition",
-    "desc": "Nioh 2 – The Complete Edition Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Nioh 2 – The Complete Edition Online Fix\n\n# Nioh 2 – The Complete Edition Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "sons-of-the-forest-1326470",
-    "appId": 1326470,
-    "title": "Sons Of The Forest Online Fix",
-    "game": "Sons Of The Forest",
-    "desc": "Sons Of The Forest Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Sons Of The Forest Online Fix\n\n# Sons Of The Forest Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

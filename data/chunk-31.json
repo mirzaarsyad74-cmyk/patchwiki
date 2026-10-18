@@ -1,5 +1,33 @@
 [
   {
+    "id": "diablo-ii-2536520-updated-instruction",
+    "appId": 2536520,
+    "title": "Diablo II (2536520) Updated Instruction",
+    "game": "Diablo II",
+    "desc": "updated diablo bypass patch",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# Diablo II (2536520) Updated Instruction\n\nupdated diablo bypass patch\n\n-Run the game ONETIME from WannabeLauncher.exe in game directory.\n-Next time can play the game directly from the Steam.\n-If the game stuck on \"Playing\" on steam;\n-Run  WannabeLauncher.exe or just delete steam_api64.dll from the Diablo II directories.\n"
+  },
+  {
+    "id": "mafia-the-old-country-1941540",
+    "appId": 1941540,
+    "title": "Mafia : The Old Country - 1941540",
+    "game": "Mafia : The Old Country",
+    "desc": "2. Go to \"Game Auto Update\" in SUO inside Tools",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# Mafia : The Old Country - 1941540\n\n1. Unlock Game from SUO\n2. Go to \"Game Auto Update\" in SUO inside Tools\n3. Click Smart Apply\n4. Download Game in Steam\n5. Apply Bypass Game\n6. Play from Steam\n\n---\n\n<:5726toothymaw:1239134161835655198>\n"
+  },
+  {
     "id": "need-for-speed-unbound-1846380",
     "appId": 1846380,
     "title": "Need for Speed™ Unbound - 1846380",
@@ -264,35 +292,5 @@
     "version": "1.0",
     "date": "2026-04-30",
     "content": "\n# Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles - 1490890\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-2928600",
-    "appId": 2928600,
-    "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 - 2928600",
-    "game": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 - 2928600\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "elden-ring-guide-1245620",
-    "appId": 1245620,
-    "title": "ELDEN Ring Guide - 1245620",
-    "game": "ELDEN Ring",
-    "desc": "Go to game installation folder",
-    "tags": [
-      "coop"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# ELDEN Ring Guide - 1245620\n\n- Go to game installation folder\n- Run as administrator `ersc_launcher.exe` inside the folder `ELDEN RING/Game`\n**How to play with friends**\n- Go through the prologue. (you need to get to the first place of grace and activate it) \n***Connection: Go to the inventory***\n- Use the item Effigy of Malenia. You will be automatically connected to the host.\n***Server creation:***\n- Go to inventory. Use the Tiny Great Pot item. Waiting for friends to connect\n\n# NOTES: \nDEFAULT CO-OP PASSWORD IS **suo_elden**\n\n---\n\nUpdate Seamless co-op to 1.9.9\n\n---\n\nStep by step on how to play Seamless Coop with Mods using mod engine 2\n(DO NOT LAUNCH USING ERSC IF YOU WANT MOD, USE launchmod_eldenring.bat inside mod engine 2 folder):\n\n1. Download mod engine 2: https://github.com/soulsmods/ModEngine2/releases/tag/release-2.1.0\n\n2. Extract to any location,preferably, inside Elden Ring for Easier searching\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526087303339049000.png)\n\n---\n\n3. Inside mods engine folder, create a folder called dlls\n\n---\n\nthis will be the place we put any mods with dll extension\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526087776867717201.png)\n\n---\n\nexample of QOL mods:\n\n---\n\nTransmogrify Armor, Glorious merchant, Quest Log\n\n---\n\n4. Open the file called config_eldenring.toml\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526088288744636516.png)\n\n---\n\n5. Edit the line external dlls line\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526089029022519407.png)\n\n---\n\nthe line depends on your location and mods installed,example:\n\nexternal_dlls = [\n    \"dlls/ermerchant.dll\",\n    \"dlls/ertransmogrify.dll\",\n    \"dlls/erquestlog.dll\",\n    \"F:\\\\SteamLibrary\\\\steamapps\\\\common\\\\ELDEN RING\\\\Game\\\\SeamlessCoop\\\\ersc.dll\",\n]\n\none line always stay for seamless coop which is\nD:\\\\SteamLibrary\\\\steamapps\\\\common\\\\ELDEN RING\\\\Game\\\\SeamlessCoop\\\\ersc.dll\",\n\nif you install Elden Ring at C, it will be C,if D if will be D, and vice versa\n\n---\n\nmost mods will also tell you how to install them\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526089317964054609.png)\n\n---\n\nLast, run the bat file to launch the games with mods\n\n---\n\n![Attached Image](assets/elden-ring-guide-1245620_1526089484720930916.png)\n"
   }
 ]

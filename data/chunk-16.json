@@ -1,5 +1,33 @@
 [
   {
+    "id": "mimesis-2827200",
+    "appId": 2827200,
+    "title": "MIMESIS Online Fix",
+    "game": "MIMESIS",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# MIMESIS Online Fix\n\n# MIMESIS Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "the-forever-winter-2828860",
+    "appId": 2828860,
+    "title": "The Forever Winter Online Fix",
+    "game": "The Forever Winter",
+    "desc": "The Forever Winter Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# The Forever Winter Online Fix\n\n# The Forever Winter Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "backrooms-extractions-2835530",
     "appId": 2835530,
     "title": "Backrooms: Extractions Bypass",
@@ -250,34 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Call of Duty® Bypass\n\n# Call of Duty® Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "broventure-the-wild-co-op-2939640",
-    "appId": 2939640,
-    "title": "Broventure: The Wild Co-op Online Fix",
-    "game": "Broventure: The Wild Co-op",
-    "desc": "Broventure: The Wild Co-op Online Fix",
-    "tags": [
-      "coop",
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Broventure: The Wild Co-op Online Fix\n\n# Broventure: The Wild Co-op Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "night-club-simulator-2943670",
-    "appId": 2943670,
-    "title": "Night Club Simulator Online Fix",
-    "game": "Night Club Simulator",
-    "desc": "Night Club Simulator Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Night Club Simulator Online Fix\n\n# Night Club Simulator Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "dying-light-239140",
+    "appId": 239140,
+    "title": "Dying Light Online Fix",
+    "game": "Dying Light",
+    "desc": "Dying Light Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Dying Light Online Fix\n\n# Dying Light Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "castlevania-lords-of-shadow-2-239250",
+    "appId": 239250,
+    "title": "Castlevania: Lords of Shadow 2 Online Fix",
+    "game": "Castlevania: Lords of Shadow 2",
+    "desc": "Castlevania: Lords of Shadow 2 Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Castlevania: Lords of Shadow 2 Online Fix\n\n# Castlevania: Lords of Shadow 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "capcom-fighting-collection-2-2400430",
     "appId": 2400430,
     "title": "Capcom Fighting Collection 2 Online Fix",
@@ -250,33 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# FATAL FURY: City of the Wolves Bypass\n\n# FATAL FURY: City of the Wolves Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "the-binding-of-isaac-rebirth-250900",
-    "appId": 250900,
-    "title": "The Binding of Isaac: Rebirth Online Fix",
-    "game": "The Binding of Isaac: Rebirth",
-    "desc": "The Binding of Isaac: Rebirth Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# The Binding of Isaac: Rebirth Online Fix\n\n# The Binding of Isaac: Rebirth Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "guardians-of-the-sanctree-2512930",
-    "appId": 2512930,
-    "title": "Guardians of the Sanctree Online Fix",
-    "game": "Guardians of the Sanctree",
-    "desc": "Guardians of the Sanctree Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Guardians of the Sanctree Online Fix\n\n# Guardians of the Sanctree Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

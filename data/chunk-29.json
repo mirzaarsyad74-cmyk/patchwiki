@@ -1,5 +1,33 @@
 [
   {
+    "id": "1222680-updated-steps-nfs-heat",
+    "appId": 533,
+    "title": "1222680 UPDATED STEPS NFS HEAT",
+    "game": "UPDATED STEPS NFS HEAT",
+    "desc": "Run game from suo ( Steam Unlock Onennabe)",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 1222680 UPDATED STEPS NFS HEAT\n\nAfter bypass the game \n\nRun game from suo ( Steam Unlock Onennabe) \n\nby choose . exe or .bat option from suo\n\n![Attached Image](assets/1222680-updated-steps-nfs-heat_1531172228933091438.png)\n\n---\n\n[Download 20260727-0533-45.3580558.mp4 (3.9 MB)](assets/1222680-updated-steps-nfs-heat_1531172946863980605.mp4)\n\n---\n\n1222680 UPDATED STEPS NFS HEAT\n"
+  },
+  {
+    "id": "1222730-star-wars-squadrons-ea-bypass",
+    "appId": 1222730,
+    "title": "1222730 STAR WARS: SQUADRONS EA BYPASS",
+    "game": "STAR WARS: SQUADRONS",
+    "desc": "After patching, open folder and start game using starwarssquadronslauncher.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 1222730 STAR WARS: SQUADRONS EA BYPASS\n\n-After patching, open folder and start game using starwarssquadrons_launcher.exe\n"
+  },
+  {
     "id": "1250410-microsoft-flight-simulator-2020",
     "appId": 2020,
     "title": "1250410 Microsoft Flight Simulator (2020)",
@@ -253,33 +281,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 1020790 NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS ONLINE PATCH\n\nThis also fix save game problem,\n-Controller, you have to fix it by pressing SHIFT TAB > Controller and then choose Gamepad template to be able to use your controller.\n"
-  },
-  {
-    "id": "1196590-resident-evil-village-fix",
-    "appId": 1196590,
-    "title": "1196590 RESIDENT EVIL VILLAGE FIX",
-    "game": "RESIDENT EVIL VILLAGE",
-    "desc": "Tutorial and guide for RESIDENT EVIL VILLAGE.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 1196590 RESIDENT EVIL VILLAGE FIX\n\nFix for failed save data\n\nStart game from Steam\n"
-  },
-  {
-    "id": "1237320-sonic-frontiers-bypass",
-    "appId": 1237320,
-    "title": "1237320 SONIC FRONTIERS BYPASS",
-    "game": "SONIC FRONTIERS",
-    "desc": "After bypass, run game from Steam",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 1237320 SONIC FRONTIERS BYPASS\n\nAfter bypass, run game from Steam\n"
   }
 ]

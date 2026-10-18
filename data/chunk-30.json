@@ -1,5 +1,33 @@
 [
   {
+    "id": "1196590-resident-evil-village-fix",
+    "appId": 1196590,
+    "title": "1196590 RESIDENT EVIL VILLAGE FIX",
+    "game": "RESIDENT EVIL VILLAGE",
+    "desc": "Tutorial and guide for RESIDENT EVIL VILLAGE.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# 1196590 RESIDENT EVIL VILLAGE FIX\n\nFix for failed save data\n\nStart game from Steam\n"
+  },
+  {
+    "id": "1237320-sonic-frontiers-bypass",
+    "appId": 1237320,
+    "title": "1237320 SONIC FRONTIERS BYPASS",
+    "game": "SONIC FRONTIERS",
+    "desc": "After bypass, run game from Steam",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# 1237320 SONIC FRONTIERS BYPASS\n\nAfter bypass, run game from Steam\n"
+  },
+  {
     "id": "1238840-battlefield-1-bypass",
     "appId": 1238840,
     "title": "1238840 BATTLEFIELD 1 BYPASS",
@@ -252,33 +280,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 916440 ANNO 1800 BYPASS\n\n-After patching, run the game from inside folder,\nBin/Win64/Anno1800.exe\n\nor try run from Steam\n"
-  },
-  {
-    "id": "diablo-ii-2536520-updated-instruction",
-    "appId": 2536520,
-    "title": "Diablo II (2536520) Updated Instruction",
-    "game": "Diablo II",
-    "desc": "updated diablo bypass patch",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# Diablo II (2536520) Updated Instruction\n\nupdated diablo bypass patch\n\n-Run the game ONETIME from WannabeLauncher.exe in game directory.\n-Next time can play the game directly from the Steam.\n-If the game stuck on \"Playing\" on steam;\n-Run  WannabeLauncher.exe or just delete steam_api64.dll from the Diablo II directories.\n"
-  },
-  {
-    "id": "mafia-the-old-country-1941540",
-    "appId": 1941540,
-    "title": "Mafia : The Old Country - 1941540",
-    "game": "Mafia : The Old Country",
-    "desc": "2. Go to \"Game Auto Update\" in SUO inside Tools",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# Mafia : The Old Country - 1941540\n\n1. Unlock Game from SUO\n2. Go to \"Game Auto Update\" in SUO inside Tools\n3. Click Smart Apply\n4. Download Game in Steam\n5. Apply Bypass Game\n6. Play from Steam\n\n---\n\n<:5726toothymaw:1239134161835655198>\n"
   }
 ]
