@@ -5,7 +5,7 @@ game: General Knowledge
 author: The Weekdys
 version: 1.0
 desc: If you use other controller other than Xbox Controller wired or wireless, if the game doesnt detect, download DS4Windows https://ds4windows.com/download/ryochan
-tags: online, bypass
+tags: online, bypass, drm
 date: 2026-10-11
 ---
 
@@ -25,6 +25,10 @@ Achievements is only local and not sync to your original steam.
 
 # Updating games with bypass/online patch/hypervisor
 Game with these tags will have lower chances getting update because once crack or hypervisor version of the game version, it is impossible to update the game, updating games mean crack will not work.
+
+# Error 54, 86, 6005432
+Use Steamless on the game, refer to the guide
+https://steamunlockonennabe.click/docs/library-tab/#steamless-remove-steam-drm
 
 ---
 
