@@ -1,5 +1,19 @@
 [
   {
+    "id": "anydesk",
+    "appId": null,
+    "title": "Anydesk",
+    "game": "Anydesk",
+    "desc": "🛠️ AnyDesk Reset & Toolkit",
+    "tags": [
+      "general"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-19",
+    "content": "\n# Anydesk\n\n# 🛠️ AnyDesk Reset & Toolkit\n\nA simple, lightweight utility to reset your AnyDesk ID, clean configuration caches, or download the latest official release.\n\n### 📌 What It Does\n- ⚡ **Reset AnyDesk ID**: Stops background processes/services and purges old cache files so AnyDesk generates a brand-new ID.\n- ⬇️ **Download Latest**: Automatically pulls the newest official `AnyDesk.exe` from anydesk.com with live progress.\n- 🚀 **Full Reset & Update**: One-click wipe + auto-download + instant launch with a fresh ID.\n\n---\n\n### 🚀 How to Use\n1. Run **`AnyDeskTool.exe`** (or `anydesk reset.bat`).\n2. Accept the **Run as Administrator** prompt when asked.\n3. Pick your option:\n   - Click **`Reset ID`** if you just need a new ID.\n   - Click **`Download`** if you need the latest AnyDesk executable.\n   - Click **`Reset & Update`** to wipe old data and launch the newest version.\n\n---\n\n### ⚙️ How It Works (Behind the Scenes)\n1. Safely shuts down running AnyDesk instances and the Windows background service.\n2. Deletes old identity tokens from:\n   - `C:\\ProgramData\\AnyDesk`\n   - `%APPDATA%\\AnyDesk`\n3. Restarts the service and launches AnyDesk, which registers as a brand new client.\n\n> ⚠️ **Note:** Resetting will clear your recent session history and saved favorites.\n\n![Attached Image](assets/anydesk_1561718913350238270.webp)\n\n---\n\n[Download AnyDeskTool.exe (0.0 MB)](assets/anydesk_1561718980207452271.exe)\n"
+  },
+  {
     "id": "call-of-duty-modern-warfare-4-4435490",
     "appId": 4435490,
     "title": "#Call of Duty: Modern Warfare 4 - 4435490",
@@ -12,7 +26,7 @@
     "author": "The Weekdys",
     "version": "1.0",
     "date": "2026-10-18",
-    "content": "\n# #Call of Duty: Modern Warfare 4 - 4435490\n\nThis game is single player campaign only, so don't request for multiplayer\n1. Add game from **1938090, CALL OF DUTY**.  https://cdn.discordapp.com/attachments/1561255960285155379/1561255961643982898/image.png?ex=6ad5b06b&is=6ad45eeb&hm=f806708332f83de5beb908f085cf95a5c4ec69ccd664bcae81d2cb7ee15fb547&\n2. In Steam, you have to manually select only Call of Duty: Modern Warfare 4 only, others no need. Unless you want to play Black OPS 6 campaign too. https://cdn.discordapp.com/attachments/1561255960285155379/1561255961191121026/image.png?ex=6ad5b06b&is=6ad45eeb&hm=1a754ef75c071bdafc3b3f0b703a48158a880917c609789023b0b8a72a20a234&\n3. Download the game\n4. Click Bypass Game\n5. Once completed, run the game from !start_sp26.bat https://cdn.discordapp.com/attachments/1561255960285155379/1561255962109542430/image.png?ex=6ad5b06c&is=6ad45eec&hm=831c56cccf329f5865c9c170d9a0a4df065708a671d96b69afa6cb79d1618756&\n\n![Attached Image](assets/call-of-duty-modern-warfare-4-4435490_1561255960704589975.png)\n\n\n![Attached Image](assets/call-of-duty-modern-warfare-4-4435490_1561255961191121026.png)\n\n\n![Attached Image](assets/call-of-duty-modern-warfare-4-4435490_1561255961643982898.png)\n\n\n![Attached Image](assets/call-of-duty-modern-warfare-4-4435490_1561255962109542430.png)\n\n---\n\nCall of Duty: Modern Warfare 4 - 4435490\n\n---\n\nGot these problems???\n\n### 🛠️ Steam Download & Game Fix Guide\n\nHey everyone! If you're running into issues, follow these steps carefully to get it sorted:\n\n**Step 1️⃣: Redownload from Server**\n* Open Steam Unlock > library > **1938090, CALL OF DUTY**  and click **Redownload from server**.\n\n**Step 2️⃣: Clear Download Cache**\n* Open **Steam Unlock**, go to **Tools**, and select **Clear Steam download cache**\n* Wait a moment for it to finish updating.\n\n**Step 3️⃣: Bypass Again**\n* Perform the **bypass** step once more.\n\n**Step 4️⃣: Launch from Folder**\n* Finally, navigate directly to the game's folder and try launching the game from there (!start_sp26.bat)\n\n![Attached Image](assets/call-of-duty-modern-warfare-4-4435490_1561422734716571738.webp)\n\n---\n\n#Call of Duty: Modern Warfare 4 - 4435490\n"
+    "content": "\n# #Call of Duty: Modern Warfare 4 - 4435490\n\nThis game is single player campaign only, so don't request for multiplayer\n1. Add game from **1938090, CALL OF DUTY**.  https://cdn.discordapp.com/attachments/1561255960285155379/1561255961643982898/image.png?ex=6ad5b06b&is=6ad45eeb&hm=f806708332f83de5beb908f085cf95a5c4ec69ccd664bcae81d2cb7ee15fb547&\n2. In Steam, you have to manually select only Call of Duty: Modern Warfare 4 only, others no need. Unless you want to play Black OPS 6 campaign too. https://cdn.discordapp.com/attachments/1561255960285155379/1561255961191121026/image.png?ex=6ad5b06b&is=6ad45eeb&hm=1a754ef75c071bdafc3b3f0b703a48158a880917c609789023b0b8a72a20a234&\n3. Download the game\n4. Click Bypass Game\n5. Once completed, run the game from !start_sp26.bat https://cdn.discordapp.com/attachments/1561255960285155379/1561255962109542430/image.png?ex=6ad5b06c&is=6ad45eec&hm=831c56cccf329f5865c9c170d9a0a4df065708a671d96b69afa6cb79d1618756&\n\n![Attached Image](assets/call-of-duty-modern-warfare-4-4435490_1561255960704589975.png)\n\n\n![Attached Image](assets/call-of-duty-modern-warfare-4-4435490_1561255961191121026.png)\n\n\n![Attached Image](assets/call-of-duty-modern-warfare-4-4435490_1561255961643982898.png)\n\n\n![Attached Image](assets/call-of-duty-modern-warfare-4-4435490_1561255962109542430.png)\n\n---\n\nCall of Duty: Modern Warfare 4 - 4435490\n\n---\n\nGot these problems???\n\n### 🛠️ Steam Download & Game Fix Guide\n\nHey everyone! If you're running into issues, follow these steps carefully to get it sorted:\n\n**Step 1️⃣: Redownload from Server**\n> Open Steam Unlock > library > **1938090, CALL OF DUTY** and click **Redownload from server**.\n\n**Step 2️⃣: Clear Download Cache**\n> Open **Steam Unlock**, go to **Tools**, and select **Clear Steam download cache**\n> Wait a moment for it to finish updating.\n\n**Step 3️⃣: Bypass Again**\n> Perform the **bypass** step once more.\n\n**Step 4️⃣: Launch from Folder**\n> Finally, navigate directly to the game's folder and try launching the game from there (`!start_sp26.bat`)\n\n> ⚠️ **If clicking the `.bat` file does nothing or doesn't popup:**\n> Please run **`!start_sp26.bat`** as administrator!\n\n![Attached Image](assets/call-of-duty-modern-warfare-4-4435490_1561422734716571738.webp)\n\n---\n\n#Call of Duty: Modern Warfare 4 - 4435490\n\n---\n\nnote from dev\n\n> On v1 release, i forgot to re-add a static SteamID into configs.user.ini which causes the emu (or the game) to regenerate random SteamID upon game exit that causes the existing save files to not get loaded on the next game boot. Re-adding it back in v2 fixes it.\n> \n> But if you've already progressed enough in the campaign and want to restore your old progress without starting over, then follow this steps:\n> \n> - Navigate to \"C:\\Users\\<username>\\AppData\\Local\\Activision\\Call of Duty\\players\"\n> - Take a note of the SteamID of the numbered folder (the oldest created) that contains your already existing save files\n> - Open configs.user.ini in both \"sp26\\steam_settings\\\" and \"sp26\\steam_settings\\local_saves\\settings\\\" and put the SteamID that you've noted earlier on \"account_steamid\"\n> - Done\n\n---\n\n### 📥 How to Restore Your Old Save Files\n\n**Step 1: Locate your save folder**\nHead over to this directory on your PC:\n`C:\\Users\\<username>\\AppData\\Local\\Activision\\Call of Duty\\players`\n\n**Step 2: Find your original SteamID**\nLook through the numbered folders inside and find the **oldest created folder**. The folder name is your original **SteamID**—make a note of it!\n\n**Step 3: Update your config files**\nOpen `configs.user.ini` in **both** of these locations using any text editor (like Notepad):\n1. `sp26\\steam_settings\\`\n2. `sp26\\steam_settings\\local_saves\\settings\\`\n\nFind the line reading `account_steamid` and replace it with the **SteamID** you noted down in Step 2. Save the files.\n\n**Step 4: You're all set!**\nBoot up the game, and your campaign progress should load right back up. Let us know if you run into any issues! 🎮✨\n\n---\n\nTutorial Install\n\nhttps://vt.tiktok.com/ZSgkjb1Vr\n\nCredit to: <@596720616195883010>\n"
   },
   {
     "id": "call-of-duty-modern-warfare-4-4435490",
@@ -279,19 +293,5 @@
     "version": "1.0",
     "date": "2026-08-18",
     "content": "\n# Halo: Campaign Evolved Bypass : 2806050\n\nInstructions:-\n\n1) Download the game from Steam.\n\n2) Click Bypass Game in Steam Unlock.\n\n3)  Launch the game normally.\n\nEnjoy!\n"
-  },
-  {
-    "id": "need-for-speed-undercover-17430",
-    "appId": 17430,
-    "title": "Need for Speed: Undercover - 17430",
-    "game": "Need for Speed: Undercover",
-    "desc": "Bypass the game, run game from folder or SUO choose .exe, run from nfs.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-08-17",
-    "content": "\n# Need for Speed: Undercover - 17430\n\nBypass the game, run game from folder or SUO choose .exe, run from **nfs.exe**\n"
   }
 ]

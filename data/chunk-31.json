@@ -1,5 +1,19 @@
 [
   {
+    "id": "633230-naruto-to-boruto-shinobi-striker",
+    "appId": 633230,
+    "title": "633230 NARUTO TO BORUTO: SHINOBI STRIKER",
+    "game": "NARUTO TO BORUTO: SHINOBI STRIKER",
+    "desc": "After bypass, open game folder and run game from SmartSteamLoaderx64.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# 633230 NARUTO TO BORUTO: SHINOBI STRIKER\n\nAfter bypass, open game folder and run game from SmartSteamLoader_x64.exe\nPlay offline\n"
+  },
+  {
     "id": "916440-anno-1800-bypass",
     "appId": 916440,
     "title": "916440 ANNO 1800 BYPASS",
@@ -276,19 +290,5 @@
     "version": "1.0",
     "date": "2026-04-30",
     "content": "\n# Added Monster Hunter: World Online- 582010\n\n- After patch, open game folder and run the game via Launcher.exe\n"
-  },
-  {
-    "id": "battlefield-6-2807960",
-    "appId": 2807960,
-    "title": "Battlefield 6 - 2807960",
-    "game": "Battlefield 6",
-    "desc": "Enter the game folder, you can use \"Downloaded Game\" button.",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# Battlefield 6 - 2807960\n\n- After install game\n- Enter the game folder, you can use \"Downloaded Game\" button.\n - go inside folder Battlefield 6/SP/bf6.exe\n- Launch game from bf6.exe\n\nor \n\nUse Steam Unlock Onennabe and open the game panel. Click Play > Choose EXE > choose the bf6.exe that is located in SP/bf6.exe\n\n![Attached Image](assets/battlefield-6-2807960_1499284193539260557.png)\n\n---\n\n![Attached Image](assets/battlefield-6-2807960_1501181242626805791.png)\n"
   }
 ]

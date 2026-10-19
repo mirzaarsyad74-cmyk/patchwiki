@@ -1,5 +1,20 @@
 [
   {
+    "id": "dirt-4-online-patch-421020",
+    "appId": 421020,
+    "title": "DiRT 4 online patch - 421020",
+    "game": "DiRT 4",
+    "desc": "Finish the prologue tutorial.",
+    "tags": [
+      "online",
+      "coop"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# DiRT 4 online patch - 421020\n\n- Finish the prologue tutorial.\n- Once finish, exit the academy, go to events\n- select Multiplayer > Jam Sessions\n- Friend join the lobby created.\n\n![Attached Image](assets/dirt-4-online-patch-421020_1498981715014844519.png)\n"
+  },
+  {
     "id": "digimon-story-time-stranger-1984270",
     "appId": 1984270,
     "title": "Digimon Story Time Stranger - 1984270",
@@ -274,20 +289,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Stellar Blade™ - 3489700\n\n1. Download game Stellar Blade from Steam\n2. Click Bypass Game in Steam Unlock\n3. Open from Steam Unlock, click PLAY, choose exe\n\nor \n\nPLAY from Steam\n\n![Attached Image](assets/stellar-blade-3489700_1499121313757925406.png)\n"
-  },
-  {
-    "id": "the-rogue-prince-of-persia-bypass-ubisoft-2717880",
-    "appId": 2717880,
-    "title": "The Rogue Prince of Persia Bypass ubisoft (2717880)",
-    "game": "The Rogue Prince of Persia ubisoft",
-    "desc": "Run game from steam upon patch",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# The Rogue Prince of Persia Bypass ubisoft (2717880)\n\n-Run game from steam upon patch\n"
   }
 ]

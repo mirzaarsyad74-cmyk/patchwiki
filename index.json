@@ -1,5 +1,18 @@
 [
   {
+    "id": "anydesk",
+    "appId": null,
+    "title": "Anydesk",
+    "game": "Anydesk",
+    "desc": "🛠️ AnyDesk Reset & Toolkit",
+    "tags": [
+      "general"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-19"
+  },
+  {
     "id": "call-of-duty-modern-warfare-4-4435490",
     "appId": 4435490,
     "title": "#Call of Duty: Modern Warfare 4 - 4435490",

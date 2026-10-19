@@ -1,5 +1,20 @@
 [
   {
+    "id": "crimson-desert-3321460-2419900",
+    "appId": 2419900,
+    "title": "Crimson Desert - 3321460",
+    "game": "Crimson Desert",
+    "desc": "Crimson Desert - 3321460",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "Kaunter Pertanyaan",
+    "version": "1.0",
+    "date": "2026-08-05",
+    "content": "\n# Crimson Desert - 3321460\n\n# Crimson Desert - 3321460\nUsing Crack: Voices38\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
+  },
+  {
     "id": "assassin-s-creed-shadows-assassin-s-creed-shadows",
     "appId": 3159330,
     "title": "A guide to play Assassin's Creed Shadow",
@@ -270,20 +285,5 @@
     "version": "1.0",
     "date": "2026-07-15",
     "content": "\n# Unravel Two - 1225570\n\nAfter installation complete.\nClick Online Patch, then do below steps, make sure steam is running.\n\n**Activating Steam Remote Play**\n1. Press Windows + R ; \n2. Copy ```steam://install/349620```\nand then paste the text field and click OK ; \n3. Start installing BlastZone 2 Demo for a couple of seconds, stop and delete; \n4. Open Folder and then Launch the game from UnravelTwo.exe\n"
-  },
-  {
-    "id": "wild-hearts-1938010",
-    "appId": 1938010,
-    "title": "WILD HEARTS - 1938010",
-    "game": "WILD HEARTS",
-    "desc": "1. Unlock game as usual from Steam Unlock",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-07-13",
-    "content": "\n# WILD HEARTS - 1938010\n\n1. Unlock game as usual from Steam Unlock\n2. From Steam Unlock > Tools > Game Auto Update > Open > Smart Apply\n3. Download game from Steam\n4. Bypass Game\n**\nHow to play**\n1. **MAKE SURE EA APP IS CLOSE OR SHUT IT DOWN**\n2. From Steam Unlock > Library > Play > Choose .exe > choose **WILD HEARTS.exe**\n\n![Attached Image](assets/wild-hearts-1938010_1526166791343313028.png)\n\n---\n\n**Karakuri Edition + preorder unlock**\n1. Download the save game attached\n2. Open WIN + R, copy below\n```shell:personal\\KoeiTecmo```\n3. Paste into the text field, press Enter\n4. Open the KoeiTecmo.rar, drag and drop **KoeiTecmo** inside the .rar into the opened Documents folder from step 3.\n5. Replaced if prompted.\n6. Start Game.\n\n[Download KoeiTecmo.rar (0.0 MB)](assets/wild-hearts-1938010_1526169537496748152.rar)\n\n\n![Attached Image](assets/wild-hearts-1938010_1526169537798475786.png)\n"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "added-denu-bypass-for-doom-the-dark-ages-3017860",
+    "appId": 3017860,
+    "title": "Added DENU bypass for Doom: The Dark Ages - 3017860",
+    "game": "Doom: The Dark Ages",
+    "desc": "Run game from steam upon bypass game done",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added DENU bypass for Doom: The Dark Ages - 3017860\n\n- Run game from steam upon bypass game done\n"
+  },
+  {
     "id": "added-earth-defense-force-6-2291060",
     "appId": 2291060,
     "title": "Added Earth Defense Force 6- 2291060",
@@ -269,20 +283,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Crimson Desert - 3321460\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/crimson-desert-3321460_1499035872069419008.png)\n\n\n![Attached Image](assets/crimson-desert-3321460_1499035873050759198.png)\n\n---\n\n<:5726toothymaw:1239134161835655198>\n\n---\n\nUsing Crack: Voices38\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
-  },
-  {
-    "id": "dirt-4-online-patch-421020",
-    "appId": 421020,
-    "title": "DiRT 4 online patch - 421020",
-    "game": "DiRT 4",
-    "desc": "Finish the prologue tutorial.",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# DiRT 4 online patch - 421020\n\n- Finish the prologue tutorial.\n- Once finish, exit the academy, go to events\n- select Multiplayer > Jam Sessions\n- Friend join the lobby created.\n\n![Attached Image](assets/dirt-4-online-patch-421020_1498981715014844519.png)\n"
   }
 ]

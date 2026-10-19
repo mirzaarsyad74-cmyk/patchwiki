@@ -1,5 +1,19 @@
 [
   {
+    "id": "max-payne-3-204100",
+    "appId": 204100,
+    "title": "Max Payne 3 Bypass",
+    "game": "Max Payne 3",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Max Payne 3 Bypass\n\n# Max Payne 3 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "resident-evil-4-2050650",
     "appId": 2050650,
     "title": "Resident Evil 4 Bypass",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Resident Evil 5 Bypass\n\n# Resident Evil 5 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "worms-armageddon-217200",
-    "appId": 217200,
-    "title": "Worms Armageddon Online Fix",
-    "game": "Worms Armageddon",
-    "desc": "Worms Armageddon Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Worms Armageddon Online Fix\n\n# Worms Armageddon Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]
