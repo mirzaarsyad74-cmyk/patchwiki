@@ -1,5 +1,20 @@
 [
   {
+    "id": "assassin-s-creed-shadows-assassin-s-creed-shadows",
+    "appId": 3159330,
+    "title": "A guide to play Assassin's Creed Shadow",
+    "game": "Assassin's Creed Shadows",
+    "desc": "A guide to play Assassin's Creed Shadow",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "yuumi",
+    "version": "1.0",
+    "date": "2026-08-05",
+    "content": "\n# A guide to play Assassin's Creed Shadow\n\n# A guide to play Assassin's Creed Shadow\n> ⚠️ **Warning:** If you ever use Hypervisor version of the game, please go to Steam Unlock Onennabe -> Library -> REMOVE HYPERVISOR PATCH first\n\n## **PLEASE MAKE SURE TO TURN ON SMART APPLY BY HEADING TO TOOLS > GAME AUTO UPDATE + REAL TIME PROTECTION IS DISABLED**\n\n1. In Steam Unlock Onennabe click `Unlock Game`\n2. Install the game in Steam\n3. Then in Steam Unlock Onennabe -> Library -> click on `Bypass Game`\n4. Press the `Bypass Game` again after its added to exclusion\n5. Play the game from Steam Unlock > Choose .exe.\n"
+  },
+  {
     "id": "monster-hunter-stories-2-wings-of-ruin-1277400",
     "appId": 1277400,
     "title": "1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN",
@@ -270,21 +285,5 @@
     "version": "1.0",
     "date": "2026-07-13",
     "content": "\n# WILD HEARTS - 1938010\n\n1. Unlock game as usual from Steam Unlock\n2. From Steam Unlock > Tools > Game Auto Update > Open > Smart Apply\n3. Download game from Steam\n4. Bypass Game\n**\nHow to play**\n1. **MAKE SURE EA APP IS CLOSE OR SHUT IT DOWN**\n2. From Steam Unlock > Library > Play > Choose .exe > choose **WILD HEARTS.exe**\n\n![Attached Image](assets/wild-hearts-1938010_1526166791343313028.png)\n\n---\n\n**Karakuri Edition + preorder unlock**\n1. Download the save game attached\n2. Open WIN + R, copy below\n```shell:personal\\KoeiTecmo```\n3. Paste into the text field, press Enter\n4. Open the KoeiTecmo.rar, drag and drop **KoeiTecmo** inside the .rar into the opened Documents folder from step 3.\n5. Replaced if prompted.\n6. Start Game.\n\n[Download KoeiTecmo.rar (0.0 MB)](assets/wild-hearts-1938010_1526169537496748152.rar)\n\n\n![Attached Image](assets/wild-hearts-1938010_1526169537798475786.png)\n"
-  },
-  {
-    "id": "echoes-of-aincrad-2244210",
-    "appId": 2244210,
-    "title": "Echoes of Aincrad - 2244210",
-    "game": "Echoes of Aincrad",
-    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-07-11",
-    "content": "\n# Echoes of Aincrad - 2244210\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n\n![Attached Image](assets/echoes-of-aincrad-2244210_1525388083485212772.webp)\n"
   }
 ]

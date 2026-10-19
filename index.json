@@ -2,6 +2,20 @@
   {
     "id": "call-of-duty-modern-warfare-4-4435490",
     "appId": 4435490,
+    "title": "#Call of Duty: Modern Warfare 4 - 4435490",
+    "game": "Call of Duty: Modern Warfare 4",
+    "desc": "This game is single player campaign only, so don't request for multiplayer",
+    "tags": [
+      "bypass",
+      "coop"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-10-18"
+  },
+  {
+    "id": "call-of-duty-modern-warfare-4-4435490",
+    "appId": 4435490,
     "title": "Call of Duty: Modern Warfare 4 - 4435490",
     "game": "Call of Duty: Modern Warfare 4",
     "desc": "This game is single player campaign only, so don't request for multiplayer",
@@ -73,7 +87,8 @@
     "desc": "If you use other controller other than Xbox Controller wired or wireless, if the game doesnt detect, download DS4Windows https://ds4windows.com/download/ryochan",
     "tags": [
       "online",
-      "bypass"
+      "bypass",
+      "drm"
     ],
     "author": "The Weekdys",
     "version": "1.0",

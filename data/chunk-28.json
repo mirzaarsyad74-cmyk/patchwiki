@@ -1,5 +1,20 @@
 [
   {
+    "id": "inazuma-eleven-victory-road-2799860",
+    "appId": 2799860,
+    "title": "INAZUMA ELEVEN: Victory Road - 2799860",
+    "game": "INAZUMA ELEVEN: Victory Road",
+    "desc": "After online patch, open game folder, find game .exe via SUO, choose nie.exe",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-06-05",
+    "content": "\n# INAZUMA ELEVEN: Victory Road - 2799860\n\nAfter online patch, open game folder, find game .exe via SUO, choose nie.exe\n\nOnline Patch the game, after online patch, fix the controller doing the below method.\n\n\nFor those having controller issues, this video worked for me: https://youtu.be/RRcKSSXUdJQ\nThe key was copying steam_action_manifest.vdf instead of steam_input_manifast.vdf AND Mapping spacewar buttons with your controller.\n"
+  },
+  {
     "id": "f1-25-3059520",
     "appId": 3059520,
     "title": "F1 25 - 3059520",
@@ -276,19 +291,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 1114150 CARX STREET BYPASS UPDATE 1.10.1\n\n-After patching, open game folder and run the game from CarX Street.exe\n"
-  },
-  {
-    "id": "1134570-f1-2021-bypass-denuv",
-    "appId": 1134570,
-    "title": "1134570 F1 2021 BYPASS DENUV",
-    "game": "F1 2021 DENUV",
-    "desc": "Tutorial and guide for F1 2021 DENUV.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 1134570 F1 2021 BYPASS DENUV\n\nrun game from steam\n"
   }
 ]

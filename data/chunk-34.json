@@ -1,5 +1,20 @@
 [
   {
+    "id": "digimon-story-time-stranger-1984270",
+    "appId": 1984270,
+    "title": "Digimon Story Time Stranger - 1984270",
+    "game": "Digimon Story Time Stranger",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Digimon Story Time Stranger - 1984270\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/digimon-story-time-stranger-1984270_1499139332424859678.png)\n"
+  },
+  {
     "id": "dragon-age-inquisition-denuv0-and-ea-bypass-1222690",
     "appId": 1222690,
     "title": "Dragon Age™ Inquisition DENUV0 and EA bypass - 1222690",
@@ -274,19 +289,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# The Rogue Prince of Persia Bypass ubisoft (2717880)\n\n-Run game from steam upon patch\n"
-  },
-  {
-    "id": "the-sims4-dlc-unlocker-1222670",
-    "appId": 1222670,
-    "title": "The Sims4 (DLC Unlocker) - 1222670",
-    "game": "The Sims4 (DLC Unlocker)",
-    "desc": "After patching, open the game installation folder,",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# The Sims4 (DLC Unlocker) - 1222670\n\nHow to use?\n-After patching, open the game installation folder,\n-Open EA DLC UNLOCKER V2,\n-Run Setup.bat,\n-choose option 1,\n-then choose option 2, then choose 1,\n-choose Q,\n-Run the game normally, your DLC should be unlocked\n\n---\n\n• **Add Sims 4 from steam** is freegame\n• **Download sims 4 from steam**\n• Download EA from official website and login/register\n• **Add Sims 4 from suo and bypass**\n• Unlock game Auto Update ( suo > tools > game auto update > Find Sims 4 and Enable)\n• Open Sims 4 game folder find  folder \"EA DLC Unlocker V2\"\n• Run setup.bat, choose 1 and choose 2 then q\n• Open steam > library >  Sims 4 should show update(Download DLC)\n\n---\n\nThe Sims4 (DLC Unlocker) - 1222670\n"
   }
 ]
