@@ -40,18 +40,19 @@ date: 2026-10-20
 * **🛡️ Safety Restore Points**
   * One-click Windows System Restore snapshot of BCD and registry settings.
 
-* **📦 Integrated SUO Installer**
-  * Direct GitHub installer for Steam Unlock ONENNABE with live download progress.
-
 
 ### 💾 How to Run
 1. Download **`hv1.5.0.exe`**
 2. Right-click and choose **Run as administrator**.
 
----
-
-[Download hv1.5.0.exe (1.8 MB)](assets/hv-tools-legacy_1562152284320825415.exe)
+![Attached Image](assets/hv-tools-legacy_1562189015199907891.png)
 
 ---
 
-![Attached Image](assets/hv-tools-legacy_1562152676052041858.png)
+Just press "1-click Auto Setup" and restart
+
+[Download HVBypassTool.exe (1.7 MB)](assets/hv-tools-legacy_1562189436559827014.exe)
+
+---
+
+``bcdedit /import C:\HV_BCD_Backup.bcd /clean`` Just in case need restore boot at Troubleshoot ➔ Advanced options ➔ Command Prompt
