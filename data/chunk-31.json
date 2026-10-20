@@ -1,5 +1,19 @@
 [
   {
+    "id": "55150-bypass-for-warhammer-40k-space-marine-anniversary-edition",
+    "appId": 55150,
+    "title": "55150 bypass for Warhammer 40k Space Marine Anniversary Edition",
+    "game": "Warhammer 40k Space Marine Anniversary Edition",
+    "desc": "Make sure turn off antivirus, the crack is detected heavily by win defender",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# 55150 bypass for Warhammer 40k Space Marine Anniversary Edition\n\n-Make sure turn off antivirus, the crack is detected heavily by win defender\n\n-After patch, run game from Steam\n"
+  },
+  {
     "id": "55230-bypass-for-saints-row-the-third",
     "appId": 55230,
     "title": "55230 BYPASS FOR SAINTS ROW THE THIRD",
@@ -276,19 +290,5 @@
     "version": "1.0",
     "date": "2026-04-30",
     "content": "\n# (629820) MANEATER DENUV BYPASS\n\n-run game from steam,\n-if cant run from steam, run from binaries/win64 folder,\n-if can, means its only compatible with WIN 11\n"
-  },
-  {
-    "id": "637100-sonic-forces-denuv-bypass",
-    "appId": 637100,
-    "title": "(637100) SONIC FORCES DENUV BYPASS",
-    "game": "SONIC FORCES",
-    "desc": "Tutorial and guide for SONIC FORCES.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (637100) SONIC FORCES DENUV BYPASS\n\n-run game from steam\n"
   }
 ]

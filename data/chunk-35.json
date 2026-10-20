@@ -1,5 +1,19 @@
 [
   {
+    "id": "star-wars-jedi-survivor-1774580",
+    "appId": 1774580,
+    "title": "STAR WARS Jedi: Survivor™ - 1774580",
+    "game": "STAR WARS Jedi: Survivor™",
+    "desc": "open SwGame/Binaries/Win64",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# STAR WARS Jedi: Survivor™ - 1774580\n\n- after patch, open folder\n- open SwGame/Binaries/Win64\n- run game from JediSurvivor.exe\n"
+  },
+  {
     "id": "stellar-blade-3489700",
     "appId": 3489700,
     "title": "Stellar Blade™ - 3489700",

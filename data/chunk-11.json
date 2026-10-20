@@ -1,5 +1,19 @@
 [
   {
+    "id": "omega-crafter-2262080",
+    "appId": 2262080,
+    "title": "Omega Crafter Online Fix",
+    "game": "Omega Crafter",
+    "desc": "Omega Crafter Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Omega Crafter Online Fix\n\n# Omega Crafter Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "platform-golf-2263920",
     "appId": 2263920,
     "title": "Multiplayer Platform Golf Bypass",
@@ -265,19 +279,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Path of Kung Fu Bypass\n\n# Path of Kung Fu Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "my-hero-academia-all-s-justice-2362050",
-    "appId": 2362050,
-    "title": "MY HERO ACADEMIA: All’s Justice Online Fix",
-    "game": "MY HERO ACADEMIA: All’s Justice",
-    "desc": "MY HERO ACADEMIA: All’s Justice Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# MY HERO ACADEMIA: All’s Justice Online Fix\n\n# MY HERO ACADEMIA: All’s Justice Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

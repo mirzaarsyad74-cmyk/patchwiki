@@ -1,5 +1,19 @@
 [
   {
+    "id": "the-sims-3-47890",
+    "appId": 47890,
+    "title": "The Sims 3 (47890)",
+    "game": "The Sims 3",
+    "desc": "Tutorial and guide for The Sims 3.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-09",
+    "content": "\n# The Sims 3 (47890)\n\n1. Click bypass \n2. Run **Run_Sims.exe**\n3. Enjoy the game\n\n![Attached Image](assets/the-sims-3-47890_1536015405955555408.png)\n"
+  },
+  {
     "id": "steep-460920",
     "appId": 460920,
     "title": "Steep - 460920",
@@ -271,19 +285,5 @@
     "version": "1.0",
     "date": "2026-07-18",
     "content": "\n# Assassin's Creed Shadows - 3159330\n\nIf you ever use Hypervisor version of the game, please go to **Steam Unlock Onennabe -> Library -> REMOVE HYPERVISOR PATCH** first\n\n1. Click Update Game or Unlock Game\n2. Install game in steam\n3. Then **Steam Unlock Onennabe -> Library -> Bypass Game\n4. Press 2nd time Bypass Game after it add to exclusion\n5. Play the game from Steam Unlock > Choose .exe.\n\n![Attached Image](assets/assassin-s-creed-shadows-3159330_1527925551627767898.png)\n"
-  },
-  {
-    "id": "ea-sports-college-football-27-4032350",
-    "appId": 4032350,
-    "title": "EA SPORTS™ College Football 27 - 4032350",
-    "game": "EA SPORTS™ College Football 27",
-    "desc": "\"Tools Game Auto Update  Smart Apply\" is completed",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-07-16",
-    "content": "\n# EA SPORTS™ College Football 27 - 4032350\n\nInstall Game, Make sure \n\"**Tools> Game Auto Update > Smart Apply**\" is completed\nApply Bypass Game from Library in SUO.\nPlay from SUO, choose exe and select CollegeFB27.exe\n\n![Attached Image](assets/ea-sports-college-football-27-4032350_1527179897452368004.png)\n"
   }
 ]

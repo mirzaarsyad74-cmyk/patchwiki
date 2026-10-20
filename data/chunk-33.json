@@ -1,5 +1,19 @@
 [
   {
+    "id": "added-cure-a-hospital-simulator-online-patch-2786550",
+    "appId": 2786550,
+    "title": "Added CURE - A Hospital Simulator online patch (2786550)",
+    "game": "CURE - A Hospital Simulator",
+    "desc": "try run from steam once patch or",
+    "tags": [
+      "online"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added CURE - A Hospital Simulator online patch (2786550)\n\n- try run from steam once patch or\n- open game folder and run from **Cure.exe**\n"
+  },
+  {
     "id": "added-call-of-duty-black-ops-6-campaign-1938090",
     "appId": 1962663,
     "title": "Added Call of Duty®: Black Ops 6 - Campaign - 1938090",
@@ -268,19 +282,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Call of Duty: Modern Warfare III - 3595270\n\n- Firstly, make sure the path on where you put the game folder is short and doesn't contain non latin characters or symbols to avoid issues with game launching.\n- Extract everything in this archive into where you installed the game.\n- Start the game ONLY FROM !start_cod23.bat (for MP) or !start_sp23.bat (for SP) and keep the console window open until it closes by itself when you close the game.\n- If running either *.bat doesn't do anything, read the 1st step again (or check bootstrapper.log).\n\n![Attached Image](assets/call-of-duty-modern-warfare-iii-3595270_1499023253304246353.png)\n\n---\n\n## **How To Bypass**\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n\n## **Launch Option (From Folder Only)**\n1) !start_cod23.bat (for MP)\n2) !start_sp23.bat (for SP)\n\nMP: Multiplayer (online)\n​SP: Singleplayer \n\n```keep the console window open until it closes```\n"
-  },
-  {
-    "id": "carx-street-1114150",
-    "appId": 1114150,
-    "title": "CarX Street - 1114150",
-    "game": "CarX Street",
-    "desc": "1. Download game Carx from Steam",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# CarX Street - 1114150\n\n1. Download game Carx from Steam\n2. Bypass game and launching the game using CarX Street.exe\n"
   }
 ]

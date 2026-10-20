@@ -1,5 +1,19 @@
 [
   {
+    "id": "637100-sonic-forces-denuv-bypass",
+    "appId": 637100,
+    "title": "(637100) SONIC FORCES DENUV BYPASS",
+    "game": "SONIC FORCES",
+    "desc": "Tutorial and guide for SONIC FORCES.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (637100) SONIC FORCES DENUV BYPASS\n\n-run game from steam\n"
+  },
+  {
     "id": "added-monster-hunter-world-online-582010",
     "appId": 582010,
     "title": "Added Monster Hunter: World Online- 582010",
@@ -280,19 +294,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# 3595230 - Call of Duty®: Modern Warfare® II\n\n- Start the game ONLY FROM !start_cod22.bat (for MP) or !start_sp22.bat (for SP) and keep the console window open until it closes by itself when you close the game.\n\n---\n\n## **How To Bypass**\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n\n## **Launch Option (From Folder Only)**\n1) !start_cod22.bat (for MP)\n2) !start_sp22.bat (for SP) \n\nMP: Multiplayer (online)\n​SP: Singleplayer\n\n```keep the console window open until it closes```\n"
-  },
-  {
-    "id": "added-cure-a-hospital-simulator-online-patch-2786550",
-    "appId": 2786550,
-    "title": "Added CURE - A Hospital Simulator online patch (2786550)",
-    "game": "CURE - A Hospital Simulator",
-    "desc": "try run from steam once patch or",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added CURE - A Hospital Simulator online patch (2786550)\n\n- try run from steam once patch or\n- open game folder and run from **Cure.exe**\n"
   }
 ]

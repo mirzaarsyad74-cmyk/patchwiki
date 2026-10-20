@@ -1,5 +1,19 @@
 [
   {
+    "id": "carx-street-1114150",
+    "appId": 1114150,
+    "title": "CarX Street - 1114150",
+    "game": "CarX Street",
+    "desc": "1. Download game Carx from Steam",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# CarX Street - 1114150\n\n1. Download game Carx from Steam\n2. Bypass game and launching the game using CarX Street.exe\n"
+  },
+  {
     "id": "crimson-desert-3321460",
     "appId": 3321460,
     "title": "Crimson Desert - 3321460",
@@ -276,19 +290,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Ritual Party Online Patch (3140720)\n\n- run game from steam\n- invite friends from steam overlay\n"
-  },
-  {
-    "id": "star-wars-jedi-survivor-1774580",
-    "appId": 1774580,
-    "title": "STAR WARS Jedi: Survivor™ - 1774580",
-    "game": "STAR WARS Jedi: Survivor™",
-    "desc": "open SwGame/Binaries/Win64",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# STAR WARS Jedi: Survivor™ - 1774580\n\n- after patch, open folder\n- open SwGame/Binaries/Win64\n- run game from JediSurvivor.exe\n"
   }
 ]

@@ -68,6 +68,19 @@
     "date": "2026-10-14"
   },
   {
+    "id": "wand-pro",
+    "appId": null,
+    "title": "Wand Pro",
+    "game": "Wand Pro",
+    "desc": "🪄 Wand / WeMod AutoUpdater & Tools",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-14"
+  },
+  {
     "id": "wand",
     "appId": null,
     "title": "Wand",

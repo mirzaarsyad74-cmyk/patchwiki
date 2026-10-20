@@ -12,7 +12,7 @@
     "author": "Ryunosuke",
     "version": "1.0",
     "date": "2026-10-20",
-    "content": "\n# HV tools - Legacy\n\n# ⚡ HV Bypass Tool v1.5.0\n\n> A modern standalone desktop utility to configure Windows hypervisor settings, check BIOS virtualization, manage test signing, and streamline system setup.\n\n### 🚀 What is HV Bypass Tool?\n**HV Bypass Tool v1.5.0** replaces legacy batch scripts with a compiled standalone Windows application (`.exe`). It provides a centralized dashboard to inspect your system's hypervisor state, configure boot flags, and safely prepare your PC for custom hypervisors and test-signed drivers.\n\n### 🌟 Key Features\n\n* **🖥️ Live Subsystem Telemetry**\n  * Real-time monitoring for **6 core security layers**:\n    * `Virtualization (VT-x / AMD-V)`\n    * `Driver Signature Enforcement (DSE)`\n    * `Test Signing Mode (BCD)`\n    * `Secure Boot (UEFI)`\n    * `Memory Integrity (HVCI)`\n    * `Virtualization-Based Security (VBS)`\n  * Direct YouTube guide links for your motherboard brand (ASUS, MSI, Gigabyte, ASRock, etc.).\n\n* **⚡ Automated Bypass Script Runner**\n  * One-click execution of embedded VBS/DSE bypass script.\n  * **Windows Hello Safeguard**: Prompts warning if PIN/biometrics are active to prevent lockouts.\n\n* **🔄 Quick Firmware Reboot**\n  * Restart directly into **UEFI / BIOS Settings** (`shutdown /r /fw`) without mashing F2/DEL keys.\n\n* **🛡️ Safety Restore Points**\n  * One-click Windows System Restore snapshot of BCD and registry settings.\n\n* **📦 Integrated SUO Installer**\n  * Direct GitHub installer for Steam Unlock ONENNABE with live download progress.\n\n\n### 💾 How to Run\n1. Download **`hv1.5.0.exe`**\n2. Right-click and choose **Run as administrator**.\n\n---\n\n[Download hv1.5.0.exe (1.8 MB)](assets/hv-tools-legacy_1562152284320825415.exe)\n\n---\n\n![Attached Image](assets/hv-tools-legacy_1562152676052041858.png)\n"
+    "content": "\n# HV tools - Legacy\n\n# ⚡ HV Bypass Tool v1.5.0\n\n> A modern standalone desktop utility to configure Windows hypervisor settings, check BIOS virtualization, manage test signing, and streamline system setup.\n\n### 🚀 What is HV Bypass Tool?\n**HV Bypass Tool v1.5.0** replaces legacy batch scripts with a compiled standalone Windows application (`.exe`). It provides a centralized dashboard to inspect your system's hypervisor state, configure boot flags, and safely prepare your PC for custom hypervisors and test-signed drivers.\n\n### 🌟 Key Features\n\n* **🖥️ Live Subsystem Telemetry**\n  * Real-time monitoring for **6 core security layers**:\n    * `Virtualization (VT-x / AMD-V)`\n    * `Driver Signature Enforcement (DSE)`\n    * `Test Signing Mode (BCD)`\n    * `Secure Boot (UEFI)`\n    * `Memory Integrity (HVCI)`\n    * `Virtualization-Based Security (VBS)`\n  * Direct YouTube guide links for your motherboard brand (ASUS, MSI, Gigabyte, ASRock, etc.).\n\n* **⚡ Automated Bypass Script Runner**\n  * One-click execution of embedded VBS/DSE bypass script.\n  * **Windows Hello Safeguard**: Prompts warning if PIN/biometrics are active to prevent lockouts.\n\n* **🔄 Quick Firmware Reboot**\n  * Restart directly into **UEFI / BIOS Settings** (`shutdown /r /fw`) without mashing F2/DEL keys.\n\n* **🛡️ Safety Restore Points**\n  * One-click Windows System Restore snapshot of BCD and registry settings.\n\n\n### 💾 How to Run\n1. Download **`hv1.5.0.exe`**\n2. Right-click and choose **Run as administrator**.\n\n![Attached Image](assets/hv-tools-legacy_1562189015199907891.png)\n\n---\n\nJust press \"1-click Auto Setup\" and restart\n\n[Download HVBypassTool.exe (1.7 MB)](assets/hv-tools-legacy_1562189436559827014.exe)\n\n---\n\n``bcdedit /import C:\\HV_BCD_Backup.bcd /clean`` Just in case need restore boot at Troubleshoot ➔ Advanced options ➔ Command Prompt\n"
   },
   {
     "id": "anydesk",
@@ -71,6 +71,20 @@
     "version": "1.0",
     "date": "2026-10-14",
     "content": "\n# DS4 auto setup\n\n....\n\n![Attached Image](assets/ds4-auto-setup_1560003476426072134.png)\n"
+  },
+  {
+    "id": "wand-pro",
+    "appId": null,
+    "title": "Wand Pro",
+    "game": "Wand Pro",
+    "desc": "🪄 Wand / WeMod AutoUpdater & Tools",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-14",
+    "content": "\n# Wand Pro\n\n# 🪄 Wand / WeMod Auto-Updater & Tools\n\n• **Auto-Update:** Automatically downloads and updates Wand/WeMod to the latest version.\n• **Self-Healing:** Built-in auto-patch, reinstall, and repair capabilities.\n• **Custom UI:** Clean **Steam Theme** integration.\n• **Remote Ready:** Full support for **Wand Remote**.\n\n---\n\n> 💡 **Notice:** The Wand/WeMod patch is **100% free and open-source**. If you paid for this tool, you have been scammed!\n\n![Attached Image](assets/wand-pro_1559979080823214220.png)\n\n---\n\nWand\n\n---\n\n### 🚨 **Pro Subscription Notice Fix**\n\nIf you encounter this popup:\n> `\"You No Longer Pro\"`\n\n### 📋 **Summary: Patch vs. Crack**\n* **Patch:** Modifies specific files on your official app to bypass restrictions. Safe, but updates break it.\n* **Crack:** Replaces the entire app with a modified pirated version. Risky (potential malware) and harder to update.\n\n### 🛠️ **How to fix it:**\n1. Run your tools again.\n2. Click **Enhance**.\n3. Tick **Disable Update**.\n4. Click **Start**.\n\n> **Note:** This is a patch and not a cracked app. Any new software updates will require you to apply the patch again.\n\n---\n\n🚀 **Check out WandEnhancer — Open Source Wand / WeMod Companion Tool!**\n\nLooking to get more out of Wand? **WandEnhancer** is an open-source tool that adds remote mobile controls, unlocks pro features, and automates patching:\n\n👉 **GitHub:** <https://github.com/k1tbyte/Wand-Enhancer>\n\n**Key Features:**\n🔹 **Mobile / Web Remote Control:** Control cheats from your phone via local Wi-Fi & QR code\n🔹 **Pro Unlocked:** Full interactive controls and sliders unlocked client-side\n🔹 **1-Click Auto Patch:** Fast, reliable patching with backup and auto-repair\n🔹 **Update-Proof:** Auto-reapplies when the app updates\n🔹 **DevTools Enabled:** Press `F12` to inspect the UI\n🔹 **100% Free & Open-Source:** No shady installers, no paid keys, clean code\n\nDownload the latest release here:\n\n---\n\n![Attached Image](assets/wand-pro_1562196399930478632.png)\n\n---\n\nlatest update from master repo\n\n[Download WandEnhancer.exe (3.8 MB)](assets/wand-pro_1562196648908554321.exe)\n\n---\n\n# 🪄 How to Use / Install WandEnchancer\n\n**1️⃣ Download** the latest version from here\n**2️⃣ Turn off** your antivirus / Smart App Control temporarily (if flagged as a false positive)\n**3️⃣ Double-click** ```WandEnchancer.exe```\n**4️⃣ Click** ```1-click Auto patch```\n\n> ℹ️ *The system will automatically decide whether it needs to download the latest files or apply a patch.*\n\n---\n\nWand Pro\n"
   },
   {
     "id": "wand",
@@ -280,19 +294,5 @@
     "version": "1.0",
     "date": "2026-09-06",
     "content": "\n# Onimusha: Way of the Sword - 2638890\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "planet-coaster-493340",
-    "appId": 493340,
-    "title": "PLANET COASTER - 493340",
-    "game": "PLANET COASTER",
-    "desc": "2. Click Bypass Game once installed.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-08-29",
-    "content": "\n# PLANET COASTER - 493340\n\n1. Unlocked game via SUO.\n2. Click Bypass Game once installed.\n3. Play from Steam\n\nNote: this bypass is 7 years ago, if it does not work, dont complaint. its meant for WINDOWS 10.\n"
   }
 ]

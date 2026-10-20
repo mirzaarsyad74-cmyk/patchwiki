@@ -1,5 +1,20 @@
 [
   {
+    "id": "950050-starlink-battle-for-atlas-ubisoft-bypass",
+    "appId": 950050,
+    "title": "950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS",
+    "game": "STARLINK: BATTLE FOR ATLAS",
+    "desc": "After patching, try run the game from steam or game exe inside the folder",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
+  },
+  {
     "id": "black-myth-wukong-2358720",
     "appId": 2358720,
     "title": "Black Myth: Wukong - 2358720",
@@ -268,19 +283,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 49540 BYPASS FOR ALIENS: COLONIAL MARINES\n\n-After patch, open game folder and then open Binaries > Win32\n\" C:\\SteamLibrary\\steamapps\\common\\Aliens Colonial Marines\\Binaries\\Win32\"\n-Right click ACM.exe , run as administrator\n\n![Attached Image](assets/49540-bypass-for-aliens-colonial-marines_1500857490592633003.png)\n"
-  },
-  {
-    "id": "55150-bypass-for-warhammer-40k-space-marine-anniversary-edition",
-    "appId": 55150,
-    "title": "55150 bypass for Warhammer 40k Space Marine Anniversary Edition",
-    "game": "Warhammer 40k Space Marine Anniversary Edition",
-    "desc": "Make sure turn off antivirus, the crack is detected heavily by win defender",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 55150 bypass for Warhammer 40k Space Marine Anniversary Edition\n\n-Make sure turn off antivirus, the crack is detected heavily by win defender\n\n-After patch, run game from Steam\n"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "the-jackbox-party-pack-5-774461",
+    "appId": 774461,
+    "title": "The Jackbox Party Pack 5 Online Fix",
+    "game": "The Jackbox Party Pack 5",
+    "desc": "The Jackbox Party Pack 5 Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# The Jackbox Party Pack 5 Online Fix\n\n# The Jackbox Party Pack 5 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "the-riftbreaker-780310",
     "appId": 780310,
     "title": "The Riftbreaker Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Police Simulator: Patrol Officers Online Fix\n\n# Police Simulator: Patrol Officers Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "the-sims-3-47890",
-    "appId": 47890,
-    "title": "The Sims 3 (47890)",
-    "game": "The Sims 3",
-    "desc": "Tutorial and guide for The Sims 3.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-09",
-    "content": "\n# The Sims 3 (47890)\n\n1. Click bypass \n2. Run **Run_Sims.exe**\n3. Enjoy the game\n\n![Attached Image](assets/the-sims-3-47890_1536015405955555408.png)\n"
   }
 ]
