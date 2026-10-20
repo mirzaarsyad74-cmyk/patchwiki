@@ -1,5 +1,19 @@
 [
   {
+    "id": "steep-460920",
+    "appId": 460920,
+    "title": "Steep - 460920",
+    "game": "Steep",
+    "desc": "Double click on ! FirstLaunch.bat",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-08-07",
+    "content": "\n# Steep - 460920\n\nAfter Downloading Game\nClick BYPASS GAME\n- Then open the game folder\n- Double click on ```! FirstLaunch.bat```\n- Then run the game from ```Steep.exe```\n\n![Attached Image](assets/steep-460920_1535148727931764736.png)\n"
+  },
+  {
     "id": "crimson-desert-3321460-2419900",
     "appId": 2419900,
     "title": "Crimson Desert - 3321460",
@@ -271,19 +285,5 @@
     "version": "1.0",
     "date": "2026-07-16",
     "content": "\n# EA SPORTS™ College Football 27 - 4032350\n\nInstall Game, Make sure \n\"**Tools> Game Auto Update > Smart Apply**\" is completed\nApply Bypass Game from Library in SUO.\nPlay from SUO, choose exe and select CollegeFB27.exe\n\n![Attached Image](assets/ea-sports-college-football-27-4032350_1527179897452368004.png)\n"
-  },
-  {
-    "id": "unravel-two-1225570",
-    "appId": 1225570,
-    "title": "Unravel Two - 1225570",
-    "game": "Unravel Two",
-    "desc": "After installation complete.",
-    "tags": [
-      "online"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-07-15",
-    "content": "\n# Unravel Two - 1225570\n\nAfter installation complete.\nClick Online Patch, then do below steps, make sure steam is running.\n\n**Activating Steam Remote Play**\n1. Press Windows + R ; \n2. Copy ```steam://install/349620```\nand then paste the text field and click OK ; \n3. Start installing BlastZone 2 Demo for a couple of seconds, stop and delete; \n4. Open Folder and then Launch the game from UnravelTwo.exe\n"
   }
 ]

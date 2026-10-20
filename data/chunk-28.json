@@ -1,5 +1,19 @@
 [
   {
+    "id": "hv-tools",
+    "appId": null,
+    "title": "#HV Tools",
+    "game": "HV Tools",
+    "desc": "• Automatically Detects Motherboard Brand",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-06-06",
+    "content": "\n# #HV Tools\n\n• Automatically Detects Motherboard Brand\n• Auto-Detect BIOS Boot Types (UEFI/Legacy)\n• Auto-detect DSE/Virtualization\n• Automatically find a YouTube link to guide on enabling virtualization\n• Auto Refresh Panel\n• More Error Handler\n• Window Hello detection\n• Testing Mode ON/OFF\n• Add Win Hello Disable guide/bypass\n• Dynamic Run VBS button\n• Auto Detect Custom OS\n• CLI mode added\n• SUO setup\n• Latest VBS 1.9\n# **Please Off Antivirus before using it**\n\n---\n\n#HV Tools\n\n---\n\nlatest version. just need 1 click then restart. after that can play HV game via PlugNPlay.bat\n\n[Download Tools_V4.0.exe (0.1 MB)](assets/hv-tools_1545081721014456330.exe)\n\n---\n\n![Attached Image](assets/hv-tools_1545272878981849208.png)\n\n---\n\nV4.0.1 added automation on Windows Hello fix to un-gray remove button on the VBS step\n\n[Download Tools_V4.0.1.exe (0.1 MB)](assets/hv-tools_1545705780647301140.exe)\n\n\n![Attached Image](assets/hv-tools_1545705781062672434.png)\n\n---\n\nV4.0.2 update for MSI afterburner user conflict with HV, add BIG indicator PC can run HV game\n\n![Attached Image](assets/hv-tools_1546931346662760499.png)\n\n\n[Download Tools_V4.0.2.exe (0.1 MB)](assets/hv-tools_1546931347459805244.exe)\n\n---\n\n# **Changed in V4.0.3**\n* 1 Click button - add auto restart PC \n* Fix HV error `0xC035001E` \"*hypervisor feature is not available to the user*\" at launch crash.\n* Cleaned Up UI - less clutter.\n* New Status Badge: [Not Ready For Hypervisor]\n* Telemetry - Fix false-positive detection Windows Hyper-V\n\n![Attached Image](assets/hv-tools_1548014219545280633.png)\n\n\n[Download Tools_V4.0.3.exe (0.1 MB)](assets/hv-tools_1548014219851468870.exe)\n"
+  },
+  {
     "id": "nba-2k14-255480",
     "appId": 255480,
     "title": "NBA 2K14 - 255480",
@@ -278,19 +292,5 @@
     "version": "1.0",
     "date": "2026-05-06",
     "content": "\n# 311210 COD BLACK OPS 3 ONLINE BYPASS\n\n311210 COD BLACK OPS 3 ONLINE BYPASS\n"
-  },
-  {
-    "id": "939960-far-cry-new-dawn-bypass",
-    "appId": 939960,
-    "title": "939960 FAR CRY NEW DAWN BYPASS",
-    "game": "FAR CRY NEW DAWN",
-    "desc": "Screen might flicker few times. Just press Alt+Tab to the game mulitple times.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\n# 939960 FAR CRY NEW DAWN BYPASS\n\nPATCH USING BHSPT\n\n*Run game through Steam \n\n*Screen might flicker few times. Just press Alt+Tab to the game mulitple times.\n"
   }
 ]

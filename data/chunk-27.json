@@ -1,5 +1,19 @@
 [
   {
+    "id": "unravel-two-1225570",
+    "appId": 1225570,
+    "title": "Unravel Two - 1225570",
+    "game": "Unravel Two",
+    "desc": "After installation complete.",
+    "tags": [
+      "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-07-15",
+    "content": "\n# Unravel Two - 1225570\n\nAfter installation complete.\nClick Online Patch, then do below steps, make sure steam is running.\n\n**Activating Steam Remote Play**\n1. Press Windows + R ; \n2. Copy ```steam://install/349620```\nand then paste the text field and click OK ; \n3. Start installing BlastZone 2 Demo for a couple of seconds, stop and delete; \n4. Open Folder and then Launch the game from UnravelTwo.exe\n"
+  },
+  {
     "id": "wild-hearts-1938010",
     "appId": 1938010,
     "title": "WILD HEARTS - 1938010",
@@ -281,19 +295,5 @@
     "version": "1.0",
     "date": "2026-06-07",
     "content": "\n# PES2013 - 221430\n\n1. Bypass Game\n2. Open game folder\n3. Click RunThisFirst, install it\n4. Run game from inside folder via pes2013.exe\n"
-  },
-  {
-    "id": "hv-tools",
-    "appId": null,
-    "title": "#HV Tools",
-    "game": "HV Tools",
-    "desc": "• Automatically Detects Motherboard Brand",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-06-06",
-    "content": "\n# #HV Tools\n\n• Automatically Detects Motherboard Brand\n• Auto-Detect BIOS Boot Types (UEFI/Legacy)\n• Auto-detect DSE/Virtualization\n• Automatically find a YouTube link to guide on enabling virtualization\n• Auto Refresh Panel\n• More Error Handler\n• Window Hello detection\n• Testing Mode ON/OFF\n• Add Win Hello Disable guide/bypass\n• Dynamic Run VBS button\n• Auto Detect Custom OS\n• CLI mode added\n• SUO setup\n• Latest VBS 1.9\n# **Please Off Antivirus before using it**\n\n---\n\n#HV Tools\n\n---\n\nlatest version. just need 1 click then restart. after that can play HV game via PlugNPlay.bat\n\n[Download Tools_V4.0.exe (0.1 MB)](assets/hv-tools_1545081721014456330.exe)\n\n---\n\n![Attached Image](assets/hv-tools_1545272878981849208.png)\n\n---\n\nV4.0.1 added automation on Windows Hello fix to un-gray remove button on the VBS step\n\n[Download Tools_V4.0.1.exe (0.1 MB)](assets/hv-tools_1545705780647301140.exe)\n\n\n![Attached Image](assets/hv-tools_1545705781062672434.png)\n\n---\n\nV4.0.2 update for MSI afterburner user conflict with HV, add BIG indicator PC can run HV game\n\n![Attached Image](assets/hv-tools_1546931346662760499.png)\n\n\n[Download Tools_V4.0.2.exe (0.1 MB)](assets/hv-tools_1546931347459805244.exe)\n\n---\n\n# **Changed in V4.0.3**\n* 1 Click button - add auto restart PC \n* Fix HV error `0xC035001E` \"*hypervisor feature is not available to the user*\" at launch crash.\n* Cleaned Up UI - less clutter.\n* New Status Badge: [Not Ready For Hypervisor]\n* Telemetry - Fix false-positive detection Windows Hyper-V\n\n![Attached Image](assets/hv-tools_1548014219545280633.png)\n\n\n[Download Tools_V4.0.3.exe (0.1 MB)](assets/hv-tools_1548014219851468870.exe)\n"
   }
 ]

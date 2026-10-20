@@ -1,5 +1,19 @@
 [
   {
+    "id": "the-riftbreaker-780310",
+    "appId": 780310,
+    "title": "The Riftbreaker Online Fix",
+    "game": "The Riftbreaker",
+    "desc": "The Riftbreaker Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# The Riftbreaker Online Fix\n\n# The Riftbreaker Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "outward-794260",
     "appId": 794260,
     "title": "Outward Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-09",
     "content": "\n# The Sims 3 (47890)\n\n1. Click bypass \n2. Run **Run_Sims.exe**\n3. Enjoy the game\n\n![Attached Image](assets/the-sims-3-47890_1536015405955555408.png)\n"
-  },
-  {
-    "id": "steep-460920",
-    "appId": 460920,
-    "title": "Steep - 460920",
-    "game": "Steep",
-    "desc": "Double click on ! FirstLaunch.bat",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-08-07",
-    "content": "\n# Steep - 460920\n\nAfter Downloading Game\nClick BYPASS GAME\n- Then open the game folder\n- Double click on ```! FirstLaunch.bat```\n- Then run the game from ```Steep.exe```\n\n![Attached Image](assets/steep-460920_1535148727931764736.png)\n"
   }
 ]

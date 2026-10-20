@@ -1,5 +1,19 @@
 [
   {
+    "id": "attack-on-titan-2-a-o-t-2-601050",
+    "appId": 601050,
+    "title": "Attack on Titan 2 - A.O.T.2 Online Fix",
+    "game": "Attack on Titan 2 - A.O.T.2",
+    "desc": "Attack on Titan 2 - A.O.T.2 Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Attack on Titan 2 - A.O.T.2 Online Fix\n\n# Attack on Titan 2 - A.O.T.2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "devil-may-cry-5-601150",
     "appId": 601150,
     "title": "Devil May Cry 5 Bypass",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# The Jackbox Party Pack 5 Online Fix\n\n# The Jackbox Party Pack 5 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "the-riftbreaker-780310",
-    "appId": 780310,
-    "title": "The Riftbreaker Online Fix",
-    "game": "The Riftbreaker",
-    "desc": "The Riftbreaker Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# The Riftbreaker Online Fix\n\n# The Riftbreaker Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

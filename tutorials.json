@@ -1,5 +1,19 @@
 [
   {
+    "id": "hv-tools-legacy",
+    "appId": null,
+    "title": "HV tools - Legacy",
+    "game": "HV tools - Legacy",
+    "desc": "A modern standalone desktop utility to configure Windows hypervisor settings, check BIOS virtualization, manage test signing, and streamline system setup.",
+    "tags": [
+      "bypass",
+      "crack"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-20"
+  },
+  {
     "id": "anydesk",
     "appId": null,
     "title": "Anydesk",

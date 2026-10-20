@@ -1,5 +1,19 @@
 [
   {
+    "id": "939960-far-cry-new-dawn-bypass",
+    "appId": 939960,
+    "title": "939960 FAR CRY NEW DAWN BYPASS",
+    "game": "FAR CRY NEW DAWN",
+    "desc": "Screen might flicker few times. Just press Alt+Tab to the game mulitple times.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 939960 FAR CRY NEW DAWN BYPASS\n\nPATCH USING BHSPT\n\n*Run game through Steam \n\n*Screen might flicker few times. Just press Alt+Tab to the game mulitple times.\n"
+  },
+  {
     "id": "1114150-carx-street-bypass-update-1-10-1",
     "appId": 1114150,
     "title": "1114150 CARX STREET BYPASS UPDATE 1.10.1",
@@ -265,19 +279,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
-  },
-  {
-    "id": "black-myth-wukong-2358720",
-    "appId": 2358720,
-    "title": "Black Myth: Wukong - 2358720",
-    "game": "Black Myth: Wukong",
-    "desc": "Updated crack using voices38 crack",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# Black Myth: Wukong - 2358720\n\n# Updated crack using voices38 crack\n- Download game, no need manifest pinning\n*- if you ever tried bypassing using hypervisor, delete game folder and uninstall from steam\n- reinstall game*- Bypass game and play from Steam.\n"
   }
 ]

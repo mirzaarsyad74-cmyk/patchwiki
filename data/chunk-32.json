@@ -1,5 +1,19 @@
 [
   {
+    "id": "added-monster-hunter-world-online-582010",
+    "appId": 582010,
+    "title": "Added Monster Hunter: World Online- 582010",
+    "game": "Monster Hunter: World",
+    "desc": "After patch, open game folder and run the game via Launcher.exe",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# Added Monster Hunter: World Online- 582010\n\n- After patch, open game folder and run the game via Launcher.exe\n"
+  },
+  {
     "id": "battlefield-6-2807960",
     "appId": 2807960,
     "title": "Battlefield 6 - 2807960",
@@ -280,19 +294,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Added CURE - A Hospital Simulator online patch (2786550)\n\n- try run from steam once patch or\n- open game folder and run from **Cure.exe**\n"
-  },
-  {
-    "id": "added-call-of-duty-black-ops-6-campaign-1938090",
-    "appId": 1962663,
-    "title": "Added Call of Duty®: Black Ops 6 - Campaign - 1938090",
-    "game": "Call of Duty®: Black Ops 6 - Campaign",
-    "desc": "Game should be in Call of Duty (1938090), download the whole thing, make sure this 3 DLC is ticked",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Call of Duty®: Black Ops 6 - Campaign - 1938090\n\n- Game should be in Call of Duty (1938090), download the whole thing, make sure this 3 DLC is ticked\n- If the game is not showing, you need to add Call of Duty Warzone  https://store.steampowered.com/app/1962663/Call_of_Duty_Warzone/ first\nHow to use\n- After patching, open game folder\n- Run game using **start_sp24.bat**\n- Do not close the CMD Window\n- All mission is unlocked by default.\n\n![Attached Image](assets/added-call-of-duty-black-ops-6-campaign-1938090_1499014000405512303.png)\n\n---\n\nhttps://youtu.be/9hZq0x0NNxQ\n"
   }
 ]

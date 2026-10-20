@@ -1,5 +1,19 @@
 [
   {
+    "id": "way-of-the-hunter-1288320",
+    "appId": 1288320,
+    "title": "Way of the Hunter Online Fix",
+    "game": "Way of the Hunter",
+    "desc": "Way of the Hunter Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Way of the Hunter Online Fix\n\n# Way of the Hunter Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "powerwash-simulator-1290000",
     "appId": 1290000,
     "title": "PowerWash Simulator Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Dread Hunger Online Fix\n\n# Dread Hunger Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "storage-hunter-1442430",
-    "appId": 1442430,
-    "title": "Storage Hunter Online Fix",
-    "game": "Storage Hunter",
-    "desc": "Storage Hunter Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Storage Hunter Online Fix\n\n# Storage Hunter Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

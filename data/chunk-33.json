@@ -1,5 +1,19 @@
 [
   {
+    "id": "added-call-of-duty-black-ops-6-campaign-1938090",
+    "appId": 1962663,
+    "title": "Added Call of Duty®: Black Ops 6 - Campaign - 1938090",
+    "game": "Call of Duty®: Black Ops 6 - Campaign",
+    "desc": "Game should be in Call of Duty (1938090), download the whole thing, make sure this 3 DLC is ticked",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Call of Duty®: Black Ops 6 - Campaign - 1938090\n\n- Game should be in Call of Duty (1938090), download the whole thing, make sure this 3 DLC is ticked\n- If the game is not showing, you need to add Call of Duty Warzone  https://store.steampowered.com/app/1962663/Call_of_Duty_Warzone/ first\nHow to use\n- After patching, open game folder\n- Run game using **start_sp24.bat**\n- Do not close the CMD Window\n- All mission is unlocked by default.\n\n![Attached Image](assets/added-call-of-duty-black-ops-6-campaign-1938090_1499014000405512303.png)\n\n---\n\nhttps://youtu.be/9hZq0x0NNxQ\n"
+  },
+  {
     "id": "added-denu-bypass-for-doom-the-dark-ages-3017860",
     "appId": 3017860,
     "title": "Added DENU bypass for Doom: The Dark Ages - 3017860",
@@ -268,20 +282,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# CarX Street - 1114150\n\n1. Download game Carx from Steam\n2. Bypass game and launching the game using CarX Street.exe\n"
-  },
-  {
-    "id": "crimson-desert-3321460",
-    "appId": 3321460,
-    "title": "Crimson Desert - 3321460",
-    "game": "Crimson Desert",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Crimson Desert - 3321460\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n![Attached Image](assets/crimson-desert-3321460_1499035872069419008.png)\n\n\n![Attached Image](assets/crimson-desert-3321460_1499035873050759198.png)\n\n---\n\n<:5726toothymaw:1239134161835655198>\n\n---\n\nUsing Crack: Voices38\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
   }
 ]
