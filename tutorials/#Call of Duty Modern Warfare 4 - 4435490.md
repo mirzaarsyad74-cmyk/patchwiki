@@ -111,3 +111,9 @@ Credit to: <@596720616195883010>
 Run this if you want to run a game from steam,ignored all window popup
 
 [Download cod_run_steam.bat (0.0 MB)](assets/call-of-duty-modern-warfare-4-4435490_1562345937773395988.bat)
+
+---
+
+If you get this error when you start  game on steam, just re-bypass and run game back
+
+![Attached Image](assets/call-of-duty-modern-warfare-4-4435490_1562364940549881997.webp)
