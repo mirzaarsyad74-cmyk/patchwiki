@@ -1,5 +1,19 @@
 [
   {
+    "id": "47790-medal-of-honor-ea-bypass",
+    "appId": 47790,
+    "title": "47790 MEDAL OF HONOR EA BYPASS",
+    "game": "MEDAL OF HONOR",
+    "desc": "Tutorial and guide for MEDAL OF HONOR.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# 47790 MEDAL OF HONOR EA BYPASS\n\nPlay from Steam.\n"
+  },
+  {
     "id": "49540-bypass-for-aliens-colonial-marines",
     "appId": 49540,
     "title": "49540 BYPASS FOR ALIENS: COLONIAL MARINES",
@@ -275,20 +289,5 @@
     "version": "1.0",
     "date": "2026-04-30",
     "content": "\n# (2129530) REANIMAL ONLINE CO-OP\n\n-Just add friend pass from Steam Store and then play with your friend via normal steam invite\n\n![Attached Image](assets/2129530-reanimal-online-co-op_1499261977397035098.png)\n"
-  },
-  {
-    "id": "2221920-ubisoft-bypass-for-immortals-fenyx-rising",
-    "appId": 2221920,
-    "title": "(2221920) UBISOFT BYPASS FOR IMMORTALS FENYX RISING",
-    "game": "IMMORTALS FENYX RISING",
-    "desc": "Open folder and run game from \"scimitarenginewin64vs2017dx11fx.exe\"",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (2221920) UBISOFT BYPASS FOR IMMORTALS FENYX RISING\n\n-Open folder and run game from \"scimitar_engine_win64_vs2017_dx11_fx.exe\"\n"
   }
 ]

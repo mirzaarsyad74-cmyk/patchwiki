@@ -27,6 +27,19 @@
     "date": "2026-10-20"
   },
   {
+    "id": "anydesk-toolkit",
+    "appId": null,
+    "title": "Anydesk Toolkit",
+    "game": "Anydesk Toolkit",
+    "desc": "🛠️ AnyDesk Reset & Toolkit",
+    "tags": [
+      "general"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-19"
+  },
+  {
     "id": "anydesk",
     "appId": null,
     "title": "Anydesk",

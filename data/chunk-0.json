@@ -29,6 +29,20 @@
     "content": "\n# HV tools - Legacy\n\n# ⚡ HV Bypass Tool v1.5.0\n\n> A modern standalone desktop utility to configure Windows hypervisor settings, check BIOS virtualization, manage test signing, and streamline system setup.\n\n### 🚀 What is HV Bypass Tool?\n**HV Bypass Tool v1.5.0** replaces legacy batch scripts with a compiled standalone Windows application (`.exe`). It provides a centralized dashboard to inspect your system's hypervisor state, configure boot flags, and safely prepare your PC for custom hypervisors and test-signed drivers.\n\n### 🌟 Key Features\n\n* **🖥️ Live Subsystem Telemetry**\n  * Real-time monitoring for **6 core security layers**:\n    * `Virtualization (VT-x / AMD-V)`\n    * `Driver Signature Enforcement (DSE)`\n    * `Test Signing Mode (BCD)`\n    * `Secure Boot (UEFI)`\n    * `Memory Integrity (HVCI)`\n    * `Virtualization-Based Security (VBS)`\n  * Direct YouTube guide links for your motherboard brand (ASUS, MSI, Gigabyte, ASRock, etc.).\n\n* **⚡ Automated Bypass Script Runner**\n  * One-click execution of embedded VBS/DSE bypass script.\n  * **Windows Hello Safeguard**: Prompts warning if PIN/biometrics are active to prevent lockouts.\n\n* **🔄 Quick Firmware Reboot**\n  * Restart directly into **UEFI / BIOS Settings** (`shutdown /r /fw`) without mashing F2/DEL keys.\n\n* **🛡️ Safety Restore Points**\n  * One-click Windows System Restore snapshot of BCD and registry settings.\n\n\n### 💾 How to Run\n1. Download **`hv1.5.0.exe`**\n2. Right-click and choose **Run as administrator**.\n\n![Attached Image](assets/hv-tools-legacy_1562189015199907891.png)\n\n---\n\nJust press \"1-click Auto Setup\" and restart\n\n[Download HVBypassTool.exe (1.7 MB)](assets/hv-tools-legacy_1562189436559827014.exe)\n\n---\n\n``bcdedit /import C:\\HV_BCD_Backup.bcd /clean`` Just in case need restore boot at Troubleshoot ➔ Advanced options ➔ Command Prompt\n"
   },
   {
+    "id": "anydesk-toolkit",
+    "appId": null,
+    "title": "Anydesk Toolkit",
+    "game": "Anydesk Toolkit",
+    "desc": "🛠️ AnyDesk Reset & Toolkit",
+    "tags": [
+      "general"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-19",
+    "content": "\n# Anydesk Toolkit\n\n# 🛠️ AnyDesk Reset & Toolkit\n\nA simple, lightweight utility to reset your AnyDesk ID, clean configuration caches, or download the latest official release.\n\n### 📌 What It Does\n- ⚡ **Reset AnyDesk ID**: Stops background processes/services and purges old cache files so AnyDesk generates a brand-new ID.\n- ⬇️ **Download Latest**: Automatically pulls the newest official `AnyDesk.exe` from anydesk.com with live progress.\n- 🚀 **Full Reset & Update**: One-click wipe + auto-download + instant launch with a fresh ID.\n\n---\n\n### 🚀 How to Use\n1. Run **`AnyDeskTool.exe`** (or `anydesk reset.bat`).\n2. Accept the **Run as Administrator** prompt when asked.\n3. Pick your option:\n   - Click **`Reset ID`** if you just need a new ID.\n   - Click **`Download`** if you need the latest AnyDesk executable.\n   - Click **`Reset & Update`** to wipe old data and launch the newest version.\n\n---\n\n### ⚙️ How It Works (Behind the Scenes)\n1. Safely shuts down running AnyDesk instances and the Windows background service.\n2. Deletes old identity tokens from:\n   - `C:\\ProgramData\\AnyDesk`\n   - `%APPDATA%\\AnyDesk`\n3. Restarts the service and launches AnyDesk, which registers as a brand new client.\n\n> ⚠️ **Note:** Resetting will clear your recent session history and saved favorites.\n\n![Attached Image](assets/anydesk-toolkit_1561718913350238270.webp)\n\n---\n\n[Download AnyDeskTool.exe (0.0 MB)](assets/anydesk-toolkit_1561718980207452271.exe)\n\n---\n\nAnydesk Toolkit\n"
+  },
+  {
     "id": "anydesk",
     "appId": null,
     "title": "Anydesk",
@@ -278,19 +292,5 @@
     "version": "1.0",
     "date": "2026-09-28",
     "content": "\n# FC 27 - 4080220\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n\n---\n\nOFFLINE only\n"
-  },
-  {
-    "id": "dragon-s-dogma-2-2054970",
-    "appId": 2054970,
-    "title": "Dragon's Dogma 2- 2054970",
-    "game": "Dragon's Dogma 2",
-    "desc": "1. Close down steam completely, exit Steam client",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-09-10",
-    "content": "\n# Dragon's Dogma 2- 2054970\n\nAfter bypass\n1. Close down steam completely, exit Steam client\n2. Open game from Steam Unlock > Choose.exe > select DD2.exe\n"
   }
 ]

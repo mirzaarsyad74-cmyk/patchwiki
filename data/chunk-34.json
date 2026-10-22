@@ -1,5 +1,19 @@
 [
   {
+    "id": "call-of-duty-black-ops-cold-war-1985810",
+    "appId": 1985810,
+    "title": "Call of Duty: Black Ops Cold War - 1985810",
+    "game": "Call of Duty: Black Ops Cold War",
+    "desc": "2. From Steam Unlock, click Play, choose exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Call of Duty: Black Ops Cold War - 1985810\n\n1. Bypass Game\n2. From Steam Unlock, click Play, choose exe\n3. Launch using  BlackOpsColdWar.exe\n"
+  },
+  {
     "id": "call-of-duty-modern-warfare-iii-3595270",
     "appId": 3595270,
     "title": "Call of Duty: Modern Warfare III - 3595270",
@@ -276,20 +290,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Resident Evil 6 (221040)\n\n- Patch & Run from Steam\n"
-  },
-  {
-    "id": "rise-of-the-ronin-online-co-op-play-1340990",
-    "appId": 1340990,
-    "title": "Rise of the Ronin Online Co-op play - 1340990",
-    "game": "Rise of the Ronin play",
-    "desc": "Play through prologue, and finished all the tutorial (took me good 1hour)",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Rise of the Ronin Online Co-op play - 1340990\n\n- Play through prologue, and finished all the tutorial (took me good 1hour)\n- Play with friends through `Cooperate` in game\n- Recruit backup or join your friends game\n"
   }
 ]

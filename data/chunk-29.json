@@ -1,5 +1,19 @@
 [
   {
+    "id": "1702010-sengoku-dynasty",
+    "appId": 1702010,
+    "title": "1702010 SENGOKU DYNASTY",
+    "game": "SENGOKU DYNASTY",
+    "desc": "Tutorial and guide for SENGOKU DYNASTY.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 1702010 SENGOKU DYNASTY\n\n\n"
+  },
+  {
     "id": "243470-watch-dogs",
     "appId": 243470,
     "title": "243470 WATCH DOGS",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 394510 HELLDIVERS 1 ONLINE PATCH\n\n-After patching, open game folder, launch from Launcher.exe\n"
-  },
-  {
-    "id": "779340-total-war-3-kingdoms-bypass",
-    "appId": 779340,
-    "title": "779340 TOTAL WAR: 3 KINGDOMS BYPASS",
-    "game": "TOTAL WAR: 3 KINGDOMS",
-    "desc": "After patching, try run the game from steam or game exe inside the folder",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 779340 TOTAL WAR: 3 KINGDOMS BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
   }
 ]
