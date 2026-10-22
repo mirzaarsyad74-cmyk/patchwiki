@@ -1,5 +1,19 @@
 [
   {
+    "id": "243470-watch-dogs",
+    "appId": 243470,
+    "title": "243470 WATCH DOGS",
+    "game": "WATCH DOGS",
+    "desc": "Tutorial and guide for WATCH DOGS.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 243470 WATCH DOGS\n\n\n"
+  },
+  {
     "id": "311210-cod-black-ops-3-online-bypass",
     "appId": 311210,
     "title": "311210 COD BLACK OPS 3 ONLINE BYPASS",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 779340 TOTAL WAR: 3 KINGDOMS BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
-  },
-  {
-    "id": "809890-shining-resonance-refrain-bypass",
-    "appId": 809890,
-    "title": "809890 SHINING RESONANCE REFRAIN BYPASS",
-    "game": "SHINING RESONANCE REFRAIN",
-    "desc": "After patching, try run the game from steam or game exe inside the folder",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 809890 SHINING RESONANCE REFRAIN BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
   }
 ]

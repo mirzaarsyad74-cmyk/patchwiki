@@ -1,5 +1,19 @@
 [
   {
+    "id": "49540-bypass-for-aliens-colonial-marines",
+    "appId": 49540,
+    "title": "49540 BYPASS FOR ALIENS: COLONIAL MARINES",
+    "game": "ALIENS: COLONIAL MARINES",
+    "desc": "After patch, open game folder and then open Binaries  Win32",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# 49540 BYPASS FOR ALIENS: COLONIAL MARINES\n\n-After patch, open game folder and then open Binaries > Win32\n\" C:\\SteamLibrary\\steamapps\\common\\Aliens Colonial Marines\\Binaries\\Win32\"\n-Right click ACM.exe , run as administrator\n\n![Attached Image](assets/49540-bypass-for-aliens-colonial-marines_1500857490592633003.png)\n"
+  },
+  {
     "id": "55150-bypass-for-warhammer-40k-space-marine-anniversary-edition",
     "appId": 55150,
     "title": "55150 bypass for Warhammer 40k Space Marine Anniversary Edition",
@@ -276,19 +290,5 @@
     "version": "1.0",
     "date": "2026-04-30",
     "content": "\n# (2221920) UBISOFT BYPASS FOR IMMORTALS FENYX RISING\n\n-Open folder and run game from \"scimitar_engine_win64_vs2017_dx11_fx.exe\"\n"
-  },
-  {
-    "id": "629820-maneater-denuv-bypass",
-    "appId": 629820,
-    "title": "(629820) MANEATER DENUV BYPASS",
-    "game": "MANEATER",
-    "desc": "if cant run from steam, run from binaries/win64 folder,",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (629820) MANEATER DENUV BYPASS\n\n-run game from steam,\n-if cant run from steam, run from binaries/win64 folder,\n-if can, means its only compatible with WIN 11\n"
   }
 ]

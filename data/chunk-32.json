@@ -1,5 +1,19 @@
 [
   {
+    "id": "629820-maneater-denuv-bypass",
+    "appId": 629820,
+    "title": "(629820) MANEATER DENUV BYPASS",
+    "game": "MANEATER",
+    "desc": "if cant run from steam, run from binaries/win64 folder,",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (629820) MANEATER DENUV BYPASS\n\n-run game from steam,\n-if cant run from steam, run from binaries/win64 folder,\n-if can, means its only compatible with WIN 11\n"
+  },
+  {
     "id": "637100-sonic-forces-denuv-bypass",
     "appId": 637100,
     "title": "(637100) SONIC FORCES DENUV BYPASS",
@@ -278,21 +292,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# 2000950 - Call of Duty®: Modern Warfare®\n\nAdded campaign mode crack for CODMW\n- 2000950\n\nHow to use?\n- After patching, open game folder\n- Run !start_cod.bat\n\nNotice: problem with campaign mode is there's no save checkpoint at all\nWorkaround is below\n\nFor anyone having game save issues.\n\nFYI Gang, the workaround is you can unlock all missions so that at least you can load up the next mission after closing the game.\nAfter starting the game, one of the cmd.exe press the Right \"CTRL\" + \"/\"\nAnother CMD will pop out and say \"enter command\"\nType \"unlock_missions\" and enter\n"
-  },
-  {
-    "id": "3595230-call-of-duty-modern-warfare-ii",
-    "appId": 3595230,
-    "title": "3595230 - Call of Duty®: Modern Warfare® II",
-    "game": "Call of Duty®: Modern Warfare® II",
-    "desc": "Start the game ONLY FROM !startcod22.bat (for MP) or !startsp22.bat (for SP) and keep the console window open until it closes by itself when you close the game.",
-    "tags": [
-      "bypass",
-      "coop",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# 3595230 - Call of Duty®: Modern Warfare® II\n\n- Start the game ONLY FROM !start_cod22.bat (for MP) or !start_sp22.bat (for SP) and keep the console window open until it closes by itself when you close the game.\n\n---\n\n## **How To Bypass**\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n\n## **Launch Option (From Folder Only)**\n1) !start_cod22.bat (for MP)\n2) !start_sp22.bat (for SP) \n\nMP: Multiplayer (online)\n​SP: Singleplayer\n\n```keep the console window open until it closes```\n"
   }
 ]

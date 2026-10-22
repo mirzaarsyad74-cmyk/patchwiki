@@ -1,5 +1,19 @@
 [
   {
+    "id": "cooking-simulator-2-better-together-2455360",
+    "appId": 2455360,
+    "title": "Cooking Simulator 2: Better Together Online Fix",
+    "game": "Cooking Simulator 2: Better Together",
+    "desc": "Cooking Simulator 2: Better Together Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Cooking Simulator 2: Better Together Online Fix\n\n# Cooking Simulator 2: Better Together Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "hunter-hunter-nen-impact-2456420",
     "appId": 2456420,
     "title": "HUNTER×HUNTER NEN×IMPACT Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Mount & Blade II: Bannerlord Online Fix\n\n# Mount & Blade II: Bannerlord Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "tinkerlands-2617700",
-    "appId": 2617700,
-    "title": "Tinkerlands Bypass",
-    "game": "Tinkerlands",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Tinkerlands Bypass\n\n# Tinkerlands Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

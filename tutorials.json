@@ -1,5 +1,18 @@
 [
   {
+    "id": "flingtrainer",
+    "appId": null,
+    "title": "FlingTrainer",
+    "game": "FlingTrainer",
+    "desc": "Tutorial and guide for FlingTrainer.",
+    "tags": [
+      "general"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-22"
+  },
+  {
     "id": "hv-tools-legacy",
     "appId": null,
     "title": "HV tools - Legacy",

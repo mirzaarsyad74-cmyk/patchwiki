@@ -1,5 +1,20 @@
 [
   {
+    "id": "meccha-chameleon-4704690",
+    "appId": 4704690,
+    "title": "Meccha Chameleon - 4704690",
+    "game": "Meccha Chameleon",
+    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
+    "tags": [
+      "online",
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-06-12",
+    "content": "\n# Meccha Chameleon - 4704690\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online Patch```\n5) play from steam\n"
+  },
+  {
     "id": "pes2013-221430",
     "appId": 221430,
     "title": "PES2013 - 221430",
@@ -278,19 +293,5 @@
     "version": "1.0",
     "date": "2026-05-06",
     "content": "\n# 1702010 SENGOKU DYNASTY\n\n\n"
-  },
-  {
-    "id": "243470-watch-dogs",
-    "appId": 243470,
-    "title": "243470 WATCH DOGS",
-    "game": "WATCH DOGS",
-    "desc": "Tutorial and guide for WATCH DOGS.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\n# 243470 WATCH DOGS\n\n\n"
   }
 ]

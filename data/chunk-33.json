@@ -1,5 +1,21 @@
 [
   {
+    "id": "3595230-call-of-duty-modern-warfare-ii",
+    "appId": 3595230,
+    "title": "3595230 - Call of Duty®: Modern Warfare® II",
+    "game": "Call of Duty®: Modern Warfare® II",
+    "desc": "Start the game ONLY FROM !startcod22.bat (for MP) or !startsp22.bat (for SP) and keep the console window open until it closes by itself when you close the game.",
+    "tags": [
+      "bypass",
+      "coop",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# 3595230 - Call of Duty®: Modern Warfare® II\n\n- Start the game ONLY FROM !start_cod22.bat (for MP) or !start_sp22.bat (for SP) and keep the console window open until it closes by itself when you close the game.\n\n---\n\n## **How To Bypass**\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n\n## **Launch Option (From Folder Only)**\n1) !start_cod22.bat (for MP)\n2) !start_sp22.bat (for SP) \n\nMP: Multiplayer (online)\n​SP: Singleplayer\n\n```keep the console window open until it closes```\n"
+  },
+  {
     "id": "added-cure-a-hospital-simulator-online-patch-2786550",
     "appId": 2786550,
     "title": "Added CURE - A Hospital Simulator online patch (2786550)",
@@ -266,21 +282,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Call of Duty: Black Ops Cold War - 1985810\n\n1. Bypass Game\n2. From Steam Unlock, click Play, choose exe\n3. Launch using  BlackOpsColdWar.exe\n"
-  },
-  {
-    "id": "call-of-duty-modern-warfare-iii-3595270",
-    "appId": 3595270,
-    "title": "Call of Duty: Modern Warfare III - 3595270",
-    "game": "Call of Duty: Modern Warfare III",
-    "desc": "Firstly, make sure the path on where you put the game folder is short and doesn't contain non latin characters or symbols to avoid issues with game launching.",
-    "tags": [
-      "bypass",
-      "coop",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Call of Duty: Modern Warfare III - 3595270\n\n- Firstly, make sure the path on where you put the game folder is short and doesn't contain non latin characters or symbols to avoid issues with game launching.\n- Extract everything in this archive into where you installed the game.\n- Start the game ONLY FROM !start_cod23.bat (for MP) or !start_sp23.bat (for SP) and keep the console window open until it closes by itself when you close the game.\n- If running either *.bat doesn't do anything, read the 1st step again (or check bootstrapper.log).\n\n![Attached Image](assets/call-of-duty-modern-warfare-iii-3595270_1499023253304246353.png)\n\n---\n\n## **How To Bypass**\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n\n## **Launch Option (From Folder Only)**\n1) !start_cod23.bat (for MP)\n2) !start_sp23.bat (for SP)\n\nMP: Multiplayer (online)\n​SP: Singleplayer \n\n```keep the console window open until it closes```\n"
   }
 ]

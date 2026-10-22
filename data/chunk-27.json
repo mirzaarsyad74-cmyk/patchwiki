@@ -1,5 +1,19 @@
 [
   {
+    "id": "assassin-s-creed-shadows-3159330",
+    "appId": 3159330,
+    "title": "Assassin's Creed Shadows - 3159330",
+    "game": "Assassin's Creed Shadows",
+    "desc": "If you ever use Hypervisor version of the game, please go to Steam Unlock Onennabe  Library  REMOVE HYPERVISOR PATCH first",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-07-18",
+    "content": "\n# Assassin's Creed Shadows - 3159330\n\nIf you ever use Hypervisor version of the game, please go to **Steam Unlock Onennabe -> Library -> REMOVE HYPERVISOR PATCH** first\n\n1. Click Update Game or Unlock Game\n2. Install game in steam\n3. Then **Steam Unlock Onennabe -> Library -> Bypass Game\n4. Press 2nd time Bypass Game after it add to exclusion\n5. Play the game from Steam Unlock > Choose .exe.\n\n![Attached Image](assets/assassin-s-creed-shadows-3159330_1527925551627767898.png)\n"
+  },
+  {
     "id": "ea-sports-college-football-27-4032350",
     "appId": 4032350,
     "title": "EA SPORTS™ College Football 27 - 4032350",
@@ -280,20 +294,5 @@
     "version": "1.0",
     "date": "2026-06-12",
     "content": "\n# Company of Heroes 3 - 1677280\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
-  },
-  {
-    "id": "meccha-chameleon-4704690",
-    "appId": 4704690,
-    "title": "Meccha Chameleon - 4704690",
-    "game": "Meccha Chameleon",
-    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
-    "tags": [
-      "online",
-      "drm"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-06-12",
-    "content": "\n# Meccha Chameleon - 4704690\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online Patch```\n5) play from steam\n"
   }
 ]

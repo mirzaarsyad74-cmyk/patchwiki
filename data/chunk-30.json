@@ -1,5 +1,19 @@
 [
   {
+    "id": "809890-shining-resonance-refrain-bypass",
+    "appId": 809890,
+    "title": "809890 SHINING RESONANCE REFRAIN BYPASS",
+    "game": "SHINING RESONANCE REFRAIN",
+    "desc": "After patching, try run the game from steam or game exe inside the folder",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 809890 SHINING RESONANCE REFRAIN BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
+  },
+  {
     "id": "950050-starlink-battle-for-atlas-ubisoft-bypass",
     "appId": 950050,
     "title": "950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS",
@@ -269,19 +283,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 47790 MEDAL OF HONOR EA BYPASS\n\nPlay from Steam.\n"
-  },
-  {
-    "id": "49540-bypass-for-aliens-colonial-marines",
-    "appId": 49540,
-    "title": "49540 BYPASS FOR ALIENS: COLONIAL MARINES",
-    "game": "ALIENS: COLONIAL MARINES",
-    "desc": "After patch, open game folder and then open Binaries  Win32",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 49540 BYPASS FOR ALIENS: COLONIAL MARINES\n\n-After patch, open game folder and then open Binaries > Win32\n\" C:\\SteamLibrary\\steamapps\\common\\Aliens Colonial Marines\\Binaries\\Win32\"\n-Right click ACM.exe , run as administrator\n\n![Attached Image](assets/49540-bypass-for-aliens-colonial-marines_1500857490592633003.png)\n"
   }
 ]
