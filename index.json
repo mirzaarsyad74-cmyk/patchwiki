@@ -1,5 +1,31 @@
 [
   {
+    "id": "nexus-mod-downloader",
+    "appId": null,
+    "title": "Nexus Mod Downloader",
+    "game": "Nexus Mod Downloader",
+    "desc": "Tutorial and guide for Nexus Mod Downloader.",
+    "tags": [
+      "general"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-23"
+  },
+  {
+    "id": "flingtrainer-downloader",
+    "appId": null,
+    "title": "FlingTrainer Downloader",
+    "game": "FlingTrainer Downloader",
+    "desc": "🎮 FLiNG Trainer Hub & Downloader v1.0",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-22"
+  },
+  {
     "id": "flingtrainer",
     "appId": null,
     "title": "FlingTrainer",

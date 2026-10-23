@@ -1,5 +1,33 @@
 [
   {
+    "id": "1501310-the-ranchers-new-beginning",
+    "appId": 1501310,
+    "title": "1501310 - The Ranchers New Beginning",
+    "game": "The Ranchers New Beginning",
+    "desc": "After finish downloading the game, click Patch Standalone in Library  The Ranchers  Patch Standalone",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-08-01",
+    "content": "\n# 1501310 - The Ranchers New Beginning\n\nAfter finish downloading the game, click Patch Standalone in Library > The Ranchers > Patch Standalone\n\nHow to Play?\n- While still in the same Library > The Ranchers. Click Play > Choose .exe or bat\n- Choose \"onennabe_launcher.exe\"\n\n![Attached Image](assets/1501310-the-ranchers-new-beginning_1533022209855983656.png)\n"
+  },
+  {
+    "id": "928960-godfall-ultimate-edition",
+    "appId": 928960,
+    "title": "928960 - Godfall Ultimate Edition",
+    "game": "Godfall Ultimate Edition",
+    "desc": "Then Click Play  Choose .exe or bat  Choose EOSAuthLauncher.exe",
+    "tags": [
+      "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-08-01",
+    "content": "\n# 928960 - Godfall Ultimate Edition\n\nAfter Downloading Game\n- Run Online Patch\n- Then Click Play > Choose .exe or bat > Choose EOSAuthLauncher.exe\n- Login to your EPIC Account once the browser opened.\n- Proceed with game, enjoy.\n\n![Attached Image](assets/928960-godfall-ultimate-edition_1533036736945586307.png)\n\n\n![Attached Image](assets/928960-godfall-ultimate-edition_1533036737448644688.png)\n"
+  },
+  {
     "id": "how-to-fix-cloud-sync-error",
     "appId": null,
     "title": "How To fix Cloud sync Error",
@@ -263,35 +291,5 @@
     "version": "1.0",
     "date": "2026-06-19",
     "content": "\n# THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES - 3483510\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "bmx-streets-871540",
-    "appId": 871540,
-    "title": "BMX Streets - 871540",
-    "game": "BMX Streets",
-    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
-    "tags": [
-      "online",
-      "drm"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-06-15",
-    "content": "\n# BMX Streets - 871540\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online patch```\n5) play from steam\n"
-  },
-  {
-    "id": "242760-the-forest",
-    "appId": 242760,
-    "title": "242760 ( The Forest)",
-    "game": "The Forest",
-    "desc": "1. Unlock the game from SUO.",
-    "tags": [
-      "online",
-      "drm"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-06-13",
-    "content": "\n# 242760 ( The Forest)\n\n1. Unlock the game from SUO.\n\n2. Download and install as usual.\n\n3. Temporarily disable your antivirus, especially Real-time Protection:\n*Open Windows Security\n*Go to Virus & threat protection\n*Click Manage settings\n*Turn Real-time Protection OFF\n\n4. Apply the online patch.\n\n5. Verify integrity of game files at steam at game properties.\n\n6. Go to your game installation folder:\n*Steam → steamapps → common → The Forest\n*Locate TheForest32.exe\n*Right-click TheForest32.exe → Properties → Compatibility\nTick \"Run this program as an administrator\"\n*Click Apply → OK\n\n7. Launch the game from Steam.\n\n![Attached Image](assets/242760-the-forest_1515383560373276733.png)\n\n---\n\n![Attached Image](assets/242760-the-forest_1515384473313738893.png)\n\n---\n\nSila hold shift bila run exe juga untuk memaksa pop up ni.\n\n![Attached Image](assets/242760-the-forest_1515390327849095278.png)\n"
   }
 ]

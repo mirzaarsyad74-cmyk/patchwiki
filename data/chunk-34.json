@@ -1,5 +1,33 @@
 [
   {
+    "id": "assassin-s-creed-syndicate-368500",
+    "appId": 368500,
+    "title": "Assassin's Creed Syndicate - 368500",
+    "game": "Assassin's Creed Syndicate",
+    "desc": "Turn off Antivirus or exclude the game folder from windows Defender or antivirus",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Assassin's Creed Syndicate - 368500\n\n- Turn off Anti-virus or exclude the game folder from windows Defender or anti-virus\n- Start the game from Steam or inside the game folder\n- at the `Press Any Key to continue` sometimes will hang, you will have to end task i task manager\n- then try again, tips: wait for few seconds or around 20seconds before click any key to continue\n"
+  },
+  {
+    "id": "beamng-drive-284160-multiplayer-mod-tutorial",
+    "appId": 284160,
+    "title": "BeamNG.Drive - 284160 Multiplayer mod tutorial",
+    "game": "BeamNG.Drive",
+    "desc": "1. Launch the game in single player first, play for a bit.",
+    "tags": [
+      "coop"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# BeamNG.Drive - 284160 Multiplayer mod tutorial\n\n1. Launch the game in single player first, play for a bit.\n2. Then next step is go to game installation folder, launch `BeamMP-Launcher.exe`\n3. It will do some installation for Multiplayer mod.\n4. Then the normal BeamNG.drive game launcher will show up.\n5. Play the game! Enjoy!\n"
+  },
+  {
     "id": "call-of-duty-black-ops-cold-war-1985810",
     "appId": 1985810,
     "title": "Call of Duty: Black Ops Cold War - 1985810",
@@ -262,33 +290,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# RIDERS REPUBLIC - 2290180\n\n- Patch it\n- Run the game by double click on `Start.exe` in the installation folder.\n- Game is offline only and playable in ZEN mode. Basically like creative mode alone..sadge\n"
-  },
-  {
-    "id": "rayman-30th-anniversary-edition-1435114",
-    "appId": 1435114,
-    "title": "Rayman: 30th Anniversary Edition - 1435114",
-    "game": "Rayman: 30th Anniversary Edition",
-    "desc": "after patch, run from Steam directly",
-    "tags": [
-      "general"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Rayman: 30th Anniversary Edition - 1435114\n\n- after patch, run from Steam directly\n"
-  },
-  {
-    "id": "resident-evil-6-221040",
-    "appId": 221040,
-    "title": "Resident Evil 6 (221040)",
-    "game": "Resident Evil 6",
-    "desc": "Tutorial and guide for Resident Evil 6.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Resident Evil 6 (221040)\n\n- Patch & Run from Steam\n"
   }
 ]

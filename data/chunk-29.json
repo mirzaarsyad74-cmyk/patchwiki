@@ -1,5 +1,34 @@
 [
   {
+    "id": "1222700-a-way-out-bypass",
+    "appId": 1222700,
+    "title": "1222700 A WAY OUT BYPASS",
+    "game": "A WAY OUT",
+    "desc": "or Play using https://parsec.app/",
+    "tags": [
+      "bypass",
+      "coop"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 1222700 A WAY OUT BYPASS\n\nor Play using https://parsec.app/\n\n---\n\n## **​Launch the Game**:\n```\\SteamLibrary\\steamapps\\common\\AWayOut\\Haze1\\Binaries\\Win64```\n​Double-click `AWayOut.exe` inside game folder to start the game\n\n## Skip this if Offline/SP\nInstall the Steam Demo:\n1) Open your games installation folder\n2) ​Double-click the `install_game.bat` file\n\nNote: This adds the \"Blastzone 2 Demo\" to your Steam account, which is required to trick Steam into allowing Remote Play.\n​Navigate to the Game\n\n## ​Invite Your Friend:\n1) ​Select the Play Local option in the main menu\n2) ​Open the Steam Overlay by pressing SHIFT + TAB\n3) ​Right-click your friend's name in your friends list and select Remote Play Together to invite them\n"
+  },
+  {
+    "id": "1659040-hitman-world-of-assassination",
+    "appId": 1659040,
+    "title": "1659040 HITMAN WORLD OF ASSASSINATION",
+    "game": "HITMAN WORLD OF ASSASSINATION",
+    "desc": "3. The official launcher will pop up",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 1659040 HITMAN WORLD OF ASSASSINATION\n\nGEGE\n\n---\n\n1. Bypass Game\n2. Play from Steam\n3. The official launcher will pop up\n4. Play as usual, everything already set up by Bypass\n"
+  },
+  {
     "id": "1702010-sengoku-dynasty",
     "appId": 1702010,
     "title": "1702010 SENGOKU DYNASTY",
@@ -250,33 +279,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0\n\n-Open folder after patching, run game from nrsc_launcher.exe\n\n---\n\nUpdated seamless co-op to v1.1.2\n"
-  },
-  {
-    "id": "3240220-gta-v-enhanced-fix",
-    "appId": 3240220,
-    "title": "3240220 GTA V ENHANCED FIX",
-    "game": "GTA V ENHANCED",
-    "desc": "HERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 3240220 GTA V ENHANCED FIX\n\nHERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473\n\n---\n\nMissing PlayGTAV.exe earlier\n\n-Patch and run game from Steam.\n\n---\n\n3240220 GTA V ENHANCED FIX\n"
-  },
-  {
-    "id": "394510-helldivers-1-online-patch",
-    "appId": 394510,
-    "title": "394510 HELLDIVERS 1 ONLINE PATCH",
-    "game": "HELLDIVERS 1",
-    "desc": "After patching, open game folder, launch from Launcher.exe",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 394510 HELLDIVERS 1 ONLINE PATCH\n\n-After patching, open game folder, launch from Launcher.exe\n"
   }
 ]

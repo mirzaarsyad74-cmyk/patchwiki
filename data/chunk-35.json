@@ -1,5 +1,33 @@
 [
   {
+    "id": "rayman-30th-anniversary-edition-1435114",
+    "appId": 1435114,
+    "title": "Rayman: 30th Anniversary Edition - 1435114",
+    "game": "Rayman: 30th Anniversary Edition",
+    "desc": "after patch, run from Steam directly",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Rayman: 30th Anniversary Edition - 1435114\n\n- after patch, run from Steam directly\n"
+  },
+  {
+    "id": "resident-evil-6-221040",
+    "appId": 221040,
+    "title": "Resident Evil 6 (221040)",
+    "game": "Resident Evil 6",
+    "desc": "Tutorial and guide for Resident Evil 6.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Resident Evil 6 (221040)\n\n- Patch & Run from Steam\n"
+  },
+  {
     "id": "rise-of-the-ronin-online-co-op-play-1340990",
     "appId": 1340990,
     "title": "Rise of the Ronin Online Co-op play - 1340990",

@@ -1,5 +1,35 @@
 [
   {
+    "id": "bmx-streets-871540",
+    "appId": 871540,
+    "title": "BMX Streets - 871540",
+    "game": "BMX Streets",
+    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
+    "tags": [
+      "online",
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-06-15",
+    "content": "\n# BMX Streets - 871540\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online patch```\n5) play from steam\n"
+  },
+  {
+    "id": "242760-the-forest",
+    "appId": 242760,
+    "title": "242760 ( The Forest)",
+    "game": "The Forest",
+    "desc": "1. Unlock the game from SUO.",
+    "tags": [
+      "online",
+      "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-06-13",
+    "content": "\n# 242760 ( The Forest)\n\n1. Unlock the game from SUO.\n\n2. Download and install as usual.\n\n3. Temporarily disable your antivirus, especially Real-time Protection:\n*Open Windows Security\n*Go to Virus & threat protection\n*Click Manage settings\n*Turn Real-time Protection OFF\n\n4. Apply the online patch.\n\n5. Verify integrity of game files at steam at game properties.\n\n6. Go to your game installation folder:\n*Steam → steamapps → common → The Forest\n*Locate TheForest32.exe\n*Right-click TheForest32.exe → Properties → Compatibility\nTick \"Run this program as an administrator\"\n*Click Apply → OK\n\n7. Launch the game from Steam.\n\n![Attached Image](assets/242760-the-forest_1515383560373276733.png)\n\n---\n\n![Attached Image](assets/242760-the-forest_1515384473313738893.png)\n\n---\n\nSila hold shift bila run exe juga untuk memaksa pop up ni.\n\n![Attached Image](assets/242760-the-forest_1515390327849095278.png)\n"
+  },
+  {
     "id": "company-of-heroes-3-1677280",
     "appId": 1677280,
     "title": "Company of Heroes 3 - 1677280",
@@ -265,34 +295,5 @@
     "version": "1.0",
     "date": "2026-05-07",
     "content": "\n# Rest Area Simulator - 3732960\n\n- Added online patch\n- Download game\n- Bypass Game\n"
-  },
-  {
-    "id": "1222700-a-way-out-bypass",
-    "appId": 1222700,
-    "title": "1222700 A WAY OUT BYPASS",
-    "game": "A WAY OUT",
-    "desc": "or Play using https://parsec.app/",
-    "tags": [
-      "bypass",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\n# 1222700 A WAY OUT BYPASS\n\nor Play using https://parsec.app/\n\n---\n\n## **​Launch the Game**:\n```\\SteamLibrary\\steamapps\\common\\AWayOut\\Haze1\\Binaries\\Win64```\n​Double-click `AWayOut.exe` inside game folder to start the game\n\n## Skip this if Offline/SP\nInstall the Steam Demo:\n1) Open your games installation folder\n2) ​Double-click the `install_game.bat` file\n\nNote: This adds the \"Blastzone 2 Demo\" to your Steam account, which is required to trick Steam into allowing Remote Play.\n​Navigate to the Game\n\n## ​Invite Your Friend:\n1) ​Select the Play Local option in the main menu\n2) ​Open the Steam Overlay by pressing SHIFT + TAB\n3) ​Right-click your friend's name in your friends list and select Remote Play Together to invite them\n"
-  },
-  {
-    "id": "1659040-hitman-world-of-assassination",
-    "appId": 1659040,
-    "title": "1659040 HITMAN WORLD OF ASSASSINATION",
-    "game": "HITMAN WORLD OF ASSASSINATION",
-    "desc": "3. The official launcher will pop up",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-06",
-    "content": "\n# 1659040 HITMAN WORLD OF ASSASSINATION\n\nGEGE\n\n---\n\n1. Bypass Game\n2. Play from Steam\n3. The official launcher will pop up\n4. Play as usual, everything already set up by Bypass\n"
   }
 ]

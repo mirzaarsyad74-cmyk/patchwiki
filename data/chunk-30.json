@@ -1,5 +1,33 @@
 [
   {
+    "id": "3240220-gta-v-enhanced-fix",
+    "appId": 3240220,
+    "title": "3240220 GTA V ENHANCED FIX",
+    "game": "GTA V ENHANCED",
+    "desc": "HERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 3240220 GTA V ENHANCED FIX\n\nHERE VIDEO TUTORIAL https://discord.com/channels/333191744873299978/1250770248328675378/1459906591481397473\n\n---\n\nMissing PlayGTAV.exe earlier\n\n-Patch and run game from Steam.\n\n---\n\n3240220 GTA V ENHANCED FIX\n"
+  },
+  {
+    "id": "394510-helldivers-1-online-patch",
+    "appId": 394510,
+    "title": "394510 HELLDIVERS 1 ONLINE PATCH",
+    "game": "HELLDIVERS 1",
+    "desc": "After patching, open game folder, launch from Launcher.exe",
+    "tags": [
+      "online"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 394510 HELLDIVERS 1 ONLINE PATCH\n\n-After patching, open game folder, launch from Launcher.exe\n"
+  },
+  {
     "id": "779340-total-war-3-kingdoms-bypass",
     "appId": 779340,
     "title": "779340 TOTAL WAR: 3 KINGDOMS BYPASS",
@@ -254,34 +282,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 3501070 CAR SERVICE TOGETHER\n\n-run game from Steam\n"
-  },
-  {
-    "id": "3569500-card-shop-simulator-online",
-    "appId": 3569500,
-    "title": "3569500 CARD SHOP SIMULATOR ONLINE",
-    "game": "CARD SHOP SIMULATOR",
-    "desc": "Tutorial and guide for CARD SHOP SIMULATOR.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 3569500 CARD SHOP SIMULATOR ONLINE\n\n-run game from Steam\n"
-  },
-  {
-    "id": "3681010-nioh-3-online-patch",
-    "appId": 3681010,
-    "title": "3681010 NIOH 3 ONLINE PATCH",
-    "game": "NIOH 3",
-    "desc": "After patch, play game from Steam,",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 3681010 NIOH 3 ONLINE PATCH\n\n-After patch, play game from Steam,\n-Make sure antivirus is disabled before starting game,\n-Progress through story first before unlocking story co-op mode.\n"
   }
 ]

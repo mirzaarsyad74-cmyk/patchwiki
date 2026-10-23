@@ -1,5 +1,34 @@
 [
   {
+    "id": "3569500-card-shop-simulator-online",
+    "appId": 3569500,
+    "title": "3569500 CARD SHOP SIMULATOR ONLINE",
+    "game": "CARD SHOP SIMULATOR",
+    "desc": "Tutorial and guide for CARD SHOP SIMULATOR.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# 3569500 CARD SHOP SIMULATOR ONLINE\n\n-run game from Steam\n"
+  },
+  {
+    "id": "3681010-nioh-3-online-patch",
+    "appId": 3681010,
+    "title": "3681010 NIOH 3 ONLINE PATCH",
+    "game": "NIOH 3",
+    "desc": "After patch, play game from Steam,",
+    "tags": [
+      "online",
+      "coop"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# 3681010 NIOH 3 ONLINE PATCH\n\n-After patch, play game from Steam,\n-Make sure antivirus is disabled before starting game,\n-Progress through story first before unlocking story co-op mode.\n"
+  },
+  {
     "id": "47790-medal-of-honor-ea-bypass",
     "appId": 47790,
     "title": "47790 MEDAL OF HONOR EA BYPASS",
@@ -260,34 +289,5 @@
     "version": "1.0",
     "date": "2026-04-30",
     "content": "\n# (1677280) COMPANY OF HEROES 3 DENUV BYPASS\n\n-Run game from Steam\n"
-  },
-  {
-    "id": "1693980-dead-space-remake-denu-bypass",
-    "appId": 1693980,
-    "title": "(1693980) DEAD SPACE REMAKE DENU BYPASS",
-    "game": "DEAD SPACE REMAKE",
-    "desc": "run game from steam after patch,",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (1693980) DEAD SPACE REMAKE DENU BYPASS\n\n-run game from steam after patch,\n-wait for shader complete build.\n"
-  },
-  {
-    "id": "2129530-reanimal-online-co-op",
-    "appId": 2129530,
-    "title": "(2129530) REANIMAL ONLINE CO-OP",
-    "game": "REANIMAL",
-    "desc": "Just add friend pass from Steam Store and then play with your friend via normal steam invite",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (2129530) REANIMAL ONLINE CO-OP\n\n-Just add friend pass from Steam Store and then play with your friend via normal steam invite\n\n![Attached Image](assets/2129530-reanimal-online-co-op_1499261977397035098.png)\n"
   }
 ]

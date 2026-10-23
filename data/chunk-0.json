@@ -1,5 +1,33 @@
 [
   {
+    "id": "nexus-mod-downloader",
+    "appId": null,
+    "title": "Nexus Mod Downloader",
+    "game": "Nexus Mod Downloader",
+    "desc": "Tutorial and guide for Nexus Mod Downloader.",
+    "tags": [
+      "general"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-23",
+    "content": "\n# Nexus Mod Downloader\n\nIn progress...\n\n![Attached Image](assets/nexus-mod-downloader_1563067138044854372.png)\n\n---\n\nNexus Mod Downloader\n"
+  },
+  {
+    "id": "flingtrainer-downloader",
+    "appId": null,
+    "title": "FlingTrainer Downloader",
+    "game": "FlingTrainer Downloader",
+    "desc": "🎮 FLiNG Trainer Hub & Downloader v1.0",
+    "tags": [
+      "bypass"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-22",
+    "content": "\n# FlingTrainer Downloader\n\n# 🎮 FLiNG Trainer Hub & Downloader v1.0\n\nA lightweight, standalone desktop catalog & 1-click downloader for all **FLiNG Trainers** — fast, clean, and zero bloat.\n\n### 🌟 What Can It Do?\n\n> ⚡ **1-Click Direct Downloads**\n> Instant high-speed downloads bypassing browser popups, ads, and 403 referrer blocks.\n\n> 📦 **Smart Auto-Extraction**\n> Auto-inspects files (`.exe` vs `.zip`). Zip archives are automatically extracted into clean subfolders so trainers are ready to run instantly!\n\n> 🔍 **760+ Game Trainer Library**\n> Instant offline/cached search across the entire FLiNG catalog with cover art, version tags, and full release notes.\n\n> 📋 **Built-in Hotkey Cheatsheet**\n> View all cheat hotkeys (`Numpad 1`, `Ctrl+F1`, etc.) directly inside the app with 1-click copy. (Acts purely as a safe downloader & reference — no risky memory injection).\n\n> 📁 **Dedicated Downloads Vault**\n> Keeps your PC organized: all downloads are saved exclusively to the `Downloads\\` folder with quick \"Open File\" and \"Open Folder\" buttons.\n\n> 🖥️ **Sleek Dark Mode & Auto-Fit UI**\n> Native Windows dark title bar with responsive auto-zoom that adapts to any window or display size without black bars.\n\n> 🔄 **Live Sync**\n> Checks and pulls newly released trainers directly from FLiNG on startup.\n\n---\n### 🚀 How to Use\n1. Run `FlingTrainer.exe`\n2. Search for your game & click **Download Trainer**\n3. Launch your trainer right from the app or find it ready-to-use in `Downloads\\`!\n\n![Attached Image](assets/flingtrainer-downloader_1563043079710183434.png)\n\n---\n\n[Download FlingTrainer.exe (0.1 MB)](assets/flingtrainer-downloader_1563043810613788682.exe)\n\n---\n\nFlingTrainer Downloader\n\n---\n\n📢 **MAINTENANCE NOTICE**\n\n> **Type:** One-Time Maintenance ⚠️ \n\n**Note:** This was a one-time maintenance update. If it stops working in the future, it means it is no longer working and **will not** receive further updates or patches\n\nThank you for your understanding!\n"
+  },
+  {
     "id": "flingtrainer",
     "appId": null,
     "title": "FlingTrainer",
@@ -260,37 +288,5 @@
     "version": "1.0",
     "date": "2026-10-01",
     "content": "\n# ACE COMBAT 8: WINGS OF THEVE - 2288380\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "ea-sports-fc-27-4080220",
-    "appId": 4080220,
-    "title": "EA SPORTS FC™ 27 - 4080220",
-    "game": "EA SPORTS FC™ 27",
-    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-09-28",
-    "content": "\n# EA SPORTS FC™ 27 - 4080220\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n\n---\n\nOFFLINE only\n\n---\n\nEA SPORTS FC™ 27 - 4080220\n"
-  },
-  {
-    "id": "fc-27-4080220",
-    "appId": 4080220,
-    "title": "FC 27 - 4080220",
-    "game": "FC 27",
-    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
-    "version": "1.0",
-    "date": "2026-09-28",
-    "content": "\n# FC 27 - 4080220\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n\n---\n\nOFFLINE only\n"
   }
 ]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "american-truck-simulator-270880",
+    "appId": 270880,
+    "title": "American Truck Simulator Online Fix",
+    "game": "American Truck Simulator",
+    "desc": "American Truck Simulator Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# American Truck Simulator Online Fix\n\n# American Truck Simulator Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "kalpa-cosmic-symphony-2717010",
+    "appId": 2717010,
+    "title": "KALPA: Cosmic Symphony Bypass",
+    "game": "KALPA: Cosmic Symphony",
+    "desc": "KALPA: Cosmic Symphony Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# KALPA: Cosmic Symphony Bypass\n\n# KALPA: Cosmic Symphony Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "samurai-warriors-4-dx-2719200",
     "appId": 2719200,
     "title": "SAMURAI WARRIORS 4 DX Online Fix",
@@ -250,33 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Planetaries Online Fix\n\n# Planetaries Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "school-666-2802820",
-    "appId": 2802820,
-    "title": "School 666 Online Fix",
-    "game": "School 666",
-    "desc": "School 666 Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# School 666 Online Fix\n\n# School 666 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "forsaken-frontiers-2810780",
-    "appId": 2810780,
-    "title": "Forsaken Frontiers Online Fix",
-    "game": "Forsaken Frontiers",
-    "desc": "Forsaken Frontiers Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Forsaken Frontiers Online Fix\n\n# Forsaken Frontiers Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]
