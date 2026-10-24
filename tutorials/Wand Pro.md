@@ -5,7 +5,7 @@ game: Wand Pro
 author: Ryunosuke
 version: 1.0
 desc: 🪄 Wand / WeMod AutoUpdater & Tools
-tags: bypass
+tags: general
 date: 2026-10-14
 ---
 
@@ -30,25 +30,6 @@ Wand
 
 ---
 
-### 🚨 **Pro Subscription Notice Fix**
-
-If you encounter this popup:
-> `"You No Longer Pro"`
-
-### 📋 **Summary: Patch vs. Crack**
-* **Patch:** Modifies specific files on your official app to bypass restrictions. Safe, but updates break it.
-* **Crack:** Replaces the entire app with a modified pirated version. Risky (potential malware) and harder to update.
-
-### 🛠️ **How to fix it:**
-1. Run your tools again.
-2. Click **Enhance**.
-3. Tick **Disable Update**.
-4. Click **Start**.
-
-> **Note:** This is a patch and not a cracked app. Any new software updates will require you to apply the patch again.
-
----
-
 🚀 **Check out WandEnhancer — Open Source Wand / WeMod Companion Tool!**
 
 Looking to get more out of Wand? **WandEnhancer** is an open-source tool that adds remote mobile controls, unlocks pro features, and automates patching:
@@ -67,13 +48,13 @@ Download the latest release here:
 
 ---
 
-![Attached Image](assets/wand-pro_1562196399930478632.png)
+Wand Pro
 
 ---
 
-latest update from master repo
+latest update can choose  server to download wand/wemod
 
-[Download WandEnhancer.exe (3.8 MB)](assets/wand-pro_1562196648908554321.exe)
+[Download WandEnhancer.exe (3.9 MB)](assets/wand-pro_1563409781123981393.exe)
 
 ---
 
@@ -86,6 +67,4 @@ latest update from master repo
 
 > ℹ️ *The system will automatically decide whether it needs to download the latest files or apply a patch.*
 
----
-
-Wand Pro
+![Attached Image](assets/wand-pro_1563410313737674822.gif)
