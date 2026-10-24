@@ -56,3 +56,7 @@ Just press "1-click Auto Setup" and restart
 ---
 
 ``bcdedit /import C:\HV_BCD_Backup.bcd /clean`` Just in case need restore boot at Troubleshoot ➔ Advanced options ➔ Command Prompt
+
+---
+
+![Attached Image](assets/hv-tools-legacy_1563510338190573578.gif)
