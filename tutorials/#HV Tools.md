@@ -72,3 +72,14 @@ V4.0.2 update for MSI afterburner user conflict with HV, add BIG indicator PC ca
 
 
 [Download Tools_V4.0.3.exe (0.1 MB)](assets/hv-tools_1548014219851468870.exe)
+
+---
+
+[Download Tools_V4.0.4.exe (0.1 MB)](assets/hv-tools_1563939947889565796.exe)
+
+---
+
+[Download Tools_V4.0.5.exe (0.1 MB)](assets/hv-tools_1563955140879458356.exe)
+
+
+![Attached Image](assets/hv-tools_1563955150328955031.png)
