@@ -1,5 +1,19 @@
 [
   {
+    "id": "3501070-car-service-together",
+    "appId": 3501070,
+    "title": "3501070 CAR SERVICE TOGETHER",
+    "game": "CAR SERVICE TOGETHER",
+    "desc": "Tutorial and guide for CAR SERVICE TOGETHER.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# 3501070 CAR SERVICE TOGETHER\n\n-run game from Steam\n"
+  },
+  {
     "id": "3569500-card-shop-simulator-online",
     "appId": 3569500,
     "title": "3569500 CARD SHOP SIMULATOR ONLINE",
@@ -275,19 +289,5 @@
     "version": "1.0",
     "date": "2026-04-30",
     "content": "\n# (1262560) NEED FOR SPEED MOST WANTED EA BYPASS\n\n-After patch, open folder and run the game from NFS13.exe\n"
-  },
-  {
-    "id": "1677280-company-of-heroes-3-denuv-bypass",
-    "appId": 1677280,
-    "title": "(1677280) COMPANY OF HEROES 3 DENUV BYPASS",
-    "game": "COMPANY OF HEROES 3",
-    "desc": "Tutorial and guide for COMPANY OF HEROES 3.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (1677280) COMPANY OF HEROES 3 DENUV BYPASS\n\n-Run game from Steam\n"
   }
 ]

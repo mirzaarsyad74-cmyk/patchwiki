@@ -1,5 +1,19 @@
 [
   {
+    "id": "1677280-company-of-heroes-3-denuv-bypass",
+    "appId": 1677280,
+    "title": "(1677280) COMPANY OF HEROES 3 DENUV BYPASS",
+    "game": "COMPANY OF HEROES 3",
+    "desc": "Tutorial and guide for COMPANY OF HEROES 3.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# (1677280) COMPANY OF HEROES 3 DENUV BYPASS\n\n-Run game from Steam\n"
+  },
+  {
     "id": "1693980-dead-space-remake-denu-bypass",
     "appId": 1693980,
     "title": "(1693980) DEAD SPACE REMAKE DENU BYPASS",
@@ -279,19 +293,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# (228200) COMPANY OF HEROES BYPASS\n\n-Open folder after patch and run from RelicCOH.exe\n"
-  },
-  {
-    "id": "2951630-total-war-pharaoh-dynasties-denu-bypass",
-    "appId": 2951630,
-    "title": "(2951630) TOTAL WAR: PHARAOH DYNASTIES DENU BYPASS",
-    "game": "TOTAL WAR: PHARAOH DYNASTIES",
-    "desc": "Tutorial and guide for TOTAL WAR: PHARAOH DYNASTIES.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# (2951630) TOTAL WAR: PHARAOH DYNASTIES DENU BYPASS\n\n-run game from steam\n"
   }
 ]

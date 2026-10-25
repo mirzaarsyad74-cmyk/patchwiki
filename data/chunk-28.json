@@ -1,5 +1,21 @@
 [
   {
+    "id": "the-adventure-of-elliot-the-millennium-tales-3483510",
+    "appId": 3483510,
+    "title": "THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES - 3483510",
+    "game": "THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES",
+    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-06-19",
+    "content": "\n# THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES - 3483510\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+  },
+  {
     "id": "bmx-streets-871540",
     "appId": 871540,
     "title": "BMX Streets - 871540",
@@ -280,20 +296,5 @@
     "version": "1.0",
     "date": "2026-05-07",
     "content": "\n# Gamble With Your Friends - 3892270\n\n- Added online patch\n- Download game\n- Bypass Game\n"
-  },
-  {
-    "id": "rest-area-simulator-3732960",
-    "appId": 3732960,
-    "title": "Rest Area Simulator - 3732960",
-    "game": "Rest Area Simulator",
-    "desc": "Tutorial and guide for Rest Area Simulator.",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-07",
-    "content": "\n# Rest Area Simulator - 3732960\n\n- Added online patch\n- Download game\n- Bypass Game\n"
   }
 ]

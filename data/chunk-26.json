@@ -1,5 +1,19 @@
 [
   {
+    "id": "grounded-962130",
+    "appId": 962130,
+    "title": "Grounded Online Fix",
+    "game": "Grounded",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Grounded Online Fix\n\n# Grounded Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "pacify-967050",
     "appId": 967050,
     "title": "Pacify Online Fix",
@@ -271,19 +285,5 @@
     "version": "1.0",
     "date": "2026-08-02",
     "content": "\n# Responding - 2658040\n\nTo be able to play this game, go to the SUO > Library > find the game Responding > Enable Online Function\n\n-# but this game is shit\n"
-  },
-  {
-    "id": "the-dark-pictures-anthology-house-of-ashes-1281590",
-    "appId": 1281590,
-    "title": "The Dark Pictures Anthology: House of Ashes - 1281590",
-    "game": "The Dark Pictures Anthology: House of Ashes",
-    "desc": "After bypass, Run game from SUO, choose HouseOfAshes.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-08-02",
-    "content": "\n# The Dark Pictures Anthology: House of Ashes - 1281590\n\nAfter bypass, Run game from SUO, choose HouseOfAshes.exe\n\n![Attached Image](assets/the-dark-pictures-anthology-house-of-ashes-1281590_1533374127728234616.png)\n\n---\n\nThe Dark Pictures Anthology: House of Ashes - 1281590\n"
   }
 ]

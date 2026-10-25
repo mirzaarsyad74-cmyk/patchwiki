@@ -1,5 +1,19 @@
 [
   {
+    "id": "riders-republic-2290180",
+    "appId": 2290180,
+    "title": "RIDERS REPUBLIC - 2290180",
+    "game": "RIDERS REPUBLIC",
+    "desc": "Run the game by double click on Start.exe in the installation folder.",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# RIDERS REPUBLIC - 2290180\n\n- Patch it\n- Run the game by double click on `Start.exe` in the installation folder.\n- Game is offline only and playable in ZEN mode. Basically like creative mode alone..sadge\n"
+  },
+  {
     "id": "rayman-30th-anniversary-edition-1435114",
     "appId": 1435114,
     "title": "Rayman: 30th Anniversary Edition - 1435114",

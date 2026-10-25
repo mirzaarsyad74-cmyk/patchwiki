@@ -1,5 +1,19 @@
 [
   {
+    "id": "forza-motorsport-2440510",
+    "appId": 2440510,
+    "title": "Forza Motorsport Online Fix",
+    "game": "Forza Motorsport",
+    "desc": "Forza Motorsport Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Forza Motorsport Online Fix\n\n# Forza Motorsport Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "shape-of-dreams-2444750",
     "appId": 2444750,
     "title": "Shape of Dreams Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# CUFFBUST Online Fix\n\n# CUFFBUST Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "deathwatchers-2599370",
-    "appId": 2599370,
-    "title": "DeathWatchers Bypass",
-    "game": "DeathWatchers",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# DeathWatchers Bypass\n\n# DeathWatchers Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

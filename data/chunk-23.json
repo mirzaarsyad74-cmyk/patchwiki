@@ -1,5 +1,19 @@
 [
   {
+    "id": "dragonsword-awakening-4570720",
+    "appId": 4570720,
+    "title": "DragonSword : Awakening Online Fix",
+    "game": "DragonSword : Awakening",
+    "desc": "DragonSword : Awakening Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# DragonSword : Awakening Online Fix\n\n# DragonSword : Awakening Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "red-flag-4601770",
     "appId": 4601770,
     "title": "Red Flag Online Fix",
@@ -265,19 +279,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Dying Light 2: Reloaded Edition Online Fix\n\n# Dying Light 2: Reloaded Edition Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "soulcalibur-vi-544750",
-    "appId": 544750,
-    "title": "SOULCALIBUR VI Online Fix",
-    "game": "SOULCALIBUR VI",
-    "desc": "SOULCALIBUR VI Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# SOULCALIBUR VI Online Fix\n\n# SOULCALIBUR VI Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

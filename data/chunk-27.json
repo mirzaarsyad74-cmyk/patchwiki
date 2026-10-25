@@ -1,5 +1,19 @@
 [
   {
+    "id": "the-dark-pictures-anthology-house-of-ashes-1281590",
+    "appId": 1281590,
+    "title": "The Dark Pictures Anthology: House of Ashes - 1281590",
+    "game": "The Dark Pictures Anthology: House of Ashes",
+    "desc": "After bypass, Run game from SUO, choose HouseOfAshes.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-08-02",
+    "content": "\n# The Dark Pictures Anthology: House of Ashes - 1281590\n\nAfter bypass, Run game from SUO, choose HouseOfAshes.exe\n\n![Attached Image](assets/the-dark-pictures-anthology-house-of-ashes-1281590_1533374127728234616.png)\n\n---\n\nThe Dark Pictures Anthology: House of Ashes - 1281590\n"
+  },
+  {
     "id": "1501310-the-ranchers-new-beginning",
     "appId": 1501310,
     "title": "1501310 - The Ranchers New Beginning",
@@ -275,21 +289,5 @@
     "version": "1.0",
     "date": "2026-06-27",
     "content": "\n# Hogwarts Legacy - 990080\n\nUsing Crack: Voices38\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
-  },
-  {
-    "id": "the-adventure-of-elliot-the-millennium-tales-3483510",
-    "appId": 3483510,
-    "title": "THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES - 3483510",
-    "game": "THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES",
-    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-06-19",
-    "content": "\n# THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES - 3483510\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "id": "rest-area-simulator-3732960",
+    "appId": 3732960,
+    "title": "Rest Area Simulator - 3732960",
+    "game": "Rest Area Simulator",
+    "desc": "Tutorial and guide for Rest Area Simulator.",
+    "tags": [
+      "online",
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-07",
+    "content": "\n# Rest Area Simulator - 3732960\n\n- Added online patch\n- Download game\n- Bypass Game\n"
+  },
+  {
     "id": "1222700-a-way-out-bypass",
     "appId": 1222700,
     "title": "1222700 A WAY OUT BYPASS",
@@ -265,19 +280,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 2340870 RUGBY 25 BYPASS\n\n-After patching\n\n-Run game from Steam.\n"
-  },
-  {
-    "id": "2622380-elden-ring-nightreign-co-op-patch-to-v-1-1-0",
-    "appId": 2622380,
-    "title": "2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
-    "game": "ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
-    "desc": "Open folder after patching, run game from nrsclauncher.exe",
-    "tags": [
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0\n\n-Open folder after patching, run game from nrsc_launcher.exe\n\n---\n\nUpdated seamless co-op to v1.1.2\n"
   }
 ]
