@@ -1,5 +1,20 @@
 [
   {
+    "id": "hogwarts-legacy-990080",
+    "appId": 990080,
+    "title": "Hogwarts Legacy - 990080",
+    "game": "Hogwarts Legacy",
+    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-06-27",
+    "content": "\n# Hogwarts Legacy - 990080\n\nUsing Crack: Voices38\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
+  },
+  {
     "id": "the-adventure-of-elliot-the-millennium-tales-3483510",
     "appId": 3483510,
     "title": "THE ADVENTURE OF ELLIOT: THE MILLENNIUM TALES - 3483510",
@@ -101,7 +116,7 @@
     "author": "Ryunosuke",
     "version": "1.0",
     "date": "2026-06-06",
-    "content": "\n# #HV Tools\n\n• Automatically Detects Motherboard Brand\n• Auto-Detect BIOS Boot Types (UEFI/Legacy)\n• Auto-detect DSE/Virtualization\n• Automatically find a YouTube link to guide on enabling virtualization\n• Auto Refresh Panel\n• More Error Handler\n• Window Hello detection\n• Testing Mode ON/OFF\n• Add Win Hello Disable guide/bypass\n• Dynamic Run VBS button\n• Auto Detect Custom OS\n• CLI mode added\n• SUO setup\n• Latest VBS 1.9\n# **Please Off Antivirus before using it**\n\n---\n\n#HV Tools\n\n---\n\nlatest version. just need 1 click then restart. after that can play HV game via PlugNPlay.bat\n\n[Download Tools_V4.0.exe (0.1 MB)](assets/hv-tools_1545081721014456330.exe)\n\n---\n\n![Attached Image](assets/hv-tools_1545272878981849208.png)\n\n---\n\nV4.0.1 added automation on Windows Hello fix to un-gray remove button on the VBS step\n\n[Download Tools_V4.0.1.exe (0.1 MB)](assets/hv-tools_1545705780647301140.exe)\n\n\n![Attached Image](assets/hv-tools_1545705781062672434.png)\n\n---\n\nV4.0.2 update for MSI afterburner user conflict with HV, add BIG indicator PC can run HV game\n\n![Attached Image](assets/hv-tools_1546931346662760499.png)\n\n\n[Download Tools_V4.0.2.exe (0.1 MB)](assets/hv-tools_1546931347459805244.exe)\n\n---\n\n# **Changed in V4.0.3**\n* 1 Click button - add auto restart PC \n* Fix HV error `0xC035001E` \"*hypervisor feature is not available to the user*\" at launch crash.\n* Cleaned Up UI - less clutter.\n* New Status Badge: [Not Ready For Hypervisor]\n* Telemetry - Fix false-positive detection Windows Hyper-V\n\n![Attached Image](assets/hv-tools_1548014219545280633.png)\n\n\n[Download Tools_V4.0.3.exe (0.1 MB)](assets/hv-tools_1548014219851468870.exe)\n"
+    "content": "\n# #HV Tools\n\n• Automatically Detects Motherboard Brand\n• Auto-Detect BIOS Boot Types (UEFI/Legacy)\n• Auto-detect DSE/Virtualization\n• Automatically find a YouTube link to guide on enabling virtualization\n• Auto Refresh Panel\n• More Error Handler\n• Window Hello detection\n• Testing Mode ON/OFF\n• Add Win Hello Disable guide/bypass\n• Dynamic Run VBS button\n• Auto Detect Custom OS\n• CLI mode added\n• SUO setup\n• Latest VBS 1.9\n# **Please Off Antivirus before using it**\n\n---\n\n#HV Tools\n\n---\n\nlatest version. just need 1 click then restart. after that can play HV game via PlugNPlay.bat\n\n[Download Tools_V4.0.exe (0.1 MB)](assets/hv-tools_1545081721014456330.exe)\n\n---\n\n![Attached Image](assets/hv-tools_1545272878981849208.png)\n\n---\n\nV4.0.1 added automation on Windows Hello fix to un-gray remove button on the VBS step\n\n[Download Tools_V4.0.1.exe (0.1 MB)](assets/hv-tools_1545705780647301140.exe)\n\n\n![Attached Image](assets/hv-tools_1545705781062672434.png)\n\n---\n\nV4.0.2 update for MSI afterburner user conflict with HV, add BIG indicator PC can run HV game\n\n![Attached Image](assets/hv-tools_1546931346662760499.png)\n\n\n[Download Tools_V4.0.2.exe (0.1 MB)](assets/hv-tools_1546931347459805244.exe)\n\n---\n\n# **Changed in V4.0.3**\n* 1 Click button - add auto restart PC \n* Fix HV error `0xC035001E` \"*hypervisor feature is not available to the user*\" at launch crash.\n* Cleaned Up UI - less clutter.\n* New Status Badge: [Not Ready For Hypervisor]\n* Telemetry - Fix false-positive detection Windows Hyper-V\n\n![Attached Image](assets/hv-tools_1548014219545280633.png)\n\n\n[Download Tools_V4.0.3.exe (0.1 MB)](assets/hv-tools_1548014219851468870.exe)\n\n---\n\n[Download Tools_V4.0.4.exe (0.1 MB)](assets/hv-tools_1563939947889565796.exe)\n\n---\n\n[Download Tools_V4.0.5.exe (0.1 MB)](assets/hv-tools_1563955140879458356.exe)\n\n\n![Attached Image](assets/hv-tools_1563955150328955031.png)\n"
   },
   {
     "id": "nba-2k14-255480",
@@ -281,20 +296,5 @@
     "version": "1.0",
     "date": "2026-05-07",
     "content": "\n# Bus Bound - 2095420\n\n- Added online patch\n- Download game\n- Bypass Game\n"
-  },
-  {
-    "id": "gamble-with-your-friends-3892270",
-    "appId": 3892270,
-    "title": "Gamble With Your Friends - 3892270",
-    "game": "Gamble With Your Friends",
-    "desc": "Tutorial and guide for Gamble With Your Friends.",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-07",
-    "content": "\n# Gamble With Your Friends - 3892270\n\n- Added online patch\n- Download game\n- Bypass Game\n"
   }
 ]

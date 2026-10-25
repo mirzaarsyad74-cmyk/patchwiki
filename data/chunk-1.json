@@ -1,5 +1,19 @@
 [
   {
+    "id": "dying-light-the-beast-3008130",
+    "appId": 3008130,
+    "title": "Dying Light: The Beast - 3008130",
+    "game": "Dying Light: The Beast",
+    "desc": "1. Download EPIC Games Store at https://store.epicgames.com/",
+    "tags": [
+      "online"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-02",
+    "content": "\n# Dying Light: The Beast - 3008130\n\n# BEFORE ANYTHING ELSE\n1. Download EPIC Games Store at https://store.epicgames.com/\n2. Register an account at https://www.epicgames.com/id/login?lang=en-US, login using Google also accepted\n\n# Installation\n1. Off Antivirus/Smart App Control\n2. Unlock game from steam Unlock(make sure game is disable auto update)\n3. Download game from Steam\n4. After Game done download go to ```Steam Unlock > library > game name > click online patch```\n5. And Play games from steam\n"
+  },
+  {
     "id": "ace-combat-8-wings-of-theve-2288380",
     "appId": 2288380,
     "title": "ACE COMBAT 8: WINGS OF THEVE - 2288380",
@@ -274,19 +288,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Baldur's Gate 3 Online Fix\n\n# Baldur's Gate 3 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "outbrk-1107320",
-    "appId": 1107320,
-    "title": "OUTBRK Online Fix",
-    "game": "OUTBRK",
-    "desc": "2. Click \"ONLINE PATCH\"",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# OUTBRK Online Fix\n\n# OUTBRK Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

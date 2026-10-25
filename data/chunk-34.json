@@ -1,5 +1,19 @@
 [
   {
+    "id": "added-bypass-for-lego-horizon-adventures-2428810",
+    "appId": 2428810,
+    "title": "Added bypass for LEGO Horizon Adventures- (2428810)",
+    "game": "LEGO Horizon Adventures",
+    "desc": "After patch, run from steam",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added bypass for LEGO Horizon Adventures- (2428810)\n\nAfter patch, run from steam\n"
+  },
+  {
     "id": "assassin-creed-mirage-3035570",
     "appId": 3035570,
     "title": "Assassin Creed Mirage (3035570)",
@@ -276,19 +290,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Persona 4 Golden Denu Bypass - 111300\n\n- after bypass game, go inside game folder\n- run Persona4GoldenDownloader.bat\n- this will download additional bypass files, total of 58 parts\n- use WARP if download is too slow.\n- once done, play the game using P4G.exe\n"
-  },
-  {
-    "id": "rdr2-bypass-guide-1174180-red-dead-redemption-2",
-    "appId": 1174180,
-    "title": "RDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2",
-    "game": "RDR2 RED DEAD REDEMPTION 2",
-    "desc": "run game using Launcher.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# RDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2\n\n- open game folder\n- run game using Launcher.exe\n\n---\n\nRed Dead Redemption 2\n\n---\n\nRDR2 bypass guide- 1174180 RED DEAD REDEMPTION 2\n"
   }
 ]

@@ -16,6 +16,22 @@
     "content": "\n# FINAL FANTASY RESONANCE - 3259780\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
   },
   {
+    "id": "need-for-speed-payback-1262580",
+    "appId": 1262580,
+    "title": "Need for Speed Payback - 1262580",
+    "game": "Need for Speed Payback",
+    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-25",
+    "content": "\n# Need for Speed Payback - 1262580\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+  },
+  {
     "id": "nexus-mod-downloader",
     "appId": null,
     "title": "Nexus Mod Downloader",
@@ -274,19 +290,5 @@
     "version": "1.0",
     "date": "2026-10-04",
     "content": "\n# test - 480\n\nNothing to see here\n\n---\n\nBot test\n\n---\n\ntest - 480\n"
-  },
-  {
-    "id": "dying-light-the-beast-3008130",
-    "appId": 3008130,
-    "title": "Dying Light: The Beast - 3008130",
-    "game": "Dying Light: The Beast",
-    "desc": "1. Download EPIC Games Store at https://store.epicgames.com/",
-    "tags": [
-      "online"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-10-02",
-    "content": "\n# Dying Light: The Beast - 3008130\n\n# BEFORE ANYTHING ELSE\n1. Download EPIC Games Store at https://store.epicgames.com/\n2. Register an account at https://www.epicgames.com/id/login?lang=en-US, login using Google also accepted\n\n# Installation\n1. Off Antivirus/Smart App Control\n2. Unlock game from steam Unlock(make sure game is disable auto update)\n3. Download game from Steam\n4. After Game done download go to ```Steam Unlock > library > game name > click online patch```\n5. And Play games from steam\n"
   }
 ]

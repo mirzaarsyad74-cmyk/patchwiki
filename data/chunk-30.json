@@ -1,5 +1,19 @@
 [
   {
+    "id": "2340870-rugby-25-bypass",
+    "appId": 2340870,
+    "title": "2340870 RUGBY 25 BYPASS",
+    "game": "RUGBY 25",
+    "desc": "Tutorial and guide for RUGBY 25.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 2340870 RUGBY 25 BYPASS\n\n-After patching\n\n-Run game from Steam.\n"
+  },
+  {
     "id": "2622380-elden-ring-nightreign-co-op-patch-to-v-1-1-0",
     "appId": 2622380,
     "title": "2622380 ELDEN RING NIGHTREIGN CO-OP PATCH TO V.1.1.0",
@@ -268,19 +282,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 2191500 VAMPIRE: BLOODLORD RISING\n\n-After patch\n-Start game from Steam and then login to epic games\n"
-  },
-  {
-    "id": "287700-metal-gear-solid-v-the-phantom-pain",
-    "appId": 287700,
-    "title": "287700 METAL GEAR SOLID V: THE PHANTOM PAIN",
-    "game": "METAL GEAR SOLID V: THE PHANTOM PAIN",
-    "desc": "Patch and then play from steam",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 287700 METAL GEAR SOLID V: THE PHANTOM PAIN\n\nExclusive for Onennabe\n\nPatch and then play from steam\n\n![Attached Image](assets/287700-metal-gear-solid-v-the-phantom-pain_1500854126832255158.png)\n"
   }
 ]

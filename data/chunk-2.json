@@ -1,5 +1,19 @@
 [
   {
+    "id": "outbrk-1107320",
+    "appId": 1107320,
+    "title": "OUTBRK Online Fix",
+    "game": "OUTBRK",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# OUTBRK Online Fix\n\n# OUTBRK Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "l-a-noire-110800",
     "appId": 110800,
     "title": "L.A. Noire Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# House Flipper 2 Online Fix\n\n# House Flipper 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "the-dark-pictures-anthology-little-hope-1194630",
-    "appId": 1194630,
-    "title": "The Dark Pictures Anthology: Little Hope Online Fix",
-    "game": "The Dark Pictures Anthology: Little Hope",
-    "desc": "The Dark Pictures Anthology: Little Hope Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# The Dark Pictures Anthology: Little Hope Online Fix\n\n# The Dark Pictures Anthology: Little Hope Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

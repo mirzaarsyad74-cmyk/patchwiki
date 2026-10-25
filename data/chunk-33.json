@@ -1,5 +1,19 @@
 [
   {
+    "id": "228200-company-of-heroes-bypass",
+    "appId": 228200,
+    "title": "(228200) COMPANY OF HEROES BYPASS",
+    "game": "COMPANY OF HEROES",
+    "desc": "Open folder after patch and run from RelicCOH.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# (228200) COMPANY OF HEROES BYPASS\n\n-Open folder after patch and run from RelicCOH.exe\n"
+  },
+  {
     "id": "2951630-total-war-pharaoh-dynasties-denu-bypass",
     "appId": 2951630,
     "title": "(2951630) TOTAL WAR: PHARAOH DYNASTIES DENU BYPASS",
@@ -269,19 +283,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Added Super Battle Golf (4069520)\n\n- patch and run from steam\n"
-  },
-  {
-    "id": "added-bypass-for-lego-horizon-adventures-2428810",
-    "appId": 2428810,
-    "title": "Added bypass for LEGO Horizon Adventures- (2428810)",
-    "game": "LEGO Horizon Adventures",
-    "desc": "After patch, run from steam",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added bypass for LEGO Horizon Adventures- (2428810)\n\nAfter patch, run from steam\n"
   }
 ]
