@@ -1,5 +1,20 @@
 [
   {
+    "id": "minecraft-dungeon-2-1912410",
+    "appId": 1912410,
+    "title": "Minecraft Dungeon 2 - 1912410",
+    "game": "Minecraft Dungeon 2",
+    "desc": "Make sure Game Already Locked Version(by default is locked)",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-04",
+    "content": "\n# Minecraft Dungeon 2 - 1912410\n\nMake sure Game Already **Locked** Version(by default is locked)\n\n1) Add game from SUO/SUO Remote\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) Play from steam\n"
+  },
+  {
     "id": "test-480",
     "appId": 480,
     "title": "test - 480",
@@ -274,19 +289,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Biped Online Fix\n\n# Biped Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "project-zomboid-108600",
-    "appId": 108600,
-    "title": "Project Zomboid Online Fix",
-    "game": "Project Zomboid",
-    "desc": "Project Zomboid Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Project Zomboid Online Fix\n\n# Project Zomboid Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

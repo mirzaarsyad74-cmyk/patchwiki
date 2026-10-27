@@ -1,5 +1,19 @@
 [
   {
+    "id": "dead-island-2-934700",
+    "appId": 934700,
+    "title": "Dead Island 2 Online Fix",
+    "game": "Dead Island 2",
+    "desc": "Dead Island 2 Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Dead Island 2 Online Fix\n\n# Dead Island 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "the-dark-pictures-anthology-man-of-medan-939850",
     "appId": 939850,
     "title": "The Dark Pictures Anthology: Man of Medan Online Fix",
@@ -270,20 +284,5 @@
     "version": "1.0",
     "date": "2026-08-02",
     "content": "\n# Far Cry 5 - 552520\n\nAfter Bypass, run game from SUO, choose exe FarCry5.exe\n\n![Attached Image](assets/far-cry-5-552520_1533373335499440239.png)\n"
-  },
-  {
-    "id": "no-man-s-sky-275850",
-    "appId": 275850,
-    "title": "No Man's Sky - 275850",
-    "game": "No Man's Sky",
-    "desc": "To be able to play this game, since there are no online patch or bypass.",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-08-02",
-    "content": "\n# No Man's Sky - 275850\n\nTo be able to play this game, since there are no online patch or bypass.\n\nGo to SUO > Library > No Man Sky > Enable Online Function.\n\nFully unlock but single player only.\n"
   }
 ]

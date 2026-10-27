@@ -1,5 +1,21 @@
 [
   {
+    "id": "split-fiction-co-op",
+    "appId": null,
+    "title": "SPLIT FICTION CO-OP",
+    "game": "SPLIT FICTION CO-OP",
+    "desc": "Bypass Game after download",
+    "tags": [
+      "online",
+      "bypass",
+      "coop"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-10",
+    "content": "\n# SPLIT FICTION CO-OP\n\n# SPLIT FICTION ONLINE CO-OP\n- Bypass Game after download\n- Now go to Split Fiction Steam store page\n- Add Friend's Pass to your Library (Ignore the error)\n- Run the game through Steam\n- Host Steam game and invite your friend\n\n![Attached Image](assets/split-fiction-co-op_1502954283832971284.png)\n"
+  },
+  {
     "id": "bus-bound-2095420",
     "appId": 2095420,
     "title": "Bus Bound - 2095420",
@@ -268,19 +284,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 2055290 SONIC COLORS: ULTIMATE\n\n- After patching, open folder and find exec folder and start game using SonicColorsUltimate.exe\n"
-  },
-  {
-    "id": "221100-dayz-priv8-server-online",
-    "appId": 221100,
-    "title": "221100 DAYZ PRIV8 SERVER ONLINE",
-    "game": "DAYZ PRIV8 SERVER",
-    "desc": "Open game folder after patching",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 221100 DAYZ PRIV8 SERVER ONLINE\n\n-Open game folder after patching\n\n-use DayZavr Dayz.exe to run the private server host\nregister and play using the launcher.\n"
   }
 ]
