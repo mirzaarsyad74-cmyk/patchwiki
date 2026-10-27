@@ -1,5 +1,19 @@
 [
   {
+    "id": "2191500-vampire-bloodlord-rising",
+    "appId": 2191500,
+    "title": "2191500 VAMPIRE: BLOODLORD RISING",
+    "game": "VAMPIRE: BLOODLORD RISING",
+    "desc": "Start game from Steam and then login to epic games",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# 2191500 VAMPIRE: BLOODLORD RISING\n\n-After patch\n-Start game from Steam and then login to epic games\n"
+  },
+  {
     "id": "287700-metal-gear-solid-v-the-phantom-pain",
     "appId": 287700,
     "title": "287700 METAL GEAR SOLID V: THE PHANTOM PAIN",
@@ -275,19 +289,5 @@
     "version": "1.0",
     "date": "2026-05-02",
     "content": "\n# Resident Evil Requiem - 3764200\n\nDownload Game, make sure game auto update is lock. \nthen bypass game, play from steam\n\n---\n\n<:5726toothymaw:1239134161835655198>\n\n---\n\nGot same issues?\n\nDownload [REFramework](https://github.com/praydog/REFramework-nightly/releases/download/nightly-01424-d1461375aee4ec3f313170f8eaad12064eb542d9/REFramework.zip)\n\n• Extract folder and copy/move **dinput8.dll** to game installation Folder and try run game again\n\n![Attached Image](assets/resident-evil-requiem-3764200_1554156829628698684.jpg)\n"
-  },
-  {
-    "id": "1088850-marvel-s-guardians-of-the-galaxy-denuv-bypass",
-    "appId": 1088850,
-    "title": "(1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS",
-    "game": "MARVEL'S GUARDIANS OF THE GALAXY",
-    "desc": "tested on win11 build 26100.6725",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-30",
-    "content": "\n# (1088850) MARVEL'S GUARDIANS OF THE GALAXY DENUV BYPASS\n\n-run game from steam,\n-tested on win11 build 26100.6725\n"
   }
 ]

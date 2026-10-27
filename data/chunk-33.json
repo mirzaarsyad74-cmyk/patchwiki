@@ -1,5 +1,19 @@
 [
   {
+    "id": "1430190-killing-floor-3",
+    "appId": 1430190,
+    "title": "(1430190) KILLING FLOOR 3",
+    "game": "KILLING FLOOR 3",
+    "desc": "Run Killing Floor 3 from inside folder after patching bypass, its inside Binaries/Win64 folder,",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# (1430190) KILLING FLOOR 3\n\n-Run Killing Floor 3 from inside folder after patching bypass, its inside Binaries/Win64 folder, \n\n-run Nightfallclient_win64_shipping.exe\n\n![Attached Image](assets/1430190-killing-floor-3_1499095294632263750.png)\n\n---\n\n- Use Manifest Pinning from CloudRedirect in order to use bypass the online requirements\n\n---\n\n- or use entirely standalone\n"
+  },
+  {
     "id": "228200-company-of-heroes-bypass",
     "appId": 228200,
     "title": "(228200) COMPANY OF HEROES BYPASS",
@@ -269,19 +283,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Added StarRupture online patch - 1631270\n\n-try run from steam once patch or\n-open game folder and run game via StarRuptureGameSteam.exe\n-Session Type -> Invite Only -> Start Game -> ESC+We invite friends\n\n---\n\nAdded StarRupture online patch - 1631270\n"
-  },
-  {
-    "id": "added-super-battle-golf-4069520",
-    "appId": 4069520,
-    "title": "Added Super Battle Golf (4069520)",
-    "game": "Super Battle Golf",
-    "desc": "Tutorial and guide for Super Battle Golf.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Super Battle Golf (4069520)\n\n- patch and run from steam\n"
   }
 ]

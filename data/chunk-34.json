@@ -1,5 +1,19 @@
 [
   {
+    "id": "added-super-battle-golf-4069520",
+    "appId": 4069520,
+    "title": "Added Super Battle Golf (4069520)",
+    "game": "Super Battle Golf",
+    "desc": "Tutorial and guide for Super Battle Golf.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Super Battle Golf (4069520)\n\n- patch and run from steam\n"
+  },
+  {
     "id": "added-bypass-for-lego-horizon-adventures-2428810",
     "appId": 2428810,
     "title": "Added bypass for LEGO Horizon Adventures- (2428810)",
@@ -276,19 +290,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Paper Bride Series from 1 - 6 online check bypass\n\n- Download the attached, extract and copy all the folders and paste into Appdata/Roaming\n- Using **WIN + R**, TYPE **%appdata% ** , you should be in Roaming folder\n- Paste all the copied folder into  the Roaming folder\n- Use Online Patch/Bypass button\n- Play game from Steam.\n\n- For 1879380, 1735950, 1939790, 2286770, 2600570, 3227760\n\n![Attached Image](assets/paper-bride-series-from-1-6-online-check-bypass_1498997756516241418.png)\n\n\n![Attached Image](assets/paper-bride-series-from-1-6-online-check-bypass_1498997757250109491.png)\n\n---\n\n### Download PaperBride_1to6_series_patch.rar (136.4 MB)\n> **Note:** This file exceeds 45 MB and has been split into 4 parts for direct download:\n- [Download Part 1 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part01)\n- [Download Part 2 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part02)\n- [Download Part 3 (45.0 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part03)\n- [Download Part 4 (1.4 MB)](assets/paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part04)\n\n**To recombine on Windows (CMD):**\n```cmd\ncopy /b \"paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part*\" \"PaperBride_1to6_series_patch.rar\"\n```\n**To recombine on Linux / Mac:**\n```bash\ncat \"paper-bride-series-from-1-6-online-check-bypass_1498997898401157140.rar.part\"* > \"PaperBride_1to6_series_patch.rar\"\n```\n"
-  },
-  {
-    "id": "persona-4-golden-denu-bypass-111300",
-    "appId": 111300,
-    "title": "Persona 4 Golden Denu Bypass - 111300",
-    "game": "Persona 4 Golden",
-    "desc": "after bypass game, go inside game folder",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Persona 4 Golden Denu Bypass - 111300\n\n- after bypass game, go inside game folder\n- run Persona4GoldenDownloader.bat\n- this will download additional bypass files, total of 58 parts\n- use WARP if download is too slow.\n- once done, play the game using P4G.exe\n"
   }
 ]

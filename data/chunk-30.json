@@ -1,5 +1,19 @@
 [
   {
+    "id": "2215260-scott-pilgrim-vs-the-world-bypass",
+    "appId": 2215260,
+    "title": "2215260  SCOTT PILGRIM VS THE WORLD BYPASS",
+    "game": "SCOTT PILGRIM VS THE WORLD",
+    "desc": "After patching, open folder and start game using Scott.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 2215260  SCOTT PILGRIM VS THE WORLD BYPASS\n\n-After patching, open folder and start game using Scott.exe\n"
+  },
+  {
     "id": "2340870-rugby-25-bypass",
     "appId": 2340870,
     "title": "2340870 RUGBY 25 BYPASS",
@@ -268,19 +282,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 2077750 RENNSPORT\n\nno bypass needed but u need to register account and login using the account in the game\nyou will be able to play online with official server\n"
-  },
-  {
-    "id": "2191500-vampire-bloodlord-rising",
-    "appId": 2191500,
-    "title": "2191500 VAMPIRE: BLOODLORD RISING",
-    "game": "VAMPIRE: BLOODLORD RISING",
-    "desc": "Start game from Steam and then login to epic games",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 2191500 VAMPIRE: BLOODLORD RISING\n\n-After patch\n-Start game from Steam and then login to epic games\n"
   }
 ]

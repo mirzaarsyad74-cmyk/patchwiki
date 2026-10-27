@@ -1,5 +1,19 @@
 [
   {
+    "id": "lego-batman-legacy-of-the-dark-knight-2215200",
+    "appId": 2215200,
+    "title": "LEGO® Batman™: Legacy of the Dark Knight Bypass",
+    "game": "LEGO® Batman™: Legacy of the Dark Knight",
+    "desc": "LEGO® Batman™: Legacy of the Dark Knight Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# LEGO® Batman™: Legacy of the Dark Knight Bypass\n\n# LEGO® Batman™: Legacy of the Dark Knight Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "resident-evil-revelations-222480",
     "appId": 222480,
     "title": "Resident Evil Revelations Bypass",
@@ -265,19 +279,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Just Another Night Shift Online Fix\n\n# Just Another Night Shift Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "castlevania-lords-of-shadow-ultimate-edition-234080",
-    "appId": 234080,
-    "title": "Castlevania: Lords of Shadow - Ultimate Edition Online Fix",
-    "game": "Castlevania: Lords of Shadow - Ultimate Edition",
-    "desc": "Castlevania: Lords of Shadow - Ultimate Edition Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Castlevania: Lords of Shadow - Ultimate Edition Online Fix\n\n# Castlevania: Lords of Shadow - Ultimate Edition Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]
