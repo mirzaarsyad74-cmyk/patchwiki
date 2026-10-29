@@ -33,3 +33,18 @@ date: 2026-10-29
 1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**
 2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**
 3. Open game from steam but need run```SUO > Tools > inject HV launch Option```
+
+---
+
+## If got same problems
+
+1. Open **Steam** and go to **Library**.
+2. Right-click from game , and choose **Properties**.
+3. From tab **General**, find **Launch Options** and enter cmd ``-dx11``
+
+*If still happen, **restart pc**
+
+![Attached Image](assets/phantom-blade-zero-4115450_1565306360000811028.png)
+
+
+![Attached Image](assets/phantom-blade-zero-4115450_1565306360487485582.webp)
