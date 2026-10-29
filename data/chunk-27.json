@@ -1,5 +1,51 @@
 [
   {
+    "id": "jurassic-world-evolution-3-2958130",
+    "appId": 2958130,
+    "title": "Jurassic world Evolution 3 - 2958130",
+    "game": "Jurassic world Evolution 3",
+    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-08-04",
+    "content": "\n# Jurassic world Evolution 3 - 2958130\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n\n---\n\n# game updated to latest 1.4.2 version, \n1. redownload from server\n2. redo another hypervisor bypass \nto get latest update\n"
+  },
+  {
+    "id": "metaphor-refantazio-2679460",
+    "appId": 2679460,
+    "title": "Metaphor: ReFantazio - 2679460",
+    "game": "Metaphor: ReFantazio",
+    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-08-04",
+    "content": "\n# Metaphor: ReFantazio - 2679460\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
+  },
+  {
+    "id": "far-cry-5-552520",
+    "appId": 552520,
+    "title": "Far Cry 5 - 552520",
+    "game": "Far Cry 5",
+    "desc": "After Bypass, run game from SUO, choose exe FarCry5.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-08-02",
+    "content": "\n# Far Cry 5 - 552520\n\nAfter Bypass, run game from SUO, choose exe FarCry5.exe\n\n![Attached Image](assets/far-cry-5-552520_1533373335499440239.png)\n"
+  },
+  {
     "id": "no-man-s-sky-275850",
     "appId": 275850,
     "title": "No Man's Sky - 275850",
@@ -243,49 +289,5 @@
     "version": "1.0",
     "date": "2026-07-05",
     "content": "\n# ATOMIC HEART - 668580\n\n1. Unlock Game in Steam via Steam Unlock\n2. Use Bypass Game button in Library tab to apply patch\n3. Make sure to turn off antivirus or follow the step to automatically add the game folder to exclusion after installation.\n4. Run game from Steam.\n\n![Attached Image](assets/atomic-heart-668580_1523203290727190688.png)\n"
-  },
-  {
-    "id": "total-war-saga-troy-1099410",
-    "appId": 1099410,
-    "title": "TOTAL WAR SAGA : TROY - 1099410",
-    "game": "TOTAL WAR SAGA : TROY",
-    "desc": "Unlocking Game and Preparation",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-07-04",
-    "content": "\n# TOTAL WAR SAGA : TROY - 1099410\n\n**Unlocking Game and Preparation**\n1. Unlock Game in Steam Unlock\n2. Install Game \n3. Follow guide in  https://discord.com/channels/333191744873299978/1499122656686116944\na. Enable Virtualization\nb. Disable Memory Core integrity\nc. Disable Driver Signature Enforcement\n\n**For easier where and which step you havent do, download this tool.**\n1. Download #HV Tools https://discord.com/channels/333191744873299978/1512676091373031507\n2. Run HV Tools and then see which one is in red text, you know that you havent done the step.\n\nRun game from HV-PlugNPlay.bat after all the above step\n\n![Attached Image](assets/total-war-saga-troy-1099410_1522969637854248980.png)\n\n---\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n"
-  },
-  {
-    "id": "f1-22-1692250",
-    "appId": 1692250,
-    "title": "F1 22 - 1692250",
-    "game": "F1 22",
-    "desc": "Unlock the game via Steam Unlock",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-07-02",
-    "content": "\n# F1 22 - 1692250\n\nUnlock the game via Steam Unlock\n1. Click Update Game in Library if you previously downloaded it via other method\n2. Bypass the game\n3. Open the game Folder\n4. Delete 2 things\n- sl.dlss.dll\n- egodumper.exe\n5. Run game from Steam.\n\n![Attached Image](assets/f1-22-1692250_1522183738409353346.png)\n"
-  },
-  {
-    "id": "assassin-s-creed-rogue-311560",
-    "appId": 311560,
-    "title": "Assassin's Creed Rogue - 311560",
-    "game": "Assassin's Creed Rogue",
-    "desc": "1) Unlock the Game, Make sure the game is locked under Game update section in SUO (SteamUnlock Onennabe)",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-06-30",
-    "content": "\n# Assassin's Creed Rogue - 311560\n\n1) Unlock the Game, Make sure the game is locked under Game update section in SUO (SteamUnlock Onennabe) \n\n2) Install, Off Antivirus and bypass the game as pernormal. \nOpen the folder after successful bypass from there either double click or open as administrator (LumaPlay_x64.exe ). \n\nDisclaimer : DLC won't work\n\nThanks. Have a nice day <:5726toothymaw:1239134161835655198>\n\n![Attached Image](assets/assassin-s-creed-rogue-311560_1521542257180934144.png)\n"
   }
 ]

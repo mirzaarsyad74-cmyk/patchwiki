@@ -1,5 +1,47 @@
 [
   {
+    "id": "1328660-nsf-hot-pursuit-remastered-denuv-ea-bypass",
+    "appId": 1328660,
+    "title": "1328660 NSF HOT PURSUIT REMASTERED DENUV & EA BYPASS",
+    "game": "NSF HOT PURSUIT REMASTERED DENUV &",
+    "desc": "After patching, go inside the game foder, start game with NFS11Remastered.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 1328660 NSF HOT PURSUIT REMASTERED DENUV & EA BYPASS\n\nAfter patching, go inside the game foder, start game with NFS11Remastered.exe\n"
+  },
+  {
+    "id": "1506830-fifa-22-bypass",
+    "appId": 1506830,
+    "title": "1506830 FIFA 22 BYPASS",
+    "game": "FIFA 22",
+    "desc": "After patching, open folder and start game using FIFA22.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 1506830 FIFA 22 BYPASS\n\n-After patching, open folder and start game using FIFA22.exe\n"
+  },
+  {
+    "id": "2055290-sonic-colors-ultimate",
+    "appId": 2055290,
+    "title": "2055290 SONIC COLORS: ULTIMATE",
+    "game": "SONIC COLORS: ULTIMATE",
+    "desc": "After patching, open folder and find exec folder and start game using SonicColorsUltimate.exe",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 2055290 SONIC COLORS: ULTIMATE\n\n- After patching, open folder and find exec folder and start game using SonicColorsUltimate.exe\n"
+  },
+  {
     "id": "221100-dayz-priv8-server-online",
     "appId": 221100,
     "title": "221100 DAYZ PRIV8 SERVER ONLINE",
@@ -239,48 +281,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 1359090 ZERO HOUR BYPASS\n\n-After bypass, run game from steam,\n-Play offline mode story only.\n"
-  },
-  {
-    "id": "1609370-caravanners-co-op-open-world-camping-online-patch",
-    "appId": 1609370,
-    "title": "1609370 CARAVANNERS: CO-OP OPEN WORLD CAMPING ONLINE PATCH",
-    "game": "CARAVANNERS: CO-OP OPEN WORLD CAMPING",
-    "desc": "Tutorial and guide for CARAVANNERS: CO-OP OPEN WORLD CAMPING.",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 1609370 CARAVANNERS: CO-OP OPEN WORLD CAMPING ONLINE PATCH\n\nStart game from steam\n"
-  },
-  {
-    "id": "1953520-wrc-generations-bypass",
-    "appId": 1953520,
-    "title": "1953520 WRC GENERATIONS BYPASS",
-    "game": "WRC GENERATIONS",
-    "desc": "Skip the account registration in game and play.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 1953520 WRC GENERATIONS BYPASS\n\nSkip the account registration in game and play.\n"
-  },
-  {
-    "id": "2058180-judgment-bypass",
-    "appId": 2058180,
-    "title": "2058180 JUDGMENT BYPASS",
-    "game": "JUDGMENT",
-    "desc": "After patching, open game folder,",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 2058180 JUDGMENT BYPASS\n\n-After patching, open game folder,\n-open runtime/media,\n-Start the game from Judgment.exe,\n-Disable antivirus as it might delete EMP.dll,\n-Support only until WIN 24H2\n"
   }
 ]

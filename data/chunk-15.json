@@ -1,5 +1,47 @@
 [
   {
+    "id": "outbound-2681030",
+    "appId": 2681030,
+    "title": "Outbound Online Fix",
+    "game": "Outbound",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Outbound Online Fix\n\n# Outbound Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "ale-tale-tavern-2683150",
+    "appId": 2683150,
+    "title": "Ale & Tale Tavern Online Fix",
+    "game": "Ale & Tale Tavern",
+    "desc": "Ale & Tale Tavern Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Ale & Tale Tavern Online Fix\n\n# Ale & Tale Tavern Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "voyagers-of-nera-2686630",
+    "appId": 2686630,
+    "title": "Voyagers of Nera Online Fix",
+    "game": "Voyagers of Nera",
+    "desc": "Voyagers of Nera Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Voyagers of Nera Online Fix\n\n# Voyagers of Nera Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "godbreakers-2687400",
     "appId": 2687400,
     "title": "GODBREAKERS Online Fix",
@@ -236,47 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# The Jump Guys Bypass\n\n# The Jump Guys Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "assassin-s-creed-freedom-cry-277590",
-    "appId": 277590,
-    "title": "Assassin's Creed Freedom Cry Bypass",
-    "game": "Assassin's Creed Freedom Cry",
-    "desc": "Assassin's Creed Freedom Cry Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Assassin's Creed Freedom Cry Bypass\n\n# Assassin's Creed Freedom Cry Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "bunker-invaders-2780470",
-    "appId": 2780470,
-    "title": "Bunker Invaders Online Fix",
-    "game": "Bunker Invaders",
-    "desc": "Bunker Invaders Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Bunker Invaders Online Fix\n\n# Bunker Invaders Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "revenge-of-the-savage-planet-2787320",
-    "appId": 2787320,
-    "title": "Revenge of the Savage Planet Online Fix",
-    "game": "Revenge of the Savage Planet",
-    "desc": "Revenge of the Savage Planet Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Revenge of the Savage Planet Online Fix\n\n# Revenge of the Savage Planet Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]
