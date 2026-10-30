@@ -58,3 +58,19 @@ Choose one script below to run:
 
 
 ![Attached Image](assets/phantom-blade-zero-4115450_1565306360487485582.webp)
+
+---
+
+### ⚠️ Still Getting Errors After Adding & Restarting?
+
+Follow these troubleshooting steps in order:
+
+> **1️⃣ Verify Game File Integrity**
+> * Open **Steam** > Right-click the game > **Properties** > **Installed Files** > **Verify integrity of game files**
+>
+> **2️⃣ Re-apply the Hypervisor Bypass**
+> * Run the bypass tool again to re-patch
+>
+> **3️⃣ Launch Directly from the Game Directory**
+> * Navigate to your game installation folder
+> * Right-click `hvpnp.bat` > **Run as administrator** 🛡️
