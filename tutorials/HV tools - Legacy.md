@@ -4,54 +4,59 @@ title: HV tools - Legacy
 game: HV tools - Legacy
 author: Ryunosuke
 version: 1.0
-desc: A modern standalone desktop utility to configure Windows hypervisor settings, check BIOS virtualization, manage test signing, and streamline system setup.
-tags: bypass, crack
+desc: Lightweight, portable Windows utility for Hypervisor, VBS & HVCI management.
+tags: bypass
 date: 2026-10-20
 ---
 
 # HV tools - Legacy
 
-# ⚡ HV Bypass Tool v1.5.0
+# ⚡ HV Bypass Tool `v1.5.3`
 
-> A modern standalone desktop utility to configure Windows hypervisor settings, check BIOS virtualization, manage test signing, and streamline system setup.
-
-### 🚀 What is HV Bypass Tool?
-**HV Bypass Tool v1.5.0** replaces legacy batch scripts with a compiled standalone Windows application (`.exe`). It provides a centralized dashboard to inspect your system's hypervisor state, configure boot flags, and safely prepare your PC for custom hypervisors and test-signed drivers.
-
-### 🌟 Key Features
-
-* **🖥️ Live Subsystem Telemetry**
-  * Real-time monitoring for **6 core security layers**:
-    * `Virtualization (VT-x / AMD-V)`
-    * `Driver Signature Enforcement (DSE)`
-    * `Test Signing Mode (BCD)`
-    * `Secure Boot (UEFI)`
-    * `Memory Integrity (HVCI)`
-    * `Virtualization-Based Security (VBS)`
-  * Direct YouTube guide links for your motherboard brand (ASUS, MSI, Gigabyte, ASRock, etc.).
-
-* **⚡ Automated Bypass Script Runner**
-  * One-click execution of embedded VBS/DSE bypass script.
-  * **Windows Hello Safeguard**: Prompts warning if PIN/biometrics are active to prevent lockouts.
-
-* **🔄 Quick Firmware Reboot**
-  * Restart directly into **UEFI / BIOS Settings** (`shutdown /r /fw`) without mashing F2/DEL keys.
-
-* **🛡️ Safety Restore Points**
-  * One-click Windows System Restore snapshot of BCD and registry settings.
-
-
-### 💾 How to Run
-1. Download **`hv1.5.0.exe`**
-2. Right-click and choose **Run as administrator**.
-
-![Attached Image](assets/hv-tools-legacy_1562189015199907891.png)
+> **Lightweight, portable Windows utility for Hypervisor, VBS & HVCI management.**
+*Single-file native `.exe` (`2.2 MB`) • Zero installation • Modern Dark UI*
 
 ---
 
-Just press "1-click Auto Setup" and restart
+### 🛡️ What is HV Bypass Tool?
+A specialized system utility designed to safely inspect, toggle, and configure Windows Virtualization-Based Security (**VBS**), Hypervisor-Protected Code Integrity (**HVCI**), and Test Signing modes—featuring automated bootloader sanitation to prevent boot recovery loops.
 
-[Download HVBypassTool.exe (1.7 MB)](assets/hv-tools-legacy_1562189436559827014.exe)
+---
+
+### ⚙️ Core Functions & Features
+
+- **⚡ 1-Click Auto Setup (`Enter`)**
+  Automated setup pipeline: automatically generates a restore snapshot, tunes kernel isolation parameters, and safely disengages VBS/HVCI without causing Windows Hello PIN lockouts.
+
+- **🔄 Safe Revert to Defaults (`R`)**
+  Instantly restores stock Windows security parameters for **Valorant / Vanguard / FACEIT**. Purges stale BCD redirects so your PC never gets trapped in recovery loops (`0xc0000189`).
+
+- **💻 Interactive Console (`V`)**
+  Launch the low-level `VBS.cmd` maintenance console directly from within the app.
+
+- **📊 Live Ring-0 & Hardware Telemetry**
+  Real-time audit of your CPU virtualization (`VT-x / AMD-V`), Secure Boot state, DSE bypass, Test Signing, and HVCI memory isolation.
+
+- **🚀 Direct BIOS / UEFI Reboot**
+  1-click restart directly into motherboard UEFI/BIOS firmware without spamming keyboard keys.
+
+- **💾 System Restore Point Guard**
+  Create immediate native Windows System Restore snapshots before applying modifications.
+
+- **🔄 Built-In Hot-Swap Auto-Updater**
+  Verifies releases against the repository and self-updates in seconds with zero manual downloads.
+
+---
+
+### ⌨️ Quick Hotkeys
+- `Enter` ➔ Run 1-Click Auto Setup
+- `R` ➔ Safe Revert to Stock Settings
+- `V` ➔ Open Interactive VBS Script
+
+---
+*Portable standalone executable • Run as Administrator • Windows 10/11 x64*
+
+![Attached Image](assets/hv-tools-legacy_1562189015199907891.png)
 
 ---
 
@@ -60,3 +65,21 @@ Just press "1-click Auto Setup" and restart
 ---
 
 ![Attached Image](assets/hv-tools-legacy_1563510338190573578.gif)
+
+---
+
+Just press "1-click Auto Setup" or click enter and restart
+
+[Download HVBypassTool.exe (2.2 MB)](assets/hv-tools-legacy_1565695910325911663.exe)
+
+---
+
+**📢 Future Update Notice**
+
+Starting from this version, updating is fully automatic:
+
+1. Click **`Check Update`** inside the app.
+2. The app will automatically download the new build.
+3. Old files will be replaced automatically.
+
+No need to re-download manually or replace folders yourself! 🚀
