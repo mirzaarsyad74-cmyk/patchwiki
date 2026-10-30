@@ -1,5 +1,19 @@
 [
   {
+    "id": "supermarket-simulator-2670630",
+    "appId": 2670630,
+    "title": "Supermarket Simulator Online Fix",
+    "game": "Supermarket Simulator",
+    "desc": "Supermarket Simulator Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Supermarket Simulator Online Fix\n\n# Supermarket Simulator Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "outbound-2681030",
     "appId": 2681030,
     "title": "Outbound Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# MARVEL Cosmic Invasion Online Fix\n\n# MARVEL Cosmic Invasion Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "the-jump-guys-2757810",
-    "appId": 2757810,
-    "title": "The Jump Guys Bypass",
-    "game": "The Jump Guys",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# The Jump Guys Bypass\n\n# The Jump Guys Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

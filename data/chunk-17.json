@@ -1,5 +1,19 @@
 [
   {
+    "id": "subterror-2846060",
+    "appId": 2846060,
+    "title": "Subterror Online Fix",
+    "game": "Subterror",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Subterror Online Fix\n\n# Subterror Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "gang-beasts-285900",
     "appId": 285900,
     "title": "Gang Beasts Online Fix",
@@ -265,19 +279,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Ratatan Online Fix\n\n# Ratatan Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "grocery-store-simulator-2961880",
-    "appId": 2961880,
-    "title": "Grocery Store Simulator Online Fix",
-    "game": "Grocery Store Simulator",
-    "desc": "Grocery Store Simulator Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Grocery Store Simulator Online Fix\n\n# Grocery Store Simulator Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

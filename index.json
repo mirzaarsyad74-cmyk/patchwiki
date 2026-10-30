@@ -1,10 +1,23 @@
 [
   {
+    "id": "forever-winter-2828860",
+    "appId": 2828860,
+    "title": "FOREVER WINTER -  2828860",
+    "game": "FOREVER WINTER",
+    "desc": "Before proceeding, prepare EPIC GAMES STORE ACCOUNT, dont have one, make one.",
+    "tags": [
+      "online"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-30"
+  },
+  {
     "id": "phantom-blade-zero-4115450",
     "appId": 4115450,
     "title": "Phantom Blade Zero - 4115450",
     "game": "Phantom Blade Zero",
-    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "desc": "⚠️ Lock game version in SUO before downloading on Steam:",
     "tags": [
       "bypass",
       "crack",
@@ -148,10 +161,9 @@
     "appId": null,
     "title": "HV tools - Legacy",
     "game": "HV tools - Legacy",
-    "desc": "A modern standalone desktop utility to configure Windows hypervisor settings, check BIOS virtualization, manage test signing, and streamline system setup.",
+    "desc": "Lightweight, portable Windows utility for Hypervisor, VBS & HVCI management.",
     "tags": [
-      "bypass",
-      "crack"
+      "bypass"
     ],
     "author": "Ryunosuke",
     "version": "1.0",

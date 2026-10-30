@@ -1,5 +1,19 @@
 [
   {
+    "id": "vbs",
+    "appId": null,
+    "title": "#VBS",
+    "game": "VBS",
+    "desc": "Guide Disable Windows Hello",
+    "tags": [
+      "general"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-08-04",
+    "content": "\n# #VBS\n\n## Guide Disable Windows Hello\n\nhttps://www.youtube.com/watch?v=Vzm2YQDcsfw\n\n![Attached Image](assets/vbs_1534219090212688134.jpg)\n\n---\n\n#VBS\n"
+  },
+  {
     "id": "jurassic-world-evolution-3-2958130",
     "appId": 2958130,
     "title": "Jurassic world Evolution 3 - 2958130",
@@ -275,19 +289,5 @@
     "version": "1.0",
     "date": "2026-07-08",
     "content": "\n# Lies of P - 1627720 Seamless CO-OP\n\n1. After Bypass Game, Open game Folder\n2. Go to this folder and run the game via  **LiesofP\\Binaries\\Win64\\LOP-Win64-Shipping.exe**\n3. Load to the main menu, and exit the game. This Step is only once.\n4. Launch the game via** LOP.exe**\n\n**Host a Game** --> Next --> Enter the Lobby Password --> Host --> Waiting for another player to connect.\n\n**Join a Game** --> Next --> Enter your friend's Lobby Password --> Join.\n\n![Attached Image](assets/lies-of-p-1627720-seamless-co-op_1524444544098238666.png)\n"
-  },
-  {
-    "id": "atomic-heart-668580",
-    "appId": 668580,
-    "title": "ATOMIC HEART - 668580",
-    "game": "ATOMIC HEART",
-    "desc": "1. Unlock Game in Steam via Steam Unlock",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-07-05",
-    "content": "\n# ATOMIC HEART - 668580\n\n1. Unlock Game in Steam via Steam Unlock\n2. Use Bypass Game button in Library tab to apply patch\n3. Make sure to turn off antivirus or follow the step to automatically add the game folder to exclusion after installation.\n4. Run game from Steam.\n\n![Attached Image](assets/atomic-heart-668580_1523203290727190688.png)\n"
   }
 ]

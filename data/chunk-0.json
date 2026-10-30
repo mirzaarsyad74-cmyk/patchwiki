@@ -1,10 +1,24 @@
 [
   {
+    "id": "forever-winter-2828860",
+    "appId": 2828860,
+    "title": "FOREVER WINTER -  2828860",
+    "game": "FOREVER WINTER",
+    "desc": "Before proceeding, prepare EPIC GAMES STORE ACCOUNT, dont have one, make one.",
+    "tags": [
+      "online"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-10-30",
+    "content": "\n# FOREVER WINTER -  2828860\n\nBefore proceeding, prepare EPIC GAMES STORE ACCOUNT, dont have one, make one.\n\nGame version downgraded to 0.158528\ndate 3 August 2026 – 18:36:38 UTC    \n\n1. Redownload from server\n2. let the game update\n3. click Online Patch\n4. run the game, it will open freetp.org, close it\n5. it will then open epic games store login\n6. login, then back to your game, wait for it connect. have fun.\n\nTBH. this is not yet tested online with friends. This fix i combine for steam + epic.\n"
+  },
+  {
     "id": "phantom-blade-zero-4115450",
     "appId": 4115450,
     "title": "Phantom Blade Zero - 4115450",
     "game": "Phantom Blade Zero",
-    "desc": "⚠️ Before Downloading game at steam make sure game already lock version at SUO",
+    "desc": "⚠️ Lock game version in SUO before downloading on Steam:",
     "tags": [
       "bypass",
       "crack",
@@ -13,7 +27,7 @@
     "author": "Ryunosuke",
     "version": "1.0",
     "date": "2026-10-29",
-    "content": "\n# Phantom Blade Zero - 4115450\n\n## **Prequisites Guide**\n**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO \n```SUO > Tools > Game Auto Update > click open > click Smart Apply``` \n\n## **Bypass Hypervisor Guide**\n1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)\n2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)\n3. Check Virtualization Enable/Disable\n**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```\n*if not found that words mean is been disabled\n4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)\n5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc\n6. Press F7(driver Signature Enforcement)\n7. Add Game From SUO\n8. Download game** [GAMENAME]** from Steam\n9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**\n3. Open game from steam but need run```SUO > Tools > inject HV launch Option```\n\n---\n\n## If got same problems\n\n1. Open **Steam** and go to **Library**.\n2. Right-click from game , and choose **Properties**.\n3. From tab **General**, find **Launch Options** and enter cmd ``-dx11``\n\n*If still happen, **restart pc**\n\n![Attached Image](assets/phantom-blade-zero-4115450_1565306360000811028.png)\n\n\n![Attached Image](assets/phantom-blade-zero-4115450_1565306360487485582.webp)\n"
+    "content": "\n# Phantom Blade Zero - 4115450\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n\n---\n\n## If got same problems\n\n1. Open **Steam** and go to **Library**.\n2. Right-click from game , and choose **Properties**.\n3. From tab **General**, find **Launch Options** and enter cmd ``-dx11``\n\n*If still happen, **restart pc**\n\n![Attached Image](assets/phantom-blade-zero-4115450_1565306360000811028.png)\n\n\n![Attached Image](assets/phantom-blade-zero-4115450_1565306360487485582.webp)\n"
   },
   {
     "id": "planet-zoo-2-3219030",
@@ -158,15 +172,14 @@
     "appId": null,
     "title": "HV tools - Legacy",
     "game": "HV tools - Legacy",
-    "desc": "A modern standalone desktop utility to configure Windows hypervisor settings, check BIOS virtualization, manage test signing, and streamline system setup.",
+    "desc": "Lightweight, portable Windows utility for Hypervisor, VBS & HVCI management.",
     "tags": [
-      "bypass",
-      "crack"
+      "bypass"
     ],
     "author": "Ryunosuke",
     "version": "1.0",
     "date": "2026-10-20",
-    "content": "\n# HV tools - Legacy\n\n# ⚡ HV Bypass Tool v1.5.0\n\n> A modern standalone desktop utility to configure Windows hypervisor settings, check BIOS virtualization, manage test signing, and streamline system setup.\n\n### 🚀 What is HV Bypass Tool?\n**HV Bypass Tool v1.5.0** replaces legacy batch scripts with a compiled standalone Windows application (`.exe`). It provides a centralized dashboard to inspect your system's hypervisor state, configure boot flags, and safely prepare your PC for custom hypervisors and test-signed drivers.\n\n### 🌟 Key Features\n\n* **🖥️ Live Subsystem Telemetry**\n  * Real-time monitoring for **6 core security layers**:\n    * `Virtualization (VT-x / AMD-V)`\n    * `Driver Signature Enforcement (DSE)`\n    * `Test Signing Mode (BCD)`\n    * `Secure Boot (UEFI)`\n    * `Memory Integrity (HVCI)`\n    * `Virtualization-Based Security (VBS)`\n  * Direct YouTube guide links for your motherboard brand (ASUS, MSI, Gigabyte, ASRock, etc.).\n\n* **⚡ Automated Bypass Script Runner**\n  * One-click execution of embedded VBS/DSE bypass script.\n  * **Windows Hello Safeguard**: Prompts warning if PIN/biometrics are active to prevent lockouts.\n\n* **🔄 Quick Firmware Reboot**\n  * Restart directly into **UEFI / BIOS Settings** (`shutdown /r /fw`) without mashing F2/DEL keys.\n\n* **🛡️ Safety Restore Points**\n  * One-click Windows System Restore snapshot of BCD and registry settings.\n\n\n### 💾 How to Run\n1. Download **`hv1.5.0.exe`**\n2. Right-click and choose **Run as administrator**.\n\n![Attached Image](assets/hv-tools-legacy_1562189015199907891.png)\n\n---\n\nJust press \"1-click Auto Setup\" and restart\n\n[Download HVBypassTool.exe (1.7 MB)](assets/hv-tools-legacy_1562189436559827014.exe)\n\n---\n\n``bcdedit /import C:\\HV_BCD_Backup.bcd /clean`` Just in case need restore boot at Troubleshoot ➔ Advanced options ➔ Command Prompt\n\n---\n\n![Attached Image](assets/hv-tools-legacy_1563510338190573578.gif)\n"
+    "content": "\n# HV tools - Legacy\n\n# ⚡ HV Bypass Tool `v1.5.3`\n\n> **Lightweight, portable Windows utility for Hypervisor, VBS & HVCI management.**\n*Single-file native `.exe` (`2.2 MB`) • Zero installation • Modern Dark UI*\n\n---\n\n### 🛡️ What is HV Bypass Tool?\nA specialized system utility designed to safely inspect, toggle, and configure Windows Virtualization-Based Security (**VBS**), Hypervisor-Protected Code Integrity (**HVCI**), and Test Signing modes—featuring automated bootloader sanitation to prevent boot recovery loops.\n\n---\n\n### ⚙️ Core Functions & Features\n\n- **⚡ 1-Click Auto Setup (`Enter`)**\n  Automated setup pipeline: automatically generates a restore snapshot, tunes kernel isolation parameters, and safely disengages VBS/HVCI without causing Windows Hello PIN lockouts.\n\n- **🔄 Safe Revert to Defaults (`R`)**\n  Instantly restores stock Windows security parameters for **Valorant / Vanguard / FACEIT**. Purges stale BCD redirects so your PC never gets trapped in recovery loops (`0xc0000189`).\n\n- **💻 Interactive Console (`V`)**\n  Launch the low-level `VBS.cmd` maintenance console directly from within the app.\n\n- **📊 Live Ring-0 & Hardware Telemetry**\n  Real-time audit of your CPU virtualization (`VT-x / AMD-V`), Secure Boot state, DSE bypass, Test Signing, and HVCI memory isolation.\n\n- **🚀 Direct BIOS / UEFI Reboot**\n  1-click restart directly into motherboard UEFI/BIOS firmware without spamming keyboard keys.\n\n- **💾 System Restore Point Guard**\n  Create immediate native Windows System Restore snapshots before applying modifications.\n\n- **🔄 Built-In Hot-Swap Auto-Updater**\n  Verifies releases against the repository and self-updates in seconds with zero manual downloads.\n\n---\n\n### ⌨️ Quick Hotkeys\n- `Enter` ➔ Run 1-Click Auto Setup\n- `R` ➔ Safe Revert to Stock Settings\n- `V` ➔ Open Interactive VBS Script\n\n---\n*Portable standalone executable • Run as Administrator • Windows 10/11 x64*\n\n![Attached Image](assets/hv-tools-legacy_1562189015199907891.png)\n\n---\n\n``bcdedit /import C:\\HV_BCD_Backup.bcd /clean`` Just in case need restore boot at Troubleshoot ➔ Advanced options ➔ Command Prompt\n\n---\n\n![Attached Image](assets/hv-tools-legacy_1563510338190573578.gif)\n\n---\n\nJust press \"1-click Auto Setup\" or click enter and restart\n\n[Download HVBypassTool.exe (2.2 MB)](assets/hv-tools-legacy_1565695910325911663.exe)\n\n---\n\n**📢 Future Update Notice**\n\nStarting from this version, updating is fully automatic:\n\n1. Click **`Check Update`** inside the app.\n2. The app will automatically download the new build.\n3. Old files will be replaced automatically.\n\nNo need to re-download manually or replace folders yourself! 🚀\n"
   },
   {
     "id": "anydesk-toolkit",
@@ -281,19 +294,5 @@
     "version": "1.0",
     "date": "2026-10-14",
     "content": "\n# Wand/Wemod Pro\n\n# 🪄 Wand / WeMod Auto-Updater & Tools\n\n• **Auto-Update:** Automatically downloads and updates Wand/WeMod to the latest version.\n• **Self-Healing:** Built-in auto-patch, reinstall, and repair capabilities.\n• **Custom UI:** Clean **Steam Theme** integration.\n• **Remote Ready:** Full support for **Wand Remote**.\n\n---\n\n> 💡 **Notice:** The Wand/WeMod patch is **100% free and open-source**. If you paid for this tool, you have been scammed!\n"
-  },
-  {
-    "id": "star-wars-outlaws-2842040",
-    "appId": 2842040,
-    "title": "Star Wars Outlaws - 2842040",
-    "game": "Star Wars Outlaws",
-    "desc": "1. Make sure the game version is locked",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-10-12",
-    "content": "\n# Star Wars Outlaws - 2842040\n\n1. Make sure the game version is locked\n2. Click Bypass Game from Steam Unlock Onennabe Library \n3. Make sure antivirus is off\n4. run game from Steam Unlock, click PLAY, choose .exe\n5. choose Outlaws.exe\n\n![Attached Image](assets/star-wars-outlaws-2842040_1559220430399602758.png)\n\n\n![Attached Image](assets/star-wars-outlaws-2842040_1559220430806712350.png)\n\n\n![Attached Image](assets/star-wars-outlaws-2842040_1559220431217623051.png)\n"
   }
 ]
