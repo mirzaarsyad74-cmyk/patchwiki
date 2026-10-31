@@ -5,33 +5,43 @@ game: Echoes of Aincrad
 appid: 2244210
 author: Ryunosuke
 version: 1.0
-desc: ⚠️ Before Downloading game at steam make sure game already lock version at SUO
+desc: ⚠️ Lock game version in SUO before downloading on Steam:
 tags: bypass, crack, drm
 date: 2026-07-11
 ---
 
 # Echoes of Aincrad - 2244210
 
-## **Prequisites Guide**
-**⚠️ Before** Downloading game at steam make sure game **already lock version** at SUO 
-```SUO > Tools > Game Auto Update > click open > click Smart Apply``` 
+### 🛑 1. Prerequisites
+⚠️ Lock game version in SUO before downloading on Steam:
+`SUO > Tools > Game Auto Update > Open > Smart Apply`
 
-## **Bypass Hypervisor Guide**
-1. Find Core Isolation and Turn off Memory Intergrity (by default it should be off)
-2. Turn off Antivirus (real-time protection) and Smart App Control (Win 11)
-3. Check Virtualization Enable/Disable
-**Ctrl + Shift + Esc** it will open ```Task manager > Performance > CPU > Virtualization: Enable```
-*if not found that words mean is been disabled
-4. Skip this if already enable. Else ,please enable VT-x / SVM in your BIOS (Search at Youtube your Motherboard brand)
-5. Run <#1534218459045433504>  / <#1512676091373031507> (Run Script)  and Choose 1, after that Choose 1 again to restart pc
-6. Press F7(driver Signature Enforcement)
-7. Add Game From SUO
-8. Download game** [GAMENAME]** from Steam
-9. Click Hypervisor Bypass Game in SUO (SUO>Library>**[GAMENAME]**)
+### 🛠️ 2. Bypass Setup
 
-## **Launch Option**
-1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**
-2. Run game from HV-PlugNPlay.bat /HV-Launcher.bat or  **[GAMENAME].exe**
-3. Open game from steam but need run```SUO > Tools > inject HV launch Option```
+**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.
+**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.
+**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.
+*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*
+
+**Step 4: Run Script & Reboot**
+Choose one script below to run:
+* **Option A:** <#1562130729255567360> or <#1512676091373031507>
+📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>
+* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504
+📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>
+
+> Inside script: Press **1** -> Press **1** again to reboot PC.
+
+**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.
+**Step 6:** Open SUO -> Click **Add Game**.
+**Step 7:** Download **`[GAMENAME]`** from Steam.
+**Step 8:** In SUO, go to:
+`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`
+
+### 🚀 3. How to Launch
+
+* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.
+* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.
+* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.
 
 ![Attached Image](assets/echoes-of-aincrad-2244210_1525388083485212772.webp)

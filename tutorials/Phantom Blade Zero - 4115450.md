@@ -52,6 +52,8 @@ Choose one script below to run:
 2. Right-click from game , and choose **Properties**.
 3. From tab **General**, find **Launch Options** and enter cmd ``-dx11``
 
+Tutorial: <https://vt.tiktok.com/ZSgcb8h28>
+
 *If still happen, **restart pc**
 
 ![Attached Image](assets/phantom-blade-zero-4115450_1565306360000811028.png)
