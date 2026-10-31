@@ -74,3 +74,26 @@ Follow these troubleshooting steps in order:
 > **3️⃣ Launch Directly from the Game Directory**
 > * Navigate to your game installation folder
 > * Right-click `hvpnp.bat` > **Run as administrator** 🛡️
+
+---
+
+# Save Game issue?
+
+What did work was the method mentioned by @gokugog, but it needs a bit more clarification on the directory structure. Here is the exact step-by-step that restored my progress:
+
+# 1️⃣ . Navigate to the root save folder:
+C:\Games\Phantom Blade Zero\PBZ\ProjectPBZ\Saved\SaveGames
+Back up and remove the root save: Find PBZSaveGame.sav in this folder, back it up to your desktop (or another safe folder), and delete it from the original location.
+
+# 2️⃣ . Locate your actual game progress:
+Go inside the Steam ID subfolder:
+C:\Games\Phantom Blade Zero\PBZ\ProjectPBZ\Saved\SaveGames\Steam\[YourSteamID]\
+
+# 3️⃣ . Copy your active save:
+Inside this folder is your regularly updated PBZSaveGame.sav. Copy it.
+
+# 4️⃣ . Paste it into the main save folder:
+Drop that copy back into C:\Games\Phantom Blade Zero\PBZ\ProjectPBZ\Saved\SaveGames (the parent directory from Step 1).
+
+Once I launched the game after doing this, my regular save loaded up immediately.
+Note: Not entirely sure yet whether the game will automatically update this file or if we have to repeat the copy/paste process after every session.
