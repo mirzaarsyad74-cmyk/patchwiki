@@ -43,3 +43,7 @@ Choose one script below to run:
 * **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.
 * **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.
 * **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.
+
+---
+
+make sure to remove hypervisor patch and then delete hv-plugnplay.bat
