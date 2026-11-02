@@ -68,3 +68,11 @@ latest update can choose  server to download wand/wemod
 > ℹ️ *The system will automatically decide whether it needs to download the latest files or apply a patch.*
 
 ![Attached Image](assets/wand-pro_1563410313737674822.gif)
+
+---
+
+![Attached Image](assets/wand-pro_1566702954013266090.png)
+
+---
+
+![Attached Image](assets/wand-pro_1566703000809111572.jpg)
