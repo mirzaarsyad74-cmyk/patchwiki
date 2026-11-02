@@ -48,11 +48,11 @@ A lightweight, standalone desktop catalog & 1-click downloader for all **FLiNG T
 
 ---
 
-[Download FlingTrainer.exe (0.1 MB)](assets/flingtrainer-downloader_1563043810613788682.exe)
+FlingTrainer Downloader
 
 ---
 
-FlingTrainer Downloader
+[Download FlingTrainer.exe (12.4 MB)](assets/flingtrainer-downloader_1566810562413727945.exe)
 
 ---
 

@@ -52,27 +52,33 @@ Wand Pro
 
 ---
 
-latest update can choose  server to download wand/wemod
+Mobile Interface
 
-[Download WandEnhancer.exe (3.9 MB)](assets/wand-pro_1563409781123981393.exe)
-
----
-
-# 🪄 How to Use / Install WandEnchancer
-
-**1️⃣ Download** the latest version from here
-**2️⃣ Turn off** your antivirus / Smart App Control temporarily (if flagged as a false positive)
-**3️⃣ Double-click** ```WandEnchancer.exe```
-**4️⃣ Click** ```1-click Auto patch```
-
-> ℹ️ *The system will automatically decide whether it needs to download the latest files or apply a patch.*
-
-![Attached Image](assets/wand-pro_1563410313737674822.gif)
+![Attached Image](assets/wand-pro_1566775961431580854.jpg)
 
 ---
 
-![Attached Image](assets/wand-pro_1566702954013266090.png)
+desktop interface
+
+![Attached Image](assets/wand-pro_1566776231192559756.png)
 
 ---
 
-![Attached Image](assets/wand-pro_1566703000809111572.jpg)
+![Attached Image](assets/wand-pro_1566776993897381998.jpg)
+
+---
+
+settings > choose which server
+
+![Attached Image](assets/wand-pro_1566777088248381560.webp)
+
+---
+
+## New Feature
+• Support Remote Control
+• Fix Bugs from the original github repo
+
+## Optimise
+Webpage For remote control more better for desktop/mobile
+
+[Download WandEnhancer.exe (3.9 MB)](assets/wand-pro_1566777456969523250.exe)
