@@ -74,11 +74,18 @@ settings > choose which server
 
 ---
 
-## New Feature
-• Support Remote Control
-• Fix Bugs from the original github repo
+![Attached Image](assets/wand-pro_1567208886640058378.png)
 
-## Optimise
-Webpage For remote control more better for desktop/mobile
+---
 
-[Download WandEnhancer.exe (3.9 MB)](assets/wand-pro_1566777456969523250.exe)
+**📢 Future Update Notice**
+
+Starting from this version, updating is fully automatic:
+
+1. Click **`Check Update`** inside the app.
+2. The app will automatically download the new build.
+3. Old files will be replaced automatically.
+
+No need to re-download manually or replace folders yourself! 🚀
+
+[Download WandEnhancer.exe (3.9 MB)](assets/wand-pro_1567209470923116594.exe)
