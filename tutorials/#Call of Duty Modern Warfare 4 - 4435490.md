@@ -108,7 +108,7 @@ Credit to: <@596720616195883010>
 
 ---
 
-Run this if you want to run a game from steam,ignored all window popup
+Run this as admin if you want to run a game from steam,ignored all window popup
 
 [Download cod_run_steam.bat (0.0 MB)](assets/call-of-duty-modern-warfare-4-4435490_1562345937773395988.bat)
 

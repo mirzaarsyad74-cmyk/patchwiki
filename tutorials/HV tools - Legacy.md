@@ -11,7 +11,7 @@ date: 2026-10-20
 
 # HV tools - Legacy
 
-# ⚡ HV Bypass Tool `v1.5.5`
+# ⚡ HV Bypass Tool `v1.5.6`
 
 > **Lightweight, portable Windows utility for Hypervisor, VBS & HVCI management.**
 *Single-file native `.exe` (`2.2 MB`) • Zero installation • Modern Dark UI*
@@ -72,7 +72,11 @@ A specialized system utility designed to safely inspect, toggle, and configure W
 
 Just press "1-click Auto Setup" or click enter and restart
 
-[Download HVBypassTool.exe (2.2 MB)](assets/hv-tools-legacy_1566135331260989571.exe)
+---
+
+auto hide testing mode watermark
+
+[Download HVBypassTool.exe (2.2 MB)](assets/hv-tools-legacy_1567010845387526255.exe)
 
 ---
 

@@ -48,9 +48,4 @@ Choose one script below to run:
 
 ---
 
-Game Updated to version 1.0.4
-Update Game and then do** "Hypervisor Bypass Patch"** upon game is updated.
-
----
-
-Note: Delete steam64.dll and steam_api64.dll.
+Game Updated to use normal bypass, run game from steam or game .exe
