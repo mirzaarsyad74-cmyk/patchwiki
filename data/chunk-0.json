@@ -1,5 +1,21 @@
 [
   {
+    "id": "football-manager-27-4530370",
+    "appId": 4530370,
+    "title": "Football Manager 27 - 4530370",
+    "game": "Football Manager 27",
+    "desc": "⚠️ Lock game version in SUO before downloading on Steam:",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-11-05",
+    "content": "\n# Football Manager 27 - 4530370\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n"
+  },
+  {
     "id": "forever-winter-2828860",
     "appId": 2828860,
     "title": "FOREVER WINTER -  2828860",
@@ -280,19 +296,5 @@
     "version": "1.0",
     "date": "2026-10-14",
     "content": "\n# Wand\n\n# 🪄 Wand / WeMod Auto-Updater & Tools\n\n• **Auto-Update:** Automatically downloads and updates Wand/WeMod to the latest version.\n• **Self-Healing:** Built-in auto-patch, reinstall, and repair capabilities.\n• **Custom UI:** Clean **Steam Theme** integration.\n• **Remote Ready:** Full support for **Wand Remote**.\n\n---\n\n> 💡 **Notice:** The Wand/WeMod patch is **100% free and open-source**. If you paid for this tool, you have been scammed!\n\n![Attached Image](assets/wand_1559979080823214220.png)\n\n---\n\nWand\n\n---\n\n### 🚨 **Pro Subscription Notice Fix**\n\nIf you encounter this popup:\n> `\"You No Longer Pro\"`\n\n### 📋 **Summary: Patch vs. Crack**\n* **Patch:** Modifies specific files on your official app to bypass restrictions. Safe, but updates break it.\n* **Crack:** Replaces the entire app with a modified pirated version. Risky (potential malware) and harder to update.\n\n### 🛠️ **How to fix it:**\n1. Run your tools again.\n2. Click **Enhance**.\n3. Tick **Disable Update**.\n4. Click **Start**.\n\n> **Note:** This is a patch and not a cracked app. Any new software updates will require you to apply the patch again.\n\n---\n\n🚀 **Check out WandEnhancer — Open Source Wand / WeMod Companion Tool!**\n\nLooking to get more out of Wand? **WandEnhancer** is an open-source tool that adds remote mobile controls, unlocks pro features, and automates patching:\n\n👉 **GitHub:** <https://github.com/k1tbyte/Wand-Enhancer>\n\n**Key Features:**\n🔹 **Mobile / Web Remote Control:** Control cheats from your phone via local Wi-Fi & QR code\n🔹 **Pro Unlocked:** Full interactive controls and sliders unlocked client-side\n🔹 **1-Click Auto Patch:** Fast, reliable patching with backup and auto-repair\n🔹 **Update-Proof:** Auto-reapplies when the app updates\n🔹 **DevTools Enabled:** Press `F12` to inspect the UI\n🔹 **100% Free & Open-Source:** No shady installers, no paid keys, clean code\n\nDownload the latest release here:\n\n[Download WandEnhancer.exe (3.8 MB)](assets/wand_1560673704625573888.exe)\n"
-  },
-  {
-    "id": "wand-wemod-pro",
-    "appId": null,
-    "title": "Wand/Wemod Pro",
-    "game": "Wand/Wemod Pro",
-    "desc": "🪄 Wand / WeMod AutoUpdater & Tools",
-    "tags": [
-      "general"
-    ],
-    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
-    "version": "1.0",
-    "date": "2026-10-14",
-    "content": "\n# Wand/Wemod Pro\n\n# 🪄 Wand / WeMod Auto-Updater & Tools\n\n• **Auto-Update:** Automatically downloads and updates Wand/WeMod to the latest version.\n• **Self-Healing:** Built-in auto-patch, reinstall, and repair capabilities.\n• **Custom UI:** Clean **Steam Theme** integration.\n• **Remote Ready:** Full support for **Wand Remote**.\n\n---\n\n> 💡 **Notice:** The Wand/WeMod patch is **100% free and open-source**. If you paid for this tool, you have been scammed!\n"
   }
 ]

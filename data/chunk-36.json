@@ -1,5 +1,19 @@
 [
   {
+    "id": "wreckfest-2-1203190",
+    "appId": 1203190,
+    "title": "Wreckfest 2- 1203190",
+    "game": "Wreckfest 2",
+    "desc": "Added Wreckfest 2 online patch update",
+    "tags": [
+      "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Wreckfest 2- 1203190\n\nAdded Wreckfest 2 online patch update\n- patch the game\n- after patching, open the game folder\n- run the game from Wreckfest2.exe as admin\n- 1203190\n"
+  },
+  {
     "id": "1501750-lords-of-the-fallen-tutorial-multiplayer",
     "appId": 1501750,
     "title": "[1501750] Lords of the Fallen tutorial Multiplayer",

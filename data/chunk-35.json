@@ -1,5 +1,19 @@
 [
   {
+    "id": "fraymakers-online-patch-1420350",
+    "appId": 1420350,
+    "title": "Fraymakers online patch- 1420350",
+    "game": "Fraymakers",
+    "desc": "Create lobbies and invites your friends",
+    "tags": [
+      "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Fraymakers online patch- 1420350\n\n- Create lobbies and invites your friends\n"
+  },
+  {
     "id": "how-to-bypass-denuvo-games-using-bypass-game-button",
     "appId": null,
     "title": "How to Bypass Denuvo Games using Bypass Game button?",
@@ -277,19 +291,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Watch Dogs 2 Ubisoft bypass - 447040\n\n- Download the game\n- After Patching, go to game folder and then go inside `\\SteamLibrary\\steamapps\\common\\Watch_Dogs2\\bin`\n- Start the game through `WatchDogs2.exe`\n- Happy Gaming!\n\n![Attached Image](assets/watch-dogs-2-ubisoft-bypass-447040_1498996428243206264.png)\n"
-  },
-  {
-    "id": "wreckfest-2-1203190",
-    "appId": 1203190,
-    "title": "Wreckfest 2- 1203190",
-    "game": "Wreckfest 2",
-    "desc": "Added Wreckfest 2 online patch update",
-    "tags": [
-      "online"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Wreckfest 2- 1203190\n\nAdded Wreckfest 2 online patch update\n- patch the game\n- after patching, open the game folder\n- run the game from Wreckfest2.exe as admin\n- 1203190\n"
   }
 ]
