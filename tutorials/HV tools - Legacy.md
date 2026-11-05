@@ -66,15 +66,11 @@ A specialized system utility designed to safely inspect, toggle, and configure W
 
 ---
 
-![Attached Image](assets/hv-tools-legacy_1566135122648891453.png)
+![Attached Image](assets/hv-tools-legacy_1567831183499202691.png)
 
 ---
 
-Just press "1-click Auto Setup" or click enter and restart
-
----
-
-[Download HVBypassTool.exe (2.3 MB)](assets/hv-tools-legacy_1567143523709489182.exe)
+[Download HVBypassTool.exe (2.3 MB)](assets/hv-tools-legacy_1567831302835666944.exe)
 
 ---
 
