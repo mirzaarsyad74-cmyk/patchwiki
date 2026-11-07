@@ -164,6 +164,36 @@
     "content": "\n# (816020) JUMP FORCE\n\nI fixed mine by reinstalling the Anti-Cheat software, can be found it \"yourinstalldrive\":\\SteamLibrary\\steamapps\\common\\JUMP FORCE\\EasyAntiCheat\n\n![Attached Image](assets/816020-jump-force_1499097716683182261.png)\n"
   },
   {
+    "id": "2000950-call-of-duty-modern-warfare",
+    "appId": 2000950,
+    "title": "2000950 - Call of Duty®: Modern Warfare®",
+    "game": "Call of Duty®: Modern Warfare®",
+    "desc": "Added campaign mode crack for CODMW",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# 2000950 - Call of Duty®: Modern Warfare®\n\nAdded campaign mode crack for CODMW\n- 2000950\n\nHow to use?\n- After patching, open game folder\n- Run !start_cod.bat\n\nNotice: problem with campaign mode is there's no save checkpoint at all\nWorkaround is below\n\nFor anyone having game save issues.\n\nFYI Gang, the workaround is you can unlock all missions so that at least you can load up the next mission after closing the game.\nAfter starting the game, one of the cmd.exe press the Right \"CTRL\" + \"/\"\nAnother CMD will pop out and say \"enter command\"\nType \"unlock_missions\" and enter\n"
+  },
+  {
+    "id": "3595230-call-of-duty-modern-warfare-ii",
+    "appId": 3595230,
+    "title": "3595230 - Call of Duty®: Modern Warfare® II",
+    "game": "Call of Duty®: Modern Warfare® II",
+    "desc": "Start the game ONLY FROM !startcod22.bat (for MP) or !startsp22.bat (for SP) and keep the console window open until it closes by itself when you close the game.",
+    "tags": [
+      "bypass",
+      "coop",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# 3595230 - Call of Duty®: Modern Warfare® II\n\n- Start the game ONLY FROM !start_cod22.bat (for MP) or !start_sp22.bat (for SP) and keep the console window open until it closes by itself when you close the game.\n\n---\n\n## **How To Bypass**\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n\n## **Launch Option (From Folder Only)**\n1) !start_cod22.bat (for MP)\n2) !start_sp22.bat (for SP) \n\nMP: Multiplayer (online)\n​SP: Singleplayer\n\n```keep the console window open until it closes```\n"
+  },
+  {
     "id": "added-cure-a-hospital-simulator-online-patch-2786550",
     "appId": 2786550,
     "title": "Added CURE - A Hospital Simulator online patch (2786550)",
@@ -176,6 +206,20 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Added CURE - A Hospital Simulator online patch (2786550)\n\n- try run from steam once patch or\n- open game folder and run from **Cure.exe**\n"
+  },
+  {
+    "id": "added-call-of-duty-black-ops-6-campaign-1938090",
+    "appId": 1962663,
+    "title": "Added Call of Duty®: Black Ops 6 - Campaign - 1938090",
+    "game": "Call of Duty®: Black Ops 6 - Campaign",
+    "desc": "Game should be in Call of Duty (1938090), download the whole thing, make sure this 3 DLC is ticked",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Call of Duty®: Black Ops 6 - Campaign - 1938090\n\n- Game should be in Call of Duty (1938090), download the whole thing, make sure this 3 DLC is ticked\n- If the game is not showing, you need to add Call of Duty Warzone  https://store.steampowered.com/app/1962663/Call_of_Duty_Warzone/ first\nHow to use\n- After patching, open game folder\n- Run game using **start_sp24.bat**\n- Do not close the CMD Window\n- All mission is unlocked by default.\n\n![Attached Image](assets/added-call-of-duty-black-ops-6-campaign-1938090_1499014000405512303.png)\n\n---\n\nhttps://youtu.be/9hZq0x0NNxQ\n"
   },
   {
     "id": "added-denu-bypass-for-doom-the-dark-ages-3017860",
@@ -206,6 +250,34 @@
     "content": "\n# Added Earth Defense Force 6- 2291060\n\n- After online patch\n- play game from steam\n- login epic games pop up in browser, then go back to game after login.\n"
   },
   {
+    "id": "added-my-hero-academia-all-s-justice-online-patch-2362050",
+    "appId": 2362050,
+    "title": "Added  MY HERO ACADEMIA: All’s Justice online patch - 2362050",
+    "game": "MY HERO ACADEMIA: All’s Justice",
+    "desc": "open game folder and Launch the game via HeroGame\\Binaries\\Win64\\AJGAME.exe",
+    "tags": [
+      "online"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added  MY HERO ACADEMIA: All’s Justice online patch - 2362050\n\nopen game folder and Launch the game via HeroGame\\Binaries\\Win64\\AJGAME.exe\n\n---\n\nAdded  MY HERO ACADEMIA: All’s Justice online patch - 2362050\n"
+  },
+  {
+    "id": "added-mass-effect-andromeda-ea-bypass-1238000",
+    "appId": 1238000,
+    "title": "Added Mass Effect™: Andromeda EA Bypass - 1238000",
+    "game": "Mass Effect™: Andromeda",
+    "desc": "After patching, open game folder and run the game using MassEffectAndromeda.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Mass Effect™: Andromeda EA Bypass - 1238000\n\n- After patching, open game folder and run the game using MassEffectAndromeda.exe\n- do not run from steam, it will open EA.\n"
+  },
+  {
     "id": "added-occupy-mars-the-game-758690",
     "appId": 758690,
     "title": "Added Occupy Mars: The Game- 758690",
@@ -219,75 +291,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Added Occupy Mars: The Game- 758690\n\n- you can join lobby in online co-op or host your own game.\n\n![Attached Image](assets/added-occupy-mars-the-game-758690_1498980809388986458.png)\n"
-  },
-  {
-    "id": "added-re9-game-and-bypass-only-works-using-standalone-version-3764200",
-    "appId": 3764200,
-    "title": "Added RE9 Game and bypass, only works using standalone version!!3764200",
-    "game": "RE9 Game and , only works using standalone version",
-    "desc": "This version is released month ago and just cracked yesterday.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added RE9 Game and bypass, only works using standalone version!!3764200\n\nThis version is released month ago and just cracked yesterday.\n\nUpdated RE9 Bypass to works with latest RE9 version, standalone and steam now same version, bypass is 500mb.\n"
-  },
-  {
-    "id": "added-rogue-point-online-patch-1843840",
-    "appId": 1843840,
-    "title": "Added Rogue Point online patch- 1843840",
-    "game": "Rogue Point",
-    "desc": "try run from steam once patch or",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Rogue Point online patch- 1843840\n\n-try run from steam once patch or\nopen game folder and run game via Tango.exe\n"
-  },
-  {
-    "id": "added-scott-pilgrim-ex-online-patch-2640950",
-    "appId": 2640950,
-    "title": "Added Scott Pilgrim EX online patch- 2640950",
-    "game": "Scott Pilgrim EX",
-    "desc": "try run from steam once patch or",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Scott Pilgrim EX online patch- 2640950\n\n- try run from steam once patch or\n- open game folder and run from **Game.exe**\n"
-  },
-  {
-    "id": "added-slay-the-spire-2-online-patch-2868840",
-    "appId": 2868840,
-    "title": "Added Slay the Spire 2 online patch - 2868840",
-    "game": "Slay the Spire 2",
-    "desc": "try run from steam once patch or",
-    "tags": [
-      "online"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Slay the Spire 2 online patch - 2868840\n\n- try run from steam once patch or\n- open game folder and run from **SlayTheSpire2.exe**\n"
-  },
-  {
-    "id": "added-sniper-elite-4-denuv0-bypass-312660",
-    "appId": 312660,
-    "title": "Added Sniper Elite 4 Denuv0 bypass - 312660",
-    "game": "Sniper Elite 4",
-    "desc": "run game from stpse4dx11.exe or stpse4dx12.exe after patching/download,",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Sniper Elite 4 Denuv0 bypass - 312660\n\n- run game from **stp-se4dx11.exe or stp-se4dx12.exe **after patching/download, \n- works with current steam version\n"
   }
 ]
