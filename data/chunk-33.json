@@ -1,5 +1,19 @@
 [
   {
+    "id": "it-takes-two-1426210",
+    "appId": 1426210,
+    "title": "It Takes Two - 1426210",
+    "game": "It Takes Two",
+    "desc": "Special instructions for It Takes Two",
+    "tags": [
+      "coop"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# It Takes Two - 1426210\n\nSpecial instructions for It Takes Two\n- After installing the game in steam\n- Go to Store Page for the game\n- Add the friend pass, it will show error , ignore it\n- Patch the game\n- Run from Steam\n- Click play online\n- Host through Steam\n- Invite friends\n\n![Attached Image](assets/it-takes-two-1426210_1499254643614679192.png)\n\n\n![Attached Image](assets/it-takes-two-1426210_1499254644042629151.png)\n\n\n![Attached Image](assets/it-takes-two-1426210_1499254644504006847.png)\n\n\n![Attached Image](assets/it-takes-two-1426210_1499254644860256347.png)\n"
+  },
+  {
     "id": "monster-hunter-stories-3-twisted-reflection-2852190",
     "appId": 2852190,
     "title": "Monster Hunter Stories 3: Twisted Reflection - 2852190",
@@ -276,20 +290,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Added Mass Effect™: Andromeda EA Bypass - 1238000\n\n- After patching, open game folder and run the game using MassEffectAndromeda.exe\n- do not run from steam, it will open EA.\n"
-  },
-  {
-    "id": "added-occupy-mars-the-game-758690",
-    "appId": 758690,
-    "title": "Added Occupy Mars: The Game- 758690",
-    "game": "Occupy Mars: The Game",
-    "desc": "you can join lobby in online coop or host your own game.",
-    "tags": [
-      "online",
-      "coop"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added Occupy Mars: The Game- 758690\n\n- you can join lobby in online co-op or host your own game.\n\n![Attached Image](assets/added-occupy-mars-the-game-758690_1498980809388986458.png)\n"
   }
 ]

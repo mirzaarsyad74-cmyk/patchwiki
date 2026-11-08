@@ -1,5 +1,19 @@
 [
   {
+    "id": "prototype-2-115320",
+    "appId": 115320,
+    "title": "PROTOTYPE 2 Bypass",
+    "game": "PROTOTYPE 2",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# PROTOTYPE 2 Bypass\n\n# PROTOTYPE 2 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "coral-island-1158160",
     "appId": 1158160,
     "title": "Coral Island Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Mass Effect™: Andromeda Bypass\n\n# Mass Effect™: Andromeda Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "dead-space-3-1238060",
-    "appId": 1238060,
-    "title": "Dead Space™ 3 Bypass",
-    "game": "Dead Space™ 3",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Dead Space™ 3 Bypass\n\n# Dead Space™ 3 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

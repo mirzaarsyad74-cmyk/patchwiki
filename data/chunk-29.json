@@ -1,5 +1,19 @@
 [
   {
+    "id": "prison-architect-233450",
+    "appId": 233450,
+    "title": "Prison Architect - 233450",
+    "game": "Prison Architect",
+    "desc": "Bypass for Prison Architect (online not possible for latest version)",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-06-04",
+    "content": "\n# Prison Architect - 233450\n\nBypass for Prison Architect (online not possible for latest version)\n\n1. Apply Bypass\n2. Run game from folder\n3. Can use Onennabe Play button for .exe (as shown in picture)\n\n![Attached Image](assets/prison-architect-233450_1511931956953092248.png)\n\n---\n\n![Attached Image](assets/prison-architect-233450_1511932226990903306.png)\n"
+  },
+  {
     "id": "007-first-light-lampu-pertama-3768760",
     "appId": 3768760,
     "title": "007 First Light (Lampu Pertama) - 3768760",
@@ -274,19 +288,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 1222730 STAR WARS: SQUADRONS EA BYPASS\n\n-After patching, open folder and start game using starwarssquadrons_launcher.exe\n"
-  },
-  {
-    "id": "1250410-microsoft-flight-simulator-2020",
-    "appId": 2020,
-    "title": "1250410 Microsoft Flight Simulator (2020)",
-    "game": "Microsoft Flight Simulator",
-    "desc": "After patch, open game folder",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 1250410 Microsoft Flight Simulator (2020)\n\nAdded online supported\n\n\nAfter patch, open game folder\nRight Click on GDK_Helper.bat\nChoose 3\nChoose 1\n\nIn game, sign in your own xbox account, \nIn game download 170GB\n"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "1250410-microsoft-flight-simulator-2020",
+    "appId": 2020,
+    "title": "1250410 Microsoft Flight Simulator (2020)",
+    "game": "Microsoft Flight Simulator",
+    "desc": "After patch, open game folder",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 1250410 Microsoft Flight Simulator (2020)\n\nAdded online supported\n\n\nAfter patch, open game folder\nRight Click on GDK_Helper.bat\nChoose 3\nChoose 1\n\nIn game, sign in your own xbox account, \nIn game download 170GB\n"
+  },
+  {
     "id": "1277400-monster-hunter-stories-2-wings-of-ruin-online",
     "appId": 1277400,
     "title": "1277400 MONSTER HUNTER STORIES 2: WINGS OF RUIN ONLINE",
@@ -267,19 +281,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 1237320 SONIC FRONTIERS BYPASS\n\nAfter bypass, run game from Steam\n"
-  },
-  {
-    "id": "1238840-battlefield-1-bypass",
-    "appId": 1238840,
-    "title": "1238840 BATTLEFIELD 1 BYPASS",
-    "game": "BATTLEFIELD 1",
-    "desc": "Download is pretty large around 300mb",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 1238840 BATTLEFIELD 1 BYPASS\n\n-Download is pretty large around 300mb\n\n-After download patch, run game from bf1.exe inside the game installation folder.\n"
   }
 ]

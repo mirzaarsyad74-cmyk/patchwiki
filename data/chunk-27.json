@@ -1,5 +1,19 @@
 [
   {
+    "id": "palworld-1623730",
+    "appId": 1623730,
+    "title": "Palworld  - 1623730",
+    "game": "Palworld",
+    "desc": "1. Download EPIC Games Store at https://store.epicgames.com/",
+    "tags": [
+      "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-08-05",
+    "content": "\n# Palworld  - 1623730\n\n# BEFORE ANYTHING ELSE\n1. Download EPIC Games Store at https://store.epicgames.com/\n2. Register an account at https://www.epicgames.com/id/login?lang=en-US, login using Google also accepted.\n\n# IN STEAM UNLOCK ONENNABE\n1. Upon Unlocking game, it is advisable to go to Tools > Game Auto \n2. Update and click Smart Apply\nRefer here: \nhttps://steamunlockonennabe.click/docs/updating-games/\n\nOnce Done, Install the game.\n\n# First time & REPEAT THIS STEP\n1. Open the game folder via Steam Unlock Onennabe https://steamunlockonennabe.click/docs/library-tab/#browse-local-files, go to \n```Pal\\Binaries\\Win64\\FreeTP```\n2. Delete **token.dat**\n3. Start the game from Steam.\n4. Web browser will automatically open and it will request to login to EPIC and allow Pocket Pairs to connect.\n4. Ignore the Error: EOS Login Timeout, as it is waiting for the web browser to complete login.\n\n# YOU HAVE TO DO THIS EVERYTIME STARTING THE GAME.\n\n![Attached Image](assets/palworld-1623730_1534488033729056918.png)\n\n\n![Attached Image](assets/palworld-1623730_1534488034173522101.png)\n\n---\n\n# Updated to version 5 online patch, no longer need to delete token.dat\n"
+  },
+  {
     "id": "suicide-squad-kill-the-justice-league-315210",
     "appId": 315210,
     "title": "Suicide Squad Kill the Justice League - 315210",
@@ -274,19 +288,5 @@
     "version": "1.0",
     "date": "2026-07-09",
     "content": "\n# Assassin's Creed Black Flag Resynced - 3751950\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n\n![Attached Image](assets/assassin-s-creed-black-flag-resynced-3751950_1524840572177617027.jpg)\n\n---\n\nGame Updated to use normal bypass, run game from steam or game .exe\n"
-  },
-  {
-    "id": "dead-or-alive-6-last-round-4144680",
-    "appId": 4144680,
-    "title": "Dead or Alive 6 Last Round- 4144680",
-    "game": "Dead or Alive 6 Last Round",
-    "desc": "Add this game version  into your library by using WIN + R and copy below and paste into it",
-    "tags": [
-      "online"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-07-08",
-    "content": "\n# Dead or Alive 6 Last Round- 4144680\n\nAdd this game version  into your library by using WIN + R and copy below and paste into it\n\n```steam://subscriptioninstall/1698936```\n\nor go to the game store page and click add to library\nhttps://store.steampowered.com/app/4144680/DEAD_OR_ALIVE_6_Last_Round/\n\nAfter online patch, play game from Steam and play online\n\n![Attached Image](assets/dead-or-alive-6-last-round-4144680_1524449320978481232.png)\n"
   }
 ]
