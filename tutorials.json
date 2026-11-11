@@ -7089,12 +7089,12 @@
   },
   {
     "id": "vbs",
-    "appId": null,
+    "appId": 512,
     "title": "#VBS",
     "game": "VBS",
     "desc": "Guide Disable Windows Hello",
     "tags": [
-      "general"
+      "drm"
     ],
     "author": "Ryunosuke",
     "version": "1.0",

@@ -29,17 +29,17 @@
   },
   {
     "id": "vbs",
-    "appId": null,
+    "appId": 512,
     "title": "#VBS",
     "game": "VBS",
     "desc": "Guide Disable Windows Hello",
     "tags": [
-      "general"
+      "drm"
     ],
     "author": "Ryunosuke",
     "version": "1.0",
     "date": "2026-08-04",
-    "content": "\n# #VBS\n\n## Guide Disable Windows Hello\n\nhttps://www.youtube.com/watch?v=Vzm2YQDcsfw\n\n![Attached Image](assets/vbs_1534219090212688134.jpg)\n\n---\n\n#VBS\n"
+    "content": "\n# #VBS\n\n## Guide Disable Windows Hello\n\nhttps://www.youtube.com/watch?v=Vzm2YQDcsfw\n\n![Attached Image](assets/vbs_1534219090212688134.jpg)\n\n---\n\n#VBS\n\n---\n\nv2.0\n\nTemporary removes AVX-512 support for the session to make HV work with newer Denuvo versions\n\n[Download VBS_2.0.cmd (0.1 MB)](assets/vbs_1570052296174346381.cmd)\n"
   },
   {
     "id": "jurassic-world-evolution-3-2958130",
