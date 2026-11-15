@@ -1,5 +1,18 @@
 [
   {
+    "id": "suo-installer",
+    "appId": null,
+    "title": "SUO Installer",
+    "game": "SUO Installer",
+    "desc": "🎮 SUO Installer — Official Release",
+    "tags": [
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-11-15"
+  },
+  {
     "id": "emulator",
     "appId": null,
     "title": "Emulator",

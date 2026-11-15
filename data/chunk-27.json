@@ -1,5 +1,19 @@
 [
   {
+    "id": "microsoft-flight-simulator-v1-39-12-0-1250410",
+    "appId": 1250410,
+    "title": "Microsoft Flight Simulator v1.39.12.0 - 1250410",
+    "game": "Microsoft Flight Simulator v1.39.12.0",
+    "desc": "After patch, open game folder",
+    "tags": [
+      "general"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-08-05",
+    "content": "\n# Microsoft Flight Simulator v1.39.12.0 - 1250410\n\nAfter patch, open game folder\n1. Right Click on GDK_Helper.bat\n2. Choose 3\n3. Choose 1\n# Ignore the failed warning in the GDK_Helper.bat\n\nIn game, sign in your own xbox account, \nIn game download 170GB\n\nPlay the game from steam.\n"
+  },
+  {
     "id": "palworld-1623730",
     "appId": 1623730,
     "title": "Palworld  - 1623730",
@@ -272,21 +286,5 @@
     "version": "1.0",
     "date": "2026-07-09",
     "content": "\n# 2239550 WATCH DOGS LEGION\n\nAfter Bypass Game. Start Game from Steam.\n\n![Attached Image](assets/2239550-watch-dogs-legion_1524640046198685706.png)\n"
-  },
-  {
-    "id": "assassin-s-creed-black-flag-resynced-3751950",
-    "appId": 3751950,
-    "title": "Assassin's Creed Black Flag Resynced - 3751950",
-    "game": "Assassin's Creed Black Flag Resynced",
-    "desc": "⚠️ Lock game version in SUO before downloading on Steam:",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-07-09",
-    "content": "\n# Assassin's Creed Black Flag Resynced - 3751950\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n\n![Attached Image](assets/assassin-s-creed-black-flag-resynced-3751950_1524840572177617027.jpg)\n\n---\n\nGame Updated to use normal bypass, run game from steam or game .exe\n"
   }
 ]

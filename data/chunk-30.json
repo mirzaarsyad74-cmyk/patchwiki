@@ -1,5 +1,19 @@
 [
   {
+    "id": "1222730-star-wars-squadrons-ea-bypass",
+    "appId": 1222730,
+    "title": "1222730 STAR WARS: SQUADRONS EA BYPASS",
+    "game": "STAR WARS: SQUADRONS",
+    "desc": "After patching, open folder and start game using starwarssquadronslauncher.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 1222730 STAR WARS: SQUADRONS EA BYPASS\n\n-After patching, open folder and start game using starwarssquadrons_launcher.exe\n"
+  },
+  {
     "id": "1250410-microsoft-flight-simulator-2020",
     "appId": 2020,
     "title": "1250410 Microsoft Flight Simulator (2020)",
@@ -267,19 +281,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 1196590 RESIDENT EVIL VILLAGE FIX\n\nFix for failed save data\n\nStart game from Steam\n"
-  },
-  {
-    "id": "1237320-sonic-frontiers-bypass",
-    "appId": 1237320,
-    "title": "1237320 SONIC FRONTIERS BYPASS",
-    "game": "SONIC FRONTIERS",
-    "desc": "After bypass, run game from Steam",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 1237320 SONIC FRONTIERS BYPASS\n\nAfter bypass, run game from Steam\n"
   }
 ]

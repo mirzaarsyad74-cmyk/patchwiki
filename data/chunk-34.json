@@ -1,5 +1,19 @@
 [
   {
+    "id": "added-mass-effect-andromeda-ea-bypass-1238000",
+    "appId": 1238000,
+    "title": "Added Mass Effect™: Andromeda EA Bypass - 1238000",
+    "game": "Mass Effect™: Andromeda",
+    "desc": "After patching, open game folder and run the game using MassEffectAndromeda.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# Added Mass Effect™: Andromeda EA Bypass - 1238000\n\n- After patching, open game folder and run the game using MassEffectAndromeda.exe\n- do not run from steam, it will open EA.\n"
+  },
+  {
     "id": "added-occupy-mars-the-game-758690",
     "appId": 758690,
     "title": "Added Occupy Mars: The Game- 758690",
@@ -271,19 +285,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Dragon Age™ Inquisition DENUV0 and EA bypass - 1222690\n\n- run game from inside folder **DragonAgeInquisition.exe**\n- dont run from Steam\n"
-  },
-  {
-    "id": "echoes-of-elysium-online-patch-2644050",
-    "appId": 2644050,
-    "title": "Echoes of Elysium Online Patch  (2644050)",
-    "game": "Echoes of Elysium",
-    "desc": "try run from steam once patch or",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Echoes of Elysium Online Patch  (2644050)\n\ntry run from steam once patch or \nopen game folder & run from Elysium.exe\n"
   }
 ]

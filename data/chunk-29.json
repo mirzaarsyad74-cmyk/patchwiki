@@ -1,5 +1,19 @@
 [
   {
+    "id": "grand-theft-auto-v-legacy-271590",
+    "appId": 271590,
+    "title": "Grand Theft Auto V Legacy - 271590",
+    "game": "Grand Theft Auto V Legacy",
+    "desc": "GTA V Online Private Server",
+    "tags": [
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-06-04",
+    "content": "\n# Grand Theft Auto V Legacy - 271590\n\n# **GTA V Online Private Server**\n\nChoose properties, then under General, and type `-nobattleye` in the launch options\n"
+  },
+  {
     "id": "prison-architect-233450",
     "appId": 233450,
     "title": "Prison Architect - 233450",
@@ -274,19 +288,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 1222680 UPDATED STEPS NFS HEAT\n\nAfter bypass the game \n\nRun game from suo ( Steam Unlock Onennabe) \n\nby choose . exe or .bat option from suo\n\n![Attached Image](assets/1222680-updated-steps-nfs-heat_1531172228933091438.png)\n\n---\n\n[Download 20260727-0533-45.3580558.mp4 (3.9 MB)](assets/1222680-updated-steps-nfs-heat_1531172946863980605.mp4)\n\n---\n\n1222680 UPDATED STEPS NFS HEAT\n"
-  },
-  {
-    "id": "1222730-star-wars-squadrons-ea-bypass",
-    "appId": 1222730,
-    "title": "1222730 STAR WARS: SQUADRONS EA BYPASS",
-    "game": "STAR WARS: SQUADRONS",
-    "desc": "After patching, open folder and start game using starwarssquadronslauncher.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 1222730 STAR WARS: SQUADRONS EA BYPASS\n\n-After patching, open folder and start game using starwarssquadrons_launcher.exe\n"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "suo-installer",
+    "appId": null,
+    "title": "SUO Installer",
+    "game": "SUO Installer",
+    "desc": "🎮 SUO Installer — Official Release",
+    "tags": [
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-11-15",
+    "content": "\n# SUO Installer\n\n# 🎮 SUO Installer — Official Release\n\nA modernized, standalone desktop installer and manager featuring a clean dark UI, automated system diagnostics, and one-click maintenance.\n\n---\n\n### ✨ Key Features\n* 🔍 **Smart Client Detection** — Automatically detects your installation path and client process state.\n* ⚡ **One-Click Installation Modes**:\n  * `Overwrite Install` — Update existing files in place while preserving custom folders.\n  * `Clean Install` — Complete reset and fresh setup.\n  * `Remove / Uninstall` — Clean removal of all tool components.\n* 🛡️ **System Pre-Flight Checks** — Live indicators for network connectivity and Windows Defender / SAC protection layers.\n* 📦 **Auto-Fetch Releases** — Direct sync with the latest build payloads and release tags.\n* 📜 **Integrated Activity Console** — Real-time progress tracking, streaming downloads, and diagnostics.\n\n---\n\n### 📋 Requirements\n* **OS:** Windows 10 / 11 (x64)\n* **Runtime:** [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0)\n\n---\n\n### 📥 Download\nGrab the latest standalone `.exe` from the attachments or releases channel below:\n\n![Attached Image](assets/suo-installer_1571421514585219093.png)\n"
+  },
+  {
     "id": "emulator",
     "appId": null,
     "title": "Emulator",
@@ -91,7 +105,7 @@
     "author": "Ryunosuke",
     "version": "1.0",
     "date": "2026-10-29",
-    "content": "\n# STAR WARS: Galactic Racer - 4078430\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n"
+    "content": "\n# STAR WARS: Galactic Racer - 4078430\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n\n---\n\nUsing Crack: Voices38\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
   },
   {
     "id": "planet-coaster-2-2688950",
@@ -284,19 +298,5 @@
     "version": "1.0",
     "date": "2026-10-14",
     "content": "\n# DS4 auto setup\n\n....\n\n![Attached Image](assets/ds4-auto-setup_1560003476426072134.png)\n"
-  },
-  {
-    "id": "wand-pro",
-    "appId": null,
-    "title": "Wand Pro",
-    "game": "Wand Pro",
-    "desc": "🪄 Wand / WeMod AutoUpdater & Tools",
-    "tags": [
-      "general"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-10-14",
-    "content": "\n# Wand Pro\n\n# 🪄 Wand / WeMod Auto-Updater & Tools\n\n• **Auto-Update:** Automatically downloads and updates Wand/WeMod to the latest version.\n• **Self-Healing:** Built-in auto-patch, reinstall, and repair capabilities.\n• **Custom UI:** Clean **Steam Theme** integration.\n• **Remote Ready:** Full support for **Wand Remote**.\n\n---\n\n> 💡 **Notice:** The Wand/WeMod patch is **100% free and open-source**. If you paid for this tool, you have been scammed!\n\n![Attached Image](assets/wand-pro_1559979080823214220.png)\n\n---\n\nWand\n\n---\n\n🚀 **Check out WandEnhancer — Open Source Wand / WeMod Companion Tool!**\n\nLooking to get more out of Wand? **WandEnhancer** is an open-source tool that adds remote mobile controls, unlocks pro features, and automates patching:\n\n👉 **GitHub:** <https://github.com/k1tbyte/Wand-Enhancer>\n\n**Key Features:**\n🔹 **Mobile / Web Remote Control:** Control cheats from your phone via local Wi-Fi & QR code\n🔹 **Pro Unlocked:** Full interactive controls and sliders unlocked client-side\n🔹 **1-Click Auto Patch:** Fast, reliable patching with backup and auto-repair\n🔹 **Update-Proof:** Auto-reapplies when the app updates\n🔹 **DevTools Enabled:** Press `F12` to inspect the UI\n🔹 **100% Free & Open-Source:** No shady installers, no paid keys, clean code\n\nDownload the latest release here:\n\n---\n\nWand Pro\n\n---\n\nMobile Interface\n\n![Attached Image](assets/wand-pro_1566775961431580854.jpg)\n\n---\n\ndesktop interface\n\n![Attached Image](assets/wand-pro_1566776231192559756.png)\n\n---\n\n![Attached Image](assets/wand-pro_1566776993897381998.jpg)\n\n---\n\nsettings > choose which server\n\n![Attached Image](assets/wand-pro_1566777088248381560.webp)\n\n---\n\n![Attached Image](assets/wand-pro_1567208886640058378.png)\n\n---\n\n**📢 Future Update Notice**\n\nStarting from this version, updating is fully automatic:\n\n1. Click **`Check Update`** inside the app.\n2. The app will automatically download the new build.\n3. Old files will be replaced automatically.\n\nNo need to re-download manually or replace folders yourself! 🚀\n\n[Download WandEnhancer.exe (3.9 MB)](assets/wand-pro_1567209470923116594.exe)\n"
   }
 ]
