@@ -39,3 +39,7 @@ A modernized, standalone desktop installer and manager featuring a clean dark UI
 Grab the latest standalone `.exe` from the attachments or releases channel below:
 
 ![Attached Image](assets/suo-installer_1571421514585219093.png)
+
+---
+
+[Download SUOInstaller.exe (1.3 MB)](assets/suo-installer_1571430587737051206.exe)

@@ -70,7 +70,7 @@ A specialized system utility designed to safely inspect, toggle, and configure W
 
 ---
 
-[Download HVBypassTool.exe (2.3 MB)](assets/hv-tools-legacy_1567831302835666944.exe)
+[Download HVBypassTool.exe (2.3 MB)](assets/hv-tools-legacy_1571452984360050748.exe)
 
 ---
 
