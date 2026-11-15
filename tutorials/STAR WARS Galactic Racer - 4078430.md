@@ -43,3 +43,13 @@ Choose one script below to run:
 * **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.
 * **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.
 * **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.
+
+---
+
+Using Crack: Voices38
+
+1) Add game from SUO
+2) Off antivirus(realtime protection) and smart app control (win 11)
+3) Download game from steam
+4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```
+5) play from steam
