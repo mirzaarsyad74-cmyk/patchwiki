@@ -2,6 +2,7 @@
 id: wand-pro
 title: Wand Pro
 game: Wand Pro
+appid: 256
 author: Ryunosuke
 version: 1.0
 desc: 🪄 Wand / WeMod AutoUpdater & Tools
@@ -78,14 +79,32 @@ settings > choose which server
 
 ---
 
-**📢 Future Update Notice**
+## 📢 Wand / WeMod Patcher — Repository & Update Notice
 
-Starting from this version, updating is fully automatic:
+Due to a **DMCA notice**, I have decided to set the repository to **private** for the time being. 
 
-1. Click **`Check Update`** inside the app.
-2. The app will automatically download the new build.
-3. Old files will be replaced automatically.
+In the meantime, I am working on a **new major update** that will bring several improvements, including:
+* ✨ Quality of Life (QoL) enhancements
+* 🌐 Improved remote connectivity
+* 🎮 Better Steam connection stability
 
-No need to re-download manually or replace folders yourself! 🚀
+Thank you for your patience and continued support! Stay tuned for further updates
 
-[Download WandEnhancer.exe (3.9 MB)](assets/wand-pro_1567209470923116594.exe)
+---
+
+> # ⚡ Wand Enhancer v2.3.0.0
+> -# Gaming HUD Remote Panel, Desktop Suite & Smarter Auto-Update
+> 
+> ## 🚀 New Features
+> - **Gaming HUD Remote Panel**: Tactical UI redesign, local Steam library/launcher, 6-digit PIN lock, save backups & restore, timed macros, activity log with undo, Stream Deck triggers, Wake Lock & gamepad nav.
+> - **Desktop Suite**: Diagnostics & `.zip` support bundle, Script Manager with templates, minimize to tray, global Panic Off (`Ctrl+Shift+Backspace`) & CLI flags.
+> - **Smarter Auto-Update**: Background watcher self-upgrades, catches missed Wand updates, retries locks & relaunches Wand. Self-updater adds progress bar, cancel button, SHA-256 check & safe rollback.
+> 
+> ## 🛠️ Bug Fixes
+> - Fixed broken Steam cover art in Library (local `librarycache` fallback).
+> - Fixed raw translation IDs with automatic `en-US` fallback.
+> - Saved toggles, strategy & scripts now persist in the Enhance menu.
+> 
+> > 📥 Existing installs auto-detect **v2.3.0.0**
+
+[Download WandEnhancer-AutoUpdate.exe (4.2 MB)](assets/wand-pro_1572553807567654952.exe)
