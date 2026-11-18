@@ -1,5 +1,19 @@
 [
   {
+    "id": "1196590-resident-evil-village-fix",
+    "appId": 1196590,
+    "title": "1196590 RESIDENT EVIL VILLAGE FIX",
+    "game": "RESIDENT EVIL VILLAGE",
+    "desc": "Tutorial and guide for RESIDENT EVIL VILLAGE.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-04",
+    "content": "\n# 1196590 RESIDENT EVIL VILLAGE FIX\n\nFix for failed save data\n\nStart game from Steam\n"
+  },
+  {
     "id": "1237320-sonic-frontiers-bypass",
     "appId": 1237320,
     "title": "1237320 SONIC FRONTIERS BYPASS",
@@ -266,19 +280,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 916440 ANNO 1800 BYPASS\n\n-After patching, run the game from inside folder,\nBin/Win64/Anno1800.exe\n\nor try run from Steam\n"
-  },
-  {
-    "id": "diablo-ii-2536520-updated-instruction",
-    "appId": 2536520,
-    "title": "Diablo II (2536520) Updated Instruction",
-    "game": "Diablo II",
-    "desc": "updated diablo bypass patch",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# Diablo II (2536520) Updated Instruction\n\nupdated diablo bypass patch\n\n-Run the game ONETIME from WannabeLauncher.exe in game directory.\n-Next time can play the game directly from the Steam.\n-If the game stuck on \"Playing\" on steam;\n-Run  WannabeLauncher.exe or just delete steam_api64.dll from the Diablo II directories.\n"
   }
 ]

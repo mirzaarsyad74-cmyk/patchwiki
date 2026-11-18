@@ -1,5 +1,19 @@
 [
   {
+    "id": "travellers-rest-1139980",
+    "appId": 1139980,
+    "title": "Travellers Rest Online Fix",
+    "game": "Travellers Rest",
+    "desc": "Travellers Rest Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Travellers Rest Online Fix\n\n# Travellers Rest Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "ready-or-not-1144200",
     "appId": 1144200,
     "title": "Ready or Not Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Titanfall® 2 Bypass\n\n# Titanfall® 2 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "star-wars-battlefront-1237980",
-    "appId": 1237980,
-    "title": "STAR WARS™ Battlefront™ Bypass",
-    "game": "STAR WARS™ Battlefront™",
-    "desc": "STAR WARS™ Battlefront™ Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# STAR WARS™ Battlefront™ Bypass\n\n# STAR WARS™ Battlefront™ Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

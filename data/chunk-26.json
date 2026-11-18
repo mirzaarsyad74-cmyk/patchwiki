@@ -1,5 +1,19 @@
 [
   {
+    "id": "sekiro-shadows-die-twice-814380",
+    "appId": 814380,
+    "title": "Sekiro™: Shadows Die Twice Bypass",
+    "game": "Sekiro™: Shadows Die Twice",
+    "desc": "Sekiro™: Shadows Die Twice Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Sekiro™: Shadows Die Twice Bypass\n\n# Sekiro™: Shadows Die Twice Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "tribes-of-midgard-858820",
     "appId": 858820,
     "title": "Tribes of Midgard Online Fix",
@@ -266,19 +280,5 @@
     "version": "1.0",
     "date": "2026-08-05",
     "content": "\n# A guide to play Assassin's Creed Shadow\n\n# A guide to play Assassin's Creed Shadow\n> ⚠️ **Warning:** If you ever use Hypervisor version of the game, please go to Steam Unlock Onennabe -> Library -> REMOVE HYPERVISOR PATCH first\n\n## **PLEASE MAKE SURE TO TURN ON SMART APPLY BY HEADING TO TOOLS > GAME AUTO UPDATE + REAL TIME PROTECTION IS DISABLED**\n\n1. In Steam Unlock Onennabe click `Unlock Game`\n2. Install the game in Steam\n3. Then in Steam Unlock Onennabe -> Library -> click on `Bypass Game`\n4. Press the `Bypass Game` again after its added to exclusion\n5. Play the game from Steam Unlock > Choose .exe.\n"
-  },
-  {
-    "id": "monster-hunter-stories-2-wings-of-ruin-1277400",
-    "appId": 1277400,
-    "title": "1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "game": "MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "desc": "1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN",
-    "tags": [
-      "online"
-    ],
-    "author": "Anonymous",
-    "version": "1.0",
-    "date": "2026-08-05",
-    "content": "\n# 1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN\n\n# 1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN\n\n- After patching, start game from Steam\nOnline mode only available after the mission A Stranger in Black.\n"
   }
 ]

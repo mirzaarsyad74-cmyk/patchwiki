@@ -1,7 +1,21 @@
 [
   {
-    "id": "wand-pro",
+    "id": "ds4-auto-setup",
     "appId": null,
+    "title": "DS4 auto setup",
+    "game": "DS4 auto setup",
+    "desc": "Tutorial and guide for DS4 auto setup.",
+    "tags": [
+      "general"
+    ],
+    "author": "♕ 𝑯𝒂𝒓𝒖𝒐𝑺𝒆𝒏𝒑𝒂𝒊 ♕",
+    "version": "1.0",
+    "date": "2026-10-14",
+    "content": "\n# DS4 auto setup\n\n....\n\n![Attached Image](assets/ds4-auto-setup_1560003476426072134.png)\n"
+  },
+  {
+    "id": "wand-pro",
+    "appId": 256,
     "title": "Wand Pro",
     "game": "Wand Pro",
     "desc": "🪄 Wand / WeMod AutoUpdater & Tools",
@@ -11,7 +25,7 @@
     "author": "Ryunosuke",
     "version": "1.0",
     "date": "2026-10-14",
-    "content": "\n# Wand Pro\n\n# 🪄 Wand / WeMod Auto-Updater & Tools\n\n• **Auto-Update:** Automatically downloads and updates Wand/WeMod to the latest version.\n• **Self-Healing:** Built-in auto-patch, reinstall, and repair capabilities.\n• **Custom UI:** Clean **Steam Theme** integration.\n• **Remote Ready:** Full support for **Wand Remote**.\n\n---\n\n> 💡 **Notice:** The Wand/WeMod patch is **100% free and open-source**. If you paid for this tool, you have been scammed!\n\n![Attached Image](assets/wand-pro_1559979080823214220.png)\n\n---\n\nWand\n\n---\n\n🚀 **Check out WandEnhancer — Open Source Wand / WeMod Companion Tool!**\n\nLooking to get more out of Wand? **WandEnhancer** is an open-source tool that adds remote mobile controls, unlocks pro features, and automates patching:\n\n👉 **GitHub:** <https://github.com/k1tbyte/Wand-Enhancer>\n\n**Key Features:**\n🔹 **Mobile / Web Remote Control:** Control cheats from your phone via local Wi-Fi & QR code\n🔹 **Pro Unlocked:** Full interactive controls and sliders unlocked client-side\n🔹 **1-Click Auto Patch:** Fast, reliable patching with backup and auto-repair\n🔹 **Update-Proof:** Auto-reapplies when the app updates\n🔹 **DevTools Enabled:** Press `F12` to inspect the UI\n🔹 **100% Free & Open-Source:** No shady installers, no paid keys, clean code\n\nDownload the latest release here:\n\n---\n\nWand Pro\n\n---\n\nMobile Interface\n\n![Attached Image](assets/wand-pro_1566775961431580854.jpg)\n\n---\n\ndesktop interface\n\n![Attached Image](assets/wand-pro_1566776231192559756.png)\n\n---\n\n![Attached Image](assets/wand-pro_1566776993897381998.jpg)\n\n---\n\nsettings > choose which server\n\n![Attached Image](assets/wand-pro_1566777088248381560.webp)\n\n---\n\n![Attached Image](assets/wand-pro_1567208886640058378.png)\n\n---\n\n**📢 Future Update Notice**\n\nStarting from this version, updating is fully automatic:\n\n1. Click **`Check Update`** inside the app.\n2. The app will automatically download the new build.\n3. Old files will be replaced automatically.\n\nNo need to re-download manually or replace folders yourself! 🚀\n\n[Download WandEnhancer.exe (3.9 MB)](assets/wand-pro_1567209470923116594.exe)\n"
+    "content": "\n# Wand Pro\n\n# 🪄 Wand / WeMod Auto-Updater & Tools\n\n• **Auto-Update:** Automatically downloads and updates Wand/WeMod to the latest version.\n• **Self-Healing:** Built-in auto-patch, reinstall, and repair capabilities.\n• **Custom UI:** Clean **Steam Theme** integration.\n• **Remote Ready:** Full support for **Wand Remote**.\n\n---\n\n> 💡 **Notice:** The Wand/WeMod patch is **100% free and open-source**. If you paid for this tool, you have been scammed!\n\n![Attached Image](assets/wand-pro_1559979080823214220.png)\n\n---\n\nWand\n\n---\n\n🚀 **Check out WandEnhancer — Open Source Wand / WeMod Companion Tool!**\n\nLooking to get more out of Wand? **WandEnhancer** is an open-source tool that adds remote mobile controls, unlocks pro features, and automates patching:\n\n👉 **GitHub:** <https://github.com/k1tbyte/Wand-Enhancer>\n\n**Key Features:**\n🔹 **Mobile / Web Remote Control:** Control cheats from your phone via local Wi-Fi & QR code\n🔹 **Pro Unlocked:** Full interactive controls and sliders unlocked client-side\n🔹 **1-Click Auto Patch:** Fast, reliable patching with backup and auto-repair\n🔹 **Update-Proof:** Auto-reapplies when the app updates\n🔹 **DevTools Enabled:** Press `F12` to inspect the UI\n🔹 **100% Free & Open-Source:** No shady installers, no paid keys, clean code\n\nDownload the latest release here:\n\n---\n\nWand Pro\n\n---\n\nMobile Interface\n\n![Attached Image](assets/wand-pro_1566775961431580854.jpg)\n\n---\n\ndesktop interface\n\n![Attached Image](assets/wand-pro_1566776231192559756.png)\n\n---\n\n![Attached Image](assets/wand-pro_1566776993897381998.jpg)\n\n---\n\nsettings > choose which server\n\n![Attached Image](assets/wand-pro_1566777088248381560.webp)\n\n---\n\n![Attached Image](assets/wand-pro_1567208886640058378.png)\n\n---\n\n## 📢 Wand / WeMod Patcher — Repository & Update Notice\n\nDue to a **DMCA notice**, I have decided to set the repository to **private** for the time being. \n\nIn the meantime, I am working on a **new major update** that will bring several improvements, including:\n* ✨ Quality of Life (QoL) enhancements\n* 🌐 Improved remote connectivity\n* 🎮 Better Steam connection stability\n\nThank you for your patience and continued support! Stay tuned for further updates\n\n---\n\n> # ⚡ Wand Enhancer v2.3.0.0\n> -# Gaming HUD Remote Panel, Desktop Suite & Smarter Auto-Update\n> \n> ## 🚀 New Features\n> - **Gaming HUD Remote Panel**: Tactical UI redesign, local Steam library/launcher, 6-digit PIN lock, save backups & restore, timed macros, activity log with undo, Stream Deck triggers, Wake Lock & gamepad nav.\n> - **Desktop Suite**: Diagnostics & `.zip` support bundle, Script Manager with templates, minimize to tray, global Panic Off (`Ctrl+Shift+Backspace`) & CLI flags.\n> - **Smarter Auto-Update**: Background watcher self-upgrades, catches missed Wand updates, retries locks & relaunches Wand. Self-updater adds progress bar, cancel button, SHA-256 check & safe rollback.\n> \n> ## 🛠️ Bug Fixes\n> - Fixed broken Steam cover art in Library (local `librarycache` fallback).\n> - Fixed raw translation IDs with automatic `en-US` fallback.\n> - Saved toggles, strategy & scripts now persist in the Enhance menu.\n> \n> > 📥 Existing installs auto-detect **v2.3.0.0**\n\n[Download WandEnhancer-AutoUpdate.exe (4.2 MB)](assets/wand-pro_1572553807567654952.exe)\n"
   },
   {
     "id": "wand",
@@ -279,19 +293,5 @@
     "version": "1.0",
     "date": "2026-08-14",
     "content": "\n# Call of Duty: World at War - 10090\n\nThe bypass is working for solo game, online co-op is not tested, but you can read the README - COD WAW ONLINE CRACK.txt\n# Open Game Folder\n# Step 1\n1. Double Click *Activate Steam key.bat*\n2. Follow on screen instructions, i choose activate key with Zarus's cd key\n3. You dont need to change Steam ID if Solo Play is intended.\n\n# Step 2\n1. Upon activation, it will automatically prompt you to either launch offline solo play or online play\n\n# Step 3\n1. Launch the game by choosing either\n- Play Call of Duty World at War - LAUNCH ONLY WITH THIS.bat\nor \n- Play MULTIPLAYER - with PunkBuster.bat\n\n![Attached Image](assets/call-of-duty-world-at-war-10090_1537886698967535707.png)\n"
-  },
-  {
-    "id": "call-of-duty-modern-warfare-2-2009-10180",
-    "appId": 10180,
-    "title": "Call of Duty: Modern Warfare 2 (2009) Bypass",
-    "game": "Call of Duty: Modern Warfare 2",
-    "desc": "Call of Duty: Modern Warfare 2 (2009) Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Call of Duty: Modern Warfare 2 (2009) Bypass\n\n# Call of Duty: Modern Warfare 2 (2009) Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "2239550-watch-dogs-legion",
+    "appId": 2239550,
+    "title": "2239550 WATCH DOGS LEGION",
+    "game": "WATCH DOGS LEGION",
+    "desc": "After Bypass Game. Start Game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-07-09",
+    "content": "\n# 2239550 WATCH DOGS LEGION\n\nAfter Bypass Game. Start Game from Steam.\n\n![Attached Image](assets/2239550-watch-dogs-legion_1524640046198685706.png)\n"
+  },
+  {
     "id": "assassin-s-creed-black-flag-resynced-3751950",
     "appId": 3751950,
     "title": "Assassin's Creed Black Flag Resynced - 3751950",
@@ -280,21 +294,5 @@
     "version": "1.0",
     "date": "2026-06-05",
     "content": "\n# INAZUMA ELEVEN: Victory Road - 2799860\n\nAfter online patch, open game folder, find game .exe via SUO, choose nie.exe\n\nOnline Patch the game, after online patch, fix the controller doing the below method.\n\n\nFor those having controller issues, this video worked for me: https://youtu.be/RRcKSSXUdJQ\nThe key was copying steam_action_manifest.vdf instead of steam_input_manifast.vdf AND Mapping spacewar buttons with your controller.\n"
-  },
-  {
-    "id": "f1-25-3059520",
-    "appId": 3059520,
-    "title": "F1 25 - 3059520",
-    "game": "F1 25",
-    "desc": "⚠️ Lock game version in SUO before downloading on Steam:",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-06-04",
-    "content": "\n# F1 25 - 3059520\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n\n---\n\nF1 25 - 3059520\n"
   }
 ]

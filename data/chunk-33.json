@@ -1,5 +1,21 @@
 [
   {
+    "id": "demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-2928600",
+    "appId": 2928600,
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 - 2928600",
+    "game": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-30",
+    "content": "\n# Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 - 2928600\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n"
+  },
+  {
     "id": "elden-ring-guide-1245620",
     "appId": 1245620,
     "title": "ELDEN Ring Guide - 1245620",
@@ -276,19 +292,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Added Earth Defense Force 6- 2291060\n\n- After online patch\n- play game from steam\n- login epic games pop up in browser, then go back to game after login.\n"
-  },
-  {
-    "id": "added-my-hero-academia-all-s-justice-online-patch-2362050",
-    "appId": 2362050,
-    "title": "Added  MY HERO ACADEMIA: All’s Justice online patch - 2362050",
-    "game": "MY HERO ACADEMIA: All’s Justice",
-    "desc": "open game folder and Launch the game via HeroGame\\Binaries\\Win64\\AJGAME.exe",
-    "tags": [
-      "online"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Added  MY HERO ACADEMIA: All’s Justice online patch - 2362050\n\nopen game folder and Launch the game via HeroGame\\Binaries\\Win64\\AJGAME.exe\n\n---\n\nAdded  MY HERO ACADEMIA: All’s Justice online patch - 2362050\n"
   }
 ]
