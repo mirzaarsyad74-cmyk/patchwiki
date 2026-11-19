@@ -92,7 +92,7 @@ Thank you for your patience and continued support! Stay tuned for further update
 
 ---
 
-> # ⚡ Wand Enhancer v2.3.0.0
+> # ⚡ Wand Enhancer v2.3.1.0
 > -# Gaming HUD Remote Panel, Desktop Suite & Smarter Auto-Update
 > 
 > ## 🚀 New Features
@@ -105,6 +105,6 @@ Thank you for your patience and continued support! Stay tuned for further update
 > - Fixed raw translation IDs with automatic `en-US` fallback.
 > - Saved toggles, strategy & scripts now persist in the Enhance menu.
 > 
-> > 📥 Existing installs auto-detect **v2.3.0.0**
+> > 📥 Existing installs auto-detect **v2.3.1.0**
 
-[Download WandEnhancer-AutoUpdate.exe (4.2 MB)](assets/wand-pro_1572553807567654952.exe)
+[Download WandEnhancer-AutoUpdate.exe (4.2 MB)](assets/wand-pro_1572812798113878096.exe)

@@ -36,6 +36,7 @@ Standard `bcdedit` commands turn off Test Mode completely, and third-party patch
 
 > ⚠️ **Note:** Major Windows updates overwrite system UI files. If the watermark ever comes back after an update, just double-click the `.bat` file again.
 
----
+![Attached Image](assets/watermarkhide_1572902854887342170.png)
 
-[Download HideWatermark.bat (0.0 MB)](assets/watermarkhide_1572561968798367784.bat)
+
+[Download HideWatermark_Universal.bat (0.0 MB)](assets/watermarkhide_1572902855285936188.bat)
