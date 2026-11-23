@@ -1,5 +1,20 @@
 [
   {
+    "id": "assassin-s-creed-shadows-assassin-s-creed-shadows",
+    "appId": 3159330,
+    "title": "A guide to play Assassin's Creed Shadow",
+    "game": "Assassin's Creed Shadows",
+    "desc": "A guide to play Assassin's Creed Shadow",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "yuumi",
+    "version": "1.0",
+    "date": "2026-08-05",
+    "content": "\n# A guide to play Assassin's Creed Shadow\n\n# A guide to play Assassin's Creed Shadow\n> ⚠️ **Warning:** If you ever use Hypervisor version of the game, please go to Steam Unlock Onennabe -> Library -> REMOVE HYPERVISOR PATCH first\n\n## **PLEASE MAKE SURE TO TURN ON SMART APPLY BY HEADING TO TOOLS > GAME AUTO UPDATE + REAL TIME PROTECTION IS DISABLED**\n\n1. In Steam Unlock Onennabe click `Unlock Game`\n2. Install the game in Steam\n3. Then in Steam Unlock Onennabe -> Library -> click on `Bypass Game`\n4. Press the `Bypass Game` again after its added to exclusion\n5. Play the game from Steam Unlock > Choose .exe.\n"
+  },
+  {
     "id": "monster-hunter-stories-2-wings-of-ruin-1277400",
     "appId": 1277400,
     "title": "1277400 - MONSTER HUNTER STORIES 2: WINGS OF RUIN",
@@ -270,21 +285,5 @@
     "version": "1.0",
     "date": "2026-07-13",
     "content": "\n# WILD HEARTS - 1938010\n\n1. Unlock game as usual from Steam Unlock\n2. From Steam Unlock > Tools > Game Auto Update > Open > Smart Apply\n3. Download game from Steam\n4. Bypass Game\n**\nHow to play**\n1. **MAKE SURE EA APP IS CLOSE OR SHUT IT DOWN**\n2. From Steam Unlock > Library > Play > Choose .exe > choose **WILD HEARTS.exe**\n\n![Attached Image](assets/wild-hearts-1938010_1526166791343313028.png)\n\n---\n\n**Karakuri Edition + preorder unlock**\n1. Download the save game attached\n2. Open WIN + R, copy below\n```shell:personal\\KoeiTecmo```\n3. Paste into the text field, press Enter\n4. Open the KoeiTecmo.rar, drag and drop **KoeiTecmo** inside the .rar into the opened Documents folder from step 3.\n5. Replaced if prompted.\n6. Start Game.\n\n[Download KoeiTecmo.rar (0.0 MB)](assets/wild-hearts-1938010_1526169537496748152.rar)\n\n\n![Attached Image](assets/wild-hearts-1938010_1526169537798475786.png)\n"
-  },
-  {
-    "id": "echoes-of-aincrad-2244210",
-    "appId": 2244210,
-    "title": "Echoes of Aincrad - 2244210",
-    "game": "Echoes of Aincrad",
-    "desc": "⚠️ Lock game version in SUO before downloading on Steam:",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-07-11",
-    "content": "\n# Echoes of Aincrad - 2244210\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n\n![Attached Image](assets/echoes-of-aincrad-2244210_1525388083485212772.webp)\n"
   }
 ]

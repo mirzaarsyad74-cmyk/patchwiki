@@ -1,5 +1,19 @@
 [
   {
+    "id": "tobacco-shop-simulator-3211680",
+    "appId": 3211680,
+    "title": "Tobacco Shop Simulator Online Fix",
+    "game": "Tobacco Shop Simulator",
+    "desc": "Tobacco Shop Simulator Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Tobacco Shop Simulator Online Fix\n\n# Tobacco Shop Simulator Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "store-wars-3213600",
     "appId": 3213600,
     "title": "Store Wars Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Resident Evil 0 Bypass\n\n# Resident Evil 0 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "guilty-as-sock-3400930",
-    "appId": 3400930,
-    "title": "Guilty as Sock! Online Fix",
-    "game": "Guilty as Sock!",
-    "desc": "Guilty as Sock! Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Guilty as Sock! Online Fix\n\n# Guilty as Sock! Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "id": "guilty-as-sock-3400930",
+    "appId": 3400930,
+    "title": "Guilty as Sock! Online Fix",
+    "game": "Guilty as Sock!",
+    "desc": "Guilty as Sock! Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Guilty as Sock! Online Fix\n\n# Guilty as Sock! Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "upin-ipin-universe-3401920",
     "appId": 3401920,
     "title": "Upin & Ipin Universe Bypass",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Keep Digging Online Fix\n\n# Keep Digging Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "astroneer-361420",
-    "appId": 361420,
-    "title": "ASTRONEER Online Fix",
-    "game": "ASTRONEER",
-    "desc": "2. Click \"ONLINE PATCH\"",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# ASTRONEER Online Fix\n\n# ASTRONEER Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

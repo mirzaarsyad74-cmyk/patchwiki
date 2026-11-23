@@ -1,5 +1,21 @@
 [
   {
+    "id": "echoes-of-aincrad-2244210",
+    "appId": 2244210,
+    "title": "Echoes of Aincrad - 2244210",
+    "game": "Echoes of Aincrad",
+    "desc": "⚠️ Lock game version in SUO before downloading on Steam:",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-07-11",
+    "content": "\n# Echoes of Aincrad - 2244210\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n\n![Attached Image](assets/echoes-of-aincrad-2244210_1525388083485212772.webp)\n"
+  },
+  {
     "id": "2239550-watch-dogs-legion",
     "appId": 2239550,
     "title": "2239550 WATCH DOGS LEGION",
@@ -279,20 +295,5 @@
     "version": "1.0",
     "date": "2026-06-06",
     "content": "\n# NBA 2K14 - 255480\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
-  },
-  {
-    "id": "inazuma-eleven-victory-road-2799860",
-    "appId": 2799860,
-    "title": "INAZUMA ELEVEN: Victory Road - 2799860",
-    "game": "INAZUMA ELEVEN: Victory Road",
-    "desc": "After online patch, open game folder, find game .exe via SUO, choose nie.exe",
-    "tags": [
-      "online",
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-06-05",
-    "content": "\n# INAZUMA ELEVEN: Victory Road - 2799860\n\nAfter online patch, open game folder, find game .exe via SUO, choose nie.exe\n\nOnline Patch the game, after online patch, fix the controller doing the below method.\n\n\nFor those having controller issues, this video worked for me: https://youtu.be/RRcKSSXUdJQ\nThe key was copying steam_action_manifest.vdf instead of steam_input_manifast.vdf AND Mapping spacewar buttons with your controller.\n"
   }
 ]
