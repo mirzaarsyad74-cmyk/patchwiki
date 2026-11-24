@@ -40,3 +40,7 @@ Standard `bcdedit` commands turn off Test Mode completely, and third-party patch
 
 
 [Download HideWatermark_Universal.bat (0.0 MB)](assets/watermarkhide_1572902855285936188.bat)
+
+---
+
+Deprecated , Please use <#1562130729255567360>
