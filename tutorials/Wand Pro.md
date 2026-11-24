@@ -2,7 +2,6 @@
 id: wand-pro
 title: Wand Pro
 game: Wand Pro
-appid: 256
 author: Ryunosuke
 version: 1.0
 desc: 🪄 Wand / WeMod AutoUpdater & Tools
@@ -92,19 +91,30 @@ Thank you for your patience and continued support! Stay tuned for further update
 
 ---
 
-> # ⚡ Wand Enhancer v2.3.1.0
-> -# Gaming HUD Remote Panel, Desktop Suite & Smarter Auto-Update
-> 
-> ## 🚀 New Features
-> - **Gaming HUD Remote Panel**: Tactical UI redesign, local Steam library/launcher, 6-digit PIN lock, save backups & restore, timed macros, activity log with undo, Stream Deck triggers, Wake Lock & gamepad nav.
-> - **Desktop Suite**: Diagnostics & `.zip` support bundle, Script Manager with templates, minimize to tray, global Panic Off (`Ctrl+Shift+Backspace`) & CLI flags.
-> - **Smarter Auto-Update**: Background watcher self-upgrades, catches missed Wand updates, retries locks & relaunches Wand. Self-updater adds progress bar, cancel button, SHA-256 check & safe rollback.
-> 
-> ## 🛠️ Bug Fixes
-> - Fixed broken Steam cover art in Library (local `librarycache` fallback).
-> - Fixed raw translation IDs with automatic `en-US` fallback.
-> - Saved toggles, strategy & scripts now persist in the Enhance menu.
-> 
-> > 📥 Existing installs auto-detect **v2.3.1.0**
+# 🪄 Wand Enhancer v2.4.0.0
 
-[Download WandEnhancer-AutoUpdate.exe (4.2 MB)](assets/wand-pro_1572812798113878096.exe)
+> **Major Update:** Remote Game Termination, Live Session Timer, Ambient Poster Glow & Haptics!
+
+### ✨ What's New
+* 🛑 **Remote "Stop Game" & Force Kill**
+  * Dedicated Stop Game button with confirmation modal to prevent accidental closes.
+  * Terminates the game process and child helpers via `taskkill /F /T /PID` + `SIGKILL` with name fallback.
+* ⏱️ **Impulse Live Session Timer**
+  * Real-time timer in the header with a pulsing status dot while playing.
+  * Retains and displays your last session playtime when idle.
+* 🎨 **Ambient Poster Lighting**
+  * Dynamically extracts colors from the active game poster to cast a soft ambient glow over the panel backdrop.
+* 📳 **Haptic Vibration Feedback**
+  * Micro-vibrations on toggles and buttons for mobile browsers.
+  * Double-pulse warning vibration on destructive actions. Toggle in **Settings**.
+* 🔍 **Multi-Platform Library Scanner**
+  * Detect installed games across Steam, Epic Games, GOG, and Xbox / Microsoft Store.
+
+### 🐛 Bug Fixes
+* **Fixed Mobile Dock Overlap**: Centered confirmation dialog and auto-hid the floating dock while open.
+* **Fixed Process ID Tracking**: Resolved live PID tracking across bridge runtime and renderer scripts.
+* **Fixed Translation Hashes**: Fixed missing locale strings rendering as raw hash IDs
+
+---
+
+[Download WandEnhancer-AutoUpdate.exe (4.2 MB)](assets/wand-pro_1574762262386843750.exe)
