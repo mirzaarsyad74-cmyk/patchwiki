@@ -1,5 +1,61 @@
 [
   {
+    "id": "chaos-express-2818480",
+    "appId": 2818480,
+    "title": "Chaos Express Online Fix",
+    "game": "Chaos Express",
+    "desc": "Chaos Express Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Chaos Express Online Fix\n\n# Chaos Express Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "stellaris-281990",
+    "appId": 281990,
+    "title": "Stellaris Online Fix",
+    "game": "Stellaris",
+    "desc": "2. Click \"ONLINE PATCH\"",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Stellaris Online Fix\n\n# Stellaris Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "this-war-of-mine-282070",
+    "appId": 282070,
+    "title": "This War of Mine Bypass",
+    "game": "This War of Mine",
+    "desc": "This War of Mine Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# This War of Mine Bypass\n\n# This War of Mine Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "a-gentlemen-s-dispute-2820700",
+    "appId": 2820700,
+    "title": "A Gentlemen's Dispute Online Fix",
+    "game": "A Gentlemen's Dispute",
+    "desc": "A Gentlemen's Dispute Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# A Gentlemen's Dispute Online Fix\n\n# A Gentlemen's Dispute Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "he-is-coming-2824490",
     "appId": 2824490,
     "title": "He is Coming Online Fix",
@@ -222,61 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# The Spell Brigade Bypass\n\n# The Spell Brigade Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "fast-food-simulator-2916430",
-    "appId": 2916430,
-    "title": "Fast Food Simulator Online Fix",
-    "game": "Fast Food Simulator",
-    "desc": "Fast Food Simulator Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Fast Food Simulator Online Fix\n\n# Fast Food Simulator Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "werewolf-party-2920510",
-    "appId": 2920510,
-    "title": "Werewolf Party Online Fix",
-    "game": "Werewolf Party",
-    "desc": "Werewolf Party Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Werewolf Party Online Fix\n\n# Werewolf Party Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "astrumis-survive-together-2924860",
-    "appId": 2924860,
-    "title": "Astrumis - Survive Together Bypass",
-    "game": "Astrumis - Survive Together",
-    "desc": "Astrumis - Survive Together Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Astrumis - Survive Together Bypass\n\n# Astrumis - Survive Together Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "crime-boss-rockay-city-2933080",
-    "appId": 2933080,
-    "title": "Crime Boss: Rockay City Online Fix",
-    "game": "Crime Boss: Rockay City",
-    "desc": "Crime Boss: Rockay City Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Crime Boss: Rockay City Online Fix\n\n# Crime Boss: Rockay City Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

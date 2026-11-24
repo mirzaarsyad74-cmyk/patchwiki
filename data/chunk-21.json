@@ -1,5 +1,61 @@
 [
   {
+    "id": "the-jackbox-party-pack-11-3364070",
+    "appId": 3364070,
+    "title": "The Jackbox Party Pack 11 Online Fix",
+    "game": "The Jackbox Party Pack 11",
+    "desc": "The Jackbox Party Pack 11 Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# The Jackbox Party Pack 11 Online Fix\n\n# The Jackbox Party Pack 11 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "nine-ball-roulette-3376250",
+    "appId": 3376250,
+    "title": "Nine-Ball Roulette Online Fix",
+    "game": "Nine-Ball Roulette",
+    "desc": "Nine-Ball Roulette Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Nine-Ball Roulette Online Fix\n\n# Nine-Ball Roulette Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "beyond-sandbox-3385970",
+    "appId": 3385970,
+    "title": "Beyond Sandbox Online Fix",
+    "game": "Beyond Sandbox",
+    "desc": "Beyond Sandbox Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Beyond Sandbox Online Fix\n\n# Beyond Sandbox Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "resident-evil-0-339340",
+    "appId": 339340,
+    "title": "Resident Evil 0 Bypass",
+    "game": "Resident Evil 0",
+    "desc": "Resident Evil 0 Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Resident Evil 0 Bypass\n\n# Resident Evil 0 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "guilty-as-sock-3400930",
     "appId": 3400930,
     "title": "Guilty as Sock! Online Fix",
@@ -222,61 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Middle-earth™: Shadow of War™ Bypass\n\n# Middle-earth™: Shadow of War™ Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "paddle-paddle-paddle-3570070",
-    "appId": 3570070,
-    "title": "Paddle Paddle Paddle Online Fix",
-    "game": "Paddle Paddle Paddle",
-    "desc": "Paddle Paddle Paddle Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Paddle Paddle Paddle Online Fix\n\n# Paddle Paddle Paddle Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "ultimate-marvel-vs-capcom-3-357190",
-    "appId": 357190,
-    "title": "Ultimate Marvel vs. Capcom 3 Online Fix",
-    "game": "Ultimate Marvel vs. Capcom 3",
-    "desc": "Ultimate Marvel vs. Capcom 3 Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Ultimate Marvel vs. Capcom 3 Online Fix\n\n# Ultimate Marvel vs. Capcom 3 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "trine-2-35720",
-    "appId": 35720,
-    "title": "Trine 2 Online Fix",
-    "game": "Trine 2",
-    "desc": "2. Click \"ONLINE PATCH\"",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Trine 2 Online Fix\n\n# Trine 2 Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "keep-digging-3585800",
-    "appId": 3585800,
-    "title": "Keep Digging Online Fix",
-    "game": "Keep Digging",
-    "desc": "Keep Digging Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Keep Digging Online Fix\n\n# Keep Digging Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

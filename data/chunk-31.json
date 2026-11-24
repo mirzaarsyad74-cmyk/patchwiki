@@ -1,5 +1,64 @@
 [
   {
+    "id": "809890-shining-resonance-refrain-bypass",
+    "appId": 809890,
+    "title": "809890 SHINING RESONANCE REFRAIN BYPASS",
+    "game": "SHINING RESONANCE REFRAIN",
+    "desc": "After patching, try run the game from steam or game exe inside the folder",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 809890 SHINING RESONANCE REFRAIN BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
+  },
+  {
+    "id": "950050-starlink-battle-for-atlas-ubisoft-bypass",
+    "appId": 950050,
+    "title": "950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS",
+    "game": "STARLINK: BATTLE FOR ATLAS",
+    "desc": "After patching, try run the game from steam or game exe inside the folder",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
+  },
+  {
+    "id": "black-myth-wukong-2358720",
+    "appId": 2358720,
+    "title": "Black Myth: Wukong - 2358720",
+    "game": "Black Myth: Wukong",
+    "desc": "Updated crack using voices38 crack",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# Black Myth: Wukong - 2358720\n\n# Updated crack using voices38 crack\n- Download game, no need manifest pinning\n*- if you ever tried bypassing using hypervisor, delete game folder and uninstall from steam\n- reinstall game*- Bypass game and play from Steam.\n"
+  },
+  {
+    "id": "borderlands-4-1285190",
+    "appId": 1285190,
+    "title": "Borderlands® 4 - 1285190",
+    "game": "Borderlands® 4",
+    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# Borderlands® 4 - 1285190\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n"
+  },
+  {
     "id": "1020790-naruto-x-boruto-ultimate-ninja-storm-connections-online-patch",
     "appId": 1020790,
     "title": "1020790 NARUTO X BORUTO ULTIMATE NINJA STORM CONNECTIONS ONLINE PATCH",
@@ -224,61 +283,5 @@
     "version": "1.0",
     "date": "2026-05-04",
     "content": "\n# 47790 MEDAL OF HONOR EA BYPASS\n\nPlay from Steam.\n"
-  },
-  {
-    "id": "49540-bypass-for-aliens-colonial-marines",
-    "appId": 49540,
-    "title": "49540 BYPASS FOR ALIENS: COLONIAL MARINES",
-    "game": "ALIENS: COLONIAL MARINES",
-    "desc": "After patch, open game folder and then open Binaries  Win32",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 49540 BYPASS FOR ALIENS: COLONIAL MARINES\n\n-After patch, open game folder and then open Binaries > Win32\n\" C:\\SteamLibrary\\steamapps\\common\\Aliens Colonial Marines\\Binaries\\Win32\"\n-Right click ACM.exe , run as administrator\n\n![Attached Image](assets/49540-bypass-for-aliens-colonial-marines_1500857490592633003.png)\n"
-  },
-  {
-    "id": "55150-bypass-for-warhammer-40k-space-marine-anniversary-edition",
-    "appId": 55150,
-    "title": "55150 bypass for Warhammer 40k Space Marine Anniversary Edition",
-    "game": "Warhammer 40k Space Marine Anniversary Edition",
-    "desc": "Make sure turn off antivirus, the crack is detected heavily by win defender",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 55150 bypass for Warhammer 40k Space Marine Anniversary Edition\n\n-Make sure turn off antivirus, the crack is detected heavily by win defender\n\n-After patch, run game from Steam\n"
-  },
-  {
-    "id": "55230-bypass-for-saints-row-the-third",
-    "appId": 55230,
-    "title": "55230 BYPASS FOR SAINTS ROW THE THIRD",
-    "game": "SAINTS ROW THE THIRD",
-    "desc": "After patch, run game from Steam or Launch from inside folder",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 55230 BYPASS FOR SAINTS ROW THE THIRD\n\nAfter patch, run game from Steam or Launch from inside folder\n"
-  },
-  {
-    "id": "633230-naruto-to-boruto-shinobi-striker",
-    "appId": 633230,
-    "title": "633230 NARUTO TO BORUTO: SHINOBI STRIKER",
-    "game": "NARUTO TO BORUTO: SHINOBI STRIKER",
-    "desc": "After bypass, open game folder and run game from SmartSteamLoaderx64.exe",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-04",
-    "content": "\n# 633230 NARUTO TO BORUTO: SHINOBI STRIKER\n\nAfter bypass, open game folder and run game from SmartSteamLoader_x64.exe\nPlay offline\n"
   }
 ]

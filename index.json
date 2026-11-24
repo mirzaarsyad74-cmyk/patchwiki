@@ -1,5 +1,57 @@
 [
   {
+    "id": "hoard-cloud-saves",
+    "appId": null,
+    "title": "Hoard - Cloud Saves",
+    "game": "Hoard - Cloud Saves",
+    "desc": "📦 Hoard Setup & Usage Guide",
+    "tags": [
+      "general"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "impulse-trainer",
+    "appId": null,
+    "title": "Impulse Trainer",
+    "game": "Impulse Trainer",
+    "desc": "⚡ Impulse Setup & Usage Guide",
+    "tags": [
+      "general"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "ludusavi-cloud-saves",
+    "appId": null,
+    "title": "Ludusavi - Cloud Saves",
+    "game": "Ludusavi - Cloud Saves",
+    "desc": "🛡️ Ludusavi Setup & Usage Guide",
+    "tags": [
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-11-24"
+  },
+  {
+    "id": "opensave-cloud-saves",
+    "appId": null,
+    "title": "OpenSave - Cloud Saves",
+    "game": "OpenSave - Cloud Saves",
+    "desc": "💾 OpenSave Setup & Usage Guide",
+    "tags": [
+      "general"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-11-24"
+  },
+  {
     "id": "call-of-duty-modern-warfare-2-10180",
     "appId": 10180,
     "title": "Call of Duty: Modern Warfare 2 - 10180",
@@ -307,7 +359,7 @@
   },
   {
     "id": "wand-pro",
-    "appId": 256,
+    "appId": null,
     "title": "Wand Pro",
     "game": "Wand Pro",
     "desc": "🪄 Wand / WeMod AutoUpdater & Tools",

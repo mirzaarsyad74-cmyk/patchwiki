@@ -1,5 +1,61 @@
 [
   {
+    "id": "need-for-speed-heat-1222680",
+    "appId": 1222680,
+    "title": "Need for Speed™ Heat Bypass",
+    "game": "Need for Speed™ Heat",
+    "desc": "Need for Speed™ Heat Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Need for Speed™ Heat Bypass\n\n# Need for Speed™ Heat Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "dragon-age-inquisition-1222690",
+    "appId": 1222690,
+    "title": "Dragon Age™ Inquisition Bypass",
+    "game": "Dragon Age™ Inquisition",
+    "desc": "Dragon Age™ Inquisition Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Dragon Age™ Inquisition Bypass\n\n# Dragon Age™ Inquisition Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "yakuza-like-a-dragon-1235140",
+    "appId": 1235140,
+    "title": "Yakuza: Like a Dragon Bypass",
+    "game": "Yakuza: Like a Dragon",
+    "desc": "Yakuza: Like a Dragon Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Yakuza: Like a Dragon Bypass\n\n# Yakuza: Like a Dragon Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "star-wars-battlefront-ii-1237950",
+    "appId": 1237950,
+    "title": "STAR WARS™ Battlefront™ II Bypass",
+    "game": "STAR WARS™ Battlefront™ II",
+    "desc": "STAR WARS™ Battlefront™ II Bypass",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# STAR WARS™ Battlefront™ II Bypass\n\n# STAR WARS™ Battlefront™ II Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "titanfall-2-1237970",
     "appId": 1237970,
     "title": "Titanfall® 2 Bypass",
@@ -222,61 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# FUEL Online Fix\n\n# FUEL Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "remnant-ii-1282100",
-    "appId": 1282100,
-    "title": "Remnant II Online Fix",
-    "game": "Remnant II",
-    "desc": "Remnant II Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Remnant II Online Fix\n\n# Remnant II Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "dirt-2-12840",
-    "appId": 12840,
-    "title": "DiRT 2 Bypass",
-    "game": "DiRT 2",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# DiRT 2 Bypass\n\n# DiRT 2 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "way-of-the-hunter-1288320",
-    "appId": 1288320,
-    "title": "Way of the Hunter Online Fix",
-    "game": "Way of the Hunter",
-    "desc": "Way of the Hunter Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Way of the Hunter Online Fix\n\n# Way of the Hunter Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "powerwash-simulator-1290000",
-    "appId": 1290000,
-    "title": "PowerWash Simulator Online Fix",
-    "game": "PowerWash Simulator",
-    "desc": "PowerWash Simulator Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# PowerWash Simulator Online Fix\n\n# PowerWash Simulator Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

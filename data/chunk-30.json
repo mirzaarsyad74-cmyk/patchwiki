@@ -1,5 +1,61 @@
 [
   {
+    "id": "243470-watch-dogs",
+    "appId": 243470,
+    "title": "243470 WATCH DOGS",
+    "game": "WATCH DOGS",
+    "desc": "Tutorial and guide for WATCH DOGS.",
+    "tags": [
+      "general"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 243470 WATCH DOGS\n\n\n"
+  },
+  {
+    "id": "311210-cod-black-ops-3-online-bypass",
+    "appId": 311210,
+    "title": "311210 COD BLACK OPS 3 ONLINE BYPASS",
+    "game": "COD BLACK OPS 3",
+    "desc": "311210 COD BLACK OPS 3 ONLINE BYPASS",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 311210 COD BLACK OPS 3 ONLINE BYPASS\n\n311210 COD BLACK OPS 3 ONLINE BYPASS\n"
+  },
+  {
+    "id": "939960-far-cry-new-dawn-bypass",
+    "appId": 939960,
+    "title": "939960 FAR CRY NEW DAWN BYPASS",
+    "game": "FAR CRY NEW DAWN",
+    "desc": "Screen might flicker few times. Just press Alt+Tab to the game mulitple times.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-06",
+    "content": "\n# 939960 FAR CRY NEW DAWN BYPASS\n\nPATCH USING BHSPT\n\n*Run game through Steam \n\n*Screen might flicker few times. Just press Alt+Tab to the game mulitple times.\n"
+  },
+  {
+    "id": "1114150-carx-street-bypass-update-1-10-1",
+    "appId": 1114150,
+    "title": "1114150 CARX STREET BYPASS UPDATE 1.10.1",
+    "game": "CARX STREET",
+    "desc": "After patching, open game folder and run the game from CarX Street.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-05-05",
+    "content": "\n# 1114150 CARX STREET BYPASS UPDATE 1.10.1\n\n-After patching, open game folder and run the game from CarX Street.exe\n"
+  },
+  {
     "id": "1134570-f1-2021-bypass-denuv",
     "appId": 1134570,
     "title": "1134570 F1 2021 BYPASS DENUV",
@@ -222,64 +278,5 @@
     "version": "1.0",
     "date": "2026-05-05",
     "content": "\n# 779340 TOTAL WAR: 3 KINGDOMS BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
-  },
-  {
-    "id": "809890-shining-resonance-refrain-bypass",
-    "appId": 809890,
-    "title": "809890 SHINING RESONANCE REFRAIN BYPASS",
-    "game": "SHINING RESONANCE REFRAIN",
-    "desc": "After patching, try run the game from steam or game exe inside the folder",
-    "tags": [
-      "bypass"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 809890 SHINING RESONANCE REFRAIN BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
-  },
-  {
-    "id": "950050-starlink-battle-for-atlas-ubisoft-bypass",
-    "appId": 950050,
-    "title": "950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS",
-    "game": "STARLINK: BATTLE FOR ATLAS",
-    "desc": "After patching, try run the game from steam or game exe inside the folder",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# 950050 STARLINK: BATTLE FOR ATLAS UBISOFT BYPASS\n\n-After patching, try run the game from steam or game exe inside the folder\n\n-results may vary\n"
-  },
-  {
-    "id": "black-myth-wukong-2358720",
-    "appId": 2358720,
-    "title": "Black Myth: Wukong - 2358720",
-    "game": "Black Myth: Wukong",
-    "desc": "Updated crack using voices38 crack",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# Black Myth: Wukong - 2358720\n\n# Updated crack using voices38 crack\n- Download game, no need manifest pinning\n*- if you ever tried bypassing using hypervisor, delete game folder and uninstall from steam\n- reinstall game*- Bypass game and play from Steam.\n"
-  },
-  {
-    "id": "borderlands-4-1285190",
-    "appId": 1285190,
-    "title": "Borderlands® 4 - 1285190",
-    "game": "Borderlands® 4",
-    "desc": "1. Before Downloading game, launch CloudRedirect from Tools section or download from",
-    "tags": [
-      "bypass",
-      "crack",
-      "drm"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-05-05",
-    "content": "\n# Borderlands® 4 - 1285190\n\n# Follow this guide\nhttps://discord.com/channels/333191744873299978/1499122656686116944\n\n## **Prequisites Guide**\n1. Before Downloading game, launch CloudRedirect from Tools section or download from \nhttps://github.com/Selectively11/CloudRedirect/releases/latest\n2. Follow guide completely at <#1495014736515829760> \n3. Manifest pinning via CloudRedirect.\n\n## **Bypass Hypervisor Guide**\n1. Turn off Memory Intergrity in Core Isolation (by default it should be off)\n2. Turn off Antivirus (real-time protection)\n3. Download game** [GAMENAME]** from Steam\n4. Click Bypass Game in Steam Unlock\n\n## **Launch Option**\n1. Open from Steam Unlock, click PLAY, choose exe and choose HV-PlugNPlay.bat/HV-Launcher.bat **(only work at Win 11)**\n2. Run game from HV-PlugNPlay.bat or HV-Launcher.bat or **[GAMENAME].exe**\n3. Run from steam but need use this tools HVPNP.exe at <#1426551342540783858>\n\n---\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n"
   }
 ]

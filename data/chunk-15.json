@@ -1,5 +1,61 @@
 [
   {
+    "id": "tinkerlands-2617700",
+    "appId": 2617700,
+    "title": "Tinkerlands Bypass",
+    "game": "Tinkerlands",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Tinkerlands Bypass\n\n# Tinkerlands Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
+    "id": "darkest-dungeon-262060",
+    "appId": 262060,
+    "title": "Darkest Dungeon® Online Fix",
+    "game": "Darkest Dungeon®",
+    "desc": "Darkest Dungeon® Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Darkest Dungeon® Online Fix\n\n# Darkest Dungeon® Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "drive-beyond-horizons-2625420",
+    "appId": 2625420,
+    "title": "Drive Beyond Horizons Online Fix",
+    "game": "Drive Beyond Horizons",
+    "desc": "Drive Beyond Horizons Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Drive Beyond Horizons Online Fix\n\n# Drive Beyond Horizons Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
+    "id": "goofy-gorillas-2627570",
+    "appId": 2627570,
+    "title": "Goofy Gorillas Online Fix",
+    "game": "Goofy Gorillas",
+    "desc": "Goofy Gorillas Online Fix",
+    "tags": [
+      "online"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Goofy Gorillas Online Fix\n\n# Goofy Gorillas Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
+  },
+  {
     "id": "call-of-duty-2-2630",
     "appId": 2630,
     "title": "Call of Duty 2 Bypass",
@@ -222,61 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# SAMURAI WARRIORS 4 DX Online Fix\n\n# SAMURAI WARRIORS 4 DX Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "stellaris-nexus-playtest-2723680",
-    "appId": 2723680,
-    "title": "Stellaris Nexus Playtest Bypass",
-    "game": "Stellaris Nexus Playtest",
-    "desc": "Stellaris Nexus Playtest Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Stellaris Nexus Playtest Bypass\n\n# Stellaris Nexus Playtest Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "naruto-shippuden-ultimate-ninja-storm-revolution-272510",
-    "appId": 272510,
-    "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution Online Fix",
-    "game": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution",
-    "desc": "NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution Online Fix\n\n# NARUTO SHIPPUDEN: Ultimate Ninja STORM Revolution Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "prisoners-2725200",
-    "appId": 2725200,
-    "title": "Prisoners Online Fix",
-    "game": "Prisoners",
-    "desc": "2. Click \"ONLINE PATCH\"",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Prisoners Online Fix\n\n# Prisoners Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "everybody-s-golf-hot-shots-2730810",
-    "appId": 2730810,
-    "title": "EVERYBODY'S GOLF HOT SHOTS Online Fix",
-    "game": "EVERYBODY'S GOLF HOT SHOTS",
-    "desc": "EVERYBODY'S GOLF HOT SHOTS Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# EVERYBODY'S GOLF HOT SHOTS Online Fix\n\n# EVERYBODY'S GOLF HOT SHOTS Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]

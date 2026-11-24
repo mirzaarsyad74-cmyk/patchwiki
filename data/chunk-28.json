@@ -1,5 +1,62 @@
 [
   {
+    "id": "assassin-s-creed-shadows-3159330",
+    "appId": 3159330,
+    "title": "Assassin's Creed Shadows - 3159330",
+    "game": "Assassin's Creed Shadows",
+    "desc": "If you ever use Hypervisor version of the game, please go to Steam Unlock Onennabe  Library  REMOVE HYPERVISOR PATCH first",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-07-18",
+    "content": "\n# Assassin's Creed Shadows - 3159330\n\nIf you ever use Hypervisor version of the game, please go to **Steam Unlock Onennabe -> Library -> REMOVE HYPERVISOR PATCH** first\n\n1. Click Update Game or Unlock Game\n2. Install game in steam\n3. Then **Steam Unlock Onennabe -> Library -> Bypass Game\n4. Press 2nd time Bypass Game after it add to exclusion\n5. Play the game from Steam Unlock > Choose .exe.\n\n![Attached Image](assets/assassin-s-creed-shadows-3159330_1527925551627767898.png)\n"
+  },
+  {
+    "id": "ea-sports-college-football-27-4032350",
+    "appId": 4032350,
+    "title": "EA SPORTS™ College Football 27 - 4032350",
+    "game": "EA SPORTS™ College Football 27",
+    "desc": "\"Tools Game Auto Update  Smart Apply\" is completed",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-07-16",
+    "content": "\n# EA SPORTS™ College Football 27 - 4032350\n\nInstall Game, Make sure \n\"**Tools> Game Auto Update > Smart Apply**\" is completed\nApply Bypass Game from Library in SUO.\nPlay from SUO, choose exe and select CollegeFB27.exe\n\n![Attached Image](assets/ea-sports-college-football-27-4032350_1527179897452368004.png)\n"
+  },
+  {
+    "id": "unravel-two-1225570",
+    "appId": 1225570,
+    "title": "Unravel Two - 1225570",
+    "game": "Unravel Two",
+    "desc": "After installation complete.",
+    "tags": [
+      "online"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-07-15",
+    "content": "\n# Unravel Two - 1225570\n\nAfter installation complete.\nClick Online Patch, then do below steps, make sure steam is running.\n\n**Activating Steam Remote Play**\n1. Press Windows + R ; \n2. Copy ```steam://install/349620```\nand then paste the text field and click OK ; \n3. Start installing BlastZone 2 Demo for a couple of seconds, stop and delete; \n4. Open Folder and then Launch the game from UnravelTwo.exe\n"
+  },
+  {
+    "id": "wild-hearts-1938010",
+    "appId": 1938010,
+    "title": "WILD HEARTS - 1938010",
+    "game": "WILD HEARTS",
+    "desc": "1. Unlock game as usual from Steam Unlock",
+    "tags": [
+      "bypass",
+      "drm"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-07-13",
+    "content": "\n# WILD HEARTS - 1938010\n\n1. Unlock game as usual from Steam Unlock\n2. From Steam Unlock > Tools > Game Auto Update > Open > Smart Apply\n3. Download game from Steam\n4. Bypass Game\n**\nHow to play**\n1. **MAKE SURE EA APP IS CLOSE OR SHUT IT DOWN**\n2. From Steam Unlock > Library > Play > Choose .exe > choose **WILD HEARTS.exe**\n\n![Attached Image](assets/wild-hearts-1938010_1526166791343313028.png)\n\n---\n\n**Karakuri Edition + preorder unlock**\n1. Download the save game attached\n2. Open WIN + R, copy below\n```shell:personal\\KoeiTecmo```\n3. Paste into the text field, press Enter\n4. Open the KoeiTecmo.rar, drag and drop **KoeiTecmo** inside the .rar into the opened Documents folder from step 3.\n5. Replaced if prompted.\n6. Start Game.\n\n[Download KoeiTecmo.rar (0.0 MB)](assets/wild-hearts-1938010_1526169537496748152.rar)\n\n\n![Attached Image](assets/wild-hearts-1938010_1526169537798475786.png)\n"
+  },
+  {
     "id": "echoes-of-aincrad-2244210",
     "appId": 2244210,
     "title": "Echoes of Aincrad - 2244210",
@@ -237,63 +294,5 @@
     "version": "1.0",
     "date": "2026-06-12",
     "content": "\n# Company of Heroes 3 - 1677280\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
-  },
-  {
-    "id": "meccha-chameleon-4704690",
-    "appId": 4704690,
-    "title": "Meccha Chameleon - 4704690",
-    "game": "Meccha Chameleon",
-    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
-    "tags": [
-      "online",
-      "drm"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-06-12",
-    "content": "\n# Meccha Chameleon - 4704690\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click Online Patch```\n5) play from steam\n"
-  },
-  {
-    "id": "pes2013-221430",
-    "appId": 221430,
-    "title": "PES2013 - 221430",
-    "game": "PES2013",
-    "desc": "3. Click RunThisFirst, install it",
-    "tags": [
-      "bypass"
-    ],
-    "author": "The Weekdys",
-    "version": "1.0",
-    "date": "2026-06-07",
-    "content": "\n# PES2013 - 221430\n\n1. Bypass Game\n2. Open game folder\n3. Click RunThisFirst, install it\n4. Run game from inside folder via pes2013.exe\n"
-  },
-  {
-    "id": "hv-tools",
-    "appId": null,
-    "title": "#HV Tools",
-    "game": "HV Tools",
-    "desc": "• Automatically Detects Motherboard Brand",
-    "tags": [
-      "bypass"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-06-06",
-    "content": "\n# #HV Tools\n\n• Automatically Detects Motherboard Brand\n• Auto-Detect BIOS Boot Types (UEFI/Legacy)\n• Auto-detect DSE/Virtualization\n• Automatically find a YouTube link to guide on enabling virtualization\n• Auto Refresh Panel\n• More Error Handler\n• Window Hello detection\n• Testing Mode ON/OFF\n• Add Win Hello Disable guide/bypass\n• Dynamic Run VBS button\n• Auto Detect Custom OS\n• CLI mode added\n• SUO setup\n• Latest VBS 1.9\n# **Please Off Antivirus before using it**\n\n---\n\n#HV Tools\n\n---\n\nlatest version. just need 1 click then restart. after that can play HV game via PlugNPlay.bat\n\n[Download Tools_V4.0.exe (0.1 MB)](assets/hv-tools_1545081721014456330.exe)\n\n---\n\n![Attached Image](assets/hv-tools_1545272878981849208.png)\n\n---\n\nV4.0.1 added automation on Windows Hello fix to un-gray remove button on the VBS step\n\n[Download Tools_V4.0.1.exe (0.1 MB)](assets/hv-tools_1545705780647301140.exe)\n\n\n![Attached Image](assets/hv-tools_1545705781062672434.png)\n\n---\n\nV4.0.2 update for MSI afterburner user conflict with HV, add BIG indicator PC can run HV game\n\n![Attached Image](assets/hv-tools_1546931346662760499.png)\n\n\n[Download Tools_V4.0.2.exe (0.1 MB)](assets/hv-tools_1546931347459805244.exe)\n\n---\n\n# **Changed in V4.0.3**\n* 1 Click button - add auto restart PC \n* Fix HV error `0xC035001E` \"*hypervisor feature is not available to the user*\" at launch crash.\n* Cleaned Up UI - less clutter.\n* New Status Badge: [Not Ready For Hypervisor]\n* Telemetry - Fix false-positive detection Windows Hyper-V\n\n![Attached Image](assets/hv-tools_1548014219545280633.png)\n\n\n[Download Tools_V4.0.3.exe (0.1 MB)](assets/hv-tools_1548014219851468870.exe)\n\n---\n\n[Download Tools_V4.0.4.exe (0.1 MB)](assets/hv-tools_1563939947889565796.exe)\n\n---\n\n[Download Tools_V4.0.5.exe (0.1 MB)](assets/hv-tools_1563955140879458356.exe)\n\n\n![Attached Image](assets/hv-tools_1563955150328955031.png)\n"
-  },
-  {
-    "id": "nba-2k14-255480",
-    "appId": 255480,
-    "title": "NBA 2K14 - 255480",
-    "game": "NBA 2K14",
-    "desc": "2) Off antivirus(realtime protection) and smart app control (win 11)",
-    "tags": [
-      "bypass",
-      "drm"
-    ],
-    "author": "Ryunosuke",
-    "version": "1.0",
-    "date": "2026-06-06",
-    "content": "\n# NBA 2K14 - 255480\n\n1) Add game from SUO\n2) Off antivirus(realtime protection) and smart app control (win 11)\n3) Download game from steam\n4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```\n5) play from steam\n"
   }
 ]

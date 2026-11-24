@@ -1,5 +1,63 @@
 [
   {
+    "id": "onimusha-way-of-the-sword-2638890",
+    "appId": 2638890,
+    "title": "Onimusha: Way of the Sword - 2638890",
+    "game": "Onimusha: Way of the Sword",
+    "desc": "⚠️ Lock game version in SUO before downloading on Steam:",
+    "tags": [
+      "bypass",
+      "crack",
+      "drm"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-09-06",
+    "content": "\n# Onimusha: Way of the Sword - 2638890\n\n### 🛑 1. Prerequisites\n⚠️ Lock game version in SUO before downloading on Steam:\n`SUO > Tools > Game Auto Update > Open > Smart Apply`\n\n### 🛠️ 2. Bypass Setup\n\n**Step 1:** Windows Security -> Turn **OFF** `Memory Integrity`.\n**Step 2:** Turn **OFF** `Real-time Protection` & `Smart App Control`.\n**Step 3:** Open Task Manager (`Ctrl + Shift + Esc`) -> Performance -> CPU -> Ensure **`Virtualization: Enabled`**.\n*(If disabled, enable `VT-x` / `SVM` in motherboard BIOS).*\n\n**Step 4: Run Script & Reboot**\nChoose one script below to run:\n* **Option A:** <#1562130729255567360> or <#1512676091373031507>\n📹 Tutorial: <https://vt.tiktok.com/ZSgnP6BGr>\n* **Option B:** https://discord.com/channels/333191744873299978/1534218459045433504\n📹 Tutorial: <https://vt.tiktok.com/ZSgnfWbSy/>\n\n> Inside script: Press **1** -> Press **1** again to reboot PC.\n\n**Step 5:** On boot recovery screen, press **F7** *(Disable Driver Signature Enforcement)*.\n**Step 6:** Open SUO -> Click **Add Game**.\n**Step 7:** Download **`[GAMENAME]`** from Steam.\n**Step 8:** In SUO, go to:\n`SUO > Library > [GAMENAME] > Hypervisor Bypass Game`\n\n### 🚀 3. How to Launch\n\n* **Method 1 (Win 11):** Steam Unlock -> Click **PLAY** -> Select `HV-PlugNPlay.bat` or `HV-Launcher.bat`.\n* **Method 2:** Direct run `HV-PlugNPlay.bat`, `HV-Launcher.bat`, or `[GAMENAME].exe`.\n* **Method 3 (Steam):** Run `SUO > Tools > inject HV launch Option`, then launch game from Steam.\n\n---\n\nmake sure to remove hypervisor patch and then delete hv-plugnplay.bat\n"
+  },
+  {
+    "id": "planet-coaster-493340",
+    "appId": 493340,
+    "title": "PLANET COASTER - 493340",
+    "game": "PLANET COASTER",
+    "desc": "2. Click Bypass Game once installed.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-08-29",
+    "content": "\n# PLANET COASTER - 493340\n\n1. Unlocked game via SUO.\n2. Click Bypass Game once installed.\n3. Play from Steam\n\nNote: this bypass is 7 years ago, if it does not work, dont complaint. its meant for WINDOWS 10.\n"
+  },
+  {
+    "id": "halo-campaign-evolved-bypass-2806050",
+    "appId": 2806050,
+    "title": "Halo: Campaign Evolved Bypass : 2806050",
+    "game": "Halo: Campaign Evolved",
+    "desc": "1) Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "MinamiRX20",
+    "version": "1.0",
+    "date": "2026-08-18",
+    "content": "\n# Halo: Campaign Evolved Bypass : 2806050\n\nInstructions:-\n\n1) Download the game from Steam.\n\n2) Click Bypass Game in Steam Unlock.\n\n3)  Launch the game normally.\n\nEnjoy!\n"
+  },
+  {
+    "id": "need-for-speed-undercover-17430",
+    "appId": 17430,
+    "title": "Need for Speed: Undercover - 17430",
+    "game": "Need for Speed: Undercover",
+    "desc": "Bypass the game, run game from folder or SUO choose .exe, run from nfs.exe",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-08-17",
+    "content": "\n# Need for Speed: Undercover - 17430\n\nBypass the game, run game from folder or SUO choose .exe, run from **nfs.exe**\n"
+  },
+  {
     "id": "call-of-duty-world-at-war-10090",
     "appId": 10090,
     "title": "Call of Duty: World at War - 10090",
@@ -224,61 +282,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Rail Route Bypass\n\n# Rail Route Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "humankind-1124300",
-    "appId": 1124300,
-    "title": "HUMANKIND™ Online Fix",
-    "game": "HUMANKIND™",
-    "desc": "HUMANKIND™ Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# HUMANKIND™ Online Fix\n\n# HUMANKIND™ Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "nascar-heat-4-1127980",
-    "appId": 1127980,
-    "title": "NASCAR Heat 4  Bypass",
-    "game": "NASCAR Heat 4",
-    "desc": "NASCAR Heat 4 (1127980) Bypass",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# NASCAR Heat 4  Bypass\n\n# NASCAR Heat 4 (1127980) Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "medieval-dynasty-1129580",
-    "appId": 1129580,
-    "title": "Medieval Dynasty Online Fix",
-    "game": "Medieval Dynasty",
-    "desc": "Medieval Dynasty Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Medieval Dynasty Online Fix\n\n# Medieval Dynasty Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
-  },
-  {
-    "id": "overthrown-1133500",
-    "appId": 1133500,
-    "title": "Overthrown Online Fix",
-    "game": "Overthrown",
-    "desc": "Overthrown Online Fix",
-    "tags": [
-      "online"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Overthrown Online Fix\n\n# Overthrown Online Fix\n\n### Instructions\n1. Install game\n2. Click \"ONLINE PATCH\"\n3. Run game from Steam or direct file exe\n"
   }
 ]
