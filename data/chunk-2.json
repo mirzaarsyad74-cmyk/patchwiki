@@ -1,5 +1,19 @@
 [
   {
+    "id": "dragon-s-dogma-2-2054970",
+    "appId": 2054970,
+    "title": "Dragon's Dogma 2- 2054970",
+    "game": "Dragon's Dogma 2",
+    "desc": "1. Close down steam completely, exit Steam client",
+    "tags": [
+      "bypass"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-09-10",
+    "content": "\n# Dragon's Dogma 2- 2054970\n\nAfter bypass\n1. Close down steam completely, exit Steam client\n2. Open game from Steam Unlock > Choose.exe > select DD2.exe\n"
+  },
+  {
     "id": "onimusha-way-of-the-sword-2638890",
     "appId": 2638890,
     "title": "Onimusha: Way of the Sword - 2638890",
@@ -268,19 +282,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Persona 4 Golden Bypass\n\n# Persona 4 Golden Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "rail-route-1124180",
-    "appId": 1124180,
-    "title": "Rail Route Bypass",
-    "game": "Rail Route",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# Rail Route Bypass\n\n# Rail Route Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

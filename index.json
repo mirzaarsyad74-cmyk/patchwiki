@@ -1,5 +1,18 @@
 [
   {
+    "id": "fix-unknown-error",
+    "appId": null,
+    "title": "Fix Unknown Error",
+    "game": "Unknown Error",
+    "desc": "🛠️ Steam \"Unknown Error\" / Error 518 Fix (FixSteamUnknownError.bat)",
+    "tags": [
+      "general"
+    ],
+    "author": "Ryunosuke",
+    "version": "1.0",
+    "date": "2026-11-26"
+  },
+  {
     "id": "hoard-cloud-saves",
     "appId": null,
     "title": "Hoard - Cloud Saves",

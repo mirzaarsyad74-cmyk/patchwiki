@@ -1,5 +1,19 @@
 [
   {
+    "id": "rail-route-1124180",
+    "appId": 1124180,
+    "title": "Rail Route Bypass",
+    "game": "Rail Route",
+    "desc": "1. Download the game from Steam.",
+    "tags": [
+      "bypass"
+    ],
+    "author": "ProSub",
+    "version": "1.0",
+    "date": "2026-08-11",
+    "content": "\n# Rail Route Bypass\n\n# Rail Route Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
+  },
+  {
     "id": "humankind-1124300",
     "appId": 1124300,
     "title": "HUMANKIND™ Online Fix",
@@ -264,19 +278,5 @@
     "version": "1.0",
     "date": "2026-08-11",
     "content": "\n# Grand Theft Auto IV: The Complete Edition Bypass\n\n# Grand Theft Auto IV: The Complete Edition Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
-  },
-  {
-    "id": "the-sims-4-1222670",
-    "appId": 1222670,
-    "title": "The Sims™ 4 Bypass",
-    "game": "The Sims™ 4",
-    "desc": "1. Download the game from Steam.",
-    "tags": [
-      "bypass"
-    ],
-    "author": "ProSub",
-    "version": "1.0",
-    "date": "2026-08-11",
-    "content": "\n# The Sims™ 4 Bypass\n\n# The Sims™ 4 Bypass\n\n### Instructions\n1. Download the game from Steam.\n2. Click **Bypass Game** in Steam Unlock.\n3. Launch the game normally.\n4. Enjoy!\n"
   }
 ]

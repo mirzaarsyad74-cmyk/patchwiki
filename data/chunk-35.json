@@ -1,5 +1,19 @@
 [
   {
+    "id": "beamng-drive-284160-multiplayer-mod-tutorial",
+    "appId": 284160,
+    "title": "BeamNG.Drive - 284160 Multiplayer mod tutorial",
+    "game": "BeamNG.Drive",
+    "desc": "1. Launch the game in single player first, play for a bit.",
+    "tags": [
+      "coop"
+    ],
+    "author": "The Weekdys",
+    "version": "1.0",
+    "date": "2026-04-29",
+    "content": "\n# BeamNG.Drive - 284160 Multiplayer mod tutorial\n\n1. Launch the game in single player first, play for a bit.\n2. Then next step is go to game installation folder, launch `BeamMP-Launcher.exe`\n3. It will do some installation for Multiplayer mod.\n4. Then the normal BeamNG.drive game launcher will show up.\n5. Play the game! Enjoy!\n"
+  },
+  {
     "id": "call-of-duty-black-ops-cold-war-1985810",
     "appId": 1985810,
     "title": "Call of Duty: Black Ops Cold War - 1985810",
@@ -276,19 +290,5 @@
     "version": "1.0",
     "date": "2026-04-29",
     "content": "\n# Rayman: 30th Anniversary Edition - 1435114\n\n- after patch, run from Steam directly\n"
-  },
-  {
-    "id": "resident-evil-6-221040",
-    "appId": 221040,
-    "title": "Resident Evil 6 (221040)",
-    "game": "Resident Evil 6",
-    "desc": "Tutorial and guide for Resident Evil 6.",
-    "tags": [
-      "general"
-    ],
-    "author": "MinamiRX20",
-    "version": "1.0",
-    "date": "2026-04-29",
-    "content": "\n# Resident Evil 6 (221040)\n\n- Patch & Run from Steam\n"
   }
 ]
