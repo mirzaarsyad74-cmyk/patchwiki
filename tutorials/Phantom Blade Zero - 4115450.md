@@ -99,3 +99,21 @@ Drop that copy back into C:\Games\Phantom Blade Zero\PBZ\ProjectPBZ\Saved\SaveGa
 
 Once I launched the game after doing this, my regular save loaded up immediately.
 Note: Not entirely sure yet whether the game will automatically update this file or if we have to repeat the copy/paste process after every session.
+
+---
+
+Using Crack: Voices38
+
+1) Add game from SUO
+2) Off antivirus(realtime protection) and smart app control (win 11)
+3) Download game from steam
+4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```
+5) play from steam
+
+---
+
+⚠️ **IMPORTANT NOTICE** ⚠️
+
+If you used the **Hypervisor Bypass** before, please make sure to:
+1. Click **Remove Hypervisor Patch** in SUO.
+2. **Back up your game data** somewhere else first before proceeding.
