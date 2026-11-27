@@ -108,7 +108,9 @@ Using Crack: Voices38
 2) Off antivirus(realtime protection) and smart app control (win 11)
 3) Download game from steam
 4) Make sure game already complete download and open ```SUO > Library > Gamename > Click bypass```
-5) Play from **Game folder** ```\steamapps\common\PBZ\steam\pbz.exe ```
+## Launch Option:
+1) Play from steam (Win11)
+2) Play from **Game folder** ```\SteamLibrary\steamapps\common\PBZ\platform\steam\PBZ.exe```
 
 ---
 
